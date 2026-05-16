@@ -217,5 +217,146 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 
 ---
 
+## Chapter 5 additions (introduced: Ch. 5)
+
+- **Assurance (limited / reasonable)** — Independent third-party verification of an emissions disclosure. Limited = review-level; reasonable = audit-level.
+- **Attribution factor (PCAF)** — The fraction of a borrower/investee's emissions assigned to a financial institution. Usually outstanding loan or equity divided by enterprise value.
+- **Avoided emissions** — Counterfactual: difference between actual emissions and a stated baseline. Reported separately from inventories, never netted.
+- **BVCM (Beyond Value Chain Mitigation)** — Voluntary climate action outside a company's value chain. Being replaced in SBTi V2 by Ongoing Emissions Responsibility (OER).
+- **Category 15 (Investments)** — Scope 3 category covering emissions of a company's investments. Dominant (>99% of total) for financial institutions.
+- **Category 16** — New Scope 3 category being added in GHG Protocol revision. Covers other value chain activities including facilitated emissions.
+- **Climate Transition Plan** — A company's published plan for transitioning operations and value chain consistent with its climate targets. Mandatory under SBTi V2 for Category A companies.
+- **Corporate Standard (2004)** — GHG Protocol Corporate Accounting and Reporting Standard. Foundational reference for corporate emissions accounting.
+- **Equity share approach** — Organizational boundary approach accounting for emissions in proportion to ownership stake.
+- **Facilitated emissions** — Emissions from a financial institution's capital-markets activities (bond/equity underwriting). Weighted at 33% under PCAF.
+- **Financed emissions** — Emissions from a financial institution's lending and investment activities (Scope 3 Category 15).
+- **Financial control approach** — Organizational boundary approach accounting for 100% of emissions from entities the company financially controls.
+- **GHG Protocol** — Greenhouse Gas Protocol; co-managed by WRI and WBCSD. Foundational emissions accounting standards body.
+- **IFRS S1 / S2** — ISSB's first two sustainability disclosure standards (June 2023). S1 covers general sustainability disclosure; S2 covers climate. Adopted in 21+ jurisdictions as of Jan 2026.
+- **ISO 14060 series** — International Organization for Standardization's GHG accounting and verification standards. ISO 14064 (organizations and projects), 14067 (products), 14068 (carbon neutrality).
+- **ISSB** — International Sustainability Standards Board, created by IFRS Foundation in 2021. Issues IFRS S1 and S2.
+- **Location-based Scope 2** — Scope 2 reporting using grid-average emission factors for the location of consumption. Reflects physical reality.
+- **Market-based Scope 2** — Scope 2 reporting using contractual instruments (RECs, PPAs, green tariffs). Reflects company procurement choices.
+- **OER (Ongoing Emissions Responsibility)** — SBTi V2 framework replacing BVCM. Structured responsibility for emissions during transition with tiers and post-2035 mandatory requirements.
+- **Operational control approach** — Organizational boundary approach accounting for 100% of emissions from entities the company operationally controls.
+- **PCAF (Partnership for Carbon Accounting Financials)** — Industry-led standard-setter for financial-sector emissions, founded 2015. 3rd edition published December 2025.
+- **PCAF Parts A, B, C** — Financed Emissions (Part A), Facilitated Emissions (Part B), Insurance-Associated Emissions (Part C).
+- **PPA (Power Purchase Agreement)** — Contract for procurement of electricity from a specific generator, often used to claim renewable energy under market-based Scope 2.
+- **REC (Renewable Energy Certificate)** — Tradeable instrument representing the environmental attributes of 1 MWh of renewable electricity. Unbundled RECs are increasingly controversial.
+- **Reduced emissions** — Actual emissions in current period minus actual emissions in base year. The cleanest form of climate progress.
+- **Removed emissions** — CO₂ physically taken out of the atmosphere through removal action. Can be netted against gross emissions when permanent and high-quality.
+- **SBTi (Science Based Targets initiative)** — Joint initiative of CDP, WWF, UN Global Compact, WRI, founded 2015. Develops corporate target-setting standards.
+- **Scope 1 / Scope 2 / Scope 3** — Three-tier emissions structure of the GHG Protocol Corporate Standard. Scope 1: direct emissions. Scope 2: purchased energy. Scope 3: other value chain.
+- **Scope 3 Standard (2011)** — GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard. 15 categories of value chain emissions.
+- **Scope 2 Guidance (2015)** — GHG Protocol guidance introducing location-based vs. market-based dual reporting.
+- **WBCSD** — World Business Council for Sustainable Development, co-manages GHG Protocol with WRI.
+- **WRI** — World Resources Institute, co-manages GHG Protocol with WBCSD.
+
+---
+
+## Chapter 6 additions (introduced: Ch. 6)
+
+- **ADP (Ad Hoc Working Group on the Durban Platform)** — UNFCCC negotiating body that developed the Paris Agreement.
+- **Annex I countries** — UNFCCC industrialized countries (OECD as of 1992 plus post-Soviet economies). Took on emission reduction obligations under Kyoto.
+- **Annex II countries** — Subset of Annex I (OECD only). Additional finance/technology obligations to developing countries.
+- **Bali Action Plan (2007)** — COP13 decision launching post-2012 negotiations on a two-track basis.
+- **Berlin Mandate (1995)** — COP1 decision committing Annex I countries to legally binding emission targets while excluding non-Annex I.
+- **Byrd-Hagel Resolution (1997)** — US Senate resolution (95–0) effectively pre-rejecting any climate treaty without developing-country commitments.
+- **Cancún Agreements (2010)** — Post-Copenhagen consolidation; formally adopted 2°C goal, established Green Climate Fund.
+- **CBDR-RC** — Common But Differentiated Responsibilities and Respective Capabilities. UNFCCC's foundational equity principle.
+- **CER (Certified Emission Reduction)** — Credit issued under CDM, equal to 1 tCO₂e of verified emission reduction.
+- **Copenhagen Accord (2009)** — Three-page political document from COP15. Inadvertently produced the architecture (pledges + finance) that survived into Paris.
+- **DAI (Dangerous Anthropogenic Interference)** — UNFCCC Article 2's framing of the climate threshold to be avoided. Never quantitatively defined in the treaty.
+- **Doha Amendment (2012)** — Kyoto second commitment period (2013–2020). Limited participation.
+- **Durban Platform (2011)** — COP17 decision committing parties to negotiate an agreement "applicable to all parties." The breakthrough that made Paris possible.
+- **Earth Summit (1992)** — UN Conference on Environment and Development in Rio de Janeiro where UNFCCC was opened for signature.
+- **First Assessment Report (FAR, 1990)** — IPCC's first scientific assessment. Provided scientific basis for UNFCCC negotiation.
+- **Flexible Mechanisms** — Kyoto's three market-based instruments: IET (Article 17), JI (Article 6), CDM (Article 12).
+- **Global Stocktake** — Paris Article 14 process; five-yearly assessment of collective progress. First stocktake concluded COP28 (2023).
+- **Green Climate Fund (GCF)** — Climate finance institution established by Copenhagen Accord and Cancún Agreements.
+- **IET (International Emissions Trading)** — Kyoto Article 17 mechanism allowing trade in emission allowances among Annex I countries.
+- **INDCs / NDCs** — Intended Nationally Determined Contributions (pre-Paris) / Nationally Determined Contributions (post-Paris).
+- **IPCC (Intergovernmental Panel on Climate Change)** — Established 1988 by WMO and UNEP. Six Assessment Reports to date.
+- **JI (Joint Implementation)** — Kyoto Article 6 mechanism allowing Annex I countries to earn credits from projects in other Annex I countries.
+- **Kyoto Protocol (1997)** — UNFCCC protocol establishing binding emission reduction targets for Annex I countries.
+- **Lima Call for Climate Action (2014)** — COP20 decision finalizing the architecture for Paris.
+- **Marrakech Accords (2001)** — COP7 decisions finalizing operational rules of the Kyoto Protocol.
+- **Mauna Loa** — Hawaii observatory where Charles Keeling began continuous atmospheric CO₂ measurements in 1958.
+- **Paris Agreement (2015)** — Universal climate agreement adopted at COP21. Binding on procedure, not on substance.
+- **Ratchet mechanism** — Paris's requirement that each successive NDC represent a progression beyond the previous one.
+- **Supplementarity** — Kyoto principle that flexible mechanism use must be supplemental to domestic action.
+- **TCFD (Task Force on Climate-related Financial Disclosures)** — 2015 initiative by FSB under Mark Carney. Recommendations published 2017; replaced by IFRS S2 in 2023.
+- **UNEP (United Nations Environment Programme)** — Co-founder of IPCC with WMO.
+- **UNFCCC** — United Nations Framework Convention on Climate Change. Opened for signature 1992; entered into force 1994.
+- **Villach Conference (1985)** — Scientific conference that produced strong consensus on anthropogenic warming, setting the stage for political action.
+- **WMO (World Meteorological Organization)** — UN specialized agency for meteorology. Co-founder of IPCC with UNEP.
+
+---
+
+## Chapter 7 additions (introduced: Ch. 7)
+
+- **AB 1207 / SB 840 (2025)** — California legislation extending Cap-and-Trade through 2045 and renaming it Cap-and-Invest. Signed by Governor Newsom September 19, 2025.
+- **Allowance** — One-ton emission permit issued under a cap-and-trade system.
+- **Banking** — Saving unused allowances for future compliance periods. Allowed in most major cap-and-trade systems.
+- **Benchmarking** — Free-allocation method based on industry-average emissions intensity × production output.
+- **Cap** — The legal limit on total emissions in a cap-and-trade system.
+- **CBAM (Carbon Border Adjustment Mechanism)** — EU policy charging importers of carbon-intensive goods the equivalent of the EU's domestic carbon price. Full enforcement began Q1 2026 at €75.36/tCO₂e. Covers electricity, iron/steel, aluminum, cement, fertilizers, hydrogen.
+- **CCA (California Carbon Allowance)** — Allowance under California's Cap-and-Invest system. Trading around $30 on secondary market as of late 2025.
+- **CEA (Chinese Emission Allowance)** — Allowance under China's national ETS. Trading around ¥80–100/tCO₂e.
+- **Compliance obligation** — Requirement to surrender allowances equal to verified emissions at end of compliance period.
+- **EUA (European Union Allowance)** — Allowance under the EU ETS. Trading around €70–80/tCO₂e in early 2026.
+- **ETS1** — The original EU ETS (power, industry, aviation, maritime).
+- **ETS2** — New EU emissions trading system for road transport and building heating fuels. Delayed to 2028 operational phase.
+- **Free allocation** — Distribution of allowances without auction, typically to industry sectors at risk of carbon leakage.
+- **Grandparenting** — Free allocation based on historical emissions. Used in EU ETS Phase 1.
+- **ICAP (International Carbon Action Partnership)** — Inter-governmental forum tracking ~35 operational ETSs globally.
+- **Innovation Fund** — EU ETS revenue stream supporting innovative low-carbon technologies.
+- **Linear Reduction Factor (LRF)** — Annual rate at which the EU ETS cap declines. Currently 4.3% under Phase 4.
+- **Linkage** — Two cap-and-trade systems allowing allowances from one to satisfy compliance in the other.
+- **Market Stability Reserve (MSR)** — EU ETS mechanism absorbing excess allowances when market surplus exceeds 833M.
+- **Modernisation Fund** — EU ETS revenue stream supporting lower-income member states' transition.
+- **RGGI (Regional Greenhouse Gas Initiative)** — Northeastern US power-sector cap-and-trade system, operational since 2009. 11 member states.
+- **Social Climate Fund** — €65 billion EU fund (2026–2032) to mitigate ETS2 price impact on vulnerable households.
+- **WCI (Western Climate Initiative)** — Linked carbon market of California and Québec (linked since 2014).
+- **Windfall profits** — Profits to entities receiving free allocation that exceed economic abatement costs. Documented extensively in EU ETS Phase 1.
+
+---
+
+## Chapter 8 additions (introduced: Ch. 8)
+
+- **Additionality** — The integrity test asking whether a project's emissions reductions would have happened anyway without carbon revenue.
+- **ACR (American Carbon Registry)** — VCM standard, founded 1996; US-focused; CCP-Eligible.
+- **ART (Architecture for REDD+ Transactions)** — Jurisdictional REDD+ standard; operates TREES methodology; CCP-Eligible.
+- **Baseline** — Counterfactual emissions scenario against which project reductions are measured. Primary integrity failure point in REDD+.
+- **Buffer pool** — Reserve credits held back from issuance to compensate for potential reversal of carbon storage.
+- **CAR (Climate Action Reserve)** — VCM standard, founded 2001; US/Mexico-focused; CCP-Eligible.
+- **CCP (Core Carbon Principles)** — Ten principles for high-integrity carbon credits established by ICVCM in 2024.
+- **Coalition to Grow Carbon Markets** — 2025 multi-stakeholder initiative pushing harmonization across voluntary, Article 6, and CORSIA markets.
+- **CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)** — ICAO compliance scheme for international airline emissions.
+- **CORSIA-eligible** — Standards and methodologies approved by ICAO's Technical Advisory Body for use in CORSIA.
+- **Frontier coalition** — Stripe-led group committing advance purchases of high-quality CDR. ~$1B+ committed by 2025.
+- **Gold Standard** — VCM standard, founded 2003 by WWF; community-focused; CCP-Eligible.
+- **ICVCM (Integrity Council for the Voluntary Carbon Market)** — Independent governance body established 2021; sets supply-side quality standards via Core Carbon Principles.
+- **IFM (Improved Forest Management)** — Project type covering forest management changes that increase carbon storage.
+- **Isometric** — VCM standard, founded 2022; CDR-only; CCP-Eligible (Dec 2024).
+- **Jurisdictional REDD+** — REDD+ at national or sub-national scale rather than project scale. ART/TREES is the primary standard.
+- **Leakage** — Displacement of emissions to areas outside project boundary. One of the four integrity tests.
+- **N-GEO (Nature-based Global Emissions Offset)** — Standardized futures contract for nature-based avoidance credits.
+- **Permanence** — Durability of emissions reduction or removal. One of the four integrity tests.
+- **Plan Vivo** — VCM standard, founded 1994; smallholder forestry focus.
+- **Puro.earth** — VCM standard, founded 2019; CDR-only; Nasdaq-majority-owned.
+- **REDD+** — Reducing Emissions from Deforestation and forest Degradation (plus conservation, sustainable forest management, carbon stock enhancement).
+- **Removal credit** — Carbon credit representing emissions physically removed from the atmosphere.
+- **Reversal** — Loss of stored carbon back to the atmosphere via wildfire, land-use change, etc.
+- **Retirement** — Permanent cancellation of a carbon credit from a registry.
+- **TREES (REDD+ Environmental Excellence Standard)** — ART's jurisdictional REDD+ methodology. v2.0 CCP-approved December 2024.
+- **VCMI (Voluntary Carbon Markets Integrity Initiative)** — Demand-side governance body; develops the Claims Code of Practice.
+- **VCS (Verified Carbon Standard)** — Verra's main standard. Largest VCM standard globally. CCP-Eligible.
+- **Verra** — VCM standard organization, founded 2005. Operates VCS, JNR, and Plastic Standard. Largest by issuance.
+- **VM0048** — Verra's consolidated REDD+ methodology, replacing several legacy methodologies with stricter jurisdictional-baseline rules.
+- **VVB (Validation/Verification Body)** — Accredited third party that validates project designs and verifies monitoring data.
+
+---
+
 *Entries will be added each session in alphabetical order under the appropriate heading. When a term is formally introduced in a chapter, I'll note `(introduced: Ch. X)` next to it.*
 
