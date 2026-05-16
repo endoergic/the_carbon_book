@@ -1,0 +1,545 @@
+# Chapter 9 — Carbon Pricing: The Broader View
+
+**Track:** Climate Liability (B)
+**Prerequisites:** Chapter 7 (compliance carbon markets); helpful: Chapter 8 (voluntary markets), Chapter 5 (emissions accounting).
+**What you should be able to do by the end:**
+- Distinguish four conceptually different things called "carbon prices": cap-and-trade prices, carbon taxes, internal corporate carbon prices, and the social cost of carbon.
+- Explain the social cost of carbon (SCC): what it is, how it's calculated, why it varies so much across estimates ($1 to $1,000+/tCO₂), and why it has been politically volatile in the US.
+- Walk through the major carbon tax systems globally and read a list of carbon-tax-and-ETS-coverage countries with informed perspective on what's actually being priced.
+- Articulate the case for and against carbon pricing relative to alternative climate policy instruments (standards, subsidies, R&D).
+- Explain why the price coverage of global emissions matters more than the headline number of "countries with carbon pricing."
+- Read a corporate disclosure mentioning an "internal carbon price" and assess whether it's substantive or symbolic.
+- Identify CBAM-style border adjustment mechanisms and their global political implications.
+
+---
+
+## Why this chapter exists
+
+Chapters 7 and 8 covered the operational markets where carbon trades. This chapter steps back and asks a more conceptual question: **what does it mean to "price carbon," and why do we?**
+
+The answer is more contested than the policy community sometimes admits. Cap-and-trade systems produce one kind of carbon price. Carbon taxes produce another. Corporations set internal "shadow" prices that don't show up in any market. Economists estimate a "social cost of carbon" that is supposed to capture the marginal damages of an additional ton — and have come up with estimates ranging from $1 to $1,000+ depending on assumptions. Each of these prices serves a different purpose, answers a different question, and has different policy implications.
+
+Understanding the difference between these four uses of "carbon price" is essential for reading climate policy, regulatory analysis, corporate climate strategy, and the IPCC's pathway literature. Confusing them — treating the SCC and an EU ETS price as if they were the same kind of number — is a very common analytical mistake.
+
+I'll organize this in seven parts: the four meanings of "carbon price"; the social cost of carbon in depth (including the recent US political volatility); carbon taxes globally; internal carbon prices in corporations; CBAM-style border adjustments and the "carbon club" concept; coverage and gap analysis (how much of global emissions is meaningfully priced); and the broader case for and against carbon pricing relative to alternatives.
+
+---
+
+# Part 1: Four meanings of "carbon price"
+
+Before going deeper into any one of them, it's worth being explicit that "carbon price" is used to refer to at least four distinct things, only some of which are commensurable.
+
+## 1. Compliance market price
+
+The price at which emission allowances trade in cap-and-trade systems. EU ETS at €72/tCO₂e (April 2026). California CCAs at ~$30. Korea KAU at ~$10. China CEA at ~¥85.
+
+**What it is:** A market-clearing price for a permit to emit one ton.
+**Who pays it:** Covered entities (or their customers, via pass-through).
+**Where it operates:** Within the cap-and-trade system's jurisdiction.
+**What it's good for:** Producing operational decisions in covered sectors; raising government revenue; signaling investment direction.
+**What it doesn't capture:** The full cost of an additional ton of emissions to society. Compliance prices reflect the cap's stringency relative to demand, not climate damages.
+
+## 2. Carbon tax rate
+
+The per-ton charge imposed by statute. Sweden at $130. Canada's national backstop at $80 (rising to $170 by 2030). British Columbia at $80. France's domestic tax at €44.
+
+**What it is:** A legislatively-set charge per ton.
+**Who pays it:** Whoever the statute designates — often upstream (fuel suppliers) for administrative simplicity.
+**Where it operates:** Within the taxing jurisdiction.
+**What it's good for:** Price certainty, simple administration, revenue generation.
+**What it doesn't capture:** Same as cap-and-trade price — the tax rate reflects political choices, not damages.
+
+Compliance prices and carbon tax rates are economically similar: both are charges per ton imposed by government policy. They just use different instruments to set the price. Critically, **the cap-and-trade price and the carbon tax rate are both prices on emissions; neither is meant to be an estimate of climate damages**.
+
+## 3. Internal corporate carbon price
+
+A "shadow price" that a corporation applies internally to evaluate investments, project economics, or pricing decisions. Microsoft uses $100/tCO₂e internally. Some oil and gas majors use $40–80. Some financial institutions use varying rates by region and sector.
+
+**What it is:** A management-accounting figure, often not corresponding to any actual cash flow.
+**Who pays it:** Nobody, in most cases. It's used to evaluate alternatives.
+**Where it operates:** Inside the company's capital allocation and decision-making processes.
+**What it's good for:** Aligning internal decisions with future carbon-cost exposure; demonstrating climate-aware management.
+**What it doesn't capture:** Anything outside the company's own decision-making. An internal carbon price doesn't price emissions for anyone else.
+
+Some companies use **fee-internal carbon prices** — actual internal charges levied on business units, with revenues recycled to climate programs (Microsoft and a few others). These are different from **shadow prices** — purely hypothetical numbers used in capital allocation. The distinction matters: fee-internal prices change actual incentives; shadow prices may or may not.
+
+## 4. Social cost of carbon (SCC)
+
+The estimated economic damages caused by emitting an additional ton of CO₂. Conceptually answers: *what is one ton of CO₂ actually worth in damages?*
+
+**What it is:** An estimate of total expected discounted damages from a marginal additional ton.
+**Who pays it:** In abstract, society (in the form of future climate damages); in regulatory practice, it's used to weight the climate benefits of policies.
+**Where it operates:** In benefit-cost analyses of regulations; in corporate disclosures; in legal settings (NEPA reviews, climate litigation).
+**What it's good for:** Establishing whether a climate policy is worth its costs; informing public investment decisions; setting reference values for litigation.
+**What it varies enormously based on:** Discount rate assumptions; damage function specifications; geographic scope (US-only vs. global); time horizon; risk treatment (mean estimates vs. tail risks).
+
+Recent SCC estimates have ranged from **$1 to $1,000+ per ton** depending on these assumptions. The recent (2023) EPA central estimate under Biden was **$190/ton** at a 2% discount rate. The first Trump administration's estimates in 2017–2018 ranged $3–7. The second Trump administration's 2025 guidance returns to that range or lower.
+
+The SCC is the only one of these four numbers that's *supposed to estimate damages*. The others are political/management prices on emissions. The SCC tries to answer the underlying question: how much damage is each ton actually causing?
+
+## The commensurability problem
+
+You can compare cap-and-trade prices and carbon tax rates across jurisdictions — they're both administrative prices on emissions. You can compare both to the SCC — that comparison is meaningful (a $70 ETS price is "more than the Trump SCC estimate but less than the Biden SCC estimate"). But the *kinds* of comparison work differently.
+
+The internal corporate price doesn't compare to any of these directly. A $100 internal price at Microsoft isn't a price for anyone else; it's a management tool.
+
+This chapter spends most of its time on the SCC because it's the most analytically important number — and the most politically volatile — but you should keep the categorical distinction clear throughout.
+
+---
+
+# Part 2: The social cost of carbon in depth
+
+## What it tries to do
+
+The social cost of carbon, in concept, is a single number that captures the total expected discounted damages to society from emitting one additional ton of CO₂. If you could quantify the SCC reliably, you'd have a clean answer to "should we regulate this emission?" — compare the policy's costs to the avoided emissions times the SCC, and act if the latter is larger.
+
+The SCC has been the linchpin of US climate regulatory analysis since 2008, when the Interagency Working Group (IWG) on the Social Cost of Carbon began producing official federal estimates. The estimates have been used in:
+- EPA rulemakings (vehicle emission standards, power plant rules, methane regulations).
+- DOT and NHTSA fuel economy standards.
+- Energy efficiency standards from DOE.
+- Federal lands leasing decisions.
+- State-level decisions (New York's value of "zero-emission credits"; California's various climate programs).
+- International decisions (Canada adopted the EPA's 2023 estimate; Germany has its own version).
+
+Internationally, the SCC is used differently — most non-US contexts don't formally adopt a single number — but the concept is referenced in IMF reports, the Bank of England's climate stress testing, the OECD's environmental policy analysis, and elsewhere.
+
+## How it's calculated
+
+The SCC is calculated using **integrated assessment models** (IAMs) that link three modules:
+
+**1. The climate module.** Take an additional ton of CO₂ emitted today. Trace how it affects atmospheric concentrations, temperature, sea level, and other climate variables over time. The relationships are roughly: emissions → concentration (depends on carbon cycle modeling) → temperature (depends on climate sensitivity) → various physical climate outcomes.
+
+**2. The damage module.** Translate climate variables into economic damages. A 2°C warmer world has higher heat-related mortality, lower agricultural yields, more storm damage, higher cooling costs, sea-level inundation, ecosystem loss, etc. The damage function is the relationship between temperature and dollar damages.
+
+**3. The discounting module.** Most damages occur in the future. To compare future damages to current costs, you discount them. A 2% discount rate gives much higher present values than a 7% discount rate.
+
+The product of these three modules — applied to one extra ton of CO₂ — is the SCC.
+
+## Why estimates vary so much
+
+The SCC is extraordinarily sensitive to inputs:
+
+**Climate sensitivity (the temperature response per CO₂ doubling).** AR6 range: 2.5–4.0°C "likely"; 2.0–5.0°C "very likely." This factor of 2.5× variability translates into roughly 2–5× variability in damages.
+
+**Damage functions.** Different specifications give different numbers. The widely-used DICE model (Nordhaus) assumes relatively low damages — roughly 1–2% of GDP at 2.5°C. More recent models (Rennert et al. 2022, the GIVE model) assume higher damages, especially through better treatment of mortality and adaptation costs. Switching from DICE-like damages to GIVE-like damages roughly triples SCC.
+
+**Discount rates.** A central source of variation. A 1% discount rate puts large weight on far-future damages; a 7% rate dismisses them. The Biden-era 2% rate (vs. the Trump-era 3% and 7% rates) was the largest single driver of the SCC moving from ~$50/ton to ~$190/ton.
+
+**Geographic scope.** Global SCC (the convention since 2010): captures damages anywhere in the world. Domestic-only SCC (Trump approach): captures damages only to the originating country. For the US, this reduces SCC by roughly 80%.
+
+**Risk treatment.** Mean estimates vs. tail-risk-weighted estimates. Climate damages are inherently uncertain; some economists argue that the *expected* damages should be supplemented by a risk premium for catastrophic outcomes. Adding risk premiums to standard SCC calculations roughly doubles them.
+
+**Time horizon.** Most SCC estimates cap damages at 2100 or 2300. Extending the horizon increases the SCC because damages compound.
+
+The combination of these sensitivities gives a range:
+
+| Scenario | Central SCC estimate |
+|---|---|
+| Trump 2017–2018 (domestic-only, high discount) | $3–7/tCO₂e |
+| Obama 2016 IWG | $51 (in 2020 dollars) |
+| Biden 2023 EPA (low discount, global, GIVE damages) | $190 (2020 baseline, $230 in 2030, $310 in 2050) |
+| Biden 2023 EPA at 1.5% discount rate | $380 (2030) |
+| Recent academic estimates (Bilal & Känzig 2024; broader damages) | $1,000+ |
+| Trump 2025 EPA proposed | $1 or eliminated |
+
+A factor-of-300 range across plausible estimates. This is what makes the SCC politically contested: the analytical choices are large enough that the political answer can be embedded in the modeling choices.
+
+## The recent US political story
+
+The SCC has been one of the most politically volatile metrics in federal policy:
+
+**1981–2007:** No formal SCC. Climate damages largely ignored in regulatory cost-benefit analysis.
+
+**2008:** Bush administration begins limited SCC use after court rulings (DOE energy efficiency standards).
+
+**2010:** Obama administration creates the Interagency Working Group (IWG) on the SCC. First formal central estimate: $21/tCO₂ (2010 dollars), discount rate 3%.
+
+**2013:** IWG updates to ~$36 (2010 dollars). Republican-led legal challenges begin.
+
+**2016:** Updated to ~$42 in 2010 dollars, ~$51 in 2020 dollars.
+
+**2017:** Trump E.O. 13783 disbands IWG. New "interim" estimates limit to domestic damages and use 3% and 7% discount rates. Result: ~$3–7/tCO₂.
+
+**2021:** Biden E.O. 13990 reinstates IWG. Returns to Obama-era $51/tCO₂ interim estimate.
+
+**2022:** Western District of Louisiana enjoins use of IWG estimates. Fifth Circuit later vacates the injunction on standing grounds.
+
+**November 2023:** EPA releases new central estimate of **$190/tCO₂** (2020 baseline), rising to $230 in 2030, $308 in 2050, $410 in 2080. Methodology updated with Rennert et al. (2022) GIVE model, lower discount rates, broader damage functions. Adopted in November 2023 methane rule.
+
+**January 2025:** Trump E.O. 14154 ("Unleashing American Energy") disbands IWG again. Withdraws IWG documents. Orders EPA to issue guidance considering eliminating SCC from federal decisions.
+
+**March 2025:** EPA Administrator Lee Zeldin announces "overhaul" of SCC.
+
+**May 2025:** Executive memorandum directs federal agencies to stop factoring climate damages into regulations except where statutorily required. Where required, interim estimate of approximately $1/tCO₂.
+
+**July 2025:** OIRA issues guidance further restricting SCC use. Where any climate cost analysis is required, it should be "minimum consideration required to meet a statutory requirement" and ideally not monetized.
+
+The trajectory matters because the SCC has been the dominant tool for monetizing climate benefits in regulatory analysis. Eliminating or reducing it shifts the analytical basis for federal climate regulation. Many EPA rules — vehicle emissions, methane regulations, power plant rules — were justified in part by SCC-weighted benefits. Without the SCC, those benefit calculations collapse, and the cost-benefit analysis no longer favors regulation.
+
+The 2025 reversal is among the most consequential climate policy actions in the second Trump administration. It will likely be challenged in court, where the resolution depends partly on whether SCC use is "statutorily required" (in which case the administration must use *some* estimate) or "discretionary" (in which case it can be eliminated).
+
+## What SCC actually measures
+
+A subtle but important point: even at $190/tCO₂, the SCC may *understate* climate damages. Several methodological factors push the SCC down:
+
+- **Discount rates above zero** assume that future people's welfare is worth less than current people's. Some climate ethicists argue this is morally problematic — climate damages affect people who didn't cause them.
+- **Damage functions** are estimated from observed economic responses to historical temperature variation, which may not capture damages from temperatures outside the historical range.
+- **Catastrophic risks** (tipping points, social-political instability, mass migration) are typically excluded or treated with conservative assumptions.
+- **Adaptation costs** are typically partial (modeled adaptation responses, not the full cost of adaptation).
+- **Non-market damages** (cultural loss, ecosystem destruction, lives lost in low-income countries) are often valued conservatively or excluded.
+
+Academic critiques (Bilal & Känzig 2024; Hänsel et al. 2020; Howard & Sterner 2017) generally find that the SCC under standard methodologies is too low. The $1,000+ estimates emerge from these critiques — they're not unhinged numbers but the result of treating climate damages more comprehensively.
+
+The bottom line: the policy-relevant SCC is somewhere in the $50–$500/tCO₂ range depending on assumptions, with $190/tCO₂ being the recent US central estimate and $1,000+ being plausible under more comprehensive damage treatment. The 2025 US administration estimate of $1/tCO₂ is not credible as a damage estimate; it's a political choice to minimize the role of climate in regulatory analysis.
+
+## **Stop-and-check 9.A**
+
+1. The four "carbon prices" introduced in Part 1 are not interchangeable. Which is most relevant for a coal power plant operator's investment decisions? Which is most relevant for a federal regulator setting vehicle emission standards? Which is most relevant for a tech company's net-zero strategy?
+2. The SCC has ranged from $1 to $1,000+ across legitimate estimates. Is this range a reason to dismiss the SCC entirely, or a reason to take it more seriously? Make the case both ways.
+3. The 2025 US policy move to ~$1/tCO₂ effectively eliminates SCC from federal cost-benefit analysis. What kinds of regulations are most affected by this change?
+4. **Socratic prompt:** Imagine you're a chief financial officer of a large industrial company in 2026. Your sustainability team proposes setting an internal carbon price of $50/tCO₂. What do you ask before approving it, and what's the substantive case for vs. against?
+
+---
+
+# Part 3: Carbon taxes globally
+
+Most economists historically favored carbon taxes over cap-and-trade, on grounds of simplicity, price certainty, and lower administrative burden. In practice, both instruments are used, and the global landscape is a mosaic.
+
+## Major operational carbon tax systems
+
+**Sweden** — Carbon tax since 1991, the world's first. Current rate: ~$130/tCO₂e (one of the highest in the world). Coverage: ~95% of CO₂ emissions in covered sectors (heating, fuel, industry). Some industries (cement, EU ETS sectors) face partial or zero tax to avoid double-coverage with EU ETS. Substantial decarbonization of heating sector and broader industrial intensity reduction since adoption.
+
+**Norway** — Tax since 1991 (concurrent with Sweden, the original Nordic pioneers). Current rate: ~NOK 952/tCO₂e (~$95). Projected to rise to NOK 2,000/tCO₂e (~$220/tCO₂e) by 2030 under current planning. Coverage: ~60% of national emissions. Major source of state revenue.
+
+**Finland, Denmark, Liechtenstein, Iceland** — Other Nordic-region carbon taxes ranging from $30 to $100+/tCO₂e. Varying coverage.
+
+**Switzerland** — Carbon tax since 2008. Rate: ~CHF 130 (~$150). Coverage: heating and process emissions outside the Swiss ETS (which is linked to EU ETS).
+
+**British Columbia** — Carbon tax since 2008. Rate: ~C$80/tCO₂e (~$59). Revenue-neutral by design (offset by tax cuts in early years; partially recycled to taxpayers as a Climate Action Tax Credit). Coverage: ~70% of provincial emissions. One of the most rigorously studied carbon tax implementations; generally positive empirical record.
+
+**Canada (national backstop)** — Federal carbon pricing since 2019. Sets a minimum carbon price that provinces must implement (either via tax or cap-and-trade) or face the federal backstop. Current floor: C$80/tCO₂e ($59) in 2025, escalating to **C$170/tCO₂e ($125) by 2030**. The largest national-scale carbon tax program in the world. Politically contested; survived major legal challenges in Reference re Greenhouse Gas Pollution Pricing Act (2021 Supreme Court of Canada).
+
+**France** — Domestic carbon tax (Contribution Climat Énergie) since 2014. Currently €44.6/tCO₂e (frozen since 2018 after yellow vest protests). The 2018 protests halted the planned annual escalation.
+
+**Ireland** — Carbon tax since 2010. Rate: €56/tCO₂e (2024), legislated to rise to €100 by 2030. Coverage: domestic fuel and gas.
+
+**United Kingdom** — Carbon Price Floor (CPF) — a top-up to the (now-departed) EU ETS power sector. Currently £18/tCO₂e (~$23). Applies to fossil fuel use in power generation. Operates in addition to the UK ETS.
+
+**Japan** — Carbon tax since 2012 at JPY 289/tCO₂e (~$2). The lowest major carbon tax in any developed economy. Functions more as a revenue-raising mechanism than as a behavior-changing price. New "GX Surcharge" coming 2028 will add to this.
+
+**Singapore** — Carbon tax since 2019. Rate: S$25/tCO₂e (~$19) in 2024, rising to S$45 in 2026–2027 and S$50–80 by 2030. Coverage: ~80% of national emissions.
+
+**South Africa** — Carbon tax since 2019. Rate: ZAR 190/tCO₂e (~$10). Limited coverage in early years; phased expansion underway.
+
+**Argentina, Chile, Colombia, Mexico** — Various national carbon taxes at modest rates ($1–25/tCO₂e). Limited coverage.
+
+## The carbon tax record
+
+Several patterns emerge from the global record:
+
+**1. Carbon taxes can reach materially high rates without economic disruption.** Sweden at $130, Switzerland at $150, Canada heading to $125 — all without observable economic harm. The "carbon taxes will crash the economy" argument has not been borne out empirically.
+
+**2. Political vulnerability is real.** The 2018 French yellow vest protests, the 2024 Canadian Conservative campaign against the federal carbon tax, the 2025 EU debate over ETS2 affordability — all show that carbon prices that bite create political opposition. Successful systems generally include revenue-recycling provisions (dividends, tax cuts, or transfers to affected populations) that reduce political opposition.
+
+**3. Coverage gaps matter.** Sweden's $130/tCO₂e tax covers fuel and heating but largely doesn't cover EU-ETS sectors (industry, power). Most national taxes have significant exemptions for trade-exposed sectors. Effective coverage is typically 50–80%, not 100%.
+
+**4. Pure carbon taxes are rare.** Most jurisdictions combine carbon pricing with regulations (renewable portfolio standards, vehicle efficiency rules, building codes) and subsidies (renewable energy support, EV incentives). The carbon tax is one instrument in a portfolio.
+
+## The Canadian carbon tax case
+
+Worth a brief deeper look as the most consequential national carbon tax outside Europe. Canada's national backstop, adopted in 2018 and operational from 2019, has several distinctive features:
+
+- **Federal-provincial structure:** Provinces can implement their own systems (Quebec ETS, BC carbon tax) or use the federal backstop. The minimum stringency is set federally.
+- **Steep escalation:** From C$20 in 2019 to C$80 in 2025 to C$170 by 2030 — a 8.5× increase over 11 years.
+- **Revenue recycling:** Federal proceeds returned to households in covered provinces as Climate Action Incentive Payments. ~90% of households receive more in payments than they pay in carbon tax (the cost is concentrated in highest emitters).
+- **Constitutional challenge:** Several conservative provinces challenged federal authority. The Supreme Court of Canada upheld the law in March 2021 (5-3-1 decision), establishing that climate change is a matter of national concern within federal authority under the Peace, Order, and Good Government clause.
+- **Political volatility:** The 2024 federal election cycle saw the Conservative Party campaign explicitly on repealing the carbon tax. Multiple provincial governments (Alberta, Saskatchewan, Ontario) have actively opposed it. Whether the tax survives long-term is genuinely uncertain.
+
+The Canadian experiment is the largest-scale test of whether a substantial, escalating national carbon tax with explicit revenue recycling can survive politically. The outcome will substantially influence carbon tax adoption elsewhere.
+
+---
+
+# Part 4: Internal corporate carbon prices
+
+Many companies use internal carbon prices — applying a per-ton charge or shadow price to their own capital allocation and decision-making. According to CDP data, 2,000+ companies report using internal carbon prices, with the number rising annually.
+
+## Types of internal carbon prices
+
+**Shadow prices.** A hypothetical price applied in financial analysis to evaluate alternatives, but with no actual money changing hands. Used to determine which projects look more attractive when carbon is priced. Doesn't change actual operating decisions unless leadership uses it to override conventional NPV analysis.
+
+**Internal fees.** A real charge levied on business units based on their emissions. Revenue typically recycled to climate programs (clean energy projects, R&D, offset purchases, carbon-removal investments). The closer analog to a true carbon price within the firm.
+
+**Implicit carbon prices.** The effective per-ton economic cost of climate-related decisions the company is already making — e.g., the cost of voluntary purchases of carbon credits, of internal emissions-reduction investments, of compliance with various carbon regulations. Often higher than the company's stated "internal carbon price" but less visible.
+
+## Major examples
+
+**Microsoft** uses an internal carbon fee of **$100/tCO₂e for Scope 1, 2, and selected Scope 3** (notably aviation). Implemented since 2012, the fee generates revenue used to fund renewable energy procurement, efficiency improvements, and carbon-removal purchases. Microsoft's commitment to be **carbon negative by 2030** (covered in Ch. 1 and Ch. 5) is supported by this fee mechanism. The fee is among the highest internal carbon prices in any large company.
+
+**Disney** uses an internal carbon fee since 2009 (one of the earliest implementations).
+
+**Mahindra Group, Yale University, Saint-Gobain, Owens Corning** — various internal fee implementations, generally $20–80/tCO₂e.
+
+**Oil and gas majors** (Shell, BP, TotalEnergies, ExxonMobil, etc.) use shadow prices in capital allocation typically in the $40–80/tCO₂e range. The use of these prices varies — some companies apply them as binding constraints, others as one input among many. ExxonMobil's $80/tCO₂e shadow price has been criticized as being applied only nominally (not substantially affecting actual investment decisions).
+
+**Financial institutions** increasingly use internal carbon prices in lending decisions. HSBC, JPMorgan Chase, BNP Paribas, and others have published various forms of internal pricing.
+
+## Assessment
+
+The substantive value of internal carbon prices depends almost entirely on how they're used:
+
+**Substantive uses:**
+- Decision-changing: the internal price actually causes the company to choose different investments than it would have.
+- Revenue-generating: an internal fee actually generates funds that get redirected to climate programs.
+- Risk-management: the price reflects realistic future carbon-cost exposure and guides hedging.
+
+**Symbolic uses:**
+- Disclosure ornament: the company reports an internal price for ESG reporting purposes without operational effect.
+- Window dressing: the price is set low enough not to matter (e.g., $20 internal carbon price in oil and gas is essentially baseline-level fuel cost variation).
+
+The CDP and other ESG raters now ask increasingly granular questions about how internal prices are used — fee vs. shadow, what scope coverage, what decision contexts. The information environment is improving.
+
+For an investor or analyst reading a disclosure mentioning an "internal carbon price," the substantive questions are:
+- **What's the price level?** $20 is roughly noise; $100+ is potentially substantive.
+- **What's the scope coverage?** Scope 1+2 only, or including some Scope 3?
+- **Fee or shadow?** A fee with real revenue is much more substantive than a shadow used only in capital allocation analyses.
+- **How is it used?** What decisions are affected; what's the documented track record?
+- **How does it interact with the SBTi or net-zero target?** A robust internal price should be doing some of the work toward the company's emissions trajectory.
+
+A high-quality internal carbon price plus a credible target with reasonable interim milestones is a strong signal. A low-level shadow price plus a 2050 target with no interim plan is weak.
+
+---
+
+# Part 5: CBAM and the carbon club
+
+CBAM was covered briefly in Ch. 7. Here we situate it in the broader carbon-pricing landscape.
+
+## What border adjustments do
+
+A **Carbon Border Adjustment Mechanism (CBAM)** is a policy that applies a carbon-equivalent charge to imports of carbon-intensive goods. The conceptual purpose: extend a jurisdiction's domestic carbon price to imports, preventing carbon leakage (the relocation of carbon-intensive production to non-priced jurisdictions).
+
+The EU CBAM, full enforcement starting Q1 2026 at €75.36/tCO₂e, is the first operational border adjustment at scale. Importers of CBAM-covered goods (steel, cement, aluminum, fertilizers, hydrogen, electricity) must purchase certificates priced at the EU ETS allowance rate, less any carbon price paid in the country of origin.
+
+## The strategic logic
+
+CBAM has three potential effects, in increasing order of policy ambition:
+
+**1. Level the playing field for domestic producers.** EU steel producers face an EUA cost of ~€75/tCO₂e; non-EU producers historically haven't. CBAM equalizes this. (Domestic effect.)
+
+**2. Push trading partners toward their own carbon pricing.** If a trading partner imposes its own carbon price, they keep the revenue rather than paying it to the EU. This creates an incentive to adopt carbon pricing domestically. (Indirect effect on partners.)
+
+**3. Build a "carbon club."** Multiple jurisdictions with linked carbon prices and shared CBAM borders against non-participants. A club of carbon-pricing jurisdictions can present a unified front to non-pricing exporters. (Coordinated effect.)
+
+The first effect is the immediate one. The second is contested but observable: Turkey, Brazil, and several other jurisdictions have explicitly cited CBAM as a motivation for developing their own carbon pricing systems. The third — the carbon club — is the longer-term strategic vision.
+
+## The "carbon club" concept
+
+The idea, articulated most prominently by Nobel laureate William Nordhaus in his 2015 *American Economic Review* paper, is that international climate cooperation has a fundamental free-rider problem. Countries that don't act benefit from others' emission reductions without paying the cost. The carbon club proposes a solution: a coalition of countries with carbon pricing imposes tariffs on non-participants, creating an incentive to join.
+
+CBAM operationalizes a version of this. If the EU successfully sustains CBAM, and other major economies adopt CBAM-like mechanisms, the pressure on non-participating jurisdictions to adopt carbon pricing rises.
+
+The 2025–2026 picture:
+- **EU CBAM:** Full enforcement Q1 2026.
+- **UK CBAM:** Consultation 2024–2025; proposed launch 2027.
+- **Canada CBAM:** Studied 2023–2024; not yet adopted.
+- **Australia CBAM:** Studied; not yet adopted.
+- **Japan CBAM:** Under discussion in connection with the 2028 GX scheme.
+- **US:** No federal CBAM at present. The Trump administration's stance on CBAM (skeptical of climate-driven trade measures generally) limits near-term prospects, but a future administration could pursue a Foreign Pollution Fee or similar instrument.
+
+## Political response
+
+CBAM has triggered substantial international pushback:
+
+**China, India, Brazil, South Africa** have explicitly called CBAM "protectionist" and argued it violates WTO non-discrimination principles. Brazil and India have raised it as an issue at the WTO; both have stated they may bring formal disputes. China has been more measured in formal statements but has been actively developing capabilities to certify low-carbon production for CBAM compliance.
+
+**Turkey** (a major steel exporter to EU) has accelerated its own ETS development partly in response to CBAM exposure. The 2025–2026 timeline for Turkish ETS launch is being driven partly by the desire to retain revenue domestically rather than paying it to the EU.
+
+**The WTO question** is unresolved. CBAM proponents argue it's WTO-compatible because (a) it applies the same charge to domestic and foreign producers, (b) it's tied to a domestic environmental measure, and (c) it includes credit for any carbon price already paid in the country of origin. Critics argue the practical effect is discriminatory and the verification mechanisms create asymmetric burdens. A WTO challenge would test this; one or more challenges look likely 2026–2027.
+
+The political response is at least as consequential as the direct economic impact. CBAM has reshaped the conversation about carbon pricing as a domestic-only matter into one with explicit international implications.
+
+---
+
+# Part 6: Coverage gap analysis
+
+A useful question: what fraction of global emissions is meaningfully priced?
+
+## The headline number
+
+According to the **World Bank's State and Trends of Carbon Pricing 2024** report (updated 2025), carbon pricing instruments now cover approximately **24% of global GHG emissions**. This number has grown steadily — about 5% in 2010, 12% in 2015, 22% by 2023.
+
+But the headline coverage hides huge variation in the price level. Of the 24% covered:
+
+- **Maybe 8–10%** is covered at prices above $50/tCO₂e (EU ETS, California, Washington, Sweden, Norway, Canada national, Switzerland, UK ETS at the higher end).
+- **Roughly 8–10%** is covered at modest prices $10–50/tCO₂e (other EU member-state taxes, Korea, RGGI, etc.).
+- **Roughly 6–8%** is covered at low prices below $10/tCO₂e (China national ETS, Japan, South Africa, Argentina, Singapore in early years, Mexico, Brazil pilots, various others).
+
+So **the "high-impact" carbon pricing coverage** — prices high enough to materially shift behavior in covered sectors — is roughly 8–10% of global emissions. This is far smaller than the headline 24%.
+
+## Sector and country gaps
+
+By **sector**:
+- **Power generation:** Substantial coverage in major economies, prices generally elevated.
+- **Heavy industry:** Covered in many systems (EU, California, China expanding) but often with substantial free allocation diluting the effective price.
+- **Transportation (road):** Mostly uncovered by ETS; covered by various fuel taxes that may or may not be carbon-equivalent. ETS2 in EU will cover from 2028.
+- **Buildings (heating):** Mostly uncovered by ETS; ETS2 will cover from 2028.
+- **Agriculture:** Almost entirely uncovered globally. Methane and N₂O from agriculture are major emissions but politically protected.
+- **Aviation:** EU ETS for intra-EEA; CORSIA for international, with limited price effect.
+- **Maritime:** EU ETS for ships in EU ports from 2024; IMO global system under development with launch targeted ~2027.
+
+By **country**:
+- **EU member states + UK + Norway + Iceland + Switzerland** are the most comprehensively priced.
+- **Canada, Korea, New Zealand, Australia (post-2022)** are well-priced.
+- **California, Washington, RGGI states** cover roughly 30% of US emissions.
+- **China** covers ~40% of national emissions at low prices.
+- **Most of South Asia, Africa, and Latin America** is largely unpriced or priced at low levels.
+
+## Implications
+
+The gap analysis suggests two things:
+
+**1. Carbon pricing is geographically and sectorally uneven.** Most of the global emissions footprint is not priced at levels that match the policy ambition implied by the Paris Agreement. The 1.5°C-compatible price ranges from IPCC AR6 ($135–6,000/tCO₂e by 2030) are far above current effective prices in most contexts.
+
+**2. Coverage growth is real but mostly in lower-price systems.** China's national ETS at low prices added ~30% of global emissions to "covered" but with limited near-term behavioral impact. Brazil's pending system, Indonesia's expansion, Thailand's pilots — all add coverage but at modest prices.
+
+The realistic picture: **carbon pricing is becoming nearly universal as an institutional fact, but the prices in most jurisdictions remain below what comprehensive climate-economics analysis suggests is needed.** Whether prices in major systems escalate to the $200+/tCO₂e level that some analyses suggest is needed by 2030 is the major open question.
+
+## **Stop-and-check 9.B**
+
+1. The World Bank's "24% of global emissions priced" sounds substantial. The "8–10% priced at materially high levels" sounds much less. Both are true. Which framing is more useful for assessing global progress, and why?
+2. The carbon-club concept proposes a coalition of carbon-pricing jurisdictions imposing tariffs on non-participants. What's the strategic logic, and what's the main weakness?
+3. Carbon prices in major systems have risen substantially over the past five years. EU ETS from ~€20 in 2018 to ~€75 in 2026. Canada from C$20 to C$80. Sweden from $130 (sustained). What's likely to happen to prices in 2026–2030, and what would push them higher or lower?
+4. **Socratic prompt:** If you were advising a developing country in 2026 on whether to adopt carbon pricing and at what level, what factors would you consider, and what would your recommendation be?
+
+---
+
+# Part 7: Carbon pricing vs. alternatives
+
+Carbon pricing isn't the only climate policy instrument. The major alternatives include:
+
+**Standards and mandates.** Emission performance standards (CAFE vehicle standards, EU's coal phase-out mandates, renewable portfolio standards). Force specific outcomes regardless of cost.
+
+**Subsidies.** Production tax credits for renewables, investment tax credits for clean energy, EV purchase subsidies, weatherization assistance. Lower the cost of clean alternatives rather than raising the cost of dirty ones.
+
+**Research and development funding.** Government investment in basic and applied research; demonstration projects; technology procurement (e.g., the DOE's hub programs for hydrogen, CCS, direct air capture).
+
+**Information policy.** Disclosure requirements (Ch. 5), labeling, voluntary commitments.
+
+**Direct regulation.** Banning specific technologies (coal plants, ICE vehicles after a date) or specific emissions (HFC phase-down under Montreal Protocol-Kigali Amendment).
+
+## The pricing case
+
+The economic case for carbon pricing rests on several arguments:
+
+**1. Efficiency.** A uniform carbon price discovers the lowest-cost abatement options across the entire economy. Standards and subsidies pick winners; pricing lets the market choose.
+
+**2. Revenue.** Carbon pricing generates revenue that can be recycled to taxpayers, used for transitional support, or invested in clean infrastructure. Standards and subsidies cost money rather than generating it.
+
+**3. Comprehensive coverage.** A well-designed carbon price applies to all emissions in covered sectors; standards typically apply to specific products or processes.
+
+**4. Innovation incentives.** Higher carbon prices incentivize R&D investment in lower-carbon alternatives across all sectors. Targeted subsidies channel innovation to subsidized areas.
+
+## The alternative case
+
+But several arguments push the other way:
+
+**1. Standards work where pricing struggles.** For products that customers don't directly purchase (building codes for new construction, vehicle efficiency standards) or for emissions hard to monitor at low cost, standards can be more effective than pricing.
+
+**2. Subsidies don't trigger political backlash.** Carbon prices that bite create yellow-vest-style political opposition. Subsidies pull rather than push, creating supportive constituencies.
+
+**3. Innovation requires more than price signals.** Major technological breakthroughs (renewable cost declines, EV breakthroughs, battery storage) have been driven by R&D and procurement support more than by carbon prices. Price signals can accelerate adoption but rarely drive fundamental innovation.
+
+**4. Distributional effects.** Carbon prices fall regressively on low-income households (energy is a larger share of low-income budgets). Subsidies and standards can be designed progressively. Revenue recycling can address this but is administratively complex.
+
+## The empirical record
+
+The empirical record favors a mix:
+
+**Renewables cost declines** — driven primarily by manufacturing-side learning and policy support (Germany's EEG, China's industrial policy, US tax credits). Carbon prices played a secondary role.
+
+**EU power-sector decarbonization** — substantial reductions in EU power emissions over 2015–2024 reflect a combination of EU ETS prices rising, coal phase-out mandates, and renewables support. Hard to attribute to any single instrument.
+
+**EV adoption** — driven primarily by China's industrial policy (consumer subsidies, manufacturer mandates) and US/EU tax credits. Carbon prices on gasoline are a small contributor.
+
+**Building heating decarbonization** — limited progress so far. ETS2 will test whether carbon pricing can drive change here.
+
+The honest reading: **no single instrument has been responsible for major decarbonization outcomes.** Effective climate policy has been multi-instrument, combining pricing, standards, subsidies, R&D, and other tools. The carbon-pricing-or-everything-else debate is largely false; the question is the right mix for each context.
+
+## What carbon pricing is best for
+
+A pragmatic synthesis of the experience to date:
+
+**Carbon pricing is most effective where:**
+- Emissions are large and concentrated at few points (power, heavy industry).
+- Substitution possibilities exist (fuel-switching, efficiency improvements, process changes).
+- The political economy supports a meaningful price (revenue recycling, transition support, broad coalition).
+
+**Carbon pricing is least effective where:**
+- Emissions are distributed across many small sources (buildings, agriculture, individual transport).
+- Substitution requires major up-front capital that consumers can't finance (heat pumps, EVs).
+- Political constituencies vetoing visible price increases (transportation fuel in many democracies).
+
+The 2026–2030 window will substantially clarify which sectors carbon pricing works for and which require complementary instruments. The EU ETS2 launch will be a major test of whether cap-and-trade can extend to fragmented sectors. The fate of Canada's national backstop will test whether escalating tax-based pricing can be politically durable.
+
+---
+
+# Closing exercise
+
+Three things to take away:
+
+**1. "Carbon price" means at least four different things.** Cap-and-trade prices, carbon tax rates, internal corporate prices, and the social cost of carbon are conceptually distinct. They answer different questions and have different uses. Confusing them is the most common analytical mistake in carbon-pricing discussions.
+
+**2. The social cost of carbon has been politically volatile in the US.** From $7 (Trump 1) to $51 (Obama/Biden interim) to $190 (Biden 2023) to ~$1 (Trump 2). The volatility reflects genuine analytical choices (discount rate, damage function, scope) but the policy swings have been larger than the science justifies. The recent 2025 reversion is significant for federal regulatory analysis.
+
+**3. Coverage is rising but high-impact pricing is still limited.** ~24% of global emissions are formally priced; only ~8–10% at materially high levels. The gap between current pricing and what climate-economic models suggest is needed remains substantial. Closing this gap is the central open question in 2026–2030.
+
+The next decade will test whether carbon pricing can extend from the current coverage to comprehensive global pricing, whether prices can rise to levels that reflect climate damages, and whether the political economy can sustain pricing at those levels.
+
+---
+
+# What this chapter simplified
+
+**1. The integrated assessment modeling story.** I described IAMs briefly. The full story includes substantial methodological debates: DICE vs. PAGE vs. FUND vs. GIVE; representative-agent vs. heterogeneous-agent models; reduced-form vs. structural climate components; treatment of uncertainty (Monte Carlo vs. analytical). The methodological literature is rich and the SCC depends substantially on which IAM you use.
+
+**2. The Nordhaus-Stern debate.** I touched on discount rates but didn't go deep into the methodological dispute between William Nordhaus (lower SCC, prescriptive discount rates) and Nicholas Stern (higher SCC, lower discount rates). The Stern Review (2006) was a landmark; the Nordhaus-Stern debate is foundational in climate economics. I gave it brief coverage.
+
+**3. The interaction between carbon prices and other policies.** Carbon prices interact with regulations, subsidies, and other instruments in complex ways. A renewable portfolio standard plus EU ETS produces different dynamics than EU ETS alone. The "additionality" question (whether a subsidy adds to or substitutes for price-driven action) is itself contested. I didn't give this adequate space.
+
+**4. The political economy of carbon taxes.** Yellow vests in France, Canadian Conservative Party campaigns, Australian carbon tax repeal (2014), Washington's 2024 voter referendum — these are the political-economy data points for carbon pricing. The pattern across cases is informative but I covered it only briefly.
+
+**5. The legal status of CBAM.** WTO compatibility is contested and will likely be tested in coming years. I described the dispute but didn't go deep into the legal questions (most-favored-nation principle, national treatment, environmental exceptions, GATT Article XX). This is its own legal-and-policy literature.
+
+**6. Distributional analysis.** Carbon prices are generally regressive on first impact but can be made progressive with appropriate revenue recycling. The distributional analysis of carbon pricing is a substantial sub-literature (Stiglitz, Stern, Goulder, others). I touched on it but didn't go deep.
+
+---
+
+# Glossary delta (Chapter 9)
+
+- **Border adjustment** — A trade-policy measure that applies a charge to imported goods reflecting the carbon cost they would incur if produced under the importing country's climate policy. EU CBAM is the leading operational example.
+- **Climate Action Incentive Payment** — Canada's mechanism for recycling federal carbon-tax revenue back to households in covered provinces. ~90% of households receive more than they pay.
+- **Carbon Price Floor (CPF)** — UK policy adding a top-up to the carbon price for fossil fuel use in power generation. Currently £18/tCO₂e.
+- **Damage function** — In SCC calculation, the relationship between climate variables (temperature, sea level) and economic damages. A central source of SCC variability.
+- **DICE (Dynamic Integrated Climate-Economy)** — IAM developed by William Nordhaus. The most widely-used IAM historically. Produces relatively low SCC estimates.
+- **Discount rate** — The rate at which future damages are discounted to present value in SCC calculation. Lower rates produce higher SCCs. Central political-economic choice.
+- **Federal backstop (Canada)** — Federal carbon pricing minimum that provinces must implement or use as default. Currently C$80/tCO₂e (2025), rising to C$170 by 2030.
+- **Fee-internal carbon price** — An actual internal charge levied on business units based on emissions, with revenue often recycled to climate programs. Distinct from shadow pricing.
+- **GIVE (Greenhouse Gas Impact Value Estimator)** — Modern IAM developed by Resources for the Future and University of California Berkeley. Underlies the 2023 EPA SCC estimate of $190/tCO₂.
+- **Integrated Assessment Model (IAM)** — Modeling framework linking climate physics, economics, and policy. Used for SCC estimation and IPCC pathway analysis.
+- **Interagency Working Group (IWG) on the Social Cost of Carbon** — US federal interagency body that produced SCC estimates 2010–2017 and 2021–2025. Disbanded by Trump E.O. 14154 in January 2025.
+- **Internal carbon price** — A per-ton price applied within a corporation's own decision-making, used to evaluate investments, capital allocation, or operational decisions.
+- **Marginal damage** — The economic damage from one additional ton of CO₂ emissions. The SCC tries to estimate this.
+- **Nordhaus** — William Nordhaus, Yale economist; Nobel laureate (2018) for work on climate economics. Developed the DICE model; advocates for moderate carbon prices and the carbon-club concept.
+- **OIRA (Office of Information and Regulatory Affairs)** — US executive office of OMB; reviews and coordinates regulatory analyses, including SCC use.
+- **Revenue-neutral** — A tax design where collected revenue is offset by reductions in other taxes, producing no net change in tax burden. British Columbia's carbon tax was originally revenue-neutral by design.
+- **Revenue recycling** — Using carbon-tax or auction revenue to fund tax cuts, household rebates, or transitional support. Critical to political durability.
+- **Shadow price** — A hypothetical price used in financial analysis to evaluate alternatives, without actual cash flow. The most common form of "internal carbon price."
+- **SCC (Social Cost of Carbon)** — Estimated economic damages from emitting an additional ton of CO₂. Recent US central estimates have ranged $1 to $1,000+ depending on assumptions; recent Biden EPA central was $190/tCO₂ (2020 baseline).
+- **Stern, Nicholas** — UK economist; lead author of the Stern Review (2006). Advocates for higher SCC and lower discount rates than Nordhaus.
+
+---
+
+# What's next
+
+- **Chapter 10 (CCUS)** — the carbon capture and storage technology stack: post-combustion, pre-combustion, oxy-fuel, transport, storage, the project landscape including Northern Lights, Quest, Petrobras Santos Basin, ExxonMobil's Baytown pause, and the major hubs.
+- **Chapter 11 (CDR)** — direct air capture, BECCS, enhanced rock weathering, ocean alkalinity enhancement, biochar — the gigaton-scale removals required by 1.5°C scenarios.
+- **Chapter 12 (Hard-to-Abate Sectors)** — steel, cement, chemicals, aviation, shipping. Where carbon pricing alone isn't enough.
+

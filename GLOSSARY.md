@@ -358,5 +358,118 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 
 ---
 
+## Chapter 9 additions (introduced: Ch. 9)
+
+- **Border adjustment** — Trade-policy measure applying a charge to imports reflecting carbon cost. EU CBAM is the leading example.
+- **Climate Action Incentive Payment** — Canada's mechanism for recycling federal carbon-tax revenue to households.
+- **Damage function** — In SCC calculation, the relationship between climate variables (temperature, sea level) and economic damages.
+- **DICE (Dynamic Integrated Climate-Economy)** — Nordhaus's foundational IAM. Produces relatively low SCC estimates.
+- **Discount rate** — Rate at which future damages are discounted to present value in SCC calculation. Lower rates produce higher SCCs.
+- **Federal backstop (Canada)** — Federal carbon pricing minimum that provinces must implement or use as default. Currently C$80/tCO₂e (2025), rising to C$170 by 2030.
+- **Fee-internal carbon price** — Actual internal corporate charge with revenue recycled to climate programs. Distinct from shadow pricing.
+- **GIVE (Greenhouse Gas Impact Value Estimator)** — Modern IAM developed by RFF and UC Berkeley. Underlies the 2023 EPA SCC estimate of $190/tCO₂.
+- **Integrated Assessment Model (IAM)** — Modeling framework linking climate physics, economics, and policy. Used for SCC estimation and IPCC pathway analysis.
+- **Interagency Working Group (IWG) on the Social Cost of Carbon** — US federal interagency body that produced SCC estimates 2010–2017 and 2021–2025. Disbanded by Trump E.O. 14154 in January 2025.
+- **Internal carbon price** — Per-ton price applied within a corporation's own decision-making.
+- **Marginal damage** — Economic damage from one additional ton of CO₂ emissions.
+- **Nordhaus** — William Nordhaus, Yale economist; Nobel laureate (2018) for work on climate economics.
+- **OIRA (Office of Information and Regulatory Affairs)** — US executive office of OMB; reviews regulatory analyses including SCC use.
+- **Revenue-neutral** — Tax design where collected revenue is offset by reductions in other taxes.
+- **Revenue recycling** — Using carbon-tax or auction revenue to fund tax cuts, household rebates, or transitional support.
+- **Shadow price** — Hypothetical price used in financial analysis to evaluate alternatives, without actual cash flow.
+- **SCC (Social Cost of Carbon)** — Estimated economic damages from emitting an additional ton of CO₂. Recent US central estimates have ranged $1 to $1,000+; recent Biden EPA central was $190/tCO₂.
+- **Stern, Nicholas** — UK economist; lead author of the Stern Review (2006).
+
+---
+
+## Chapter 10 additions (introduced: Ch. 10)
+
+- **Amine** — Chemical solvents (MEA, MDEA, etc.) used in post-combustion CCUS to selectively bind CO₂.
+- **Boundary Dam** — Saskatchewan coal-fired power plant with post-combustion CCS, operational since 2014.
+- **CCS-CfD (Carbon Capture and Storage Contracts for Difference)** — UK policy providing revenue certainty to CCUS projects.
+- **Class VI well (UIC)** — EPA's Underground Injection Control regulation category for CO₂ geological sequestration wells in the US.
+- **Direct pay** — IRA provision allowing certain entities to receive 45Q tax credit value as direct cash payment.
+- **East Coast Cluster** — UK's largest planned CCS hub.
+- **EOR (Enhanced Oil Recovery)** — Use of CO₂ to extract additional oil from operating fields.
+- **FEED (Front-End Engineering Design)** — Project development stage where engineering design is fully developed; precedes FID.
+- **FID (Final Investment Decision)** — Project development stage where capital commitment is made.
+- **Gorgon** — Chevron's Australian LNG project with CCS, operational since 2019.
+- **Hub-and-spoke model** — Shared CCS infrastructure linking multiple capture facilities to common transport and storage.
+- **Longship** — Norwegian government's flagship CCS funding program supporting Northern Lights and Brevik.
+- **Moomba CCS** — Australian gas-processing CCS at Santos's Moomba facility; operational October 2024.
+- **MRV (Monitoring, Reporting, Verification)** — Processes for confirming stored CO₂ stays stored.
+- **Northern Lights** — Norwegian CCS hub. Phase 1 operational August 2025 (1.5 Mt/yr); Phase 2 to 5 Mt/yr by 2028.
+- **NZE (Net Zero Emissions) scenario** — IEA's normative scenario consistent with 1.5°C.
+- **Oxy-fuel combustion** — Burning fuel in pure oxygen producing flue gas that's nearly pure CO₂.
+- **Petrobras Santos Basin Pre-Salt** — Brazil's CCS-EOR project; world's largest operational CCS facility (~10.6 Mt/yr).
+- **Post-combustion capture** — CCUS approach capturing CO₂ from flue gas after combustion.
+- **Pre-combustion capture** — CCUS approach capturing CO₂ before combustion via fuel conversion to hydrogen plus CO₂.
+- **Quest** — Shell's Canadian CCS at Scotford hydrogen production facility; operational since 2015.
+- **Saline aquifer** — Porous rock formation containing brine water (not usable for drinking). Dominant CCUS storage type.
+- **Sleipner** — Norway's CCS pioneer; operational since 1996. The world's first commercial CCS project.
+- **Snøhvit** — Companion Norwegian project to Sleipner, operational since 2008.
+- **Stratos** — Occidental's DAC facility in Texas, operational 2025. World's largest direct air capture facility.
+- **Tangguh** — Indonesia LNG facility with CCS reaching FID 2024.
+- **TIER (Technology Innovation and Emissions Reduction) regulation** — Alberta's carbon-pricing system for large industrial emitters.
+
+---
+
+## Chapter 11 additions (introduced: Ch. 11)
+
+- **AMC (Advance Market Commitment)** — Pre-purchase commitments by aggregated buyers providing revenue certainty for early-stage suppliers.
+- **BECCS (Bioenergy with Carbon Capture and Storage)** — Burning biomass and capturing the resulting CO₂. Treated as net-negative emissions when biomass is sustainably sourced.
+- **Biochar** — Charcoal-like material from biomass pyrolysis; applied to soils for carbon sequestration.
+- **Biomass burial** — Storing biomass under conditions that prevent decomposition.
+- **Carbfix** — Iceland-based mineralization CDR; injects dissolved CO₂ into basaltic formations.
+- **CDR (Carbon Dioxide Removal)** — Technologies removing CO₂ from atmosphere and storing it durably. Distinct from point-source capture.
+- **Climeworks** — Swiss DAC company. Operates Orca (4 ktCO₂/yr, 2021) and Mammoth (36 ktCO₂/yr, 2024).
+- **Conventional CDR** — Bio-based removal: afforestation, soil carbon, blue carbon, wetlands.
+- **CRCF (Carbon Removals Certification Framework)** — EU framework for CDR certification. Formalized December 2024.
+- **DAC (Direct Air Capture)** — Capture of CO₂ from ambient air through chemical processes.
+- **DAC Hubs** — US DOE program; $1.2 billion to two hubs (South Texas, Project Cypress).
+- **Drax** — UK biomass power plant; proposed BECCS at 8 MtCO₂/yr.
+- **Enhanced Rock Weathering (ERW)** — Spreading crushed silicate rocks (basalt, olivine) on land to accelerate CO₂-rock reactions.
+- **Frontier** — Stripe-led AMC for CDR; $1B+ committed through 2030.
+- **Heirloom** — US mineralization-based DAC company.
+- **L-DAC (Liquid solvent DAC)** — DAC using alkaline aqueous solution and high-temperature regeneration. Stratos technology.
+- **Mammoth** — Climeworks' Iceland DAC facility. 36 ktCO₂/yr design capacity; operational May 2024.
+- **Moral hazard (CDR)** — Concern that CDR availability reduces incentive for direct mitigation.
+- **Novel CDR** — Engineered removal: DAC, BECCS, enhanced weathering, biochar, biomass burial, mineralization.
+- **Ocean Alkalinity Enhancement (OAE)** — Adding alkaline materials to seawater to increase ocean CO₂ uptake.
+- **1PointFive** — Occidental Petroleum subsidiary operating Stratos DAC facility.
+- **Permanence (CDR)** — Duration of CO₂ storage. DAC+geological: centuries-millennia. Forestry: decades-centuries.
+- **Project Cypress** — Climeworks-Heirloom DOE DAC Hub in Louisiana; 1 MtCO₂/yr target.
+- **S-DAC (Solid sorbent DAC)** — DAC using solid sorbent and lower-temperature regeneration.
+- **Stockholm Exergi** — Swedish utility; BECCS at Värtaverket CHP; FID 2024 for 800 ktCO₂/yr.
+
+---
+
+## Chapter 12 additions (introduced: Ch. 12)
+
+- **ATJ (Alcohol-to-jet)** — SAF production pathway from ethanol/butanol fermentation.
+- **BF-BOF (Blast Furnace - Basic Oxygen Furnace)** — Conventional steel production route; ~70% of global steel.
+- **Black liquor** — Pulp and paper byproduct burned for energy; leading BECCS opportunity.
+- **Calcination** — Chemical decomposition of limestone to lime + CO₂. Fundamental process emission in cement.
+- **Clinker** — Main intermediate product in cement production.
+- **Clinker-to-cement ratio** — Fraction of clinker in finished cement. Global average ~0.72.
+- **DRI (Direct Reduced Iron / Sponge Iron)** — Iron reduced with hydrogen or natural gas rather than coal-based blast furnace.
+- **EAF (Electric Arc Furnace)** — Steel production route using electricity to melt scrap or DRI.
+- **e-fuels** — Synthetic fuels from green hydrogen + captured CO₂. PtL (Power-to-Liquid) primary production.
+- **First Movers Coalition (FMC)** — Cross-sector industrial buyer commitment to procure low-carbon products. Launched COP26 (2021).
+- **FT (Fischer-Tropsch)** — SAF production pathway from biomass gasification.
+- **Green premium** — Cost difference between low-carbon and conventional production.
+- **Haber-Bosch process** — Industrial process for synthesizing ammonia. Energy- and CO₂-intensive when fed by natural-gas-derived hydrogen.
+- **HEFA (Hydroprocessed Esters and Fatty Acids)** — SAF production pathway from oils and fats. Currently dominant SAF method.
+- **HYBRIT** — Swedish demonstration for green steel using green hydrogen.
+- **IMO 2025 Agreement** — Global shipping carbon-pricing framework agreed April 2025; entering force 2027.
+- **MOE (Molten Oxide Electrolysis)** — Pre-commercial alternative steel chemistry; direct electrolytic reduction.
+- **ReFuelEU Aviation** — EU mandate requiring increasing SAF blend shares. 2% by 2025 → 70% by 2050.
+- **SAF (Sustainable Aviation Fuel)** — Drop-in jet fuel from non-fossil feedstocks.
+- **SCMs (Supplementary Cementitious Materials)** — Materials replacing clinker in cement (fly ash, slag, calcined clay).
+- **Stegra** (formerly H₂ Green Steel) — Swedish green-steel company; 2.5 Mt/yr capacity ramping in 2025–2026.
+- **SteelZero / ConcreteZero** — Climate Group-led commitments to procure low-carbon steel and concrete.
+
+---
+
 *Entries will be added each session in alphabetical order under the appropriate heading. When a term is formally introduced in a chapter, I'll note `(introduced: Ch. X)` next to it.*
 
