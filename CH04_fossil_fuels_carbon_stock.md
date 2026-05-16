@@ -1,0 +1,410 @@
+# Chapter 4 — Fossil Fuels and the Carbon Stock We're Burning
+
+**Track:** Foundations & Physical Carbon (A) → Bridge to Climate Liability (B)
+**Prerequisites:** Chapter 1 (carbon cycle, atmospheric stock vs. flow, carbon budget concept).
+**What you should be able to do by the end:**
+- Sketch the carbon-content origins of coal, oil, and natural gas — what biological material became which fuel, over what geological time, with what carbon density.
+- State, with rough magnitudes, current global production and consumption of each fossil fuel; the carbon emissions per unit of energy from each; and how the three fuels compare on an energy-per-CO₂ basis.
+- Explain the structure of the global oil market (OPEC+, IOCs, NOCs, shale producers), the global gas market (regional pipeline systems plus the LNG bridge), and the global coal market (geographically concentrated, Asia-driven), and identify which producers have the most pricing power in each.
+- Articulate the "carbon budget vs. proved reserves" mismatch — roughly how much carbon sits in proved reserves vs. how much can be burned within a 2°C budget — and what "stranded assets" means in financial-asset terms.
+- Explain why the IEA's 2025 World Energy Outlook reintroduced the Current Policies Scenario (CPS) and what the substantive disagreement is between CPS, STEPS, and NZE pathways.
+- Identify three places where the "peak fossil demand by 2030" narrative is contested and what evidence each side leans on.
+
+---
+
+## Why this chapter exists
+
+The first three chapters of this curriculum established that there's a carbon problem (Ch. 1), that there's a material commodity economy in solid carbon (Ch. 2), and that there's an infrastructure economy in moving CO₂ molecules (Ch. 3). This chapter establishes the *upstream*: the fossil fuel value chain that's currently mobilizing carbon from geological reservoirs into the atmosphere at ~10.4 GtC/yr.
+
+Fossil fuels are the single largest physical-economy driver of climate change. About 90% of anthropogenic CO₂ emissions come from fossil combustion, with the remaining ~10% from land-use change (mostly deforestation). The energy transition is fundamentally a question about *how fast and how completely* the world stops mobilizing fossil carbon. Every other chapter in this curriculum — markets, policies, technologies, geopolitics, disclosure — is downstream of how fast the fossil fuel value chain shrinks or persists.
+
+This chapter is also where I'm going to be most explicit about the "honest version" of contested questions. The fossil fuel industry's future is one of the most contested empirical questions in energy economics. The 2025 IEA World Energy Outlook is a remarkable document — partly because it walked back some prior predictions, partly because it did so under political pressure from the US administration. We need to engage with that tension directly rather than pretending there's an analytical consensus.
+
+---
+
+# Part 1: What fossil fuels actually are
+
+The three fossil fuels — coal, oil (petroleum), and natural gas — are all biological in origin, but they came from different source materials, formed in different environments, and have different chemical compositions. Those differences shape everything downstream: where they're found, how they're extracted, how they're transported, what they're used for, and how much CO₂ they emit per unit of energy delivered.
+
+## Coal
+
+Coal formed primarily during the **Carboniferous period** (~300–360 million years ago), from accumulated plant material (mostly woody trees and ferns in vast tropical swamps) that was buried and compressed before fully decomposing. Coal is essentially a *concentrated solid carbon* (~50–90% C by mass depending on grade), with hydrogen, oxygen, sulfur, nitrogen, and various mineral matter (ash) as impurities.
+
+Coal grades, from highest to lowest energy content:
+- **Anthracite** (>90% C). Hard, shiny, lowest sulfur. Premium product for industrial heating and (historically) home heating. Limited supply (Pennsylvania, Vietnam, China, Russia).
+- **Bituminous** (60–90% C). The workhorse — coal-fired power generation, steelmaking (when sufficiently low in ash/sulfur — see *coking coal* in Ch. 2). Most US, Australian, and Chinese coal is bituminous.
+- **Sub-bituminous** (35–60% C). Lower energy content, often used for power generation closer to the mine. Wyoming Powder River Basin is mostly sub-bituminous.
+- **Lignite** ("brown coal", 25–35% C). Lowest energy, highest moisture. Rarely transported far — burned at the mine mouth. Germany, Indonesia, Turkey are major lignite users.
+
+Coal's carbon content is the highest of any fossil fuel — burning a ton of bituminous coal releases roughly **2.4–2.7 tCO₂**, depending on grade and combustion efficiency. Per unit of *energy* delivered (kg CO₂ per MJ or g CO₂ per kWh), coal is the worst of the three fossils by a wide margin.
+
+## Oil (petroleum / crude oil)
+
+Oil formed from **marine plankton and algae** (not from dinosaurs, despite the popular trope) that accumulated on ancient sea floors, was buried under sediment, and was subjected to heat and pressure over tens-to-hundreds of millions of years. The temperature and pressure regime — the "oil window" — converts the original organic material into a complex mixture of hydrocarbons (compounds of just carbon and hydrogen) ranging from light gases (methane, ethane) to heavy liquids and tars.
+
+Crude oil composition varies enormously by source. **Light sweet crude** (high API gravity, low sulfur — e.g., WTI, Brent, Bonny Light) commands premium prices because it's easier to refine into the products with the most demand: gasoline, diesel, jet fuel. **Heavy sour crude** (low API gravity, high sulfur — e.g., Western Canadian Select, Mexican Maya, much Middle East crude) trades at discount because refining costs are higher and the product mix is less valuable.
+
+Petroleum has roughly the energy content of ~42 GJ/ton, with carbon content of ~85% by mass and the rest mostly hydrogen. Burning a barrel of oil releases approximately **0.43 tCO₂**, or about **75 kgCO₂/GJ**.
+
+The product slate from refining a barrel of crude is roughly:
+- 45–50% transportation fuels (gasoline, diesel, jet)
+- 10–15% petrochemical feedstocks (naphtha, ethane)
+- 10–15% heavier products (fuel oil, asphalt, lubricants)
+- 5–10% LPG and lighter products
+- Remainder: refinery losses, coke (Ch. 2), other
+
+This product slate matters for the energy transition. If EVs displace gasoline demand but petrochemical demand keeps growing, the *barrel mix* changes — refiners need to crack more of each barrel into chemicals rather than fuels. This is one reason "peak oil demand" is more complex than "peak gasoline demand."
+
+## Natural gas
+
+Natural gas is almost entirely **methane (CH₄)** — typically 70–95% by volume — with smaller amounts of ethane, propane, butane (these heavier components are often separated and sold separately as NGLs — natural gas liquids), plus impurities like CO₂, H₂S, nitrogen, and water.
+
+Methane is the smallest hydrocarbon: one carbon atom, four hydrogens. It has the highest hydrogen-to-carbon ratio of any fossil fuel, which is why it's the lowest-carbon fossil fuel on a per-energy basis. Burning a ton of methane releases ~2.75 tCO₂; on an energy basis, ~50 kgCO₂/GJ — about a third lower than coal, about two-thirds of oil.
+
+But "lower carbon than coal" comes with a critical caveat: **methane itself is a powerful greenhouse gas**. If natural gas leaks during production, transport, or use — even a few percent of the gas — those leaks substantially erode the climate advantage over coal. This is the **methane leakage problem**, which we'll come back to.
+
+Natural gas exists in three commercial forms:
+- **Pipeline gas** — gaseous, moved through pipelines. Regional markets; price determined by regional supply-demand balance.
+- **LNG (Liquefied Natural Gas)** — cooled to about –162°C, occupying 1/600 the volume of gas. Shipped on specialized tankers. Connects regional markets globally; price connects North American, European, and Asian gas markets.
+- **CNG (Compressed Natural Gas)** — high-pressure (200–250 bar) gas, used as a vehicle fuel in some markets.
+
+Some gas is also re-injected (in oilfields, to maintain reservoir pressure), flared (burned at the wellhead because there's no economic market for it — a huge methane and CO₂ emissions problem), or vented (released directly, even worse climatically).
+
+## Comparing the three
+
+| Property | Coal (bituminous) | Oil | Natural Gas |
+|---|---|---|---|
+| Carbon content (% mass) | 60–80 | ~85 | ~75 |
+| Energy density | ~24 GJ/ton | ~42 GJ/ton | ~50 GJ/ton (~55 MJ/m³) |
+| CO₂ per energy | ~90 kgCO₂/GJ | ~75 kgCO₂/GJ | ~50 kgCO₂/GJ |
+| Form | Solid | Liquid (mostly) | Gas |
+| Transport | Rail, ship, barge | Pipeline, tanker, rail | Pipeline, LNG ship |
+| Major leakage risk | Coal-mine methane | Refinery emissions | Methane leakage (significant) |
+
+The intuition: **natural gas is the lowest-carbon fossil fuel only if the methane stays in the pipeline.** When leakage exceeds about 3% of production, natural gas becomes as climate-damaging as coal on a 20-year warming basis. Recent satellite measurements (TROPOMI, MethaneSAT post-launch loss in 2025, ongoing Carbon Mapper coverage) suggest methane leakage from oil and gas systems is higher than self-reported figures — often 2–4% from major producing regions — making the "gas is cleaner than coal" claim much more contingent than industry messaging suggests.
+
+## **Stop-and-check 4.A**
+
+1. Which fossil fuel has the highest hydrogen-to-carbon ratio, and why does that matter for its CO₂ emissions per unit of energy?
+2. Coal "grades" range from anthracite to lignite. Why are lignite plants almost always located right next to the mine, while bituminous coal is shipped globally?
+3. If methane leakage from natural gas systems is 3%, how does that change the climate comparison between gas and coal? (You don't need exact math — qualitative reasoning is enough.)
+4. **Socratic prompt:** The conventional climate framing is "coal worst, oil middle, gas best — so switch from coal to gas while we figure out the rest." What assumptions does that framing depend on, and where could it be wrong?
+
+---
+
+# Part 2: The global oil market
+
+Oil is the most globally-traded fossil fuel by far. Approximately **101 million barrels per day** of liquids were produced and consumed in 2024 — the first year that demand crossed the 101 mb/d threshold. Of that, roughly 65 mb/d crosses international borders as crude or refined products. There's a *single global oil market*: prices in New York, Rotterdam, and Singapore move together within hours, modulated by quality differentials and transport costs.
+
+## The producers
+
+Three categories of producers shape the market:
+
+**1. OPEC and OPEC+.** The Organization of Petroleum Exporting Countries — Saudi Arabia, Iran, Iraq, UAE, Kuwait, Venezuela, Nigeria, Algeria, Libya, Angola, Equatorial Guinea, Congo, Gabon — produce about 27 mb/d combined. Including OPEC+ (the OPEC-Russia coordination structure that emerged in 2016), the bloc covers ~42 mb/d, roughly 41% of global production. Saudi Arabia alone produces ~10 mb/d and has the world's largest sustainable production capacity (~12 mb/d). The bloc operates as a producer cartel: it sets quotas to manage prices, with member compliance varying. OPEC+ has more pricing power on the downside (cutting production to support prices) than the upside (production discipline tends to fray when prices are high).
+
+**2. Non-OPEC International Oil Companies (IOCs)** — ExxonMobil, Chevron, Shell, TotalEnergies, BP, Eni, Equinor. These are the publicly-traded supermajors. Together they produce about 11 mb/d. They invest in long-cycle upstream projects worldwide, refine and market petroleum products, and (variously) have growing low-carbon investments. Their importance to the market exceeds their production share because they set the marginal investment decision for non-OPEC supply.
+
+**3. National Oil Companies (NOCs) outside OPEC** — China's CNPC/Sinopec/CNOOC, India's ONGC, Brazil's Petrobras, Russia's Rosneft/Lukoil, Mexico's Pemex, Norway's Equinor (technically also an IOC). These vary enormously: some are commercially-managed and similar to IOCs in operation (Petrobras, Equinor); others are deeply integrated with state policy and exist as much for revenue generation and employment as for commercial efficiency (Pemex, Venezuela's PDVSA).
+
+**4. US shale producers** — the disruptive new entrants since 2010, ~13 mb/d of US tight oil production. Distinct from the IOC/NOC categorization: shale developers are typically smaller, faster-cycle, more capital-discipline-focused (post-2020), and operate in private and listed companies of varying size. US shale shifted the global supply curve in the 2010s; whether it continues to do so depends on capital discipline, drilling-inventory exhaustion, and oil price trajectories.
+
+The global oil price is a complex outcome of all these actors' decisions, plus inventory levels, demand surprises, and geopolitical risk premiums. The **Brent** price (North Sea, light sweet) and **WTI** price (Texas, light sweet) are the dominant benchmarks; other crudes price at spreads to these.
+
+## The consumers
+
+Global oil demand by end use (approximate 2024 breakdown):
+- **Road transport** (passenger and freight) — ~45%
+- **Petrochemicals** (plastics, chemicals, fertilizer feedstock) — ~15% and growing
+- **Aviation and shipping** — ~10%
+- **Industrial heat and process** — ~10%
+- **Buildings (heating)** — ~8%
+- **Power generation** — ~5%
+- **Other (mining, agriculture, military)** — ~7%
+
+The energy transition will hit these segments at very different rates. **Light-duty road transport** is the fastest-disrupting segment as EVs scale — global EV share of new car sales is approaching 25% in 2024–2025, and >50% in China and Norway. **Petrochemicals** are the most resilient — molecular feedstock demand grows with plastics, and electrification doesn't help. **Aviation and shipping** are decarbonizing slowly through SAF and ammonia/methanol respectively (Ch. 12). **Industrial heat** is partly electrifiable, partly not.
+
+The IEA STEPS scenario projects oil demand peaks around 102 mb/d in 2030 (essentially right now), then declines slowly to ~95 mb/d by 2035 and ~80 mb/d by 2050. The CPS scenario shows demand growing to 113 mb/d by 2050. The NZE scenario shows demand falling to ~50 mb/d by 2035 and ~25 mb/d by 2050. The range across these scenarios — 25 mb/d to 113 mb/d in 2050 — is enormous and reflects very different assumptions about EV adoption, policy continuity, and petrochemical demand growth.
+
+## The geopolitical structure
+
+Oil is the most geopolitically-loaded commodity in the world. Three structural features shape this:
+
+**1. Geographic concentration of reserves.** OPEC countries hold ~70% of proved oil reserves; Saudi Arabia and Venezuela alone hold ~40%. This is partly geological (Middle Eastern basins are unusually productive) and partly definitional (Venezuela's reserves are largely heavy oil/tar sands that may not be economic at modest prices).
+
+**2. Strategic chokepoints.** Roughly 20 mb/d of crude transits the **Strait of Hormuz** (Iran/Oman). Another 15+ mb/d passes through other chokepoints (Strait of Malacca, Bab el-Mandeb, Suez Canal, Bosphorus, Panama Canal). Disruption at any chokepoint creates global price spikes. The Strait of Hormuz is the single most consequential.
+
+**3. The producer/consumer divide.** The major consuming powers (US, Europe, Japan, increasingly China and India) are largely not the major producers. Energy security has been a dominant consideration in US, EU, and Asian foreign policy for 50+ years. The shale revolution partially relaxed this for the US (which became a net liquids exporter around 2020) but left Europe and Asia structurally dependent on imports. Russia's invasion of Ukraine in 2022 made the European energy-security question urgent in a way it hadn't been since the 1970s.
+
+## **Stop-and-check 4.B**
+
+1. The oil market is "single and global" in a way the gas and coal markets are not. Why? What features of oil (vs. gas or coal) enable this?
+2. OPEC+ controls ~41% of production but its actual market power is sometimes described as larger than that. Why might that be? (Hint: Saudi Arabia specifically.)
+3. The IEA's 2025 WEO range for 2050 oil demand spans 25 mb/d to 113 mb/d — a factor of 4.5 difference. What are the two or three biggest swing variables that drive that range?
+4. **Socratic prompt:** If you're a Saudi oil minister in 2026, how do you think about whether to maximize current revenue (high prices, slow-walk supply) or to maximize lifetime revenue from your reserves (lower prices, faster monetization before demand peaks)? What does your answer depend on?
+
+---
+
+# Part 3: The global gas market — three regional markets plus the LNG bridge
+
+Natural gas is fundamentally a regional commodity. It moves cheaply within a connected pipeline network but is expensive to move across oceans without liquefaction. Three major regional markets, plus the LNG market that increasingly bridges them:
+
+**North American market.** Largely self-contained until ~2017. The US is the world's largest gas producer (~1,100 bcm/yr in 2024), with most production from shale formations (Marcellus, Permian, Haynesville, Eagle Ford). Henry Hub is the price benchmark. Historically much lower prices than European or Asian gas because of abundant domestic supply and limited export capacity. The shale revolution made the US a net gas exporter by 2017 and the world's largest LNG exporter by 2022 (overtaking Qatar).
+
+**European market.** Historically dependent on Russian pipeline gas (~40% of EU imports pre-2022), plus Norwegian pipeline gas, Algerian pipeline gas, and an increasing share of LNG (US, Qatar, others). Russia's invasion of Ukraine and the European policy response collapsed Russian pipeline imports — total Russian pipeline gas to Europe fell from ~155 bcm in 2021 to <30 bcm in 2024. Replacement came from LNG, demand destruction (high prices reduced industrial demand by ~30 bcm), and accelerated renewable deployment. TTF (Title Transfer Facility, Netherlands) is the European benchmark; prices spiked to ~€345/MWh in August 2022 (vs. ~€15/MWh historical normal), settling to ~€30–45/MWh through 2024–2025.
+
+**Asian market.** Centered on LNG imports by Japan, Korea, Taiwan, China, India. JKM (Japan-Korea Marker) is the Asian LNG benchmark. Historically the most expensive market because of high import dependence and long-term oil-indexed contracts. China's growing domestic production and pipeline imports (especially from Russia via Power of Siberia 1, with Power of Siberia 2 negotiated through 2024–2025) are reshaping Asian gas dynamics.
+
+The **LNG market** ties these regional markets together. Total LNG trade was about 410 Mt in 2024 (~560 bcm equivalent). The 2025 IEA WEO projects a **300 bcm wave of new LNG export capacity coming online by 2030** — roughly half of it in the US, 20% in Qatar, the rest in Canada, Mozambique, and other producers. This is the largest LNG capacity buildout in history. In the STEPS scenario, this floods the market and depresses prices, prompting *higher* gas demand growth in importing countries than the IEA had previously projected. In the NZE scenario, much of this capacity becomes stranded.
+
+The current LNG buildout is a high-stakes wager on the part of producers: that demand will materialize to absorb the new supply. If gas demand peaks earlier than projected (the STEPS view) or much earlier (the NZE view), several of these terminals will end up underutilized or stranded. Already, the IEA notes that "many of the LNG projects currently under construction are no longer necessary" under the NZE scenario.
+
+## The methane leakage question
+
+We touched on this in Part 1, but it deserves a fuller treatment because it's a live debate that affects every cost-benefit analysis of gas.
+
+Methane (CH₄) has a much higher GWP than CO₂: about 30 on a 100-year basis (AR6), 82 on a 20-year basis. When natural gas leaks unburned, it has a disproportionate climate impact.
+
+The question is **how much gas leaks**. Industry self-reported leakage rates have historically been ~1.0–1.5% of production. Recent atmospheric and satellite measurements (TROPOMI, the now-lost MethaneSAT in 2025, ongoing Carbon Mapper coverage, MethaneSAT successor missions) consistently find higher numbers — often 2–4% in major producing basins, with hotspots much higher. The Permian Basin, in particular, has been measured at leakage rates of 3–4% or higher.
+
+Why does this matter:
+- At **<2% leakage**, gas is climatically better than coal for power generation on both 20- and 100-year horizons.
+- At **2–3% leakage**, gas is better than coal on a 100-year basis but worse on a 20-year basis.
+- At **>3% leakage**, gas is worse than coal on a 20-year basis and barely better on a 100-year basis. The "gas as bridge fuel" framing collapses.
+
+EU methane regulations (effective from 2024, ramping through 2030) require imported LNG to meet methane intensity standards. The US under the Biden administration finalized methane regulations under EPA's New Source Performance Standards and the IRA's methane fee. The Trump administration has signaled rollback of these — the OBBBA delayed the methane fee until 2034 and the EPA is reconsidering the NSPS rule. The net effect: methane leakage will become a major source of US-EU regulatory and trade tension over the next several years.
+
+This is one of the contested areas where the data is improving fast (satellite measurements) but the policy regimes are diverging.
+
+---
+
+# Part 4: The global coal market
+
+Coal is the simplest of the three fossil fuels structurally — solid, doesn't need pipelines, easy to stockpile — and the most geographically concentrated in both production and consumption.
+
+## The numbers
+
+Global coal production in 2024 reached a record ~9 billion tons. Consumption was at a record ~165 EJ (about 8.8 billion tons in energy-equivalent terms after netting out exports/imports and stock changes).
+
+**83% of global coal demand is in the Asia-Pacific region** — China alone accounts for ~55% of global coal consumption. India accounts for another ~13%. The rest of Asia (Indonesia, Vietnam, Japan, Korea, etc.) accounts for ~15%. Outside Asia, North America, Europe, and Latin America together consume about 17% of the global total — and that share has been declining steadily as OECD coal use retreats.
+
+The end-use breakdown:
+- **Power generation** — ~50% globally; ~58% of China's electricity is still coal-fired despite massive renewables build-out.
+- **Steel and metals (coking coal + thermal coal in furnaces)** — ~15% (Ch. 2 covers this in detail).
+- **Cement** — ~5%, almost all process heat.
+- **Industrial heat and chemicals** — ~15%.
+- **Buildings (heating, especially in northern China)** — ~5%.
+- **Other** — ~10%.
+
+Coal is the dirtiest fossil fuel on every relevant metric: CO₂ per energy, particulate matter, sulfur, mercury, nitrogen oxides. The local air quality impact is enormous — coal is a major contributor to the ~7 million annual premature deaths attributable to air pollution globally. China's coal-fired air pollution has driven roughly 1 million premature deaths per year for decades; India's is now comparable in scale.
+
+## The structure
+
+Coal markets are far less consolidated than oil. **Top 5 producers** account for about 75% of global production:
+- **China:** ~5,000 Mt/yr (55% of global)
+- **India:** ~1,000 Mt/yr (11%)
+- **Indonesia:** ~750 Mt/yr (8%, world's largest exporter)
+- **Australia:** ~440 Mt/yr (5%, second-largest exporter)
+- **Russia + US + South Africa + Colombia:** ~1,000 Mt/yr combined (11%)
+
+Trade flows: Indonesia → China, India, South Korea, Japan. Australia → Japan, China, India, Korea. Russia → China, India, Turkey. Colombia and South Africa → Europe (declining) and India.
+
+China is the strange center of the coal economy: the world's largest producer, importer, and consumer simultaneously. Its policy decisions dominate global coal market dynamics. The 2021–2022 Chinese coal supply crunch (a combination of domestic safety reviews, anti-corruption campaigns, weather, and reduced Australian imports during the diplomatic dispute) tightened global coal markets and pushed prices to records. The 2023–2024 Chinese coal surge (driven by power security concerns after the 2021 blackouts) added substantial coal capacity even as Chinese renewables also surged. China is in many ways doing *both* the energy transition and the coal buildout simultaneously.
+
+## The "peak coal" question
+
+Globally, coal demand has been flat to slightly growing for the past decade, with the Asia-Pacific surplus offsetting the OECD decline. The IEA's STEPS scenario shows global coal demand peaking before 2030 and declining about 20% by 2035. Even the new CPS scenario (introduced under US pressure) shows coal declining before the end of this decade, though more gradually.
+
+The peak coal claim is more defensible than peak oil because:
+- OECD coal use has been falling for over a decade (US coal-fired generation halved between 2010 and 2024).
+- China's domestic policy increasingly favors renewables for new capacity — Chinese solar installations exceeded US total electricity-generating capacity in 2024 alone.
+- Cost trajectory: utility-scale solar is now cheaper than running existing coal plants in most major markets, let alone building new ones.
+
+But the peak isn't certain because:
+- China still added significant coal-fired generation capacity in 2024 (~95 GW of new approvals, ~50 GW of new builds), much of it argued as backup for renewables variability.
+- India is unlikely to peak coal before 2035 under its current policy mix; power demand growth is high and renewables capacity is growing but from a much lower base.
+- Southeast Asia (Indonesia, Vietnam, Philippines) is building coal even as some western financial institutions retreat from financing it.
+
+The cleanest reading: coal *globally* is likely to peak in the mid-to-late 2020s, but the decline is gradual in scenarios consistent with current policy. Faster decline requires more aggressive subsidization of renewables, faster grid investment in major Asian economies, and politically difficult retirement of existing coal capacity. Even after the peak, coal will be a major energy source through at least the 2040s.
+
+## **Stop-and-check 4.C**
+
+1. The coal market is geographically concentrated in a way oil and gas are not — 83% of consumption is in Asia-Pacific, dominated by China. What does this concentration imply for international policy levers (carbon pricing, financing restrictions, trade)?
+2. Indonesia is now the world's largest coal exporter, displacing Australia. Indonesia's economy is heavily dependent on coal export revenue. How does that affect the politics of coal phase-down?
+3. China is building both renewables *and* coal at unprecedented rates simultaneously. Is this a contradiction, or is it a coherent strategy? Make the case for each interpretation.
+4. **Socratic prompt:** If you had to allocate $100 billion of climate finance to reduce coal use globally, where would you spend it? Which countries, which sectors, which projects? Why?
+
+---
+
+# Part 5: Reserves, the carbon budget, and the stranded-asset question
+
+This is the section that connects the fossil fuel chapter directly back to Ch. 1's carbon-budget framing.
+
+## The reserve numbers
+
+Total proved reserves of the three fossil fuels (Energy Institute *Statistical Review of World Energy 2024–2025*, latest available figures):
+
+- **Oil:** ~1,700 billion barrels of proved reserves. At current production of ~37 Gt/yr, that's roughly a 50-year reserves-to-production ratio.
+- **Natural gas:** ~190 trillion cubic meters of proved reserves. At ~4,070 bcm/yr production, roughly a 47-year R/P ratio.
+- **Coal:** ~1,070 billion tons of proved reserves. At ~9 Gt/yr production, ~118-year R/P ratio.
+
+Converting these to CO₂-equivalent (using approximate carbon intensities):
+- **Oil reserves: ~750 GtCO₂**
+- **Gas reserves: ~470 GtCO₂**
+- **Coal reserves: ~2,200 GtCO₂**
+
+Total proved fossil reserves ≈ **3,400 GtCO₂** of potential CO₂ emissions if fully extracted and burned without capture.
+
+For comparison:
+- **Remaining 1.5°C budget (50% probability):** ~170 GtCO₂ — about **5% of proved reserves**.
+- **Remaining 1.7°C budget (50%):** ~525 GtCO₂ — about **15% of proved reserves**.
+- **Remaining 2°C budget (50%):** ~1,055 GtCO₂ — about **31% of proved reserves**.
+
+So even under a 2°C target, **about two-thirds of proved fossil reserves cannot be burned** without CCS or some other intervention to keep the CO₂ out of the atmosphere. Under 1.5°C, **95% can't be burned**.
+
+This is the **unburnable carbon** thesis, articulated by Carbon Tracker in 2011 and updated regularly since. It has profound implications for the fossil fuel industry's balance sheet, for sovereign wealth, for pension funds with fossil exposure, and for the economic geography of producing regions.
+
+## Where stranded assets actually hit
+
+The unburnable carbon framework would predict that, in a world consistent with even modest climate ambition, fossil fuel reserves should trade at discounts to their full-extraction value. In practice, this has happened *partially*:
+
+**Coal: substantial stranding has occurred.** The US and European coal industries have shrunk dramatically since 2015 — Peabody, Arch, Murray Energy, and several others have gone through bankruptcies. European coal phase-out commitments have explicitly stranded reserves (Germany's 2038 coal exit, UK's 2024 final coal plant closure). OECD coal capital expenditure has fallen 80%+ from peak. *This is what an actual stranded-asset transition looks like.*
+
+**Oil and gas: not yet, except at the margins.** The supermajors' balance sheets are largely intact. Reserve impairments occurred during the 2015–2016 and 2020 price crashes, but those were cyclical rather than structural. Some specific assets have been stranded (Arctic Alaska exploration, some Canadian oil sands, some heavy Venezuela reserves), but most proved reserves continue to be valued at full-extraction worth. The major IOC share prices have outperformed the broader market since 2020.
+
+Why hasn't more oil/gas stranding occurred yet? Several reasons:
+- **Demand has held up** — oil demand crossed 101 mb/d in 2024, gas demand keeps growing.
+- **The IEA's policy walkbacks** — recent WEO updates (2024 and 2025) have softened the projected fossil-demand declines, vindicating the industry's "demand is here" framing.
+- **The Russia/Ukraine war** rehabilitated energy security as a policy priority, slowing some climate-driven retirements.
+- **Trump administration** policies in 2025 have signaled increased fossil fuel support and reduced climate regulation.
+- **Discount rates** — a stranded asset in 2040 is worth a lot less in present-value terms than one in 2025, so far-future stranding doesn't move current prices much.
+
+The stranded-asset thesis hasn't been wrong; it's just been slower to manifest than expected. Whether it materializes in the next decade depends substantially on whether the policy trajectory toward 2°C strengthens or weakens. The current trajectory (~2.5°C warming under STEPS) implies far less stranding than 1.5°C-compatible policy would.
+
+## The signal problem
+
+There's a deeper analytical issue worth flagging: the stranded-asset framework treats fossil reserves as if they had a single, well-defined value depending on whether climate policy succeeds or fails. The reality is messier:
+
+- **CCS is allowed in most climate scenarios.** Coal and gas plants with CCS still get to operate; their underlying reserves don't get stranded. This is the basis for ExxonMobil's argument that CCS converts its emissions from a liability into a managed cost.
+- **Different reserve qualities have different stranding risks.** Low-cost Saudi reserves are likely to be among the last produced; high-cost Canadian oil sands or Arctic offshore are the most at risk. *Stranded reserves are concentrated in the highest-cost producers.*
+- **Stranded-asset risk is asymmetric across firms.** Diversified majors (ExxonMobil, Shell, TotalEnergies) have downstream and integrated operations that capture margin even if upstream value declines. Pure-play upstream producers (some Canadian operators, US shale specialists, Russian producers) bear more concentrated upstream risk.
+
+The cleanest framing: stranded-asset risk is real, concentrated in high-cost reserves and high-fossil-share companies, materially under-priced by markets compared to the IEA's 1.5°C scenarios, but not yet manifest at scale outside coal. Whether the broader oil/gas stranded-asset wave arrives in the late 2020s, the 2030s, or never depends substantially on the policy trajectory.
+
+## **Stop-and-check 4.D**
+
+1. Even with full CCS deployment, less than half of proved fossil reserves can be burned within the 2°C carbon budget. Why does CCS help less than people sometimes assume?
+2. Coal stranding has happened in OECD economies but barely in China or India. What does this asymmetry suggest about how stranded-asset transitions actually play out?
+3. The IEA's reintroduction of the Current Policies Scenario (CPS) in 2025 shows oil demand growing to 113 mb/d by 2050 — a dramatic walkback from previous "peak oil 2030" framing. How should you, as a sophisticated reader, interpret this change?
+4. **Socratic prompt:** A pension fund holds 8% of its portfolio in oil and gas equities. If 1.5°C policy is implemented, those equities are worth a fraction of their current price. What should the fund do — divest now (potentially missing further upside), engage with companies on transition plans, hedge through derivatives, or accept the risk? Defend a specific answer.
+
+---
+
+# Part 6: The IEA's 2025 World Energy Outlook — what it says and what it tells us
+
+The 2025 WEO is worth treating as its own subsection because it's an unusual document. The IEA, traditionally seen as a relatively pro-transition voice in energy analysis, has made several substantive shifts that deserve unpacking.
+
+## The big change: CPS is back
+
+The IEA's three primary scenarios are:
+
+- **NZE (Net Zero Emissions by 2050):** A normative scenario showing what would be required to limit warming to 1.5°C. Assumes aggressive policy action; oil/gas demand falls dramatically; no new fossil supply development needed after 2025.
+- **STEPS (Stated Policies Scenario):** Reflects current government policies and announced plans. The "what's likely to happen" scenario based on policy intentions. Oil peaks ~2030 in 2024 WEO; gas peaks ~2035; coal peaks before 2030.
+- **CPS (Current Policies Scenario):** *Reintroduced in 2025 after a five-year hiatus*, under explicit pressure from the US administration (Energy Secretary Chris Wright publicly criticized the IEA for "peak oil demand assumptions"). Assumes governments fail to implement their announced policies. Oil demand grows to 113 mb/d by 2050; gas demand keeps growing; coal declines only slightly. Implies ~2.9°C warming.
+
+The reintroduction of CPS isn't analytically neutral. It signals the IEA accommodating political pressure to portray fossil-favorable scenarios alongside transition-favorable ones. The IEA frames CPS as "what happens if announced policies fail" — but the assumptions are striking: that EU coal phase-out commitments fail, that Japan/Korea fail to implement their electricity plans, that California fails to extend its clean-energy targets, that India and Brazil fail to implement their ETS plans. These are claimed to be possible but the assumption of *near-universal* policy backsliding is a heroic counterfactual.
+
+## What the report concludes
+
+Cutting through the scenario framings:
+
+- **Coal demand peaks before 2030 in every scenario, including CPS.** Even the fossil-favorable scenario can't keep coal growing.
+- **Oil demand peaks around 2030 in STEPS, doesn't peak before 2050 in CPS.** The disagreement is about whether stated policies are implemented.
+- **Gas demand grew in 2024 (101 bcm growth, ~2.5%) and is now projected to continue growing into the 2030s in STEPS — a substantive walkback from 2024 WEO.** This is driven by the wave of LNG capacity coming online (300 bcm of new capacity by 2030) lowering prices.
+- **Methane leakage remains a downside risk** that could compromise gas's climate advantage if not addressed.
+- **The "rapid renewables" story is robust:** even CPS shows >2,000 GW of solar additions through 2030. The transition is genuinely happening; the question is the pace.
+- **The "peak fossil demand" headline of recent WEOs is now hedged.** STEPS still shows it; CPS doesn't.
+
+## How to read the WEO honestly
+
+Three calibration points for using the 2025 WEO:
+
+**1. STEPS is more aspirational than current-policy-equivalent.** It includes announced policies that haven't been enacted. Some policies that have been enacted (US under the Inflation Reduction Act) face active rollback under the Trump administration that wasn't fully captured in the report's policy assumptions.
+
+**2. CPS is less neutral than it appears.** The assumption of near-universal policy backsliding is a worst-case rather than "current trajectory." Some prominent independent analysts (BNEF, IEEFA, IISD) have criticized it as functionally a Trump administration capitulation scenario rather than an unbiased current-trajectory baseline.
+
+**3. The NZE scenario remains the only one consistent with the Paris 1.5°C target — and it has been getting harder to reach.** The 2025 NZE acknowledges that 1.5°C is no longer feasible without temporary overshoot (peaks at 1.65°C, returns later). Pre-2023 NZE scenarios still treated 1.5°C as achievable without overshoot.
+
+The honest read: the 2025 WEO is a more politically-mediated document than recent years' editions. The underlying analytical work remains good, but the scenario presentation has shifted to accommodate political pressure. Treat the scenarios as scenarios, look at the underlying technology and demand assumptions for each, and form your own view about which assumptions are more plausible.
+
+---
+
+# Closing exercise
+
+Three things to take away:
+
+**1. The fossil fuel industry is structurally larger and more resilient than climate analysts often acknowledge.** Oil demand crossed a record 101 mb/d in 2024. Gas demand grew. Coal hit a record. Renewables are growing faster, but from a smaller base. The 2024 numbers vindicated the industry's "demand is here, transition is slow" framing more than the climate-policy community's "rapid transition" framing.
+
+**2. The reserve-to-budget mismatch is enormous.** Proved fossil reserves contain ~3,400 GtCO₂. The 2°C budget is ~1,000 GtCO₂. About two-thirds of reserves are "unburnable" in even a moderate climate scenario. This is a real economic problem that has only partially manifested as stranded-asset losses — concentrated in coal so far, hardly at all in oil/gas.
+
+**3. The 2025 IEA WEO is a political document as well as an analytical one.** The reintroduction of CPS under US pressure, the upward revision of gas demand, the softened peak-oil framing — all reflect political pressure to present fossil-favorable scenarios. The underlying analysis is still useful, but the scenario presentation has shifted. Read carefully.
+
+The fossil-fuel chapter sits at an uncomfortable junction. The science is clear that aggressive fossil-fuel reduction is needed to stay within 2°C. The market data is clear that fossil-fuel demand is still growing. The policy regime in major economies (US, especially post-2025) is shifting away from rapid transition. These don't reconcile easily. Subsequent chapters on markets (Ch. 7, 8, 9), policy (Ch. 6, 13, 14), and technology (Ch. 10, 11, 12) all build on this tension.
+
+---
+
+# What this chapter simplified
+
+**1. Reserves vs. resources vs. resource base.** I used "proved reserves" throughout. The fuller hierarchy is: **proved reserves** (economically recoverable with 90% probability under current conditions) < **probable reserves** (50% probability) < **resources** (technically recoverable) < **resource base** (in-place, regardless of recoverability). For coal especially, resources are an order of magnitude larger than proved reserves. The 3,400 GtCO₂ number is the conservative version.
+
+**2. Carbon intensity of different fuel types varies more than I implied.** I gave you average emission factors. In practice, Canadian oil sands have ~25% higher upstream emissions than light Saudi crude; flared associated gas has dramatically higher methane emissions than processed pipeline gas; high-ash Indian coal has lower energy density than Australian metallurgical coal. For project-specific analysis, the supply-chain emissions matter substantially.
+
+**3. The peak-oil narrative is more contested than the peak-coal one.** I treated peak coal as plausible-soon, peak oil as IEA-projection-around-2030. The honest framing is that peak coal is genuinely likely in the next 2–5 years; peak oil is much more uncertain and depends heavily on petrochemical demand growth and EV adoption rates.
+
+**4. The methane leakage numbers are evolving fast.** I cited 2–4% leakage rates from recent measurements. These numbers will continue to be refined as satellite measurement capabilities improve. The MethaneSAT failure in 2025 (the satellite was lost shortly after launch) was a setback, but Carbon Mapper and other systems continue measurements. Expect this section to need updating frequently.
+
+**5. The 2025 OBBBA methane fee delay is regulation-current and may change.** The methane fee was originally a 2024 IRA provision; OBBBA delayed it to 2034. Whether it stays delayed depends on subsequent legislative and executive action.
+
+---
+
+# Glossary delta (Chapter 4)
+
+- **API gravity** — Measure of crude oil density: higher API = lighter crude. Light sweet crude (high API, low sulfur) commands premium prices; heavy sour crude trades at discount.
+- **Bituminous coal** — The dominant coal grade globally; 60–90% carbon. Used for both power generation and (when low in ash/sulfur) coking coal for steelmaking.
+- **CNG (Compressed Natural Gas)** — Natural gas at 200–250 bar pressure, used as vehicle fuel in some markets.
+- **CPS (Current Policies Scenario)** — IEA scenario reintroduced in WEO 2025 after a 5-year hiatus, under US pressure. Assumes governments fail to implement announced policies. Shows oil demand growing to 113 mb/d by 2050. Implies ~2.9°C warming.
+- **Crude oil benchmarks** — Brent (North Sea light sweet), WTI (Texas light sweet), Dubai/Oman (Middle East medium), Bonny Light (Nigeria), Maya (Mexico heavy sour). Most globally-traded crudes price at spreads to these benchmarks.
+- **Henry Hub** — US natural gas price benchmark (Louisiana). Sets pricing for most North American gas.
+- **IOC (International Oil Company)** — Publicly-traded supermajor: ExxonMobil, Chevron, Shell, TotalEnergies, BP, Eni, Equinor. Combined upstream production ~11 mb/d.
+- **JKM (Japan-Korea Marker)** — Asian LNG benchmark, set by spot LNG cargoes delivered to Japan and Korea.
+- **Lignite (brown coal)** — Lowest-energy coal grade (25–35% C). Almost always burned at the mine-mouth because not economic to transport.
+- **LNG (Liquefied Natural Gas)** — Natural gas cooled to ~–162°C (1/600 the volume of gas), shipped on specialized tankers. Connects regional gas markets globally.
+- **Methane leakage** — Loss of unburned methane during natural gas production, processing, transport, and use. Recent satellite measurements suggest 2–4% leakage from major producing regions, substantially higher than industry self-reports.
+- **NGLs (Natural Gas Liquids)** — Heavier hydrocarbon components (ethane, propane, butane) separated from natural gas. Sold as petrochemical feedstock or LPG.
+- **NOC (National Oil Company)** — State-owned oil company. Includes Saudi Aramco, ADNOC, Pemex, Petrobras, CNPC, ONGC, Rosneft, and others. Together control most global reserves.
+- **NZE (Net Zero Emissions by 2050)** — IEA's normative scenario consistent with 1.5°C (with overshoot in 2025 version). Requires no new fossil fuel field development.
+- **OPEC+ / OPEC** — Producer cartel coordinating supply decisions. OPEC = 13 countries plus partners; OPEC+ adds Russia and several other non-OPEC producers, controls ~41% of global oil production.
+- **R/P ratio (Reserves-to-Production)** — Years that proved reserves would last at current production rates. Oil: ~50 years; Gas: ~47 years; Coal: ~118 years. Does not mean we run out at that point — new discoveries and price-driven additions extend reserves; but it indicates the size of the recoverable pool.
+- **Shale revolution** — Period from ~2005–2020 in which US tight oil and gas production grew dramatically via horizontal drilling and hydraulic fracturing. Made the US a net liquids exporter (~2020) and the world's largest LNG exporter (2022).
+- **Sour crude / sweet crude** — Sour = high sulfur (>0.5%), sweet = low sulfur (<0.5%). Sweet trades at premium because refining is easier and produces a higher-value product mix.
+- **STEPS (Stated Policies Scenario)** — IEA scenario based on currently-stated government policies and announced plans. Shows oil peaking ~2030, gas peaking ~2035, coal peaking before 2030. Implies ~2.5°C warming.
+- **Stranded asset** — Asset that loses economic value before the end of its expected useful life due to changing market or regulatory conditions. In fossil fuels, refers to reserves and infrastructure that cannot be exploited under climate-constrained demand.
+- **Strait of Hormuz** — Strategic chokepoint between Iran and Oman through which ~20 mb/d of crude oil and substantial LNG transit. Single most consequential energy chokepoint globally.
+- **Tight oil / shale oil** — Oil produced from low-permeability shale formations using horizontal drilling and hydraulic fracturing. US tight oil ~13 mb/d in 2024.
+- **TTF (Title Transfer Facility)** — European natural gas price benchmark (Netherlands).
+- **Unburnable carbon** — The fraction of proved fossil reserves whose CO₂ emissions would exceed the remaining carbon budget for a chosen temperature target. ~95% of reserves at 1.5°C; ~70% at 2°C.
+- **WEO (World Energy Outlook)** — Annual IEA flagship report, the canonical global reference for energy demand projections. 2025 edition reintroduced CPS scenario.
+
+---
+
+# What's next
+
+You've now completed the foundational chapters of this curriculum:
+- Ch. 1: The carbon problem (the science)
+- Ch. 2: Solid carbon as commodity (the materials economy)
+- Ch. 3: The CO₂ molecule value chain (the infrastructure)
+- Ch. 4: Fossil fuels (the source side)
+
+From here, the curriculum shifts firmly into Track B (climate liability / policy / markets). The natural next chapter is **Chapter 5 (Emissions Accounting)** — the rosetta stone for everything in markets, disclosure, and corporate net-zero claims. After that, Chapter 6 (policy history 1988–2015) and Chapter 7 (compliance carbon markets) build the markets-and-policy story.
+
+Or you can jump to a topic you specifically want to explore. The dependency graph in the syllabus shows what each chapter requires.
+
