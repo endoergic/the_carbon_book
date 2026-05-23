@@ -440,6 +440,93 @@ The substantive question of which instrument is most effective in a given sector
 
 ---
 
+# Part 8: Fuel-standard compliance regimes
+
+The previous seven parts have covered cap-and-trade and carbon taxes — the dominant architecture for compliance carbon pricing. A third and structurally distinct class of compliance instrument operates in parallel: **fuel-standard regimes**, which mandate carbon-intensity performance in transportation fuels without imposing a system-wide cap on total emissions.
+
+These regimes collectively move more money than many higher-profile carbon-pricing instruments. California's Low Carbon Fuel Standard generates roughly $1.5 billion in credit revenue annually. US renewable fuel mandates (RFS) support a $6–8 billion RIN market. EU renewable fuel directives and SAF mandates drive the largest clean-fuels capital deployment in the world. Understanding their architecture is essential context for Chapter 8's voluntary market discussion.
+
+## The defining design question: what's the baseline?
+
+Every compliance regime can be characterized by a single design question: **what is the baseline against which reductions are measured and rewarded?**
+
+The answer sorts fuel-standard regimes into two fundamentally different types:
+
+**Step-function regimes** use a statutory threshold. A fuel either qualifies (passes the lifecycle-emission hurdle) or it doesn't. Being cleaner than the threshold earns nothing extra. The entire reward is binary — you're in or you're out.
+
+**Continuous-function regimes** use a declining benchmark. Credits are earned in proportion to distance below the benchmark. A fuel that is twice as clean earns twice the credit. Ongoing improvements are continuously monetizable.
+
+This distinction matters for every downstream question: whether continuous operational improvement adds value, whether a project earns more by getting cleaner, and — critically for Chapter 8's discussion of voluntary carbon credits — whether there is any room left for a voluntary credit on top.
+
+## The major regimes
+
+| Regime | Geography | Unit | Baseline type | Rewards continuous improvement? | Additionality test? |
+|---|---|---|---|---|---|
+| **RFS (Renewable Fuel Standard)** | US federal | RIN (per gal-equiv) | Volumetric step (pass/fail) | **No** — over-performance earns nothing | No (statutory) |
+| **LCFS (Low Carbon Fuel Standard)** | CA, OR, WA, NM | Credit (tCO₂e) | Distance below declining CI benchmark | **Yes** — credits scale with CI gap | No (statutory) |
+| **45Z** | US federal | Tax credit ($/gal) | CI-scaled (up to ~$1.00/gal SAF) | Partly — value scales with CI | No (statutory) |
+| **REDIII** | EU (national transposition) | Varies by member state | Default CI by feedstock pathway | **Weakly** — default values blunt plant-level gains | No (statutory) |
+| **ReFuelEU Aviation** | EU airports | SAF blending volume | Volume mandate (step-like) | **No** — rewards qualifying, not improvement | No (statutory) |
+| **FuelEU Maritime** | EU port calls | GHG-intensity target | Distance below declining target; RFNBO 2× credit to 2033 | Yes, but regime immature | No (statutory) |
+| **CORSIA** | International aviation | Offset/SAF benefit | Baseline + eligible-fuel lifecycle benefit | n/a | Yes (VCM-style) |
+
+Several things to notice:
+
+**None of the compliance regimes requires an additionality test.** The fuel's CI score earns credits regardless of whether the project would have existed without credit revenue. These regimes are infrastructure policies, not project-crediting mechanisms. They reward performance, not counterfactual reasoning.
+
+**CORSIA is the exception.** The international aviation scheme has a VCM-style additionality requirement because it accepts voluntary-market offset credits alongside lifecycle SAF benefits. This makes CORSIA a hybrid — simultaneously a compliance scheme and a demand signal for the voluntary market.
+
+**The step-function/continuous-function distinction tracks geography and purpose.** The US federal RFS is a volume mandate — it wants a certain amount of renewable fuel in the mix. California's LCFS is an emissions-reduction instrument — it wants the fuel pool to get progressively cleaner. These are different policy goals producing different economic structures.
+
+## The regimes in detail
+
+### RFS (Renewable Fuel Standard)
+
+The US RFS mandates that fuel suppliers blend a volume of qualifying biofuels into the transportation fuel pool annually. The tradeable unit is the **RIN (Renewable Identification Number)** — a serial number attached to each gallon-equivalent of qualifying renewable fuel at production and detached at blending.
+
+The RFS is a step function: a fuel either passes the lifecycle GHG-reduction threshold for its D-code category (D3 cellulosic, D4 biomass-based diesel, D5 advanced, D6 conventional, D7 cellulosic diesel) or it doesn't. Exceeding the threshold earns no additional credit. RIN value is determined entirely by supply-demand between obligated parties (refiners, importers) and renewable-fuel producers. A D4 RIN at $0.70–$1.00/RIN translates to roughly $70–100/tCO₂e on a per-tonne basis, but this is coincidental — the RIN price is driven by mandate volume and blending economics, not by emissions-reduction efficiency.
+
+### LCFS (Low Carbon Fuel Standard)
+
+California's LCFS is the most analytically sophisticated fuel-standard regime in operation. Credits are denominated in tCO₂e and scale continuously with **carbon intensity (CI)** — the lifecycle GHG emissions of a fuel in gCO₂e per MJ.
+
+The regime sets a declining annual CI benchmark for the transportation fuel pool. Every fuel scoring below the benchmark earns a credit proportional to the gap; every fuel above the benchmark generates a deficit. Obligated parties must retire enough credits to cover their deficits.
+
+The key structural feature: because the benchmark declines annually, credits earned by a fixed-CI fuel shrink over time even with no changes to the fuel itself. This is the "ratchet" mechanism. It drives ongoing innovation — producers who can get their CI lower than competitors earn more credits from the same volume.
+
+**Reference price (Q1–Q2 2026):** approximately $63/tCO₂e. The LCFS credit market has a statutory price cap of $275.39/tCO₂e effective June 2026. The market has been tightening as the benchmark declines and the credit bank drawn down from its 2021–2023 peak.
+
+Some fuels achieve deeply negative CI — dairy biomethane, for instance, can score around −250 gCO₂e/MJ because capturing methane that would otherwise escape earns a large avoided-emissions credit. LCFS pays for this CI performance; being far below the ~95 gCO₂e/MJ benchmark produces a very large credit per unit of fuel. This "negative-CI mechanic" deserves careful reading: it is a counterfactual avoidance claim embedded inside a fuel score, with the same additionality and baseline vulnerabilities as a VCM avoidance credit. Chapter 8 develops this point in Part 8.
+
+### 45Z (Clean Fuel Production Credit)
+
+The US production tax credit for low-CI transport fuels, effective 2025 through 2029. Value scales with CI — up to approximately $1.00/gallon for SAF depending on the emissions profile. A US HEFA SAF producer selling into California can simultaneously capture a D4/D5 RIN, an LCFS credit, and a 45Z credit on the same gallon — a compliance stack that creates some of the most favorable fuel-project economics anywhere in the world.
+
+### REDIII and ReFuelEU Aviation
+
+The EU's **Renewable Energy Directive III (REDIII)** sets binding renewable-fuel sub-targets for transportation including a dedicated RFNBO e-fuels sub-mandate. REDIII relies primarily on **default CI values by feedstock pathway** — standardized lifecycle scores published in annexes, not plant-specific measurements. An "actual value" certification pathway exists but requires separate effort. The gap between default and actual values is analytically significant: it is the location of what Chapter 8 calls the "boundary-gap white space" in voluntary fuel credits.
+
+**ReFuelEU Aviation** mandates escalating SAF blending percentages at EU airports: 2% in 2025 rising to 70% by 2050, with a dedicated eSAF sub-mandate. It is a **volume obligation** — it rewards being a qualifying SAF, not continuous improvement. A producer who gets cleaner does not earn additional compliance value once the mandate is met. This distinction has direct consequences for where voluntary credits can and cannot be layered on top.
+
+### FuelEU Maritime
+
+**FuelEU Maritime** (effective 2025) sets declining GHG-intensity targets for energy used by ships calling at EU ports. Until 2033, renewable fuels of non-biological origin — including green ammonia — count double toward a ship's GHG-intensity target. FuelEU is a newer and still-maturing regime; the IMO's global GHG mechanism remains in formation and will interact with FuelEU as both systems develop.
+
+## Stacking and its limits
+
+These regimes can stack on the same physical gallon. A US HEFA SAF producer selling into California can legitimately earn a RIN (from the RFS), an LCFS credit (for CI below the benchmark), and a 45Z tax credit simultaneously. Each instrument targets a different market failure: RINs drive volume; LCFS drives improvement; 45Z drives investment.
+
+The stacking limit is the attribute. A physical gallon can only be sold once. Its CI attributes can only be counted toward one compliance obligation at a time. The book-and-claim mechanism (discussed in Chapter 8) allows attributes to be separated from the physical molecule, but simultaneous compliance monetization across two regimes for the same attribute is double-counting. This constraint becomes critical when asking whether a voluntary carbon credit can also be layered on top — the central question of Chapter 8 Part 8.
+
+## **Stop-and-check 7.E**
+
+1. The LCFS and RFS both apply to the same fuel markets but have fundamentally different economic structures. Which rewards continuous improvement, and which rewards qualifying? What are the implications for producer incentives?
+2. Why does California's LCFS have more "granularity" than the EU's REDIII? What does this mean for which system leaves more room for ongoing improvement to be rewarded — and for which system closes more potential voluntary-credit white space?
+3. A US HEFA SAF producer earns a RIN, an LCFS credit, and a 45Z credit on the same gallon. Can they also sell a voluntary carbon credit on the same tonne of abatement? Why or why not? (Answer developed in Chapter 8.)
+4. **Socratic prompt:** The EU is building out ReFuelEU (volume mandate) and the US maintains LCFS-style systems (continuous improvement). From an emissions-reduction standpoint, which architecture produces more abatement per dollar of policy cost? What's the trade-off?
+
+---
+
 # Closing exercise
 
 Three things to take away:
@@ -499,6 +586,21 @@ The compliance carbon markets are the most stable and durable part of the climat
 - **Social Climate Fund** — €65 billion EU fund (2026–2032) to mitigate ETS2 price impact on vulnerable households.
 - **WCI (Western Climate Initiative)** — Linked carbon market of California and Québec. Other partners discussed historically; current linkage limited to those two.
 - **Windfall profits** — Profits to entities receiving free allocation that exceed economic abatement costs. Documented extensively in EU ETS Phase 1.
+
+### Fuel-standard compliance regime additions (Ch. 7 Part 8)
+
+- **45Z (Clean Fuel Production Credit)** — US production tax credit for low-CI transport fuels including SAF, effective 2025–2029. Value scales with CI; up to ~$1.00/gal for SAF.
+- **CI (Carbon Intensity)** — Lifecycle GHG emissions of a fuel per unit energy, in gCO₂e/MJ. The metric driving LCFS credit volume.
+- **CI benchmark / ratchet** — The annually declining allowed-CI line in LCFS-style programs. As it drops, credits earned by a fixed-CI fuel shrink over time and deficits grow — the engine of ongoing-improvement incentives.
+- **Default value vs. actual value** — REDIII distinction: default CI is a published feedstock-pathway score; actual value requires plant-specific certification. The gap between them is where boundary-gap VCM white space lives.
+- **FuelEU Maritime** — EU regulation (effective 2025) setting declining GHG-intensity targets for ships at EU ports. RFNBOs (green ammonia etc.) count double until 2033.
+- **LCFS (Low Carbon Fuel Standard)** — California-originated continuous-function fuel standard; credits denominated in tCO₂e and scale with distance below a declining CI benchmark.
+- **REDIII (Renewable Energy Directive III)** — EU framework setting binding renewable transport sub-targets, including an RFNBO e-fuel sub-mandate.
+- **ReFuelEU Aviation** — EU escalating SAF blending mandate (2% 2025 → 70% 2050); volume obligation, not a continuous-improvement incentive.
+- **RFS (Renewable Fuel Standard)** — US federal volumetric biofuel mandate; step-function design.
+- **RIN (Renewable Identification Number)** — Tradeable credit under the RFS, attached per gallon of qualifying fuel at production; price set by compliance supply-demand.
+- **Step function vs. continuous function** — Step (RFS, ReFuelEU): pass/fail, no reward for improvement. Continuous (LCFS): reward scales with CI gap.
+- **WEC (Waste Emissions Charge)** — US fee on excess methane from large oil and gas facilities.
 
 ---
 

@@ -320,6 +320,21 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **WCI (Western Climate Initiative)** — Linked carbon market of California and Québec (linked since 2014).
 - **Windfall profits** — Profits to entities receiving free allocation that exceed economic abatement costs. Documented extensively in EU ETS Phase 1.
 
+### Fuel-standard compliance regime additions (introduced: Ch. 7 Part 8)
+
+- **45Z (Clean Fuel Production Credit)** — US production tax credit for low-CI transport fuels including SAF, effective 2025–2029. Value scales with CI — up to ~$1.00/gal for SAF. Can be stacked with RIN and LCFS on the same gallon.
+- **CI (Carbon Intensity)** — Lifecycle GHG emissions of a fuel per unit energy, in gCO₂e/MJ. The metric driving LCFS credit volume. Can be negative when the pathway prevents more emissions than it produces.
+- **CI benchmark / ratchet** — The annually declining allowed-CI line in LCFS-style programs. As it drops, credits earned by any fixed-CI fuel shrink over time and fossil-fuel deficits grow — the engine of long-run credit demand and ongoing-improvement incentives.
+- **Default value vs. actual value** — REDIII distinction. A fuel can be scored by a published default CI (by feedstock pathway) or by certifying plant-specific actual measurements. The gap between them is where potential "boundary gap" VCM white space lives in the EU fuel context.
+- **FuelEU Maritime** — EU regulation (effective 2025) setting declining GHG-intensity targets for energy used by ships calling at EU ports. Renewable fuels of non-biological origin (e.g., green ammonia) count double toward compliance until 2033.
+- **LCFS (Low Carbon Fuel Standard)** — California-originated continuous-function fuel standard; extended to Oregon, Washington, New Mexico, and expanding. Credits denominated in tCO₂e and scale with distance below a declining annual CI benchmark. The "best and truest" CI market — its granularity leaves almost no VCM white space because it captures the same improvements a voluntary credit would claim.
+- **REDIII (Renewable Energy Directive III)** — EU framework setting binding renewable transport sub-targets, including an RFNBO e-fuel sub-mandate. Relies primarily on default CI values by feedstock pathway (with actual-value option); transposed into national obligations with varying tradeable instruments.
+- **ReFuelEU Aviation** — EU escalating SAF blending mandate at EU airports: 2% (2025) rising to 70% (2050), with a dedicated eSAF sub-mandate. A volume obligation — rewards being a qualifying SAF, not continuous improvement. *(Brief entry also in Ch. 12 additions.)*
+- **RFS (Renewable Fuel Standard)** — US federal volumetric biofuel mandate. Step-function design: a fuel either qualifies for its D-code category (D3 cellulosic, D4 biomass-based diesel, D5 advanced, D6 conventional, D7 cellulosic diesel) or it doesn't; over-performance earns nothing extra.
+- **RIN (Renewable Identification Number)** — Tradeable credit under the RFS, attached to a gallon-equivalent of qualifying renewable fuel at production and detached at blending. Price set by supply-demand of the compliance obligation, not by per-tonne abatement efficiency.
+- **Step function vs. continuous function** — Key structural distinction between fuel compliance regimes. RFS and ReFuelEU = step (pass/fail, no reward for over-performance). LCFS = continuous (reward scales with CI gap). Determines whether ongoing operational improvement is monetizable inside the regime.
+- **WEC (Waste Emissions Charge)** — US fee on excess methane from large oil and gas facilities under the IRA. A regulatory "stick" alongside the fuel-credit "carrots."
+
 ---
 
 ## Chapter 8 additions (introduced: Ch. 8)
@@ -355,6 +370,17 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **Verra** — VCM standard organization, founded 2005. Operates VCS, JNR, and Plastic Standard. Largest by issuance.
 - **VM0048** — Verra's consolidated REDD+ methodology, replacing several legacy methodologies with stricter jurisdictional-baseline rules.
 - **VVB (Validation/Verification Body)** — Accredited third party that validates project designs and verifies monitoring data.
+
+### Fuel-VCM additions (introduced: Ch. 8 Part 8)
+
+- **Additionality inversion** — The counterintuitive result that the richer the compliance revenue stack, the weaker the case for a voluntary carbon credit on top. Maximum commercial viability implies minimum additionality. The project that most needs a VCM credit is the one with the least compliance support.
+- **Attribute (environmental attribute)** — The claimable emissions-reduction value of a fuel, separable from the physical molecule. Once a compliance regime claims an attribute (via a RIN, LCFS credit, or mandate), it cannot also be sold as a voluntary credit without double-claiming.
+- **Book-and-claim** — Mechanism for unbundling a fuel's environmental attribute from its physical molecules, allowing the attribute to be sold or claimed separately. Enables cross-geography voluntary claims and Scope 3 accounting. A HEFA gallon sold in Brazil can have its SAF attribute claimed by an airline in Europe.
+- **Double counting — three distinct failures** — (1) *Double issuance:* two credits issued for the same physical tonne. (2) *Double claiming:* the same reduction counted toward two goals (e.g., a national compliance obligation *and* a corporate Scope 3 claim). (3) *Double monetization:* being paid twice for the same environmental good.
+- **Financial additionality** — The specific additionality test that a project clears its hurdle rate *only* when credit revenue is included. In fuel markets, the cleanest case: a pre-FID project that doesn't pencil on the compliance stack alone, where the VCM offtake is demonstrably the decisive revenue line in the bank's credit committee analysis.
+- **Negative CI** — A fuel carbon-intensity score below zero, achieved when the pathway prevents more emissions than it creates (e.g., dairy biomethane capturing methane that would otherwise have escaped). Structurally equivalent to a counterfactual avoidance claim embedded in a lifecycle score — with the same additionality and perverse-incentive vulnerabilities as VCM avoidance credits.
+- **Regulatory-closure risk / stranding risk** — The danger that a VCM revenue stream built on a regulatory gap (a deregulated geography, a methodology blind spot) terminates when regulation arrives or the methodology is revised — the same tonne becomes compliance-claimed, and the voluntary credit stream ends. Every fuel-VCM "white space" thesis has a finite half-life.
+- **Unit mismatch (per-gallon vs. per-tonne)** — RIN and 45Z are quoted per gallon; LCFS and VCM credits are per tCO₂e. The SAF book-and-claim certificate price (~$1,500–3,500/tCO₂e) is not a comparable abatement price — it's an aviation-scarcity premium for a different kind of claim. A HEFA gallon abates only ~0.0085 tCO₂e, so applying the SAF cert price implies an absurd ~$17/gal. Always convert all instruments to one unit before comparing or stacking; the SAF cert is reference-only, not stackable.
 
 ---
 
@@ -468,6 +494,13 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **SCMs (Supplementary Cementitious Materials)** — Materials replacing clinker in cement (fly ash, slag, calcined clay).
 - **Stegra** (formerly H₂ Green Steel) — Swedish green-steel company; 2.5 Mt/yr capacity ramping in 2025–2026.
 - **SteelZero / ConcreteZero** — Climate Group-led commitments to procure low-carbon steel and concrete.
+
+### Fuel-pathway additions (introduced: Ch. 8 Part 8 / Ch. 12)
+
+- **Biomethane / RNG (Renewable Natural Gas)** — Methane captured from dairy manure, landfills, or other biogenic sources and upgraded to pipeline quality. Dairy/landfill pathways can achieve deeply negative CI (often ~−250 gCO₂e/MJ) because capturing methane that would otherwise escape earns a large avoided-emissions credit in LCFS-style programs.
+- **eAmmonia (green ammonia)** — Ammonia produced via Haber-Bosch from green hydrogen (electrolysis). A leading candidate zero-carbon marine fuel — burns without CO₂, but production is emissions-intensive unless powered by clean electricity. Requires approximately 3× the volume of marine gas oil for equal energy.
+- **eSAF / RFNBO (Renewable Fuels of Non-Biological Origin)** — Synthetic e-fuels (power-to-liquid) made from renewable electricity and captured CO₂ or green hydrogen. More specific than the general "e-fuels" label; the term used in EU mandates. ReFuelEU Aviation has a dedicated eSAF sub-mandate. Typically near-zero CI.
+- **UCO (Used Cooking Oil)** — Waste feedstock for HEFA. Low CI, but the locus of significant fraud risk in the EU (virgin vegetable oil relabeled as UCO to claim the better CI score). UCO supply constraints are already limiting HEFA capacity growth.
 
 ---
 
