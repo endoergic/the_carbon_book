@@ -110,7 +110,7 @@ The methodology is the technical heart of the credit. A weak methodology produce
 
 ## The four integrity concerns
 
-Four conceptual integrity tests have to be passed for a credit to represent real climate benefit:
+Four conceptual integrity tests have to be passed for a credit to represent real climate benefit. They are the voluntary market's operational expansion of two of the five questions from Chapter 1: additionality and baseline are both forms of *against what baseline* — they ask what would have happened without the project, the counterfactual the entire credit rests on — while permanence is *how durable*, and leakage is the warning that a baseline drawn too narrowly just hides emissions that moved next door. A credit is only ever as good as the answers to these questions.
 
 ### 1. Additionality
 

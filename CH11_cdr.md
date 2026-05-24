@@ -32,6 +32,8 @@ I'll organize this in seven parts: the CDR concept and how it differs from CCS; 
 
 A **carbon dioxide removal (CDR)** technology takes CO₂ out of the atmosphere and stores it durably — durable enough that on policy-relevant timescales (decades to millennia), the carbon stays out of the atmosphere.
 
+That word — *durably* — is doing the heavy lifting, and it is the fifth of the five questions from Chapter 1 (*how durable?*) made central. For most of the book durability rode alongside the other four; in CDR it becomes the dominant axis of value, separating storage that lasts millennia (mineralization, geologic injection) from storage measured in decades (forests, soils). As this chapter shows, that spread reprices the entire removal market.
+
 CDR is **distinct from point-source capture** (Ch. 10) in a fundamental way: point-source capture intercepts CO₂ at the smokestack before it reaches the atmosphere. The CO₂ was already going to be emitted; the capture prevents the emission. CDR removes CO₂ that's already in the atmosphere (or, in the case of BECCS, that just came from the atmosphere via biomass growth before being released by combustion and re-captured).
 
 The accounting distinction matters for net-zero claims:

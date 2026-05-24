@@ -73,6 +73,8 @@ Critical commercial uses of graphite: refractory bricks for steelmaking, electro
 
 I'm flagging these here because when we get to Chapter 2, we'll treat each of these as a market: who makes it, what it sells for, how much of it the world uses, where the supply chain is concentrated. For now, the point is that "carbon" as a *material* spans an enormous range of products with different value chains, and most of them have essentially nothing to do with the climate problem.
 
+That gap is the book's organizing distinction. Carbon is, at the same time, a **material** — a commodity to be engineered, priced, and traded (the Track A story, starting in Ch. 2) — and a **liability** — an emission to be measured, regulated, disclosed, and offset (the Track B/C story, from Ch. 5 onward). The same physical carbon is often both at once: the graphite in a battery anode is a strategic commodity *and*, in its making, a CO₂-intensive emission. Almost every confusion in this field comes from collapsing the two senses, and almost every chapter that follows is an exercise in holding them apart. We will return to this material-vs-liability framing explicitly in the final chapter.
+
 ## Carbon-12, carbon-13, carbon-14: the isotopes
 
 Carbon has three naturally occurring isotopes:
@@ -530,6 +532,8 @@ Let me summarize the entire chapter in seven sentences, then we'll do the closin
 7. The remaining carbon budget for 1.5°C is approximately 170 GtCO₂ — four years at current rates — and even staying under 2°C requires sustained, deep reductions starting now.
 
 Everything we cover for the rest of this curriculum — the markets, the policies, the technologies, the geopolitics, the corporate disclosures — is downstream of these seven sentences. The carbon problem is a stock problem driven by a flow problem.
+
+And there is one discipline I'll ask you to carry through every chapter that follows. Whenever you meet a carbon claim — a tonne abated, a credit sold, an intensity score, a "net-zero" pledge, a "carbon-negative" fuel — interrogate it with five questions: **which carbon, measured how, against what baseline, by whom, and how durable?** *Which carbon* (elemental, CO₂, CO₂e, a GHG basket — the ambiguity from Part 2)? *Measured how* (direct measurement, default factor, model)? *Against what baseline* (versus a real prior state, or a hypothetical counterfactual)? *By whom* (with what incentive and what standard)? *How durable* (storage that lasts decades, or millennia)? Almost every overstatement in this field survives only until someone asks one of these five questions. They are the through-line of the book, and the final chapter will hand them back to you as the one thing worth keeping when every number here has changed.
 
 ## Closing exercise
 

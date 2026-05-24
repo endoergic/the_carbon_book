@@ -19,6 +19,8 @@ The chapters so far have established the physical carbon problem (Ch. 1), the ma
 
 Emissions accounting is the rosetta stone. When someone says "we cut emissions 40%" or "our portfolio is aligned to 1.5°C" or "the bank financed $300M of emissions" or "the offset retired 1,000 tCO₂e," those claims are only as meaningful as the accounting underneath them. The accounting choices shape the markets, the regulations, the incentives, and ultimately the climate outcomes.
 
+This is where three of the five questions from Chapter 1 — *measured how, by whom, against what baseline* — get their operational answers. "Measured how" is the choice of protocol and emission factor; "by whom" is the organizational boundary and whose inventory a tonne lands in; "against what baseline" is the base year or counterfactual a reduction is claimed against. Get those wrong and the other two questions — *which carbon* and *how durable* — can't rescue the claim.
+
 This chapter is the most technical of the curriculum so far, and also the most important for reading anything else. Once you have a working model of Scope 1/2/3, control vs. equity share, location-based vs. market-based, financed vs. facilitated, avoided vs. reduced vs. removed — you can read any climate disclosure, any net-zero pledge, any market integrity controversy, and locate the substantive question fast. Without it, you're at the mercy of the framing.
 
 I'll be more terms-and-definitions heavy here than elsewhere because the precision matters. I'll also flag the contested edges: emissions accounting has more genuine analytical controversy embedded in it than most non-specialists realize, and the ongoing GHG Protocol and SBTi revisions are touching all of them.
