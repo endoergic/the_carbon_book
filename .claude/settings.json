@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:iea.org)",
+      "WebFetch(domain:ipcc.ch)",
+      "WebFetch(domain:unfccc.int)",
+      "WebFetch(domain:noaa.gov)",
+      "WebFetch(domain:gml.noaa.gov)",
+      "WebFetch(domain:climate.gov)",
+      "WebFetch(domain:nsidc.org)",
+      "WebFetch(domain:wmo.int)",
+      "WebFetch(domain:globalcarbonbudget.org)",
+      "WebFetch(domain:essd.copernicus.org)",
+      "WebFetch(domain:usgs.gov)",
+      "WebFetch(domain:pubs.usgs.gov)",
+      "WebFetch(domain:federalregister.gov)",
+      "WebFetch(domain:regulations.gov)",
+      "WebFetch(domain:irs.gov)",
+      "WebFetch(domain:energyinst.org)",
+      "WebFetch(domain:opec.org)",
+      "WebFetch(domain:worldbank.org)",
+      "WebFetch(domain:oecd.org)",
+      "WebFetch(domain:imo.org)",
+      "WebFetch(domain:ifrs.org)",
+      "WebFetch(domain:ghgprotocol.org)",
+      "WebFetch(domain:sciencebasedtargets.org)",
+      "WebFetch(domain:iso.org)",
+      "WebFetch(domain:ec.europa.eu)",
+      "WebFetch(domain:taxation-customs.ec.europa.eu)",
+      "WebFetch(domain:eur-lex.europa.eu)",
+      "WebFetch(domain:cinea.ec.europa.eu)",
+      "WebFetch(domain:ww2.arb.ca.gov)",
+      "WebFetch(domain:canada.ca)",
+      "WebFetch(domain:stateofglobalair.org)",
+      "WebFetch(domain:cdr.fyi)",
+      "WebFetch(domain:iata.org)"
+    ]
+  }
+}
