@@ -253,6 +253,23 @@ Even if CBAM doesn't fully achieve its stated goals, it has established a preced
 
 The next decade will likely see CBAM-style mechanisms become more common, fragmenting the global carbon-pricing landscape into linked-but-distinct regional regimes rather than a single global price.
 
+## **Stop-and-check 7.C**
+
+1. CBAM is meant to address carbon leakage *without* relying on free allocation. Explain the competitive asymmetry it's correcting and how charging importers restores symmetry.
+2. CBAM lets importers deduct any carbon price already paid in the country of origin. Why is that single feature what turns CBAM from a pure trade barrier into an incentive for *other* countries to adopt their own carbon price?
+3. In 2026 CBAM covers only 2.5% of embedded emissions (~€3.50/ton steel), ramping to 100% by 2034 in lockstep with the phase-out of free allowances for EU producers. Why is that parallel phase-out essential to CBAM's integrity — what would go wrong if the two schedules didn't match?
+4. **Socratic prompt:** CBAM forces a hard measurement problem: the embedded carbon in a ton of imported steel depends on the exporter's production process, which the EU can't directly observe. Connect this to the methane-intensity verification problem (Ch. 4) and the avoided/reduced/removed discipline (Ch. 5). Who bears the burden of proof, and what happens to producers who can't or won't document their carbon intensity?
+
+**Answers**
+
+1. A domestic carbon price makes EU producers pay for emissions that foreign producers selling into the same market don't — so absent a fix, the carbon price hands an advantage to imports and risks "leakage," where production (and its emissions) simply relocates to uncovered jurisdictions, yielding no climate benefit and lost EU competitiveness. The traditional fix, free allocation, preserves competitiveness but guts the price signal for the protected sectors. CBAM restores symmetry from the other side: it charges importers the same carbon price on the embedded emissions of CBAM-covered goods, so EU and non-EU producers face an equivalent carbon cost on goods sold into the EU — letting the EU withdraw free allocation without re-opening the competitiveness gap.
+
+2. Because the deduction means a ton of carbon is only ever charged once, and the exporting country gets to choose *who collects the money*. If a foreign producer's government already prices its carbon, that payment is deducted from the CBAM liability — so the revenue stays at home rather than flowing to Brussels. That converts CBAM from a wall into an incentive: a trading partner can capture the carbon revenue domestically (funding its own transition) simply by pricing carbon itself, which is exactly why Turkey, Ukraine, and the Western Balkans began building their own carbon-pricing systems in response. The deduction is what makes CBAM a price-spreading mechanism rather than just protectionism.
+
+3. Because free allocation and CBAM are two solutions to the *same* leakage problem, and running both at full strength would double-protect EU producers — they'd get free allowances *and* a tariff wall, an obvious WTO-vulnerable subsidy. So as CBAM coverage ramps up, free allocation must ramp down by the same amount, keeping total protection roughly constant and the EU producer always facing a real carbon cost on its own emissions. If the schedules didn't match — if free allocation lingered while CBAM bit — EU producers would be over-compensated, the policy would look nakedly protectionist, and the WTO challenge (already threatened by China, India, Brazil) would be far stronger. The lockstep is what keeps CBAM defensible as a leakage measure rather than a trade weapon.
+
+4. The burden of proof falls on the *importer/producer*, and that is the crux. Like methane intensity (Ch. 4), embedded carbon is a property of the production *history*, not of the delivered product — you can't assay a steel coil and read off how much CO₂ its blast furnace emitted — so it must be traced, documented, and verified across a supply chain the EU doesn't control. CBAM handles this exactly as Ch. 5's discipline would predict: producers who document a genuinely lower carbon intensity pay less; producers who can't or won't document fall back to default values pegged to carbon-intensive production, so opacity is penalized. The deep parallel is that all three — CBAM, methane-intensity standards, and emissions accounting generally — are regulating an attribute embedded in a process rather than in a product, which means the entire regime rests on measurement, verification, and default-value design, and those become the real battleground (and the real trade friction) rather than the headline price.
+
 ---
 
 # Part 4: North American compliance markets
@@ -307,7 +324,7 @@ Despite multiple attempts (Lieberman-Warner 2008, Waxman-Markey 2009 — passed 
 
 The state programs together cover roughly 15% of US emissions. A federal system, if ever enacted, would face the design question of whether to preempt or coexist with state programs.
 
-## **Stop-and-check 7.C**
+## **Stop-and-check 7.D**
 
 1. California's Cap-and-Invest covers 76% of state emissions; RGGI covers only ~25% of New England-region emissions (power only). What's the trade-off in scope, and what does it imply about each system's effective stringency?
 2. Washington's voters rejected the 2024 repeal initiative 62-38. What does this tell you about the political durability of state-level carbon pricing in the US?
@@ -375,6 +392,23 @@ Korea's ETS launched in 2015 and is the third-oldest major operational ETS. Cove
 
 The global trajectory: more jurisdictions implementing carbon pricing, with substantial variation in design and stringency. **The International Carbon Action Partnership (ICAP)** tracks roughly 35 operational ETSs globally as of 2026, covering ~24% of global GHG emissions. Coverage continues to grow, but the **price-weighted coverage** (emissions covered at a price high enough to materially influence behavior) is much lower — perhaps 5–8% of global emissions.
 
+## **Stop-and-check 7.E**
+
+1. China's ETS is the largest in the world by emissions volume, yet its prices (~$11–14/tCO₂e) are a fraction of the EU's. The main reason is that its cap is *intensity-based*. Explain how an intensity-based cap differs from an absolute cap and why it produces low prices.
+2. China's system covers ~10% of global emissions at a low, effectively non-binding price. Is it therefore climate-irrelevant — or is there a serious case that the institutional infrastructure matters more right now than the price?
+3. The EU and UK are negotiating to link their ETSs. What does linkage do to the ~€30+ price gap between EUAs and UK allowances, and why might the smaller UK market want it — or fear it?
+4. **Socratic prompt:** A jurisdiction launching an ETS in 2026 must choose intensity-based caps (like China) or absolute caps (like the EU). Intensity-based is politically easier — it doesn't penalize growth — but doesn't guarantee an emissions outcome. Which would you advise, and what does the right answer depend on?
+
+**Answers**
+
+1. An absolute cap fixes total tons: the number of allowances is set and declines on a schedule regardless of output, so the price reflects the gap between that fixed quantity and what emitters would otherwise emit. An intensity-based cap fixes emissions *per unit of output* (e.g., per MWh): allowances are issued in proportion to how much each entity produces, so total allowances expand if output grows. That means the system rarely creates genuine scarcity — if you produce more, you get more allowances — so it functions as an efficiency benchmark (rewarding cleaner-than-average producers) rather than a hard quantity limit. With no binding scarcity, demand for allowances is weak and the price stays low, which is exactly China's ~$11–14 outcome.
+
+2. It is not climate-irrelevant, and the stronger case is that the infrastructure matters more than today's price. A low intensity-based price drives little abatement now, true. But the system establishes the MRV, registry, compliance, and verification machinery across thousands of major emitters — the same institution-building that EU ETS Phase 1 did at near-zero prices — and China has signaled intent to transition toward absolute caps and has already expanded coverage to aluminum, cement, and steel. The infrastructure is the option value: once it exists and covers ~40% of Chinese (≈10% of global) CO₂, tightening the cap is a policy dial rather than a build-from-scratch project. The price is weak; the latent leverage is large.
+
+3. Linkage would let allowances from one system satisfy compliance in the other, which arbitrages the two prices toward a single level — closing the ~€30+ gap by pulling the cheaper UK price up toward the EUA price (and nudging the EU price slightly down). The UK might want it for liquidity, depth, and reduced price volatility in a small, thin market, plus reduced CBAM friction with its largest trading partner. It might fear it because convergence raises UK carbon costs (politically sensitive) and cedes some control over its own carbon price to EU policy decisions it doesn't vote on — the classic sovereignty-vs-efficiency trade of joining a larger market.
+
+4. There's no universal answer; it hinges on the jurisdiction's growth profile, administrative capacity, and political constraints. Intensity-based caps are the pragmatic choice for a fast-growing economy that won't accept a hard limit on output (China, India) — they get the institution built and start rewarding efficiency without a politically toxic absolute ceiling, accepting that emissions may still rise. Absolute caps are the right choice where the priority is a guaranteed emissions trajectory and the economy can tolerate the price (the EU). The decisive variables are whether the jurisdiction is willing to let total emissions grow in the near term in exchange for political feasibility, whether it has the data infrastructure to run either system, and whether it credibly intends to transition from intensity to absolute later — because an intensity system with no transition plan can become a permanent way to *look* like you price carbon while never creating real scarcity.
+
 ---
 
 # Part 6: The case for and against cap-and-trade
@@ -421,6 +455,23 @@ The defense: all climate policies are subject to capture. Cap-and-trade is no wo
 
 The empirical record: cap-and-trade has clearly been subject to industry influence, especially in early phases. Whether this is more or less captured than carbon taxes or regulations is debatable.
 
+## **Stop-and-check 7.F**
+
+1. Of the five critiques — commodifies pollution, free allocation undermines, prices too low, excludes hard sectors, subject to capture — which are fixable *implementation* problems and which are closer to *inherent* features of the cap-and-trade instrument?
+2. Free allocation is called "the dominant integrity issue," yet also "a political necessity for system durability." Can both be true? Reconcile them.
+3. IPCC scenarios imply 1.5°C-consistent prices of $135–6,000/tCO₂e by 2030, but the EU sits around €75. Does that gap mean cap-and-trade has failed — or is the headline price the wrong thing to look at?
+4. **Socratic prompt:** A critic says cap-and-trade "commodifies the right to pollute and breeds a lobby that protects it." A defender says "the *declining* property right is precisely what makes the policy durable enough to keep tightening." Both describe the same mechanism. Which framing better predicts the EU ETS's actual 20-year trajectory?
+
+**Answers**
+
+1. Most are fixable implementation problems; one or two are closer to inherent. Free allocation, low prices, and excluded sectors are all design choices that systems have demonstrably tightened over time — the EU moved from ~95% free allocation toward majority auctioning, prices rose ~7× since 2017, and ETS2 extends coverage to transport and buildings. Capture is partly fixable (transparency, independent oversight) but partly inherent, because any instrument requiring ongoing rulemaking offers ongoing lobbying targets. "Commodifies pollution" is the only genuinely inherent feature — creating a tradeable right is what the instrument *is* — so it's less a fixable bug than a values-based objection to the whole approach. The honest split: four critiques describe how systems have been implemented (and can be improved); one describes what cap-and-trade fundamentally is.
+
+2. Both are true because they describe the same fact from different time horizons. At launch, free allocation was necessary: industry would have blocked a system that forced it to buy permits outright, so handing out allowances was the price of getting the institution built at all. But once built, that same free allocation became the integrity weakness — it muffled the price signal for protected sectors and generated windfalls (EU Phase 1, ~€5–8 billion in 2005). The reconciliation is sequencing: free allocation was scaffolding that let the building go up, and the long project has been removing the scaffolding (auctioning, CBAM, conditional allocation) without the building collapsing. The political-necessity argument was strong at t=0 and weakens as the institution entrenches — which is exactly the trajectory observed.
+
+3. The gap doesn't show failure so much as it shows the price is only part of the story. The IPCC's high figures are conditional on price doing *all* the work in a first-best world; real decarbonization runs on a portfolio — price plus standards, subsidies, R&D, and infrastructure — so the marginal abatement the price needs to induce is lower than a price-only model implies. Within covered sectors the EU price has clearly moved behavior (power-sector emissions fell sharply), while industrial emissions lagged largely because free allocation blunted the signal there. So the headline number can mislead: the right questions are whether the price binds on the *uncovered* margin, whether complementary policies are filling the gaps, and whether the price trajectory is credibly rising — not whether €75 equals an IPCC modeling output.
+
+4. The EU ETS's actual trajectory fits the defender's framing better, though the critic's mechanism is real. Over 20 years the system did create a valuable property right and a constituency around it — but that constituency (member-state treasuries collecting €245 billion, industries holding bankable allowances, financial participants) turned out to favor a *functioning, tightening* market over a collapsed one, and the cap kept declining (LRF rising to 4.3%, free allocation phasing out, CBAM added). The "lobby protects pollution" prediction would have forecast capture freezing the system; instead the property-right constituency coincided with two decades of progressive tightening. The critic correctly identifies that a lobby forms; the defender more accurately predicts what that lobby, facing a *declining* asset it has already capitalized, actually fights for — stability and predictability, which in a declining-cap system means continued decarbonization.
+
 ---
 
 # Part 7: Cap-and-trade vs. carbon taxes
@@ -463,7 +514,7 @@ In practice, most major economies use **hybrid approaches** — a price-on-somet
 
 The substantive question of which instrument is most effective in a given sector under given political conditions is genuinely contested, and the right answer is often "both, with complementary instruments."
 
-## **Stop-and-check 7.D**
+## **Stop-and-check 7.G**
 
 1. The theoretical case for cap-and-trade vs. carbon tax under Weitzman is about whether quantity or price certainty matters more. In the climate context, which matters more, and why?
 2. Sweden's carbon tax has been $130/tCO₂e since 2018, with no clear evidence of economic harm. Why hasn't the rest of the world simply adopted Sweden's policy?
@@ -568,7 +619,7 @@ The stacking limit is the attribute. A physical gallon can only be sold once. It
 
 As the LCFS family expands (Oregon 2016 → Washington 2023 → Canada CFR 2023 → potential Singapore framework 2027+), the stacking question scales proportionally: a producer with multiple market relationships may face competing compliance claims from several CI-based programs on the same gallon of fuel. The attribute-claiming discipline described here applies across all of them.
 
-## **Stop-and-check 7.E**
+## **Stop-and-check 7.H**
 
 1. The LCFS and RFS both apply to the same fuel markets but have fundamentally different economic structures. Which rewards continuous improvement, and which rewards qualifying? What are the implications for producer incentives?
 2. Why does California's LCFS have more "granularity" than the EU's REDIII? What does this mean for which system leaves more room for ongoing improvement to be rewarded — and for which system closes more potential voluntary-credit white space?
@@ -639,6 +690,7 @@ The compliance carbon markets are the most stable and durable part of the climat
 - **Free allocation** — Distribution of allowances without auction, typically to industry sectors at risk of carbon leakage. Historically the dominant method; transitioning to auctioning over time.
 - **Grandparenting** — Free allocation based on historical emissions. Used in EU ETS Phase 1.
 - **ICAP (International Carbon Action Partnership)** — Inter-governmental forum for carbon markets. Tracks operational and developing ETSs globally.
+- **Intensity-based cap vs. absolute cap** — An absolute cap fixes total allowed tons (the EU model); an intensity-based cap fixes emissions per unit of output, so allowances expand with production (China's model). Intensity systems function as efficiency benchmarks rather than hard limits and tend to produce low prices because they rarely create genuine scarcity.
 - **Innovation Fund** — EU ETS revenue stream supporting innovative low-carbon technologies.
 - **Linear Reduction Factor (LRF)** — Annual rate at which the EU ETS cap declines. Currently 4.3% under Phase 4 (2024 onwards).
 - **Linkage** — Two cap-and-trade systems allowing allowances from one to satisfy compliance in the other. California-Québec linkage (2014); Switzerland-EU linkage (2020); pending EU-UK linkage.
