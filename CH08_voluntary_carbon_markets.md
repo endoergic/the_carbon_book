@@ -641,6 +641,8 @@ The boundary-gap case requires deep familiarity with the specific methodology's 
 
 ## The four worked cases
 
+The rest of this part is applied practice: it runs the chapter's integrity framework — additionality, the attribute-claiming and double-counting screens, and the three white-space types above — against the four fuel-market situations a renewable-fuel developer actually encounters. Each case is the framework executed end-to-end, not new theory; read them as the worked examples that turn the chapter's machinery into a deal screen.
+
 ### HEFA in North America and Latin America
 
 **NAM:** The full compliance stack (RIN + LCFS + 45Z) is so rich that US HEFA projects are bankable on compliance alone. The attribute is claimed the moment the fuel is produced. A voluntary credit on top is double-claiming an already-claimed attribute. The most commercially attractive cell in the fuel-VCM space is a trap.
