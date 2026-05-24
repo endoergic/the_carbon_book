@@ -4,6 +4,8 @@
 
 **Live-search rule:** Anything price-, policy-, or regulation-current (e.g., current EUA price, latest CBAM implementing regulation, most recent SBTi guidance) gets searched at write-time, not pulled from memory. Same for any post-2024 development.
 
+**Verification logs:** `00_FACT_CURRENCY_SOURCES_2026-05.md` records the specific primary-source URLs gathered during the May 2026 book-wide fact-currency sweep (per figure, with verified values and change status). It is an internal recover/review artifact — the book keeps its name-based citation style — and is the place to start when re-verifying perishable figures.
+
 ---
 
 ## Ch. 1 — Carbon the Element, Carbon the Problem
