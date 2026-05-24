@@ -263,6 +263,23 @@ Several factors are accelerating deployment:
 
 The 2026–2030 period will substantially determine whether CCUS scales toward NZE pathway requirements or stays at the 250–350 Mt/yr level despite the announced pipeline.
 
+## **Stop-and-check 10.B**
+
+1. About 60% of operational CCUS capacity is at gas processing — the cheapest application, where the CO₂ was already being separated for fuel-spec reasons. Why does that one fact mean "50 Mt/yr operational" overstates climate progress?
+2. Realistic 2030 capacity (~250–350 Mt/yr) is roughly 3–4× below NZE's ~1,000 Mt/yr. Of the structural reasons the gap persists (economics, infrastructure mismatch, bankability, the build-vs-retire choice, politics), which is the binding constraint — and how does it connect to the CCS-financing pattern from Ch. 3?
+3. For an aging coal plant, a CCS retrofit competes with simply *retiring* the plant and replacing it with renewables. When does CCS win that contest, and when does retirement win?
+4. **Socratic prompt:** The announced pipeline is ~430 Mt/yr, but historically only 50–70% of announced CCS projects reach operation. You're stress-testing a national climate plan that *assumes its announced CCS pipeline delivers in full*. What would you demand to see before trusting that number?
+
+**Answers**
+
+1. Because the 60% at gas processing isn't doing the hard climate work — it's capturing CO₂ that was already being stripped out to meet pipeline-spec gas requirements, so the marginal cost and the marginal abatement are both small. It's the cheapest tonne ($15–25/tCO₂), it's been picked for two decades, and it tells you almost nothing about whether capture can scale in the sectors that matter (power, cement, steel), which sit at $60–1,000+/tCO₂ and remain barely deployed. So "50 Mt/yr operational" measures how much low-hanging fruit exists, not how much climate-meaningful decarbonization CCS is delivering — the headline capacity is real but unrepresentative.
+
+2. Bankability is the binding constraint, and it's the same problem as the graphite plants and CCS hubs in earlier chapters: CCUS projects need 20–30-year paybacks, but most carbon-pricing regimes don't offer revenue certainty over that horizon, so projects can't reach FID. Economics (most applications uneconomic without support), infrastructure mismatch (no transport/storage nearby), and the build-vs-retire choice all feed into it, but they reduce to "no contracted, durable revenue stream, no financing." It's exactly the Ch. 3 pattern — policy has to manufacture a revenue floor (UK CCS-CfD, Norway's Longship, 45Q's transferable credit) before private capital will build. Where that floor is absent or short (the US 45Q's 12-year window vs. the UK CfD's 25 years), deployment stalls.
+
+3. CCS wins where the asset has substantial remaining useful life *and* there is no cheaper low-carbon alternative — which is rarely true for coal power (renewables plus storage now usually beat coal-plus-CCS) and much truer for cement and steel, where process emissions can't be electrified away. Retirement wins when the plant is old, alternatives are cheaper, and the CCS retrofit would lock in decades more fossil operation just to capture part of the stream. For a 40-year-old coal plant specifically, retirement-and-replace usually dominates; the CCS-retrofit case is strongest for younger assets in genuinely hard-to-abate sectors.
+
+4. I'd demand evidence that each project has crossed the gates that separate an announcement from a build: a final investment decision (not just FEED), a contracted revenue floor (CfD, long-term offtake, or monetizable credits sufficient for the payback), secured transport-and-storage access (a permitted Class VI well or hub agreement, not a hoped-for one), and resolved permitting/community status. I'd haircut the headline by the historical 30–50% attrition, apply heavier discounts to projects lacking FID and revenue certainty, and treat first-of-a-kind cost estimates skeptically. A plan that books the full 430 Mt/yr is assuming away exactly the bankability and execution risk the deployment record says is the main event — so the burden of proof is on each tonne having a financed, sited, FID'd home, not an announcement.
+
 ---
 
 # Part 4: The major operational and FID-stage projects
@@ -339,7 +356,7 @@ Covered in Chapter 3: ExxonMobil's blue hydrogen and CCS hub at Baytown, Texas w
 
 ExxonMobil and BP's Tangguh LNG expansion in West Papua, Indonesia. CCS reached FID in 2024 with capture capacity of ~25 Mt/yr (very large — gas processing-derived). One of the largest CCS project FIDs ever, illustrating that the technology can be deployed at very large scale in the gas processing context.
 
-## **Stop-and-check 10.B**
+## **Stop-and-check 10.C**
 
 1. Sleipner has been operating since 1996 — almost 30 years. Why hasn't the Sleipner model been replicated more widely outside of gas processing?
 2. Petrobras Santos Basin captures ~10.6 Mt/yr (nameplate; 2024 actual ~14.2 Mt) — the world's largest CCS project. But the CO₂ is used for EOR. Does this count as climate action? (Return to this in Part 6.)
@@ -410,7 +427,7 @@ China's CCS deployment has been less subsidized but driven by:
 
 Chinese CCS capacity is harder to track in international databases but is growing rapidly. Estimates suggest ~5 Mt/yr operational in China by end of 2024, with substantial expansion planned.
 
-## **Stop-and-check 10.C**
+## **Stop-and-check 10.D**
 
 1. The OBBBA equalized 45Q values between EOR-coupled and dedicated storage at $85/tCO₂. From a climate-policy perspective, is this a win or loss? Make the case both ways.
 2. The UK's CCS-CfD provides 25-year revenue certainty. The US 45Q is a 12-year credit (per project). How does this difference affect project financing decisions?
@@ -491,6 +508,23 @@ The likely outcome: **CCUS deployment expands meaningfully but falls short of NZ
 
 The honest reading: CCUS is **a necessary component of comprehensive decarbonization but not a complete one**. It works alongside renewables, electrification, efficiency, and (for the hardest emissions) direct air capture, in a multi-tool portfolio.
 
+## **Stop-and-check 10.E**
+
+1. The "fossil-fuel lifeline" critique lands hardest in one sector and weakest in another. Which, and why does the *sector* — not the technology — determine whether the critique is fair?
+2. EOR-coupled CCS: walk through the marginal-oil counterfactual that decides whether it's climate-positive, neutral, or negative. Why did OBBBA's 45Q equalization make the climate concern worse?
+3. "CCUS competes for capital with direct decarbonization." When is that a strong objection, and when does it dissolve?
+4. **Socratic prompt:** Each of the five critiques is framed as "where it lands" rather than "true or false." Synthesize: give the one-sentence honest verdict on CCUS that all five critiques *together* support — and the one-sentence rebuttal a thoughtful proponent would offer.
+
+**Answers**
+
+1. It lands hardest in **power generation** and weakest in **heavy industry** (cement, steel, ammonia). In power, renewables-plus-storage are now generally cheaper than fossil-plus-CCS, so CCS there mostly prolongs fossil assets that have a cheaper clean substitute — the lifeline critique is fair. In cement and steel, the emissions are partly *process* emissions (calcination, blast-furnace chemistry) with no electrification path, so capture is the only deep-decarbonization route and "lifeline" is misapplied. The technology is identical in both; what changes is whether a cheaper alternative exists. So the critique is really a claim about *substitutability in the sector*, not about CCS itself — which is why "is CCS a lifeline?" has no sector-independent answer.
+
+2. The injected CO₂ extracts additional oil that is later burned, so the climate verdict turns on what that oil displaces. If the EOR barrel substitutes one-for-one for a barrel that would have been produced anyway (from a dirtier source), and the injected CO₂ would otherwise have been vented, then EOR-coupled CCS is modestly climate-positive — net CO₂ goes underground that otherwise wouldn't. If instead the cheap EOR barrel is *incremental* — oil produced that wouldn't have been, at a price that expands consumption — its combustion emissions can equal or exceed the injected tonne, making the system neutral-to-negative. OBBBA made it worse by paying EOR-coupled and dedicated storage the *same* $85/tCO₂, erasing the prior policy preference for permanent sequestration and removing the incentive to choose the cleaner disposition — so the subsidy now rewards the EOR pathway equally regardless of the counterfactual.
+
+3. It's strong wherever a cheaper direct-decarbonization substitute exists for the same emissions — again, mainly power, where a dollar into renewables abates more than a dollar into coal-plus-CCS, so CCS capital is genuinely lower-leverage. It dissolves in two situations: where no substitute exists (cement process CO₂ — the renewables dollar can't touch it, so the comparison is false), and to the extent the "fixed capital pool" premise is wrong (climate finance is under-supplied relative to need, so the two can grow together rather than trading off). The objection is really "is this the highest-leverage use of the marginal dollar *for these emissions*?" — decisive in substitutable sectors, moot in non-substitutable ones.
+
+4. **Honest verdict the five critiques jointly support:** CCUS is a genuinely necessary tool for a narrow set of hard-to-abate, no-substitute emissions, but it has been oversold as a general decarbonization solution, is too easily steered (by EOR economics and fossil interests) toward prolonging fossil use rather than abating the residual, and won't reach the volumes scenarios assume. **The proponent's one-sentence rebuttal:** none of that argues against deploying CCUS where it *is* the only option — the critiques are arguments for *targeting* it at cement, steel, chemicals, and durable storage and disciplining the EOR/power misuses, not for rejecting the one technology those sectors actually need. *(Both sentences describe the same balanced position from opposite ends: deploy it, but only where it's the right tool, and guard against the misuses the critiques identify.)*
+
 ---
 
 # Part 7: The path forward 2026–2030
@@ -535,7 +569,7 @@ The plausible 2030 outcomes:
 
 The actual outcome depends on policy, project execution, technology cost trajectory, and the broader climate-policy political environment. The 2025–2026 period (with major project FIDs, US policy shifts, the EU 2026 reform) is more consequential than any prior CCUS period.
 
-## **Stop-and-check 10.D**
+## **Stop-and-check 10.F**
 
 1. The "central case" 2030 outcome has CCUS deploying at 250–350 Mt/yr — significant absolute scale but far below NZE requirements. What does this imply about how 1.5°C-compatible pathways need to be structured?
 2. The hub-and-spoke model (Northern Lights, Porthos, East Coast Cluster) bundles capture from multiple emitters with shared transport and storage. What's the advantage over project-by-project CCS?
@@ -637,7 +671,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | CCUS investment 2024 | ~$6.4 billion (tripled since 2022) | 2024 | IEA CCUS Projects Database 2025 |
 | NZE CCUS requirement 2030 | ~1,024 Mt/yr | 2021/2023 NZE | IEA Net Zero Roadmap (2021 NZE; 2023 update revises to ~1,000 Mt/yr) |
 | NZE CCUS requirement 2050 | ~6,040 Mt/yr | 2021/2023 NZE | IEA Net Zero Roadmap (2023 update: >6 Gt/yr) |
-| Boundary Dam cumulative capture vs. design | ~5 Mt cumulative vs. ~7 Mt design | as stated | SaskPower press releases — NOTE: stale; as of Sept 2025, cumulative is ~7.1 Mt (see body-fix flag) |
+| Boundary Dam cumulative capture | ~7.1 Mt cumulative since 2014 (annual ~700–790 ktCO₂/yr, below ~1 Mt/yr design) | Sept 2025 | SaskPower disclosures |
 | Gorgon cumulative injection vs. design | ~10.5 Mt through 2024 vs. ~17 Mt design | 2024 | IEEFA / Chevron Australia disclosures; Rigzone Nov 2024 |
 | Petrobras Santos Basin capacity | ~10.6 Mt/yr (design/nameplate; 2024 actual ~14.2 Mt) | 2024 | Petrobras operator disclosures; gasworld; Offshore Energy |
 | Norway CO2 tax current rate | NOK 952/tCO₂ (~$95) | 2023 (mineral oil general rate) — NOTE: 2025 petroleum-sector rate is NOK 944/tCO₂; verify before re-print | Norskpetroleum.no; Norwegian Tax Administration |
