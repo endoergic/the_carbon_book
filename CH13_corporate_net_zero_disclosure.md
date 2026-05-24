@@ -331,6 +331,25 @@ This legal pressure is, in effect, a **demand-side integrity mechanism** distinc
 
 ---
 
+## **Stop-and-check 13.H (whole chapter)**
+
+1. Five times in this chapter an ambitious climate-governance structure proved reversible: SBTi's 2024 governance crisis, the CSRD Omnibus narrowing, the SEC rule's collapse, GFANZ's unraveling, and the stalled Green Claims Directive. What do these episodes have structurally in common?
+2. Across those reversals, sort what proved *durable* from what proved *fragile*. Is there a pattern in which layer of the architecture survives?
+3. The chapter opens by calling the disclosure transition "mid-stream, contested, and politically polarized." Given the reversals, has the secular trend toward more and stricter climate governance actually turned — or just become non-monotonic?
+4. **Socratic prompt:** You're building a corporate climate strategy in 2026 that must survive a decade of political volatility. What do you anchor it to, and what do you treat as potentially temporary?
+
+**Answers**
+
+1. Each was an *ambitious, relatively new superstructure* resting on either voluntary commitment or contested political authority, and each bent when the political or competitive wind shifted. SBTi (a voluntary NGO validator) wobbled under internal governance strain; the CSRD and Green Claims Directive narrowed/stalled under EU competitiveness pressure; the SEC rule fell to a change in administration; GFANZ unraveled under antitrust threat and anti-ESG politics. The common structure: they extended faster than the underlying political consensus could durably support, and lacked either statutory entrenchment or self-interested constituencies strong enough to defend them when the cost-of-compliance and competitiveness arguments resurged. They were ratchets that turned out to spin backward.
+
+2. The durable layer is the *factual-measurement substrate* and the *factual-legal floor*; the fragile layer is the *voluntary collective commitment* and the *ambitious narrative/scope mandate*. Survived: the GHG Protocol and PCAF as technical practices, the emissions-*data* mandate (SB 253 cleared the first injunction round), and ordinary deceptive-marketing law. Reversed or narrowed: GFANZ's voluntary alliances, the CSRD's expansive scope, the SEC rule entirely, SB 261's narrative risk-disclosure (enjoined), and the Green Claims pre-substantiation regime. The pattern: measuring and not-lying prove robust; coordinating voluntarily and mandating broad or judgment-laden disclosure prove reversible. Factual floors hold; aspirational ceilings fall.
+
+3. It has become non-monotonic rather than reversed. The secular direction is still toward more measurement and more accountability — IFRS S1/S2 keeps being adopted across jurisdictions, SB 253 advances, PCAF and the GHG Protocol entrench, deceptive-marketing enforcement persists — but the path is no longer a smooth one-way ratchet. The 2025–2026 episodes show the trend can loosen as well as tighten, with the loosening concentrated in the voluntary and the politically exposed. So the honest read is a rising-but-jagged trend: the floor keeps rising while the ambitious ceilings are episodically knocked down, and you can no longer assume any specific rule only gets stricter.
+
+4. Anchor the strategy to the durable layer and treat the fragile layer as optional scaffolding. Durable anchors: genuine *abatement* (real capex and emissions cuts that pay off under any policy because they're physically real and increasingly cost-competitive), rigorous *measurement* on the surviving substrate (GHG Protocol/PCAF, audit-ready data), and *factual, defensible disclosure* plus *truthful claims* that survive both securities and consumer-protection law. Treat as potentially temporary: membership in voluntary alliances, reliance on any single jurisdiction's expansive mandate persisting unchanged, and marketing claims that depend on a particular framework or offset category staying in favor. The throughline of the whole chapter: build on what is real and measurable and legally factual — because that's what survives the politics — and don't bet the strategy on voluntary commitments or ambitious mandates that the last two years showed can be unwound.
+
+---
+
 # Closing exercise
 
 Three things to take away:
