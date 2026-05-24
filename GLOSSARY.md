@@ -161,7 +161,8 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 
 ## Chapter 3 additions (introduced: Ch. 3)
 
-- **45Q tax credit** — Section 45Q of the US Internal Revenue Code, providing a per-ton tax credit for CO₂ captured and either sequestered or used. Created 2008, expanded by FUTURE Act (2018) and Inflation Reduction Act (2022), modified by OBBBA (2025) to provide parity between sequestration and EOR. Current values: $85/tCO₂ for point-source sequestration, $180/tCO₂ for DAC sequestration; EOR/utilization now matches post-OBBBA.
+- **45Q tax credit** — Section 45Q of the US Internal Revenue Code, providing a per-ton tax credit for CO₂ captured and either sequestered or used. Created 2008, expanded by FUTURE Act (2018) and Inflation Reduction Act (2022), modified by OBBBA (2025) to provide parity between sequestration and EOR. Current values: $85/tCO₂ for point-source sequestration, $180/tCO₂ for DAC sequestration; EOR/utilization now matches post-OBBBA. Paid for 12 years post-startup; made **transferable** and **direct-pay** by the IRA (what made it financeable); subject to **recapture** if stored CO₂ leaks.
+- **Contract for difference (CfD, CCS)** — Subsidy mechanism in which the government pays the difference between a fixed strike price and the prevailing carbon price, guaranteeing a CCS project a revenue floor. UK CCS funding model.
 - **ACTL (Alberta Carbon Trunk Line)** — Operating Canadian CO₂ pipeline (~240 km), connecting a fertilizer plant and refinery to EOR operations. ~1.6 Mt/yr capacity, operational since 2020.
 - **Aramis** — Proposed Dutch CCS hub targeting up to 22 Mt/yr long-term capacity. Pre-FID as of 2026.
 - **Acorn** — UK Track-1 CCUS cluster in Scotland, approved October 2023.
@@ -186,6 +187,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **PHMSA (Pipeline and Hazardous Materials Safety Administration)** — US DOT agency responsible for pipeline safety regulation. Issued January 2025 NPRM updating CO₂ pipeline safety rules in response to Satartia.
 - **Pipeline phase (CO₂)** — Thermodynamic state of CO₂ in transport: supercritical (most common for long-distance), liquid (trucking/shipping), or gas (short-distance, lower-pressure applications).
 - **Porthos** — Dutch CCS hub project, Rotterdam-area sources to North Sea storage. ~2.5 Mt/yr, first injection expected ~2026.
+- **Recapture (45Q)** — IRS provision allowing the 45Q credit to be clawed back if stored CO₂ leaks within a defined window. Priced by lenders as a project risk because storage liability outlasts the 12-year credit period.
 - **Saline aquifer / saline formation** — Deep underground geological formation containing saltwater, suitable for CO₂ storage. The favored target for most large-scale CCS.
 - **Satartia, Mississippi (Feb 22, 2020)** — Town near the rupture of a Denbury CO₂ pipeline. >45 hospitalizations, no fatalities. The defining US CO₂ pipeline safety incident; basis for PHMSA's January 2025 NPRM.
 - **Shute Creek / LaBarge** — ExxonMobil's Wyoming gas processing facility; the world's largest single anthropogenic CO₂ source for EOR (~7 Mt/yr captured).

@@ -234,6 +234,20 @@ The Summit story is the canonical case study of CCS pipeline politics: **strong 
 
 The honest read on this table: **of all the projects listed, only Northern Lights Phase 1 is actually operating**, and Northern Lights is a heavily subsidized demonstrator rather than a market-rate solution. The rest are in various states of construction, regulatory limbo, or political restructuring. The 2025–2027 period will be when the others either come online (or don't), and when we'll learn whether the IRA/OBBBA-era CCS push translates to physical infrastructure.
 
+## How a CCS project actually gets financed
+
+To see *why* most of that table is stuck pre-FID or on government life support, you have to look at how a CCS project assembles its revenue — because the problem is the same one the non-Chinese graphite plants faced in Chapter 2: a high-capital-cost asset that cannot reach a final investment decision (FID) without a *contracted, bankable revenue floor*. A capture plant and its storage well are billion-dollar commitments with decades of operating life; a lender will not fund them against a hoped-for spot price.
+
+A CCS project has up to three revenue streams, and the financing turns on how bankable each one is:
+
+1. **The 45Q tax credit** — $85/t for point-source storage, $180/t for DAC, paid for **12 years** after start-up. But a tax credit is only worth its face value to someone with enough tax liability to absorb it, and most project developers (or the single-purpose entities that own the asset) don't have it. The IRA's decisive move was to make 45Q **transferable** — the developer can *sell* the credit for cash to a third party with tax appetite — and available as **direct pay** for some entities. That is what turned 45Q from a tax attribute into something a lender can underwrite against. Two features still haunt it: the credit runs **12 years while the storage liability runs decades**, and it carries **recapture risk** — if the stored CO₂ leaks back out within the recapture window, the IRS can claw the credit back, which lenders price as a hazard.
+2. **A carbon price or compliance value** — the EU ETS for European emitters, a voluntary-market buyer elsewhere. But as Northern Lights shows, an ETS price around €75/t doesn't cover a ~$150–300/t all-in CCS cost, so this rarely closes the gap on its own.
+3. **The molecule's own value** — EOR payments or a merchant CO₂ sale (Part 4). This is exactly why OBBBA's parity provision matters so much: by raising EOR's 45Q value to full parity, it lets a project stack EOR revenue *on top of* the $85 credit — often the increment that finally tips a project to FID, and the reason the destination tilts toward oil.
+
+For the cheap-to-capture sources (gas processing, ammonia, ethanol) near existing pipelines, stacking 45Q + EOR can pencil — which is why the Gulf/Permian projects are the ones moving. For the dilute, expensive sources that matter most for climate (cement, steel, power), none of the three streams is bankable at today's prices. So those projects only happen where a government *manufactures the missing revenue floor*: Norway's **Longship** program covering ~80% of Northern Lights, the UK's **CCS contracts-for-difference** (the state pays the difference between a fixed strike price and the prevailing ETS), the EU **Innovation Fund**. This is the identical pattern to the graphite bankability problem in Chapter 2 — *policy manufacturing a price floor so private capital will finance the build-out* — and you will meet it a third time in CDR procurement (Ch. 11) and a fourth in SAF mandates (Ch. 12, Appendix A). Hold the pattern; it is one of the load-bearing ideas of this book.
+
+So the Stop-and-check question below — "CCS, or *subsidized* CCS?" — has a precise answer. At today's carbon prices, capture on dilute sources is not yet financeable on its own revenue; the projects that pencil either avoid the dilute-capture cost (cheap sources + EOR) or sit on a government-built floor. For the rest to follow, either the cost curve bends or the floor stays.
+
 ## **Stop-and-check 3.C**
 
 1. Why is the Gulf Coast a structurally favored CCS region compared to, say, the Midwest? List three reasons that aren't just "more emissions."
@@ -259,7 +273,7 @@ We've spent most of this chapter on the climate-motivated CO₂ value chain. But
 
 ## What it is
 
-Merchant CO₂ is industrial-grade CO₂ sold as a commodity for productive uses. The market is approximately **$13 billion globally in 2024**, projected to grow to ~$21 billion by 2029. Industrial gas companies (the same firms that sell oxygen and nitrogen) source CO₂ from byproduct streams at industrial plants, purify it to food/beverage/industrial spec, liquefy it, and distribute it to thousands of end customers.
+Merchant CO₂ is industrial-grade CO₂ sold as a commodity for productive uses. The market is approximately **$13 billion globally in 2024**, projected to grow to ~$21 billion by 2029, moving on the order of **~230 Mt of CO₂ per year** worldwide — a throughput that, by raw volume, dwarfs both US CO₂-EOR (~70 Mt/yr) and global geological storage (~50 Mt/yr). Hold that comparison lightly, though: as Stop-and-check 3.D presses, almost none of this CO₂ is *stored* — it is used and re-released — so the volume measures market size, not climate mitigation. Industrial gas companies (the same firms that sell oxygen and nitrogen) source CO₂ from byproduct streams at industrial plants, purify it to food/beverage/industrial spec, liquefy it, and distribute it to thousands of end customers.
 
 Three companies — **Air Liquide, Linde, Air Products** — collectively hold ~82% of the global merchant CO₂ market. Below them are regional players: Messer, Nippon Sanso (Taiyo Nippon), Yara (large CO₂ producer in Europe via ammonia), Praxair (now part of Linde), Gulf Cryo, BOC, and many smaller distributors.
 
@@ -306,6 +320,23 @@ The legacy merchant CO₂ market and the new climate-CCS value chain are *collid
 - **CO₂-to-products.** Several companies are using merchant-grade CO₂ as feedstock for chemicals, polymers, e-fuels, and building materials, with the climate value depending on whether the source CO₂ is biogenic, atmospheric (DAC), or fossil. We'll come back to this in Part 5.
 
 The honest framing: **the merchant CO₂ market is the most mature destination for captured CO₂ that exists, and it's drawing in CCS supply as the latter becomes available.** Whether that's a climate-positive use or just shuffling CO₂ atoms around for industrial purposes depends on the whole-system accounting, and the accounting frameworks are still catching up.
+
+## **Stop-and-check 3.D**
+
+1. The merchant CO₂ market moves ~230 Mt/yr — far more than EOR or geological storage by volume. Why is volume a misleading way to think about its climate relevance?
+2. The 2022 US shortage showed merchant supply leans on a handful of large ammonia and ethanol sources. As those sources add CCS capture, does that make the merchant market *more* or *less* fragile?
+3. A brewery buys captured CO₂ from a CCS project to carbonate its beer. Is that "carbon storage"? Trace the molecule.
+4. **Socratic prompt:** A project sells its captured CO₂ to a brewery instead of storing it, but still wants to claim a climate benefit. What's the honest accounting — and who, if anyone, gets to claim the "avoided" or "removed" ton?
+
+**Answers**
+
+1. Because almost none of merchant CO₂ is *stored* — it is used and then re-released. The CO₂ in a soda is vented the moment you open and drink it; welding gas, greenhouse enrichment, and dry ice nearly all return to the atmosphere within days to months. So 230 Mt/yr of throughput is a *flow*, not a sink. Its climate relevance isn't the volume it moves but (a) where the CO₂ originates (fossil byproduct vs. biogenic vs. atmospheric) and (b) whether using captured CO₂ displaces a fossil-sourced molecule. Volume measures the size of the market, not the size of any mitigation.
+
+2. It cuts both ways, but the net is probably *more* resilient. Adding capture and purification at the big ammonia and ethanol sources gives them a second revenue stream (45Q or merchant sales) that makes the recovery unit worth running and maintaining rather than venting — which stabilizes supply — and the CCS push is bringing new purified sources online (Linde's Freeport plant, ethanol-corridor projects). But the concentration risk remains: if supply is still anchored to a few mega-sources, a coincident outage still tightens the market. What reduces fragility is geographic diversification, not capture per se.
+
+3. No — it is the opposite of storage. Trace it: the project captures a ton that would otherwise be vented or stored, sells it to the brewery, the brewery dissolves it in beer, and within weeks a customer opens the can and the CO₂ returns to the atmosphere. The net atmospheric effect is roughly zero relative to venting (you delayed the release by the supply-chain time) and *worse* than storage (which would have kept it underground). The only climate case is a *substitution* one — if this CO₂ displaces CO₂ the brewery would otherwise have bought from a fossil source, you have avoided that fossil molecule. But you have not removed or stored anything. Merchant use is not sequestration.
+
+4. The honest accounting splits the molecule's journey into *capture* and *fate*, and only the fate determines the climate claim. Selling to a brewery is a use, not storage, so no removal or durable-storage credit is warranted; at most there is an *avoided*-emissions claim, and only if the captured CO₂ genuinely displaces a fossil-sourced merchant molecule. Even then, that avoided ton belongs to whoever's emissions would otherwise have risen (the displaced fossil supplier's customer), not to the CCS project, which merely changed where its own molecule went. The trap is double-counting: the project can't book a storage benefit (there is none) and the buyer can't book a removal. This is exactly the avoided/reduced/removed discipline of Ch. 5 applied to one molecule — and it's why 45Q pays for *storage*, not for a merchant sale.
 
 ---
 
@@ -354,7 +385,24 @@ Of total global CO₂ emissions (~38 GtCO₂/yr), the total *theoretical* market
 
 The reason climate people sometimes oversell CCU is that it sounds attractive — "turn the problem into the solution!" — but the thermodynamics and the scale don't match the rhetoric. *Most* captured CO₂ is going to need to go into geological storage for permanent isolation. CCU helps at the margin in specific applications. It does not replace the need for CCS.
 
-## **Stop-and-check 3.D (whole chapter)**
+## **Stop-and-check 3.E**
+
+1. CCU products range from mineralized concrete (locks CO₂ for >1,000 years) to e-fuels (re-released on combustion within weeks). Why does that durability spread make "CCU" almost useless as a single category for climate accounting?
+2. Turning CO₂ back into a fuel or chemical costs energy. Under what condition is CCU climate-positive, and under what condition is it climate-*negative*?
+3. E-fuels cost 3–10× fossil fuels even with green inputs. Why might they be the right answer for aviation and shipping but the wrong answer for ground transport?
+4. **Socratic prompt:** Should CCU earn carbon-removal credits? Make the case that mineralized concrete should and e-fuels shouldn't — then name the exact variable that separates them.
+
+**Answers**
+
+1. Because the climate value of "using" CO₂ depends entirely on how long the carbon stays out of the atmosphere, and CCU products span the whole permanence spectrum. Mineralization (CaCO₃ in concrete or aggregate) is geologically stable — effectively permanent, indistinguishable in outcome from CCS. An e-fuel re-releases its CO₂ the instant it's burned, days to months later — not storage at all, only (possibly) a fossil-fuel substitution. Lumping these under one acronym invites the error of treating an e-fuel as if it sequesters carbon. For accounting you must ask the durability question (Ch. 11's permanence tiers) of each *product*, never of "CCU" as a class.
+
+2. CCU is climate-positive only when (a) the energy input — electricity or hydrogen — is genuinely low-carbon, and (b) the product displaces a more carbon-intensive incumbent (and, for any *storage* claim, the carbon stays locked up). Because CO₂ is a low-energy molecule, converting it always costs energy; if that energy is fossil-fired, the conversion releases more CO₂ than it consumes and CCU is climate-*negative* — you'd have done better not to bother. The decisive variable is the carbon intensity of the energy, which is why a CCU claim is only ever as clean as the grid or hydrogen behind it.
+
+3. Aviation and shipping have no near-term electrification path — batteries are too heavy for long-haul flight and ships need energy-dense liquid fuel — so a drop-in e-fuel (or SAF) may be the *only* decarbonization option, and a 3–10× premium is tolerable on a small slice of total energy. Ground transport has a cheaper, more efficient alternative: direct electrification, which uses the clean electricity straight rather than eating the round-trip losses of electricity → hydrogen → e-fuel → combustion. Spending scarce green electrons on e-fuels for cars when a battery would do is thermodynamically wasteful. Match the expensive molecule to the use that has no substitute.
+
+4. Mineralized concrete should: the carbon is fixed as a stable carbonate for >1,000 years, so if the source CO₂ is atmospheric or biogenic it's a genuine removal with durable storage — the same outcome as CCS. E-fuels shouldn't: the carbon is re-released on combustion within weeks, so there is no storage and at most an avoided-emissions (substitution) claim, not a removal. The variable that separates them is **durability/permanence** — how long the carbon is isolated from the atmosphere — which is exactly the axis Ch. 11 uses to tier removals. A credit system blind to durability would pay the same for both and reward the one that does nothing for the atmosphere.
+
+## **Stop-and-check 3.F (whole chapter)**
 
 1. The CO₂ molecule value chain has four primary destinations: storage, EOR, merchant sale, and product conversion. Rank these by current scale (Mt/yr). Now rank them by expected scale in 2040. What changes between the rankings?
 2. A captured CO₂ molecule going to storage earns $85/ton 45Q (post-OBBBA). A captured CO₂ molecule sold to the merchant market earns ~$80–150/ton at current prices. Why would any project pursue storage rather than sale? What's the project-economic difference?
@@ -363,7 +411,7 @@ The reason climate people sometimes oversell CCU is that it sounds attractive �
 
 **Answers**
 
-1. By current scale: EOR (~70 Mt/yr US) ≥ Merchant CO₂ (~230 Mt/yr globally, dwarfing EOR by volume) ≫ Product conversion (<10 Mt/yr, mostly niche) > Geological storage (~50 Mt/yr combined globally with capture). By 2040 expected scale: Geological storage likely dominates (IEA NZE: 1,000+ Mt/yr by 2030, 6,000 Mt/yr by 2050); Merchant CO₂ grows moderately (food/industrial demand is slow-growing); EOR potentially constrained by transition; Product conversion possibly growing if e-fuels scale.
+1. By current scale (global, by volume): Merchant CO₂ (~230 Mt/yr) > EOR (~70 Mt/yr, mostly US) > Geological storage (~50 Mt/yr) ≫ Product conversion (<10 Mt/yr, mostly niche). But note the scale ranking inverts the *mitigation* ranking — most merchant CO₂ and all EOR-extracted oil re-enter the atmosphere, while only geological storage (and durable mineralization within product conversion) actually isolates carbon. By 2040 expected scale: Geological storage likely dominates (IEA NZE: 1,000+ Mt/yr by 2030, 6,000 Mt/yr by 2050); Merchant CO₂ grows only moderately (food/industrial demand is slow-growing); EOR potentially constrained by the oil transition; Product conversion grows if e-fuels and mineralization scale. The key change between rankings: storage goes from smallest to largest, because it's the only destination policy is actively trying to scale for climate reasons.
 
 2. A captured CO₂ molecule going to storage earns $85/ton 45Q (OBBBA parity). A molecule sold to merchant market earns $80–150/ton at current prices — comparable to 45Q on revenue. The project-economic difference: merchant sales require co-location with purification, liquefaction, and distribution infrastructure, plus ongoing buyer relationships. Storage requires long-term geological liability management and Class VI well permitting, which is slow and costly. The merchant sale earns similar revenue without the liability burden, which is why companies with merchant market access often prefer it. But merchant market volume is limited (~230 Mt/yr globally); once that's supplied, additional captured CO₂ must go to storage.
 
@@ -401,7 +449,8 @@ Three things to take away:
 
 # Glossary delta (Chapter 3)
 
-- **45Q tax credit** — Section 45Q of the US Internal Revenue Code, providing a per-ton tax credit for CO₂ captured and either sequestered or used. Created 2008, expanded by FUTURE Act (2018) and Inflation Reduction Act (2022), modified by OBBBA (2025) to provide parity between sequestration and EOR. Current values: $85/tCO₂ for point-source sequestration, $180/tCO₂ for DAC sequestration, with EOR/utilization now matching post-OBBBA (was previously discounted).
+- **45Q tax credit** — Section 45Q of the US Internal Revenue Code, providing a per-ton tax credit for CO₂ captured and either sequestered or used. Created 2008, expanded by FUTURE Act (2018) and Inflation Reduction Act (2022), modified by OBBBA (2025) to provide parity between sequestration and EOR. Current values: $85/tCO₂ for point-source sequestration, $180/tCO₂ for DAC sequestration, with EOR/utilization now matching post-OBBBA (was previously discounted). Paid for **12 years** after a facility starts up. The IRA made the credit **transferable** (sellable for cash to a third party with tax liability) and available as **direct pay** for some entities — the features that made 45Q financeable. Subject to **recapture** (see below).
+- **Contract for difference (CfD, CCS)** — A subsidy mechanism in which the government pays a project the difference between a fixed strike price and the prevailing carbon price (e.g. the EU ETS), guaranteeing a revenue floor. Used by the UK to make CCS bankable; analogous to renewable-energy CfDs.
 - **ACTL (Alberta Carbon Trunk Line)** — Operating Canadian CO₂ pipeline (~240 km), connecting a Nutrien fertilizer plant and Sturgeon refinery to Enhance Energy's EOR operations. ~1.6 Mt/yr capacity, operational since 2020.
 - **Aramis** — Proposed Dutch CCS hub, targeting up to 22 Mt/yr long-term capacity. Partners include Shell, TotalEnergies, EBN, Gasunie. Pre-FID as of 2026.
 - **Acorn** — UK Track-1 CCUS cluster in Scotland, approved October 2023. Repurposes existing North Sea gas infrastructure for CO₂ storage.
@@ -414,6 +463,7 @@ Three things to take away:
 - **EOR (Enhanced Oil Recovery)** — General term for techniques to extract additional oil from a reservoir beyond primary and secondary recovery. CO₂-EOR is one approach; others use steam, polymers, or surfactants.
 - **LCOA (Levelized Cost of CO₂ Avoided)** — Cost per ton of net CO₂ avoided by a capture project, accounting for the parasitic emissions associated with capture itself. Higher than LCOC.
 - **LCOC (Levelized Cost of CO₂ Captured)** — Cost per ton of CO₂ captured by a project, before accounting for the parasitic emissions of the capture system.
+- **Longship** — The Norwegian government's full-chain CCS program that funds ~80% of Northern Lights Phase 1. The archetypal government-as-revenue-floor CCS subsidy.
 - **MMV (Measurement, Monitoring, and Verification)** — The framework for confirming permanent storage of injected CO₂. Class VI wells require detailed MMV plans for 50-year post-injection periods.
 - **Northern Lights** — World's first open-access (third-party) CO₂ transport and storage facility, operational since August 2025. JV of Equinor, Shell, TotalEnergies. Phase 1: 1.5 Mt/yr; Phase 2: 5+ Mt/yr by 2028.
 - **OBBBA (One Big Beautiful Bill Act, July 2025)** — US reconciliation legislation that, among other changes, established 45Q parity between sequestration and EOR/utilization (both now earn $85/tCO₂ for point source, $180/tCO₂ for DAC) and introduced Foreign Entity of Concern restrictions to 45Q.
@@ -421,6 +471,7 @@ Three things to take away:
 - **Pipeline phase (CO₂)** — Refers to the thermodynamic state of CO₂ in transport: supercritical (above critical point), liquid (below critical, high pressure), or gas (low pressure). Different phases have different operating, safety, and rupture-behavior characteristics.
 - **PHMSA (Pipeline and Hazardous Materials Safety Administration)** — US Department of Transportation agency responsible for regulating pipeline safety. Issued the January 2025 NPRM updating CO₂ pipeline safety regulations.
 - **Porthos** — Dutch CCS hub project, Rotterdam-area industrial sources storing in depleted North Sea gas reservoirs. ~2.5 Mt/yr, first injection now expected second half 2027 (slipped from original 2026 target).
+- **Recapture (45Q)** — IRS provision allowing the 45Q credit to be clawed back if stored CO₂ leaks out within a defined recapture window. Priced by lenders as a project risk because the storage liability outlasts the 12-year credit period.
 - **Saline aquifer / saline formation** — Deep underground geological formation containing saltwater, suitable for CO₂ storage. Large potential storage capacity globally; the favored target for most large-scale CCS projects.
 - **Satartia, Mississippi (Feb 22, 2020)** — Town near the rupture of a Denbury CO₂ pipeline. >45 hospitalizations; no fatalities. The defining CO₂ pipeline safety incident in US history; basis for PHMSA's January 2025 NPRM.
 - **Shute Creek / LaBarge** — ExxonMobil's gas processing facility in Wyoming, the largest single anthropogenic CO₂ source for EOR in the world (~7 Mt/yr captured).
@@ -467,7 +518,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 
 > **North Dakota permit timeline note:** The chapter's Summit timeline entry "2025. A North Dakota judge revokes Summit's underground storage permit" captures the first ruling (Dec 2025, constitutional invalidity finding) but not the second ruling (March 10, 2026, permit formally voided). The entry is technically accurate as written but incomplete; the body text at line ~214 may warrant a date refinement to "Dec 2025–Mar 2026" for precision.
 
-> **Answer-key contradiction note:** Stop-and-check 3.D Answer 1 (line ~366) states the ranking as "EOR (~70 Mt/yr US) ≥ Merchant CO₂ (~230 Mt/yr globally, dwarfing EOR by volume)." This is self-contradictory: if merchant CO₂ dwarfs EOR by volume at 230 Mt/yr vs 70 Mt/yr, the ranking should be Merchant CO₂ > EOR for volume at global scale. The ~230 Mt/yr merchant figure also appears only in answer keys and the convergence discussion (line ~368), not in the Part 4 body narrative — see flag above in the table.
+> **Answer-key contradiction note (resolved May 2026):** The whole-chapter Stop-and-check Answer 1 previously ranked "EOR (~70 Mt/yr US) ≥ Merchant CO₂ (~230 Mt/yr globally, dwarfing EOR by volume)," which was self-contradictory. Fixed in the depth pass: the ranking now reads Merchant CO₂ (~230 Mt/yr) > EOR (~70 Mt/yr) > Geological storage (~50 Mt/yr) ≫ Product conversion, with an explicit note that the *scale* ranking inverts the *mitigation* ranking. The ~230 Mt/yr merchant figure has also been added to the Part 4 body (previously it appeared only in answer keys). The figure remains market-research-derived; triangulate against industrial-gas company disclosures before relying on it.
 
 ---
 
