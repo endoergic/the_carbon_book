@@ -174,7 +174,7 @@ The honest assessment: building non-Chinese processing capacity is slow, expensi
 
 ## The graphite link
 
-This is where Chapter 2 and Chapter 14 meet most directly. The EV battery requires more carbon — as graphite — by mass than it requires lithium. China's >65% control of natural graphite and ~80%+ of anode processing means that the single most carbon-flavored material in the transition is also its sharpest geopolitical chokepoint. Carbon, the climate liability, and carbon, the strategic material, turn out to be the same story viewed from two angles.
+This is where Chapter 2 and Chapter 14 meet most directly. The EV battery requires more carbon — as graphite — by mass than it requires lithium. China's ~60–65% control of natural graphite production and ~80%+ of anode processing means that the single most carbon-flavored material in the transition is also its sharpest geopolitical chokepoint. Carbon, the climate liability, and carbon, the strategic material, turn out to be the same story viewed from two angles.
 
 ## **Stop-and-check 14.D**
 
@@ -376,7 +376,7 @@ This chapter cites figures and political states current as of writing (May 2026)
 | Global emissions covered by carbon pricing | ~28% covered (2025 report); only ~8–10% at materially high prices, so ~three-quarters face no meaningful price | June 2025 | World Bank State and Trends of Carbon Pricing 2025 |
 | CBAM first certificate price / coverage | ~€75/tCO₂e Q1 2026; steel, aluminum, cement, fertilizers, hydrogen, electricity | 2026 | European Commission (see Ch. 7) |
 | G7 Climate Club | established 2023; soft coordination forum | 2023–26 | G7 / Climate Club secretariat |
-| China supply-chain dominance | >65% natural graphite; ~80%+ anode processing; dominant polysilicon | 2024–25 | IEA Critical Minerals; BNEF (see Ch. 2) |
+| China supply-chain dominance | ~60–65% natural graphite production; ~80%+ anode processing; dominant polysilicon | 2024–25 | IEA Critical Minerals; BNEF (see Ch. 2) |
 | IRA / OBBBA | IRA 2022 domestic-content credits; OBBBA (Jul 2025) repealed/sunset most | 2025 | OBBBA text (see Ch. 13) |
 | EU CRMA / Net-Zero Industry Act | adopted 2024 | 2024 | EUR-Lex |
 | $100B pledge | met ~2022, late and contested | 2022 | OECD climate finance reports |

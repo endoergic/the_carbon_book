@@ -42,7 +42,7 @@ The honest answer, by the mid-2020s, is: **not as originally framed.** Holding w
 This reframes the entire forward problem around two concepts:
 
 - **Overshoot.** Peak warming above the target, followed by a decline. The deeper and longer the overshoot, the greater the risk of triggering irreversible tipping points (ice-sheet collapse, permafrost carbon release, ecosystem state shifts) that no later cooling can undo. Overshoot is not symmetric: the damages during the peak are real even if temperature later falls.
-- **Net-negative dependence.** Coming back down requires removing CO₂ at gigatonne scale for decades — which is why the IPCC's 1.5°C-consistent pathways assume **5–10 GtCO₂/year of CDR by mid-century** (Ch. 11). Current *durable* (novel) CDR is well under a megatonne per year — against ~2 Gt/yr of conventional, mostly land-based removal (Ch. 11). The pathways quietly assume a several-thousand-fold scale-up of the durable-removal industry, which barely exists. This is the largest single act of faith embedded in the scenarios.
+- **Net-negative dependence.** Coming back down requires removing CO₂ at gigatonne scale for decades — which is why the IPCC's 1.5°C-consistent pathways assume **5–10 GtCO₂/year of *novel* CDR by mid-century** (Ch. 11). Current *durable* (novel) CDR is well under a megatonne per year — against ~2 Gt/yr of conventional, mostly land-based removal (Ch. 11). The pathways quietly assume a several-thousand-fold scale-up of the durable-removal industry, which barely exists. This is the largest single act of faith embedded in the scenarios.
 
 ## The "delivery gap" beneath the emissions gap
 

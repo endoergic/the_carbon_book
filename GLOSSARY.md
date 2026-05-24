@@ -248,7 +248,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **ISSB** — International Sustainability Standards Board, created by IFRS Foundation in 2021. Issues IFRS S1 and S2.
 - **Location-based Scope 2** — Scope 2 reporting using grid-average emission factors for the location of consumption. Reflects physical reality.
 - **Market-based Scope 2** — Scope 2 reporting using contractual instruments (RECs, PPAs, green tariffs). Reflects company procurement choices.
-- **OER (Ongoing Emissions Responsibility)** — SBTi V2 framework replacing BVCM. Structured responsibility for emissions during transition with tiers and post-2035 mandatory requirements.
+- **OER (Ongoing Emissions Responsibility)** — SBTi V2 framework replacing BVCM. Structured responsibility for emissions during the transition (via carbon credits / beyond-value-chain action) — with tiers and post-2035 mandatory requirements — that cannot substitute for abatement.
 - **Operational control approach** — Organizational boundary approach accounting for 100% of emissions from entities the company operationally controls.
 - **PCAF (Partnership for Carbon Accounting Financials)** — Industry-led standard-setter for financial-sector emissions, founded 2015. 3rd edition published December 2025.
 - **PCAF Parts A, B, C** — Financed Emissions (Part A), Facilitated Emissions (Part B), Insurance-Associated Emissions (Part C).
@@ -432,7 +432,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **FID (Final Investment Decision)** — Project development stage where capital commitment is made.
 - **Gorgon** — Chevron's Australian LNG project with CCS, operational since 2019.
 - **Hub-and-spoke model** — Shared CCS infrastructure linking multiple capture facilities to common transport and storage.
-- **Longship** — Norwegian government's flagship CCS funding program supporting Northern Lights and Brevik.
+- **Longship** — See Chapter 3 additions. (Norwegian government CCS funding program; covers ~80% of Northern Lights Phase 1; also supports Brevik.)
 - **Moomba CCS** — Australian gas-processing CCS at Santos's Moomba facility; operational October 2024.
 - **MRV (Monitoring, Reporting, Verification)** — Processes for confirming stored CO₂ stays stored.
 - **Northern Lights** — Norwegian CCS hub. Phase 1 operational August 2025 (1.5 Mt/yr); Phase 2 to 5 Mt/yr by 2028.
@@ -498,7 +498,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **Haber-Bosch process** — Industrial process for synthesizing ammonia. Energy- and CO₂-intensive when fed by natural-gas-derived hydrogen.
 - **HEFA (Hydroprocessed Esters and Fatty Acids)** — SAF production pathway from oils and fats. Currently dominant SAF method.
 - **HYBRIT** — Swedish demonstration for green steel using green hydrogen.
-- **IMO 2025 Agreement** — Global shipping carbon-pricing framework agreed April 2025; entering force 2027.
+- **IMO 2025 Net-Zero Framework** — Global shipping GHG-pricing framework *approved* at MEPC 83 (April 2025), but formal adoption *postponed* when MEPC/ES.2 (Oct 2025) adjourned without adopting the MARPOL Annex VI amendments; next opportunity Oct 2026, so 2027 entry into force is now in doubt. Penalty tiers $100/$380/tCO₂eq; 30%-by-2035 / 65%-by-2040 GHG-intensity targets vs. 2008.
 - **MOE (Molten Oxide Electrolysis)** — Pre-commercial alternative steel chemistry; direct electrolytic reduction.
 - **ReFuelEU Aviation** — EU mandate requiring increasing SAF blend shares. 2% by 2025 → 70% by 2050.
 - **SAF (Sustainable Aviation Fuel)** — Drop-in jet fuel from non-fossil feedstocks.
@@ -517,7 +517,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 
 - **Abatement** — Reductions in a company's own value-chain emissions (Scopes 1–3), as distinct from neutralization or compensation outside the boundary. Credible net zero requires abatement first.
 - **Carbon neutral (claim)** — A balance claim matching gross emissions with retired offsets over a period; says nothing about reductions or credit quality. Increasingly a legal-risk claim under greenwashing law.
-- **Compensation / BVCM (beyond value-chain mitigation)** — Paying for climate action outside the company's footprint during the transition; cannot substitute for abatement or end-state neutralization under credible standards. See [[OER]].
+- **Compensation** — In the mitigation hierarchy (Ch. 13), paying for climate action *outside* the company's footprint during the transition; cannot substitute for abatement or end-state neutralization under credible standards. The vehicle for it is BVCM / its SBTi V2 successor OER (see Chapter 5 additions).
 - **CSRD (Corporate Sustainability Reporting Directive)** — EU law mandating sustainability reporting against the ESRS. Scope sharply narrowed by the 2025–2026 Omnibus package (Directive (EU) 2026/470, in force March 2026): thresholds raised to >1,000 employees and >€450m turnover; mandatory reporting for financial years from 1 Jan 2027.
 - **Double materiality** — EU principle requiring disclosure of both climate's financial effect on the company *and* the company's impact on climate/society. Contrast: ISSB single (financial) materiality.
 - **ESRS E1** — The climate standard within the European Sustainability Reporting Standards; the most detailed mandatory climate-disclosure standard in the world. Revised (simplified) Set 1 Delegated Act due ~Sept 2026.
@@ -527,7 +527,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **ISSB (International Sustainability Standards Board)** — IFRS Foundation body building a global disclosure baseline; uses single (financial) materiality. Absorbed the TCFD's monitoring role in 2023–2024.
 - **Mitigation hierarchy** — Avoid, then reduce, then neutralize the residual. The sequencing rule underlying credible net zero.
 - **Neutralization** — Removing and durably storing atmospheric CO₂ to balance residual emissions at the net-zero target year; under credible standards, removals only (not avoidance credits).
-- **OER (Ongoing Emissions Responsibility)** — SBTi V2 concept: take responsibility for emissions during the transition via credits / beyond-value-chain action, without substituting for abatement.
+- **OER (Ongoing Emissions Responsibility)** — See Chapter 5 additions.
 - **Paris-aligned** — The loosest climate-claim term; "consistent with the goals of the Paris Agreement," with no single quantitative definition.
 - **SBTi (Science Based Targets initiative)** — NGO-coalition standard-setter that became the de facto arbiter of credible corporate climate targets. Corporate Net-Zero Standard V2 expected 2026 (second consultation closed Dec 2025), mandatory for new targets from 2028.
 - **SB 253 / SB 261** — California climate-disclosure laws (2023): SB 253 (Scope 1/2/3 emissions per GHG Protocol, first deadline Aug 2026); SB 261 (climate financial risk, TCFD-aligned, enforcement enjoined Nov 2025 pending Ninth Circuit ruling). CARB regulations approved Feb 2026.

@@ -589,7 +589,7 @@ The key structural feature: because the benchmark declines annually, credits ear
 
 **Price (2026):** the Q1 reference was ~$63/tCO₂e, firming to ~$66–71 by Q2 2026 as the market tightened (the benchmark declines and the credit bank has drawn down from its 2021–2023 peak). The program's Credit Clearance Market sets a maximum price that escalates annually — confirmed at $268.90/tCO₂e through May 31 2026, with the mid-2026 figure (~$275) set by CARB's annual adjustment.
 
-Some fuels achieve deeply negative CI — dairy biomethane, for instance, can score around −250 gCO₂e/MJ because capturing methane that would otherwise escape earns a large avoided-emissions credit. LCFS pays for this CI performance; being far below the ~95 gCO₂e/MJ benchmark produces a very large credit per unit of fuel. This "negative-CI mechanic" deserves careful reading: it is a counterfactual avoidance claim embedded inside a fuel score, with the same additionality and baseline vulnerabilities as a VCM avoidance credit. Chapter 8 develops this point in Part 8.
+Some fuels achieve deeply negative CI — dairy biomethane, for instance, can score around −250 gCO₂e/MJ because capturing methane that would otherwise escape earns a large avoided-emissions credit. LCFS pays for this CI performance; being far below the applicable benchmark (~80–87 gCO₂e/MJ depending on fuel type) produces a very large credit per unit of fuel. This "negative-CI mechanic" deserves careful reading: it is a counterfactual avoidance claim embedded inside a fuel score, with the same additionality and baseline vulnerabilities as a VCM avoidance credit. Chapter 8 develops this point in Part 8.
 
 ### 45Z (Clean Fuel Production Credit)
 
@@ -683,7 +683,7 @@ The compliance carbon markets are the most stable and durable part of the climat
 - **CCA (California Carbon Allowance)** — Allowance under California's Cap-and-Invest system. Currently trading around $30 on the secondary market.
 - **CEA (Chinese Emission Allowance)** — Allowance under China's national ETS. Currently trading around ¥80–100/tCO₂e.
 - **Compliance obligation** — Requirement to surrender allowances equal to verified emissions at end of compliance period.
-- **CORSIA** — Carbon Offsetting and Reduction Scheme for International Aviation. ICAO mechanism covering international flights. Distinct from EU ETS aviation coverage.
+- **CORSIA** — Carbon Offsetting and Reduction Scheme for International Aviation. ICAO mechanism covering international flights; a *hybrid* compliance/voluntary scheme (it accepts voluntary-market credits to meet the compliance obligation). Distinct from EU ETS aviation coverage.
 - **EUA (European Union Allowance)** — Allowance under the EU ETS. Currently trading around €70–80/tCO₂e.
 - **ETS1** — Generic term for the original EU ETS (power and industry, plus aviation and maritime).
 - **ETS2** — New EU emissions trading system for road transport and building heating fuels. Delayed to 2028 operational phase.

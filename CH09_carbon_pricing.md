@@ -41,7 +41,7 @@ The price at which emission allowances trade in cap-and-trade systems. EU ETS at
 
 ## 2. Carbon tax rate
 
-The per-ton charge imposed by statute. Sweden at $130. Canada and British Columbia both abolished their consumer carbon charges in April 2025 (Canada's industrial carbon price continues). France's domestic tax at €44.
+The per-ton charge imposed by statute. Sweden at ~$150 (the world's highest). Canada and British Columbia both abolished their consumer carbon charges in April 2025 (Canada's industrial carbon price continues). France's domestic tax at €44.
 
 **What it is:** A legislatively-set charge per ton.
 **Who pays it:** Whoever the statute designates — often upstream (fuel suppliers) for administrative simplicity.
@@ -264,11 +264,11 @@ Most economists historically favored carbon taxes over cap-and-trade, on grounds
 
 Several patterns emerge from the global record:
 
-**1. Carbon taxes can reach materially high rates without economic disruption.** Sweden at $130, Switzerland at $150, Canada heading to $125 — all without observable economic harm. The "carbon taxes will crash the economy" argument has not been borne out empirically.
+**1. Carbon taxes can reach materially high rates without economic disruption.** Sweden at ~$150, Switzerland at ~$135, Canada on a path toward $125 (before its 2025 consumer-charge repeal) — all without observable economic harm. The "carbon taxes will crash the economy" argument has not been borne out empirically.
 
 **2. Political vulnerability is real.** The 2018 French yellow vest protests, the 2024 Canadian Conservative campaign against the federal carbon tax, the 2025 EU debate over ETS2 affordability — all show that carbon prices that bite create political opposition. Successful systems generally include revenue-recycling provisions (dividends, tax cuts, or transfers to affected populations) that reduce political opposition.
 
-**3. Coverage gaps matter.** Sweden's $130/tCO₂e tax covers fuel and heating but largely doesn't cover EU-ETS sectors (industry, power). Most national taxes have significant exemptions for trade-exposed sectors. Effective coverage is typically 50–80%, not 100%.
+**3. Coverage gaps matter.** Sweden's ~$150/tCO₂e tax covers fuel and heating but largely doesn't cover EU-ETS sectors (industry, power). Most national taxes have significant exemptions for trade-exposed sectors. Effective coverage is typically 50–80%, not 100%.
 
 **4. Pure carbon taxes are rare.** Most jurisdictions combine carbon pricing with regulations (renewable portfolio standards, vehicle efficiency rules, building codes) and subsidies (renewable energy support, EV incentives). The carbon tax is one instrument in a portfolio.
 
@@ -286,14 +286,14 @@ The Canadian experiment was the largest-scale test of whether a substantial, esc
 
 ## **Stop-and-check 9.C**
 
-1. Sweden has sustained a ~$130/tCO₂e carbon tax for three decades, but most of its trade-exposed industry sits under the EU ETS and pays little or no national tax. Why is that exemption structure part of *why* the high headline rate is politically survivable?
+1. Sweden has sustained the world's highest carbon tax (~$150/tCO₂e) for three decades, but most of its trade-exposed industry sits under the EU ETS and pays little or no national tax. Why is that exemption structure part of *why* the high headline rate is politically survivable?
 2. Canada's consumer fuel charge returned ~90% of households more than they paid, yet was repealed in 2025 — while the less-visible industrial carbon price survived. What does this say about whether good *design* can overcome bad *politics*?
-3. "Carbon taxes will crash the economy" is the standard objection, yet Sweden ($130), Switzerland (~$135), and Canada (en route to $125 before repeal) showed no clear economic harm. Why has the economic-harm prediction failed empirically — and why does the political-harm prediction keep succeeding?
+3. "Carbon taxes will crash the economy" is the standard objection, yet Sweden (~$150), Switzerland (~$135), and Canada (en route to $125 before repeal) showed no clear economic harm. Why has the economic-harm prediction failed empirically — and why does the political-harm prediction keep succeeding?
 4. **Socratic prompt:** You're designing a national carbon tax in 2026 and your single overriding goal is *durability* — that it survives the next two elections. What design choices follow, and which textbook-efficient features would you sacrifice for political survival?
 
 **Answers**
 
-1. Because exempting EU-ETS (trade-exposed) sectors removes the constituency most able to credibly threaten relocation and mobilize against the tax, and concentrates the high rate on sectors — heating, transport fuels — where domestic alternatives (district heating, biomass, efficiency) exist and leakage isn't a real threat. A headline "$130" that actually fell at full force on steel and cement would provoke exactly the competitiveness fight that sinks carbon taxes elsewhere. So the exemption is not a loophole undermining the tax; it's what lets the high visible rate coexist with political peace — the tax bites where substitution is feasible and consent is obtainable, and steps aside where it would trigger a leakage-and-jobs backlash. (It also means Sweden's "95% coverage at $130" overstates the effective economy-wide price.)
+1. Because exempting EU-ETS (trade-exposed) sectors removes the constituency most able to credibly threaten relocation and mobilize against the tax, and concentrates the high rate on sectors — heating, transport fuels — where domestic alternatives (district heating, biomass, efficiency) exist and leakage isn't a real threat. A headline "~$150" that actually fell at full force on steel and cement would provoke exactly the competitiveness fight that sinks carbon taxes elsewhere. So the exemption is not a loophole undermining the tax; it's what lets the high visible rate coexist with political peace — the tax bites where substitution is feasible and consent is obtainable, and steps aside where it would trigger a leakage-and-jobs backlash. (It also means Sweden's "95% coverage at ~$150" overstates the effective economy-wide price.)
 
 2. It says good design *helps but cannot guarantee* survival — politics can override economics. Canada's rebate design was, on the economic merits, close to ideal: progressive net incidence, transparent recycling, most households ahead. Yet "axe the tax" still worked, because the cost was salient and recurring (visible at the pump and on heating bills) while the rebate was diffuse and easy to discount or disbelieve. The asymmetry of salience — concentrated visible costs versus diffuse periodic benefits — is a political fact that no incidence table fully neutralizes. The survival of the *industrial* price in the same country confirms the lesson: durability tracks *visibility* more than *fairness*. Design can improve the odds; it cannot make a visible consumer charge politically safe.
 
@@ -477,7 +477,7 @@ The gap analysis suggests two things:
 
 **1. Carbon pricing is geographically and sectorally uneven.** Most of the global emissions footprint is not priced at levels that match the policy ambition implied by the Paris Agreement. The 1.5°C-compatible price ranges from IPCC AR6 ($135–5,500/tCO₂e by 2030, 2010 USD) are far above current effective prices in most contexts.
 
-**2. Coverage growth is real but mostly in lower-price systems.** China's national ETS at low prices added ~30% of global emissions to "covered" but with limited near-term behavioral impact. Brazil's pending system, Indonesia's expansion, Thailand's pilots — all add coverage but at modest prices.
+**2. Coverage growth is real but mostly in lower-price systems.** China's national ETS at low prices added ~10% of global emissions to "covered" but with limited near-term behavioral impact. Brazil's pending system, Indonesia's expansion, Thailand's pilots — all add coverage but at modest prices.
 
 The realistic picture: **carbon pricing is becoming nearly universal as an institutional fact, but the prices in most jurisdictions remain below what comprehensive climate-economics analysis suggests is needed.** Whether prices in major systems escalate to the $200+/tCO₂e level that some analyses suggest is needed by 2030 is the major open question.
 
@@ -485,7 +485,7 @@ The realistic picture: **carbon pricing is becoming nearly universal as an insti
 
 1. The World Bank's "~28% of global emissions priced" sounds substantial. The "8–10% priced at materially high levels" sounds much less. Both are true. Which framing is more useful for assessing global progress, and why?
 2. The carbon-club concept proposes a coalition of carbon-pricing jurisdictions imposing tariffs on non-participants. What's the strategic logic, and what's the main weakness?
-3. Carbon prices in major systems have risen substantially over the past five years. EU ETS from ~€20 in 2018 to ~€75 in 2026. Canada from C$20 to C$80. Sweden from $130 (sustained). What's likely to happen to prices in 2026–2030, and what would push them higher or lower?
+3. Carbon prices in major systems have risen substantially over the past five years. EU ETS from ~€20 in 2018 to ~€75 in 2026. Canada from C$20 to C$80. Sweden ~$150 (sustained). What's likely to happen to prices in 2026–2030, and what would push them higher or lower?
 4. **Socratic prompt:** If you were advising a developing country in 2026 on whether to adopt carbon pricing and at what level, what factors would you consider, and what would your recommendation be?
 
 **Answers**

@@ -6,7 +6,7 @@
 - Identify the four core technology categories: **post-combustion**, **pre-combustion**, **oxy-fuel combustion**, and **direct capture** (covered more deeply in Ch. 11), and the contexts each is best suited for.
 - Walk through a CCUS project value chain: capture → compression → transport → injection → monitoring → verification.
 - State current global operational CCUS capacity (~50 Mt/yr in 2025), the project pipeline (~430 Mt/yr by 2030 if all announced projects come online), and the gap to NZE pathway requirements (~1,000–1,300 Mt/yr needed by 2030; ~6,000 Mt/yr by 2050).
-- Identify the major operational CCUS projects: Petrobras Santos Basin Pre-Salt (Brazil, ~10.6 Mt/yr nameplate — the world's largest), Sleipner & Snøhvit (Norway), Quest (Canada), Boundary Dam (Saskatchewan), Gorgon (Australia), Northern Lights Phase 1 (Norway, operational 2025), Stratos DAC (Texas, operational 2025), Brevik Cement (Norway).
+- Identify the major operational CCUS projects: Petrobras Santos Basin Pre-Salt (Brazil, ~10.6 Mt/yr nameplate — the world's largest), Sleipner & Snøhvit (Norway), Quest (Canada), Boundary Dam (Saskatchewan), Gorgon (Australia), Northern Lights Phase 1 (Norway, operational 2025), Stratos DAC (Texas, Phase 1 operations from 2026), Brevik Cement (Norway).
 - Explain why ~60% of operational CCUS capacity is at natural gas processing — and why this matters for assessing whether CCUS deployment is on track.
 - Articulate the integrity questions specific to CCUS: monitoring, leakage, displacement of investment from direct decarbonization, EOR vs. dedicated storage.
 - Explain the post-OBBBA 45Q dynamics and how subsidies are shaping the project pipeline.
@@ -650,7 +650,7 @@ The chapters that follow build on CCUS:
 - **Saline aquifer** — Porous rock formation containing brine water (not usable for drinking). The dominant CCUS storage type for new projects.
 - **Sleipner** — Norway's CCS pioneer; operational since 1996. The world's first commercial CCS project.
 - **Snøhvit** — Companion Norwegian project to Sleipner, operational since 2008.
-- **Stratos** — Occidental's DAC facility in Texas, operational 2025. World's largest direct air capture facility (500 ktCO₂/yr design).
+- **Stratos** — Occidental's DAC facility in Texas; Phase 1 operations from 2026 (ramping). World's largest direct air capture facility (500 ktCO₂/yr design).
 - **Tangguh** — Indonesia LNG facility with CCS reaching FID 2024; one of the largest CCS FIDs ever.
 - **TIER (Technology Innovation and Emissions Reduction) regulation** — Alberta's carbon-pricing system for large industrial emitters; includes credits for CCUS.
 

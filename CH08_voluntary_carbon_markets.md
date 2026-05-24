@@ -22,7 +22,7 @@ This is also the area where the most fundamental analytical questions live. **Ca
 
 This chapter takes a position: the voluntary market has had real and serious integrity problems, and the 2022–2024 reform movement is a genuine effort to address them. The reforms are partial and ongoing; whether they will produce a credibly high-integrity market or whether the structural problems are too deep is genuinely undetermined as of mid-2026.
 
-I'll organize this in seven parts: VCM fundamentals and how it differs from compliance markets; the project lifecycle and the four core integrity concerns; the major standards and what each specializes in; the 2022–2024 crisis; the supply-side reform (ICVCM and Core Carbon Principles); the demand-side reform (VCMI Claims Code, SBTi V2, ISSB rules); and the current state of prices, demand, and the unresolved questions.
+I'll organize this in eight parts: VCM fundamentals and how it differs from compliance markets; the project lifecycle and the four core integrity concerns; the major standards and what each specializes in; the 2022–2024 crisis; the supply-side reform (ICVCM and Core Carbon Principles); the demand-side reform (VCMI Claims Code, SBTi V2, ISSB rules); the current state of prices, demand, and the unresolved questions; and fuel-based credits and the additionality inversion.
 
 ---
 
@@ -774,7 +774,7 @@ Three things to take away:
 - **CAR (Climate Action Reserve)** — VCM standard, founded 2001; US/Mexico-focused; CCP-Eligible.
 - **CCP (Core Carbon Principles)** — Ten principles for high-integrity carbon credits established by ICVCM. Programs and methodologies meeting CCP standards can carry the CCP label.
 - **Coalition to Grow Carbon Markets** — 2025 multi-stakeholder initiative pushing harmonization across voluntary, Article 6, and CORSIA markets.
-- **CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)** — ICAO compliance scheme for international airline emissions. Phase 1: 2021–2023 (pilot); Phase 2: 2024–2026 (mandatory for participants); Phase 3: 2027+.
+- **CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)** — ICAO scheme for international airline emissions; a *hybrid* mechanism (it accepts voluntary-market credits to meet a compliance obligation). Phase 1: 2021–2023 (pilot); Phase 2: 2024–2026 (mandatory for participants); Phase 3: 2027+.
 - **CORSIA-eligible** — Standards and methodologies approved by ICAO's Technical Advisory Body for use in CORSIA. Credits trade at premium to non-eligible credits.
 - **Frontier coalition** — Stripe-led group of buyers committing advance purchases of high-quality CDR. Approximately $1B+ committed by 2025.
 - **Gold Standard** — VCM standard, founded 2003 by WWF; community-focused; CCP-Eligible.
