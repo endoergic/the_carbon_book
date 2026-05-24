@@ -285,7 +285,7 @@ One thread connects this to Chapters 7 and 8: the Paris **Article 6** mechanisms
 
 The defining geopolitical fact of the mid-2020s is the **US federal retreat** from climate policy and multilateralism. The sequence (current as of writing):
 
-- **Paris withdrawal**, again — executive action in January 2025, taking effect in early 2026, removing the world's largest historical emitter and largest economy from the central agreement for the second time in a decade.
+- **Paris withdrawal**, again — executive action in January 2025; the withdrawal became **effective 27 January 2026**, removing the world's largest historical emitter and largest economy from the central agreement for the second time in a decade.
 - **OBBBA (July 2025)** — repeal or accelerated sunset of most IRA clean-energy tax credits (Ch. 13), gutting the largest climate-investment program in US history barely three years after enactment.
 - **The SEC climate rule's collapse** and a broad rollback of federal climate regulation and the methane fee.
 
@@ -383,7 +383,7 @@ This chapter cites figures and political states current as of writing (May 2026)
 | Loss and damage fund | agreed COP27 (2022), operationalized COP28 (2023) | 2023 | UNFCCC |
 | COP29 NCQG | ≥$300B/yr by 2035; $1.3T/yr aspiration | Nov 2024 | UNFCCC COP29 decision |
 | COP30 Belém Package | adopted 22 Nov 2025; ~29 decisions; triple adaptation finance; no binding fossil phaseout | Nov 2025 | UNFCCC; cop30.br |
-| US Paris withdrawal | executive action Jan 2025; effective early 2026 | 2025–26 | US State Dept / UNFCCC |
+| US Paris withdrawal | executive action 20 Jan 2025; withdrawal effective 27 January 2026 | Jan 2026 | UN depositary notification; CRS R48504 |
 
 ---
 

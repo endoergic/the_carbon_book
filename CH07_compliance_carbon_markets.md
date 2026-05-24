@@ -587,7 +587,7 @@ The regime sets a declining annual CI benchmark for the transportation fuel pool
 
 The key structural feature: because the benchmark declines annually, credits earned by a fixed-CI fuel shrink over time even with no changes to the fuel itself. This is the "ratchet" mechanism. It drives ongoing innovation — producers who can get their CI lower than competitors earn more credits from the same volume.
 
-**Reference price (Q1–Q2 2026):** approximately $63/tCO₂e. The LCFS credit market has a statutory price cap of $275.39/tCO₂e effective June 2026. The market has been tightening as the benchmark declines and the credit bank drawn down from its 2021–2023 peak.
+**Price (2026):** the Q1 reference was ~$63/tCO₂e, firming to ~$66–71 by Q2 2026 as the market tightened (the benchmark declines and the credit bank has drawn down from its 2021–2023 peak). The program's Credit Clearance Market sets a maximum price that escalates annually — confirmed at $268.90/tCO₂e through May 31 2026, with the mid-2026 figure (~$275) set by CARB's annual adjustment.
 
 Some fuels achieve deeply negative CI — dairy biomethane, for instance, can score around −250 gCO₂e/MJ because capturing methane that would otherwise escape earns a large avoided-emissions credit. LCFS pays for this CI performance; being far below the ~95 gCO₂e/MJ benchmark produces a very large credit per unit of fuel. This "negative-CI mechanic" deserves careful reading: it is a counterfactual avoidance claim embedded inside a fuel score, with the same additionality and baseline vulnerabilities as a VCM avoidance credit. Chapter 8 develops this point in Part 8.
 
@@ -731,7 +731,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | EU 2040 climate target | 90% net reduction below 1990 (with 5% international-credit flexibility) | agreed Dec 2025 | European Climate Law amendment |
 | ETS2 full-operation date | delayed to 2028 | Nov 2025 EP vote | ETS2 Directive / EP record |
 | 45Z Clean Fuel Production Credit window | effective 2025–2029 | — | IRC §45Z as amended (see note below) |
-| California LCFS reference price / price cap | ~$63/tCO₂e; cap $275.39 (June 2026) | Q1–Q2 2026 | CARB LCFS data |
+| California LCFS price / cap | Q1 2026 ~$63/tCO₂e, firming to ~$66–71 by Q2; CCM cap $268.90 through May 31 2026 (mid-2026 ~$275 via annual adjustment) | Q2 2026 | CARB Weekly LCFS reports; CARB Credit Clearance Market |
 | AB 1207 / SB 840 (Cap-and-Invest extension) | signed; extended to 2045 | Sept 2025 | California statute |
 | Consensus EUA forecast | ~€85 (2026), >€100 (2027), ~€126 (2030) | 2025–26 | BloombergNEF / ICIS / S&P / Aurora / PIK |
 
