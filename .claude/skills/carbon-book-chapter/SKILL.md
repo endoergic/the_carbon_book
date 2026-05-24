@@ -9,8 +9,13 @@ allowed-tools: Read Grep Glob Edit Write
 You are writing for a **professional in an adjacent field** (climate, energy, finance, policy, tech) who wants comprehensive depth without an undergraduate ramp. Pedagogy is Socratic and conversational. Read `00_SYLLABUS.md` and `README.md` first for the chapter's place in the arc and its prerequisites.
 
 ## Length & balance
-- Match the neighbors: the drafted chapters run ~6,000–9,000 words (the syllabus's 12–15k is aspirational). Don't pad.
+- Match the neighbors: drafted chapters run ~6,000–14,000 words (the syllabus's 12–15k is the target as the depth pass expands them). Add depth, don't pad — every sentence must inform.
 - **Proportionality matters.** No single sub-topic should dominate. If a Part exceeds ~30% of the chapter, it's probably an appendix in disguise (see how the fuel-standard material was moved to `APPENDIX_A_*`).
+- **Coverage balance is a first-class constraint, not an afterthought.** When drafting or revising, the depth gradient must track *importance*, not how much you happen to have to say. Two specific traps to avoid — both surfaced on Ch. 2:
+  - *Don't over-fatten the already-strong sections while starving the thin ones.* A gap-driven revision (e.g. the Socratic depth pass) naturally pulls you toward the Parts that already have rich material; resist it. Raise the floor on weak sub-topics so each is complete.
+  - *Every major sub-topic/Part gets its own Stop-and-check.* A Part without one reads as second-class. This is a balance requirement, not optional.
+- **Write for every persona the subject implies, not just the generic adjacent-field reader.** If the chapter touches refining, steel, finance, etc., give each such reader an explicit on-ramp that lets them translate the material to their world — and get the bridging nuance right (e.g. name NG-DRI before jumping to H₂-DRI) so a domain expert won't reject the section. Cover any geopolitics/market-structure dimension *evenly* rather than deep on one case and silent on comparable others.
+- **Before considering a draft done, run a coverage census** (word-share + depth per Part) and confirm: no Part >~30% unless thematically earned; every Part has a Stop-and-check; each implied persona has an on-ramp. This mirrors the `editorial-review` rubric §2 and the `book-reviewer` agent's full-chapter checks.
 
 ## The template (in this order)
 1. `# Chapter N — Title`

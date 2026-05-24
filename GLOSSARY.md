@@ -122,17 +122,21 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 
 ## Chapter 2 additions (introduced: Ch. 2)
 
+- **Acheson furnace** — Century-old batch furnace that graphitizes carbon by passing a large electric current directly through the packed charge (resistive heating) near 3,000°C for days. Workhorse for synthetic graphite; means graphitization is *already electric*, so its CO₂ footprint tracks grid carbon intensity.
 - **Anode (battery)** — The electrode in a lithium-ion cell into which lithium ions intercalate during charging. Almost always graphite or graphite-blend in current commercial cells.
 - **Anode-grade petcoke** — Low-sulfur, low-metals petroleum coke used as a precursor for aluminum smelter anodes and some synthetic graphite. Distinct from fuel-grade petcoke.
 - **Battery passport** — EU regulatory regime (effective 2027) requiring cradle-to-gate carbon footprint and material disclosure for batteries above 2 kWh sold in the EU.
 - **BF-BOF (Blast Furnace–Basic Oxygen Furnace)** — The dominant primary steelmaking route globally. Coke-intensive; ~1.8–2.3 tCO₂ per ton of steel.
 - **Blast furnace** — Tall reactor (30+ m) in which iron ore, coke, and limestone are charged from the top and reduced to molten iron by hot gas blast from below.
 - **Carbon black** — Engineered amorphous carbon particulate, produced primarily by partial combustion of heavy petroleum oils. ~14 Mt/yr global production. Largest use: tire reinforcement (~66% of demand).
+- **Carbon black oil (CBO)** — Heavy aromatic refinery stream that is the dominant feedstock for furnace-black carbon black. A bottom-of-the-barrel byproduct, so its supply tracks crude slate and coker economics.
 - **Carbon fiber / CFRP (Carbon Fiber Reinforced Polymer)** — Manufactured carbon filaments, almost always combined with a polymer matrix (epoxy) to form composite structures. Aerospace, wind blades, hydrogen storage applications. ~150 kt/yr global production.
 - **CFRP** — See Carbon fiber.
 - **Coke (metallurgical / "met coke")** — Carbon-rich solid produced by destructive distillation of coking coal in the absence of air. Reducing agent and structural support in blast furnaces. ~700–800 Mt/yr global production; the largest carbon commodity by mass.
 - **Coking coal** — Premium bituminous coal with specific properties (volatile content, swelling behavior) needed for coke production. ~755 Mt/yr global consumption in steelmaking (2022).
 - **CSPG (Coated Spherical Purified Graphite)** — Battery-anode-grade natural graphite after spheronization, acid purification (typically HF), and pyrolytic carbon coating. The form that actually goes into a battery.
+- **DRI (Direct Reduced Iron)** — Iron made by reducing ore in a shaft furnace with a reducing gas, then melted in an EAF. **NG-DRI** uses reformed natural gas (the dominant existing route, ~120+ Mt/yr); **H₂-DRI** progressively swaps in hydrogen — the *same* furnace, decarbonized. Not a synonym for "hydrogen steel."
+- **Dual-use / export controls (Wassenaar, MTCR)** — Regimes restricting trade in goods with both civilian and military uses. Aerospace-grade carbon fiber, its PAN precursor, and production equipment are controlled this way (Wassenaar Arrangement; Missile Technology Control Regime, Category II) — the reason China does not dominate high-end carbon fiber.
 - **EAF (Electric Arc Furnace)** — Alternative steelmaking route using electricity to melt scrap or DRI. Lower CO₂ emissions than BF-BOF if powered by clean electricity. Consumes synthetic graphite electrodes.
 - **FEOC (Foreign Entity of Concern)** — US regulatory category under the IRA disqualifying battery materials from "foreign entities of concern" (operationally, China and Russia) from EV tax credit eligibility. Graphite-specific compliance has been extended due to feasibility.
 - **Flake graphite** — Natural graphite in large-crystal form, the variant most suitable for battery anode processing. Distinct from amorphous and vein graphite.
@@ -140,6 +144,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **Graphitization** — Thermal process at 2,500–3,000°C that converts disordered carbon precursors (typically needle coke or pitch) into ordered synthetic graphite. Highly energy-intensive (~15,000–20,000 kWh/ton).
 - **Hall-Héroult process** — Conventional electrolytic aluminum smelting process. Consumes ~0.4 t of carbon anode per ton of aluminum produced.
 - **Hard carbon** — Disordered amorphous carbon used as the anode material in sodium-ion batteries. Related to but distinct from activated carbon.
+- **IMO 2020** — International Maritime Organization 0.5% marine-fuel sulfur cap (in force 2020). Collapsed high-sulfur residual-fuel demand, reshaping fuel-grade petcoke and carbon-black-oil economics.
 - **MATS (Mercury and Air Toxics Standards)** — US EPA rule, finalized 2012, requiring mercury and HAP emission controls at coal-fired power plants. Drove the powdered activated carbon market in the 2010s.
 - **Needle coke** — Premium petroleum coke or coal-tar pitch product used as the precursor for synthetic graphite electrodes and battery anodes. Strategic upstream material.
 - **PAC (Powdered Activated Carbon)** — Powder-form activated carbon, used in flue-gas injection and certain water-treatment applications.
@@ -147,6 +152,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **PCI (Pulverized Coal Injection)** — Injection of pulverized coal directly into blast furnace tuyeres to reduce coke consumption. Cost-saving measure with limits.
 - **Petroleum coke (petcoke)** — Carbon residue from delayed coker units in petroleum refining. ~150 Mt/yr global production. Two grades: anode (calcined) and fuel.
 - **rCB (recovered carbon black)** — Carbon black recovered by pyrolysis of end-of-life tires. Emerging circular-economy product; capacity projected to exceed 1 Mt/yr by 2030.
+- **Reline (blast-furnace campaign)** — Rebuild of a blast furnace's refractory lining, due every ~15–20 years at a cost of ~$100M–$1B+. The discrete moment at which a steelmaker's keep-buying-coke-or-not decarbonization decision is actually made.
 - **Spherical graphite** — Natural graphite that has been micronized and mechanically rounded to ~10–25 µm spherical particles, the form required for battery anode use.
 - **Spheronization** — Mechanical process of rounding angular flake graphite into spherical particles for battery anode use.
 - **Synthetic graphite** — Manufactured graphite produced by high-temperature graphitization of needle coke or pitch precursors. Higher cost and energy intensity than natural graphite, but more consistent properties.
