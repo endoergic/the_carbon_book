@@ -158,6 +158,23 @@ Critics argue that "operational control" lets financial-control-only owners esca
 
 Either way, the choice of boundary approach is the single biggest leverage point in a corporate emissions inventory, and it should be one of the first things you check when reading a disclosure.
 
+## **Stop-and-check 5.B**
+
+1. An oil major holds a 30% stake in a refinery joint venture but operates the facility. Under each of the three boundary approaches — equity share, financial control, operational control — what share of the refinery's emissions does it report?
+2. Why is the boundary choice "the single biggest leverage point" in an inventory — bigger than, say, the choice of emission factors?
+3. A private-equity sponsor owns majority stakes in 50 portfolio companies but operates none of them. Which boundary approach lets it report near-zero Scope 1 — and is that a feature or a bug?
+4. **Socratic prompt:** You're writing the boundary rule for a new disclosure regime. Operational control matches "what a company can change day-to-day"; equity share matches "what a company owns and profits from." Which do you mandate, and what gets hidden under each?
+
+**Answers**
+
+1. Equity share: 30%, proportional to ownership. Financial control: 0%, because a 30% stake isn't financially consolidated. Operational control: 100%, because it runs the facility. Same facts, three reported numbers — 0%, 30%, or 100% — which is exactly why the boundary choice is the inventory's biggest single lever.
+
+2. Because emission factors move a number by a few percent, but the boundary choice can move whole facilities in or out of the inventory — from 0% to 100% of a major asset, as the refinery shows. It determines *what counts as the company at all*, before any measurement happens. A company can restructure its reported footprint without changing one physical emission, just by which entities it consolidates and under which approach. Get the boundary wrong — or game it — and every downstream number inherits the distortion.
+
+3. Operational control (and usually financial control) lets the sponsor report near-zero Scope 1, because it doesn't run the portfolio companies day-to-day and often doesn't consolidate them financially. Whether that's a feature or a bug is the contested question: defenders say accounting should capture what an entity can actually change, and a financial owner has less operational influence than an operator; critics say it lets owners profit from emitting assets while reporting clean inventories — the emissions are real, they've just fallen into a boundary gap. Honestly, it's a feature for measuring operational influence and a bug for measuring ownership responsibility, and one framework can't be both at once.
+
+4. There's no clean winner; each hides a different thing. Mandate operational control and you capture what management can directly act on, but financial owners — PE sponsors, holding companies, minority investors — escape responsibility for emitting assets they own and profit from; the emissions fall into a gap. Mandate equity share and you capture ownership and economic benefit, but you assign emissions to entities (a 5% shareholder) with little power to change them, and you can spread the same influence thinly across many partial owners. The decisive variable is what you want the disclosure to *do* — drive operational decarbonization (favor operational control) or assign financial/capital-allocation responsibility (favor equity share) — which is why stricter regimes increasingly require disclosing under a specified approach *and* flagging material emissions that fall outside it.
+
 ---
 
 # Part 3: Inventories vs. targets vs. claims
@@ -198,6 +215,23 @@ The inventory tells you what happened. The target tells you what the company pla
 - *What is the claim?* (And does it accurately reflect what the inventory and target show?)
 
 Inconsistency among these three is the single most common pattern of corporate greenwashing.
+
+## **Stop-and-check 5.C**
+
+1. Distinguish an inventory, a target, and a claim. Which is backward-looking, which forward-looking, and which is a communication?
+2. A company reports its inventory on an operational-control basis but sets its reduction target on an equity-share basis. Why is that a problem even if each choice is individually defensible?
+3. Why is "inconsistency among inventory, target, and claim" the single most common greenwashing pattern — what does the looseness let a company do?
+4. **Socratic prompt:** A company's inventory is rigorous and its target is SBTi-validated, but its marketing claim ("climate leader," "net zero") outruns both. Where should accountability for the gap sit — the accounting standard, the target-setter, the securities regulator, or the advertising regulator?
+
+**Answers**
+
+1. An inventory is a backward-looking *measurement* — what the company actually emitted in a reporting period. A target is a forward-looking *commitment* — what it intends to achieve by a future date. A claim is a public *communication* — what it says about its emissions or progress. The three should be tightly coupled (claim grounded in target, target measured against inventory), but they're produced by different processes under different rules, which is precisely why they drift apart.
+
+2. Because the two artifacts are then measured on incompatible bases, so progress against the target can't be honestly read off the inventory. The company could show its operational-control inventory rising while claiming progress against an equity-share target that excludes the growing assets — or the reverse. Each choice may be defensible alone, but the mismatch breaks the chain of accountability: you can no longer tell whether the company is actually moving toward its commitment. That's why the GHG Protocol revision pushes for a consistent basis across inventory and target.
+
+3. Because the looseness between the three is where misleading-but-technically-true communication lives. If inventory, target, and claim don't have to align, a company can build a rigorous-looking inventory (covering only the convenient scopes), set a target on a different basis, and then make a claim broader than either supports — each artifact individually defensible, the combination misleading. The inconsistency lets the company harvest the credibility of "we measure" and "we have a science-based target" while the public claim quietly covers more than the underlying work does.
+
+4. There's no single locus, and the strongest answer is layered. Accounting standards (GHG Protocol) can only ensure the inventory is sound; they don't police marketing. The target-setter (SBTi) validates the target but disclaims the company's public language. The securities regulator (the SEC/ISSB channel) catches claims material to *investors* but not consumer-facing puffery. The advertising/consumer regulator (EU Green Claims, FTC, ASA) is the body explicitly charged with the gap between claim and substance. The case for concentrating accountability there: the harm is a *communications* harm — the distance between what's achieved and what's implied — so the body that governs claims is the natural enforcer, with the others supplying the evidentiary base. This is why SBTi V2's standardized claim language and the EU greenwashing directives are converging on the same problem from opposite ends (Ch. 8, Ch. 13).
 
 ---
 
@@ -249,7 +283,7 @@ A subtle issue with PCAF: because the attribution factor uses enterprise value (
 
 This **inventory fluctuation** issue is mathematically annoying and politically inconvenient — banks reporting rising financed emissions in a down-market year look bad without having done anything wrong. The December 2025 PCAF update introduced new reporting recommendations (fluctuation analysis, inflation adjustment) to address this, but doesn't solve the underlying issue. The deeper question — whether enterprise-value attribution is the right approach at all, or whether it should be replaced with a different denominator — is unresolved.
 
-## **Stop-and-check 5.B**
+## **Stop-and-check 5.D**
 
 1. A US bank has $100B in loans to oil and gas companies. Under PCAF, what determines the bank's financed emissions from these loans — and what data does the bank need from the oil/gas companies?
 2. The 33% weighting on facilitated emissions is described as "a compromise nobody is fully happy with." What's the substantive question this is trying to answer, and what are the arguments for a higher or lower weighting?
@@ -323,6 +357,23 @@ The cleanest way to think about these three:
 | Removed | Yes — can be netted against gross emissions | Neutralizing residual emissions in net-zero claims |
 
 When you read a corporate climate claim, ask: *which of these is the company actually doing?* "Carbon neutral" claims often mix the three. "Net zero" claims should be using reduced + removed, never avoided. Net-zero credibility hinges on the order: deep reductions first, then removals for residuals, with no avoidance-substitution in the inventory math.
+
+## **Stop-and-check 5.E**
+
+1. Define avoided, reduced, and removed emissions in one sentence each. Which two can affect a company's net inventory, and which cannot?
+2. Why can a removal be netted against gross emissions while an avoided emission cannot — what's the physical difference?
+3. This distinction isn't just accounting hygiene — it bifurcates the entire voluntary carbon market. Explain how.
+4. **Socratic prompt:** You run a $1B reforestation-plus-DAC credit portfolio and want to sell into the net-zero market. SBTi V2 increasingly requires *durable* removals to neutralize residual fossil emissions. How does that requirement reprice your portfolio, and which assets win or lose?
+
+**Answers**
+
+1. *Avoided*: emissions that didn't occur relative to a counterfactual baseline (a wind farm vs. the fossil plant it displaced). *Reduced*: the fall in a company's own actual emissions versus a base year. *Removed*: CO₂ physically taken out of the atmosphere and stored. Reduced and removed can affect a company's net inventory — reductions directly, removals netted against gross emissions. Avoided cannot: it's a counterfactual comparison, reported separately and never subtracted from the inventory.
+
+2. Because removal is the physical inverse of emission — the same molecule taken back out of the atmosphere that the emission put in — so gross emissions minus removals is a real net atmospheric quantity. An avoided emission is a *comparison to a hypothetical*: the wind farm took no CO₂ out of the air; it merely meant a fossil plant emitted less than it otherwise might have. Subtracting a counterfactual from a measured inventory mixes a "what happened" number with a "what didn't happen" number — different kinds of quantity, so netting them is a category error.
+
+3. The distinction splits the VCM into two markets that barely belong together. *Avoidance* credits (avoided deforestation, renewables, methane capture) are counterfactual, cheap, abundant, and integrity-fraught — their value rests on an unprovable "would have happened." *Removal* credits (DAC, BECCS, durable mineralization, some reforestation) physically extract CO₂ and command far higher prices, because they're the only kind that can legitimately neutralize residual emissions in a net-zero claim. As SBTi V2 and other rigorous frameworks push removals-only for neutralization, demand and price diverge sharply between the buckets — the single accounting distinction in this Part is what makes a removal credit worth multiples of an avoidance credit (Ch. 8).
+
+4. The requirement reprices the portfolio along the *durability* axis. Durable removals — DAC with geological storage measured in millennia — become the premium product eligible to neutralize fossil residuals, so their value rises. Reforestation is removal but *non-durable* (a forest can burn; its storage is reversible on a decades-to-century horizon), so under a durability-matching rule it's discounted or disqualified for neutralizing long-lived fossil emissions, even though it's far cheaper to produce. The DAC assets win; the forestry assets lose their premium use case and get pushed toward weaker "contribution" or avoidance framing rather than neutralization. The decisive variable is durability-matching: the moment a standard requires removals as permanent as the emissions they offset, your cheap nature-based tonnes and your expensive engineered tonnes stop being substitutes. That repricing is the financial expression of the avoided/reduced/removed discipline — and the reason a $1B portfolio's value depends on a definitional line in an accounting standard.
 
 ---
 
@@ -423,7 +474,7 @@ The standards landscape is in unusually active flux, but the direction of travel
 
 The 2027–2028 transition will be substantial. Most current corporate net-zero pledges and emissions inventories will need revision to meet the post-revision standards. Companies that built reporting systems on the 2011 Scope 3 Standard or the 2015 Scope 2 Guidance will face significant rework.
 
-## **Stop-and-check 5.C**
+## **Stop-and-check 5.F**
 
 1. The GHG Protocol revisions are introducing a 95% Scope 3 coverage requirement. What does this rule out, and why is it significant?
 2. The SBTi V2 draft replaces "Beyond Value Chain Mitigation" with "Ongoing Emissions Responsibility." What's substantively different about OER, and why does the change matter?
@@ -497,7 +548,7 @@ In corporate climate disclosure, the four patterns to watch for:
 
 You don't need to be an accountant to spot these. The patterns are predictable, and once you recognize them, you can read any corporate disclosure with much more critical sophistication.
 
-## **Stop-and-check 5.D**
+## **Stop-and-check 5.G**
 
 1. A company's Scope 1+2 reported emissions are 500 ktCO₂e. Its Scope 3 reported emissions are 200 ktCO₂e. The company is a consumer products manufacturer. What's likely wrong with this disclosure?
 2. A company's market-based Scope 2 is 50 ktCO₂e while its location-based Scope 2 is 800 ktCO₂e. What does this tell you about the company's renewable-energy procurement, and what would you want to ask?
