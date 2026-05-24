@@ -26,7 +26,7 @@ I'll cover this in seven phases: the formative period (1979–1992) culminating 
 
 ## Climate science arrives at policy
 
-Climate science is much older than climate policy. The greenhouse effect was identified by Joseph Fourier in 1824. CO₂'s infrared absorption was measured by John Tyndall in the 1860s. Svante Arrhenius calculated the temperature impact of doubled CO₂ in 1896 — within rough range of modern estimates. Charles Keeling began continuous measurement of atmospheric CO₂ at Mauna Loa in 1958, producing the iconic "Keeling Curve" that documents the relentless rise from ~315 ppm in the late 1950s to ~425 ppm today.
+Climate science is much older than climate policy. The greenhouse effect was identified by Joseph Fourier in 1824. CO₂'s infrared absorption was measured by John Tyndall in the 1860s. Svante Arrhenius calculated the temperature impact of doubled CO₂ in 1896 — within rough range of modern estimates. Charles Keeling began continuous measurement of atmospheric CO₂ at Mauna Loa in 1958, producing the iconic "Keeling Curve" that documents the relentless rise from ~315 ppm in the late 1950s to ~431 ppm (as of April 2026; NOAA GML).
 
 But climate science as a policy concern is much more recent. Through most of the 20th century, climate change was a curiosity studied by a small community of atmospheric scientists. The political question of whether to do anything about it didn't seriously arise until the late 1970s.
 
@@ -59,7 +59,7 @@ This is the founding objective of the entire international climate regime: avoid
 
 **Annexes I and II:** The Convention divided countries into two main groups:
 
-- **Annex I countries**: 36 industrialized countries plus economies in transition (post-Soviet states). Members of the OECD as of 1992, plus Russia and Eastern Europe. Annex I countries took on specific obligations to "[aim] to return... emissions of CO₂ and other GHGs not controlled by the Montreal Protocol to their 1990 levels" (Article 4.2).
+- **Annex I countries**: 36 original entries (35 states plus the EEC/EU) — comprising both OECD members as of 1992 and economies in transition (post-Soviet states). The list has since grown to 43 parties through subsequent amendments. Annex I countries took on specific obligations to "[aim] to return... emissions of CO₂ and other GHGs not controlled by the Montreal Protocol to their 1990 levels" (Article 4.2).
 - **Annex II countries**: a subset of Annex I (the OECD members, excluding the post-Soviet transition economies). Took on additional obligations to provide financial resources and technology to developing countries.
 - **Non-Annex I countries**: developing countries. Had general obligations to report emissions and develop national programs, but no quantified emission targets.
 
@@ -410,7 +410,7 @@ The same period also has serious shortfalls:
 
 - **Emissions kept growing.** Despite 27 years of international climate policy, global emissions in 2015 were roughly 60% higher than in 1990. The regime's stated objective — preventing dangerous anthropogenic interference — has not been met.
 - **The Annex I / non-Annex I firewall fractured the regime.** Between Kyoto and Paris, the regime spent most of its energy trying to handle the political problem of differentiated obligations. By the time Paris resolved it, two decades had passed.
-- **Climate finance fell short.** The $100B/yr Copenhagen pledge was met formally in 2021–2022 (per OECD accounting), but its substantive impact has been contested — much of the "finance" has been counted from loans, market-rate investments, and other instruments that critics argue shouldn't count.
+- **Climate finance fell short.** The $100B/yr Copenhagen pledge was met for the first time in 2022 (per OECD accounting, released May 2024: $115.9B); the 2021 outturn was $89.6B, still below the target. The substantive impact has been contested — much of the "finance" has been counted from loans, market-rate investments, and other instruments that critics argue shouldn't count.
 - **Market mechanisms have had integrity problems.** The CDM had serious issues (HFC-23 perverse incentives, geographic concentration, additionality concerns). The voluntary market that grew alongside it (Ch. 8) has had even worse problems. Article 6 has been slow to operationalize.
 - **The architectural choice for non-binding NDCs traded enforcement for participation.** Whether the trade-off was wise is being adjudicated by the empirical record.
 
@@ -484,6 +484,25 @@ I want you to attempt three things:
 - **UNFCCC (United Nations Framework Convention on Climate Change)** — Opened for signature 1992; entered into force March 21, 1994. The foundational treaty of the international climate regime.
 - **Villach Conference (1985)** — WMO/UNEP/ICSU scientific conference in Austria that produced a strong consensus statement on anthropogenic warming, setting the stage for political action.
 - **WMO (World Meteorological Organization)** — UN specialized agency for meteorology. Co-founder of IPCC with UNEP.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| Atmospheric CO₂ "Keeling Curve" concentration | ~431 ppm (body corrected from original ~425 ppm) | April 2026 | NOAA GML Mauna Loa monthly data: gml.noaa.gov/ccgg/trends/ |
+| UNFCCC party count | "198 parties" | mid-2025 (see note) | UNFCCC Parties page: unfccc.int/parties-observers — US withdrawal effective Jan 27, 2026 puts count in transition; UNFCCC site showed 199 as of May 2026; recheck before each print run |
+| COP "met annually for 30 years" | 30 COPs held since COP1 (Berlin 1995); 2020 skipped (COVID); the phrase "30 years" matches COP30 in 2025 | Nov 2025 | UNFCCC COP list: unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop |
+| Annex I "36" countries | 36 entries in the original 1992 Annex I (35 states + the EEC/EU), covering both OECD members and economies in transition; now 43 parties | As listed in 1992 UNFCCC text | UNFCCC original convention text with annexes: unfccc.int/sites/default/files/convention_text_with_annexes_english_for_posting.pdf; current list: unfccc.int/parties-observers |
+| Global emissions in 2015 "roughly 60% higher than 1990" | Contested: EDGAR 2025 (excl. LULUCF, all GHGs GWP-100) gives 1990 ≈ 32.3 GtCO₂e, 2015 ≈ 48.5 GtCO₂e — roughly 50% higher; IPCC AR6 WGIII gives 2019 ≈ 54% above 1990; "60%" may require LULUCF inclusion or a different baseline | Data as of 2024–25 | EDGAR 2025: edgar.jrc.ec.europa.eu/report_2025; IPCC AR6 WGIII Ch. 2 (2022): ipcc.ch/report/ar6/wg3/chapter/chapter-2/ — specify basis (energy-only CO₂ vs all-GHG; incl./excl. LULUCF) in future editions |
+| $100B/yr climate finance goal "met formally in 2021–2022" | Body corrected: met for the first time in 2022 ($115.9B); 2021 outturn was $89.6B (below target) | May 2024 (OECD report release) | OECD press release, May 2024: oecd.org/en/about/news/press-releases/2024/05/developed-countries-materially-surpassed-their-usd-100-billion-climate-finance-commitment-in-2022-oecd.html |
+| US "withdrew again (2025)" | Executive order signed Jan 20, 2025; formal notification submitted to UN; withdrawal legally effective Jan 27, 2026 | Jan 2025 (EO) / Jan 2026 (effective) | White & Case alert (Jan 2025); Congress.gov CRS R48504 |
+| COP30 location and year | Belém, Brazil; Nov 10–22, 2025 | Nov 2025 | UNFCCC: unfccc.int/cop30; UN summary: un.org/en/climatechange/cop30 |
+| Global Stocktake — first concluded COP28 (Dubai 2023) | Concluded at COP28, Dec 2023, with "transitioning away from fossil fuels" language | Dec 2023 | UNFCCC COP28 decisions; IISD Earth Negotiations Bulletin |
+| Loss and damage fund operationalized | COP28, Nov 30, 2023 (opening day) — Sharm el-Sheikh 2022 established the mechanism; Dubai 2023 operationalized the fund | Nov–Dec 2023 | UNFCCC COP28 decision; Library of Congress GLM (Dec 2023) |
 
 ---
 

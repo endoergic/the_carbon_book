@@ -133,7 +133,7 @@ Global oil demand by end use (approximate 2024 breakdown):
 
 The energy transition will hit these segments at very different rates. **Light-duty road transport** is the fastest-disrupting segment as EVs scale — global EV share of new car sales is approaching 25% in 2024–2025, and >50% in China and Norway. **Petrochemicals** are the most resilient — molecular feedstock demand grows with plastics, and electrification doesn't help. **Aviation and shipping** are decarbonizing slowly through SAF and ammonia/methanol respectively (Ch. 12). **Industrial heat** is partly electrifiable, partly not.
 
-The IEA STEPS scenario projects oil demand peaks around 102 mb/d in 2030 (essentially right now), then declines slowly to ~95 mb/d by 2035 and ~80 mb/d by 2050. The CPS scenario shows demand growing to 113 mb/d by 2050. The NZE scenario shows demand falling to ~50 mb/d by 2035 and ~25 mb/d by 2050. The range across these scenarios — 25 mb/d to 113 mb/d in 2050 — is enormous and reflects very different assumptions about EV adoption, policy continuity, and petrochemical demand growth.
+The IEA STEPS scenario projects oil demand peaks around 102 mb/d in 2030 (essentially right now), then declines slowly to ~100 mb/d by 2035 and ~97 mb/d by 2050 (a late-century plateau rather than continued decline). The CPS scenario shows demand growing to 113 mb/d by 2050. The NZE scenario shows demand falling to ~50 mb/d by 2035 and ~24–25 mb/d by 2050. The range across these scenarios — ~25 mb/d to 113 mb/d in 2050 — is enormous and reflects very different assumptions about EV adoption, policy continuity, and petrochemical demand growth.
 
 ## The geopolitical structure
 
@@ -215,7 +215,7 @@ The end-use breakdown:
 - **Buildings (heating, especially in northern China)** — ~5%.
 - **Other** — ~10%.
 
-Coal is the dirtiest fossil fuel on every relevant metric: CO₂ per energy, particulate matter, sulfur, mercury, nitrogen oxides. The local air quality impact is enormous — coal is a major contributor to the ~7 million annual premature deaths attributable to air pollution globally. China's coal-fired air pollution has driven roughly 1 million premature deaths per year for decades; India's is now comparable in scale.
+Coal is the dirtiest fossil fuel on every relevant metric: CO₂ per energy, particulate matter, sulfur, mercury, nitrogen oxides. The local air quality impact is enormous — coal is a major contributor to the ~8 million annual premature deaths attributable to air pollution globally (State of Global Air 2024, using 2021 data; prior WHO estimates cited ~7 million). China's coal-fired air pollution has driven roughly 1–1.4 million premature deaths per year; India's is now comparable in scale.
 
 ## The structure
 
@@ -400,7 +400,7 @@ The fossil-fuel chapter sits at an uncomfortable junction. The science is clear 
 
 **3. The peak-oil narrative is more contested than the peak-coal one.** I treated peak coal as plausible-soon, peak oil as IEA-projection-around-2030. The honest framing is that peak coal is genuinely likely in the next 2–5 years; peak oil is much more uncertain and depends heavily on petrochemical demand growth and EV adoption rates.
 
-**4. The methane leakage numbers are evolving fast.** I cited 2–4% leakage rates from recent measurements. These numbers will continue to be refined as satellite measurement capabilities improve. The MethaneSAT failure in 2025 (the satellite was lost shortly after launch) was a setback, but Carbon Mapper and other systems continue measurements. Expect this section to need updating frequently.
+**4. The methane leakage numbers are evolving fast.** I cited 2–4% leakage rates from recent measurements. These numbers will continue to be refined as satellite measurement capabilities improve. The MethaneSAT failure in 2025 (the satellite launched March 2024 and lost contact June 2025, after ~15 months of operation) was a setback, but Carbon Mapper and other systems continue measurements. Expect this section to need updating frequently.
 
 **5. The 2025 OBBBA methane fee delay is regulation-current and may change.** The methane fee was originally a 2024 IRA provision; OBBBA delayed it to 2034. Whether it stays delayed depends on subsequent legislative and executive action.
 
@@ -423,7 +423,7 @@ The fossil-fuel chapter sits at an uncomfortable junction. The science is clear 
 - **NOC (National Oil Company)** — State-owned oil company. Includes Saudi Aramco, ADNOC, Pemex, Petrobras, CNPC, ONGC, Rosneft, and others. Together control most global reserves.
 - **NZE (Net Zero Emissions by 2050)** — IEA's normative scenario consistent with 1.5°C (with overshoot in 2025 version). Requires no new fossil fuel field development.
 - **OPEC+ / OPEC** — Producer cartel coordinating supply decisions. OPEC = 13 countries plus partners; OPEC+ adds Russia and several other non-OPEC producers, controls ~41% of global oil production.
-- **R/P ratio (Reserves-to-Production)** — Years that proved reserves would last at current production rates. Oil: ~50 years; Gas: ~47 years; Coal: ~118 years. Does not mean we run out at that point — new discoveries and price-driven additions extend reserves; but it indicates the size of the recoverable pool.
+- **R/P ratio (Reserves-to-Production)** — Years that proved reserves would last at current production rates. Oil: ~46 years; Gas: ~47 years; Coal: ~118 years. Does not mean we run out at that point — new discoveries and price-driven additions extend reserves; but it indicates the size of the recoverable pool.
 - **Shale revolution** — Period from ~2005–2020 in which US tight oil and gas production grew dramatically via horizontal drilling and hydraulic fracturing. Made the US a net liquids exporter (~2020) and the world's largest LNG exporter (2022).
 - **Sour crude / sweet crude** — Sour = high sulfur (>0.5%), sweet = low sulfur (<0.5%). Sweet trades at premium because refining is easier and produces a higher-value product mix.
 - **STEPS (Stated Policies Scenario)** — IEA scenario based on currently-stated government policies and announced plans. Shows oil peaking ~2030, gas peaking ~2035, coal peaking before 2030. Implies ~2.5°C warming.
@@ -433,6 +433,36 @@ The fossil-fuel chapter sits at an uncomfortable junction. The science is clear 
 - **TTF (Title Transfer Facility)** — European natural gas price benchmark (Netherlands).
 - **Unburnable carbon** — The fraction of proved fossil reserves whose CO₂ emissions would exceed the remaining carbon budget for a chosen temperature target. ~95% of reserves at 1.5°C; ~70% at 2°C.
 - **WEO (World Energy Outlook)** — Annual IEA flagship report, the canonical global reference for energy demand projections. 2025 edition reintroduced CPS scenario.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| 2024 global oil demand (total liquids) | ~101 mb/d (first time crossing that threshold) | 2024 full-year | Energy Institute *Statistical Review of World Energy 2025* (74th ed.); IEA *Oil Market Report* |
+| WEO 2025 CPS oil demand 2050 | 113 mb/d | Nov 2025 WEO | IEA *World Energy Outlook 2025*, Current Policies Scenario chapter |
+| WEO 2025 STEPS oil demand 2035/2050 | ~100 mb/d by 2035; ~97 mb/d by 2050 (peaks ~102 mb/d ~2030) | Nov 2025 WEO | IEA *World Energy Outlook 2025*, Stated Policies Scenario chapter; S&P Global Nov 2025 |
+| WEO 2025 NZE oil demand 2050 | ~24–25 mb/d | Nov 2025 WEO | IEA *World Energy Outlook 2025*, Net Zero Emissions scenario chapter |
+| 2024 global coal production | ~9 Gt (record); consumption ~165 EJ | 2024 full-year | IEA *Coal 2024* (Dec 2024); Energy Institute *Statistical Review 2025* |
+| 2024 global LNG trade | ~410 Mt (~560 bcm equivalent) | 2024 full-year | IGU *World LNG Report 2025*; actual 411.24 Mt per IGU |
+| New LNG export capacity buildout by 2030 | ~300 bcm (from post-FID projects; ~345 bcm gross, net ~250 bcm supply addition) | 2025 | IEA *Gas 2025*; IEA *WEO 2025* |
+| TTF European gas benchmark price | ~€30–45/MWh through 2024–2025 (spiked €345/MWh Aug 2022) | 2024–2025 | ICE TTF front-month settlement; S&P Global Commodity Insights |
+| Oil proved reserves | ~1,700 Gbbl (Energy Institute; includes Venezuelan heavy and Canadian oil sands); OPEC ASB 2025 reports 1,567 Gbbl crude-only | end-2024 | Energy Institute *Statistical Review 2025*; OPEC *Annual Statistical Bulletin 2025* |
+| Natural gas proved reserves | ~190 tcm; ~47-year R/P ratio at ~4,070 bcm/yr production | end-2024 | Energy Institute *Statistical Review 2025* |
+| Coal proved reserves | ~1,070 Gt; ~118-year R/P ratio at ~9 Gt/yr production | end-2024 | Energy Institute *Statistical Review 2025* |
+| Remaining 1.5°C carbon budget (50% probability) | ~170 GtCO₂ (~5% of proved reserves) | as of 2025 | IGCC *Indicators of Global Climate Change 2024*; Global Carbon Budget 2024; consistent with IPCC AR6 WGI Ch.5 (500 GtCO₂ from Jan 2020) |
+| Remaining 1.7°C carbon budget (50%) | ~525 GtCO₂ (~15% of proved reserves) | as of 2025 | IGCC / Global Carbon Budget 2024; IPCC AR6 WGI Ch.5 (850 GtCO₂ from Jan 2020) |
+| Remaining 2°C carbon budget (50%) | ~1,055 GtCO₂ (~31% of proved reserves) | as of 2025 | IGCC / Global Carbon Budget 2024; IPCC AR6 WGI Ch.5 (1,350 GtCO₂ from Jan 2020) |
+| Annual premature deaths from air pollution | ~8 million globally (revised up from prior ~7 million estimate); ~1–1.4 million/yr in China | 2021 data (pub. 2024) | State of Global Air 2024 (Health Effects Institute / IHME / UNICEF) |
+| OBBBA Waste Emissions Charge (methane fee) delay | Delayed from 2024 assessment year to 2034 | signed July 2025 | OBBBA (Public Law 119-21, July 2025), §§ amending IRA §136 |
+| MethaneSAT loss | Lost contact June 2025 (~15 months post-launch, not at launch) | June 2025 | EDF announcement; SpaceNews; Science/AAAS |
+
+> **Oil-reserves note:** The ~1,700 Gbbl figure follows the Energy Institute *Statistical Review* convention, which includes Venezuelan Orinoco heavy oil and Canadian oil sands under proved reserves. OPEC's *Annual Statistical Bulletin 2025* reports 1,567 Gbbl for conventional crude only. Both are defensible; the difference is definitional, not factual. Chapter text cites Energy Institute.
+
+> **Carbon-budget note:** The IPCC AR6 WGI Chapter 5 (2021) established budgets *from January 2020*: 500 / 850 / 1,350 GtCO₂ for 1.5°C / 1.7°C / 2°C at 50% probability. The figures used in this chapter (~170 / ~525 / ~1,055 GtCO₂) are the IGCC-updated *current* remaining budgets as of early 2025 after subtracting ~330 GtCO₂ of cumulative emissions since Jan 2020. These numbers shrink by ~37–38 GtCO₂/yr and will need re-checking annually.
 
 ---
 

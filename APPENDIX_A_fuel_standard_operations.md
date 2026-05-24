@@ -13,11 +13,11 @@ It is deliberately housed outside the chapter narrative because its register is 
 
 LCFS-style systems reward every increment of CI improvement, not just threshold crossing. This creates a quantifiable ROI framework for capital and operational decisions — the practical consequence of the "continuous function" design from Ch. 7.
 
-**A worked LCFS value.** Take a CI of 20 gCO₂e/MJ (roughly what well-optimized US HEFA SAF achieves with waste feedstocks and renewable process energy). The gap below California's current SAF benchmark (~70 gCO₂e/MJ) is 50 gCO₂e/MJ. SAF carries roughly **43 GJ of energy per tonne** (~0.13 GJ per gallon). The LCFS credit value is the CI gap × energy × credit price:
+**A worked LCFS value.** Take a CI of 20 gCO₂e/MJ (roughly what well-optimized US HEFA SAF achieves with waste feedstocks and renewable process energy). The gap below California's current SAF benchmark (~86.6 gCO₂e/MJ as of 2025, per CARB Title 17 §95484) is roughly 66.6 gCO₂e/MJ. SAF carries roughly **43 GJ of energy per tonne** (~0.13 GJ per gallon). The LCFS credit value is the CI gap × energy × credit price:
 
-- **Per GJ:** 50 gCO₂e/MJ × 1,000 MJ/GJ ÷ 1,000,000 g/t × $75/tCO₂e = **$3.75 per GJ** of fuel.
-- **Per tonne of SAF:** $3.75/GJ × 43 GJ/t ≈ **$161 per tonne**.
-- **Per gallon:** $3.75/GJ × 0.13 GJ/gal ≈ **$0.45–0.50 per gallon**, purely from LCFS.
+- **Per GJ:** 66.6 gCO₂e/MJ × 1,000 MJ/GJ ÷ 1,000,000 g/t × $63/tCO₂e = **$4.20 per GJ** of fuel. (Credit price: ~$63/tCO₂e Q1 2026; ~$66/tCO₂e week of May 11–17, 2026 per CARB weekly report — use current CARB data.)
+- **Per tonne of SAF:** $4.20/GJ × 43 GJ/t ≈ **$181 per tonne**.
+- **Per gallon:** $4.20/GJ × 0.13 GJ/gal ≈ **$0.55 per gallon**, purely from LCFS.
 
 The same gallon earns a 45Z credit of ~$0.90–1.00/gal at that CI level. The RIN, if the fuel qualifies under D4 (biomass-based diesel) or D7 (cellulosic diesel), adds another $0.40–1.50/gal depending on current D-code pricing. (Always convert instruments to a common per-tonne basis before adding them — see Ch. 8 Part 8, "The unit mismatch trap.")
 
@@ -52,9 +52,9 @@ The calculation is straightforward:
 - **Registration cost:** ~$50,000–200,000 one-time, plus $20,000–50,000/year in ongoing monitoring, data management, and verification fees.
 - **CI uplift:** if the plant's actual CI is 10 gCO₂e/MJ below the published default (common for optimized plants), and the plant produces 50,000 tonnes of SAF per year:
 
-  50,000 t × 43,000 MJ/t × 10 gCO₂e/MJ ÷ 1,000,000 g/t × $75/tCO₂e ≈ **$1.6 million per year** in additional LCFS credit value (≈ 21,500 tCO₂e × $75).
+  50,000 t × 43,000 MJ/t × 10 gCO₂e/MJ ÷ 1,000,000 g/t × $63/tCO₂e ≈ **$1.35 million per year** in additional LCFS credit value (≈ 21,500 tCO₂e × $63). (At the May 2026 spot of ~$66/tCO₂e the figure is ~$1.42 million; use current CARB weekly price.)
 
-At those numbers, the one-time registration cost is recovered within roughly **one to two months** of the additional credit revenue even at the top of the cost range; ongoing verification fees are a small fraction of annual uplift. Volume and CI uplift determine whether the investment makes sense; for large producers with meaningfully better-than-default performance, actual-value certification is almost always the right call.
+At those numbers, the one-time registration cost is recovered within roughly **two to three months** of the additional credit revenue even at the top of the cost range; ongoing verification fees are a small fraction of annual uplift. Volume and CI uplift determine whether the investment makes sense; for large producers with meaningfully better-than-default performance, actual-value certification is almost always the right call.
 
 ---
 
@@ -136,23 +136,23 @@ Canada's **Clean Fuel Regulation (CFR)** came into force July 1, 2023 — the fi
 
 ### The EU: step-function mandates with an actual-value CI layer
 
-The EU has not adopted an LCFS equivalent — REDIII, ReFuelEU Aviation, and FuelEU Maritime are volume-mandate (step-function) structures. But REDIII contains an actual-value certification mechanism that creates a *partial* CI-based reward layer within the mandate system. Actual-value certification demonstrating GHG savings above 65% (existing plants) or 70% (new plants post-2021) against the fossil comparator unlocks eligibility; producers certifying savings above 80–85% distinguish themselves in tenders and offtake negotiations even within the volume-mandate structure. The practical effect: the actual-value premium manifests as offtake pricing power rather than a continuous per-gram credit stream — airlines and SAF buyers subject to ReFuelEU pay a premium for well-documented low-CI SAF because it provides compliance buffer and reputational credibility. (This is the "boundary gap" of Ch. 8 Part 8: the room left between default values and what the methodology can actually score.)
+The EU has not adopted an LCFS equivalent — REDIII, ReFuelEU Aviation, and FuelEU Maritime are volume-mandate (step-function) structures. But REDIII contains an actual-value certification mechanism that creates a *partial* CI-based reward layer within the mandate system. Actual-value certification demonstrating GHG savings against the fossil comparator unlocks eligibility: REDIII Article 29 sets minimum thresholds of ≥50% for installations operational before October 2015, ≥60% for those starting from October 2015, and ≥65% for installations starting from January 1, 2021 — these apply to transport biofuels and bioliquids. (The 70%/80% thresholds cited in some secondary sources apply to electricity and heat from solid biomass, not to transport fuels.) Producers certifying savings substantially above the applicable floor — in the 80%+ range — distinguish themselves in tenders and offtake negotiations even within the volume-mandate structure; this premium is commercially meaningful but should not be cited as a statutory REDIII threshold. The practical effect: the actual-value premium manifests as offtake pricing power rather than a continuous per-gram credit stream — airlines and SAF buyers subject to ReFuelEU pay a premium for well-documented low-CI SAF because it provides compliance buffer and reputational credibility. (This is the "boundary gap" of Ch. 8 Part 8: the room left between default values and what the methodology can actually score.)
 
 ### Beyond North America and Europe
 
-- **Singapore SAF Framework (projected 2027+):** the Civil Aviation Authority of Singapore has been developing a SAF blending mandate. Given Singapore's position as Asia-Pacific's largest jet-fuel hub, a Singapore standard would create the first significant Asia-Pacific CI-linked fuel compliance market, expected to incorporate GHG-intensity thresholds that reward actual-value certification.
+- **Singapore SAF Framework (2026):** the Civil Aviation Authority of Singapore (CAAS) enacted a SAF levy effective April 1, 2026, for flights departing from October 1, 2026, targeting a 1% SAF blend at Changi and Seletar airports, scaling to 3–5% by 2030. Given Singapore's position as Asia-Pacific's largest jet-fuel hub, this is the first significant Asia-Pacific blending mandate; CI-intensity thresholds rewarding actual-value certification are expected in subsequent rulemaking.
 - **Japan SAF ambitions:** Japan has set a 10%-by-2030 SAF target and is engaging with lifecycle CI frameworks; METI's SAF supply-chain work overlaps with ICAO/CORSIA methodology.
 
 ### What makes LCFS logic portable
 
 Not every jurisdiction can implement an LCFS. The enabling conditions:
 
-1. **A liquid-fuel market large enough to sustain credit trading.** California's ~45 billion gallons/year of liquid transport fuel provides the depth for a two-sided market; small jurisdictions face thin markets and price volatility.
+1. **A liquid-fuel market large enough to sustain credit trading.** California's ~18–20 billion gallons/year of liquid transport fuel (approximately 13.4 Bgal gasoline in 2024 plus diesel and other fuels, per CEC/CARB data) provides the depth for a two-sided market; small jurisdictions face thin markets and price volatility.
 2. **Regulatory capacity to administer lifecycle assessment.** CARB's CA-GREET infrastructure, enforcement apparatus, and LCA staff are not trivial institutional investments.
 3. **A pre-existing low-carbon fuel supply capable of generating credits immediately.** Without early credit supply, the market has no price signal. California benefited from an existing ethanol and biodiesel sector.
 4. **Political economy that tolerates per-unit price signals on transport fuels.** LCFS costs pass through to fuel marketers and ultimately consumers — politically sensitive where fuel prices are managed.
 
-Where these conditions hold, LCFS logic is portable; where they don't, volume mandates (step-function) are more politically tractable even if less efficient. The trajectory for the family is upward: Canada's national CFR, Washington's adoption, and Singapore's nascent framework suggest the CI-based continuous-improvement model is gradually winning the design competition where political conditions permit.
+Where these conditions hold, LCFS logic is portable; where they don't, volume mandates (step-function) are more politically tractable even if less efficient. The trajectory for the family is upward: Canada's national CFR, Washington's adoption in 2023, and Singapore's 2026 SAF levy suggest the CI-based continuous-improvement model is gradually winning the design competition where political conditions permit.
 
 ---
 
@@ -207,3 +207,30 @@ For the bridge-toward-regulation frame to be a sound strategy rather than a rati
 4. **No double-claiming at the transition.** When the compliance regime claims the attribute, the VCM stream must be retired. The transition is an attribute-accounting event.
 
 The frame does not rescue projects with weak near-term additionality. A project that isn't additional under VCM rules doesn't become additional because there *might* be a future compliance market. The near-term integrity tests still apply — the bridge argument operates in addition to them, not instead of them.
+
+---
+
+# Sources and currency
+
+This appendix cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| LCFS credit price (A.1, A.2) | ~$63/tCO₂e (Q1 2026 average); ~$66/tCO₂e (week of May 11–17, 2026) | May 2026 | CARB Weekly LCFS Credit Transfer Activity Reports (ww2.arb.ca.gov) |
+| LCFS SAF / alternative jet fuel CI benchmark (A.1) | 86.64 gCO₂e/MJ in 2025; declining annually (80.36 by 2030+) | 2025 | California Code of Regulations Title 17 §95484 Table 3 |
+| LCFS diesel benchmark (context for Ch.7 line ~541) | 81.70 gCO₂e/MJ effective July 1, 2025 (down from 86.64) | July 2025 | CARB LCFS 2024 amendments; Cal. Code Regs. Tit. 17 §95484 |
+| LCFS price cap | $268.90/tCO₂e (June 2025 – May 2026); new cap published April 6, 2026 | 2025–26 | CARB LCFS Credit Clearance Market notices |
+| 45Z credit value (A.1) | Up to $1.00/gal for SAF (reduced from $1.75 by OBBBA, Public Law 119-21, July 2025) | 2025–2029 window | IRC §45Z as amended; IRS / Treasury proposed regulations Feb 2026 |
+| RIN price range D4/D7 (A.1) | $0.40–1.50/gal cited as range; D4 spot ~$0.77 (Q1 2025) rising to ~$1.10–1.11 (late 2025/2026) | Q1 2025 – early 2026 | EPA RIN trades and price information; OPIS/Stillwater D-code price reports |
+| D3 vs. D7 D-code definitions (A.1) | D3 = cellulosic biofuel (broader; includes ethanol, RNG); D7 = cellulosic diesel specifically | Current | EPA RFS program: 40 CFR Part 80 |
+| CARB pathway approval timeline (A.4) | 6–18 months for established pathways | Current practice | CARB LCFS program — Fuel Pathway Registration process |
+| CARB pathway registration cost (A.4) | ~$50,000–200,000 one-time; ~$20,000–50,000/yr ongoing | Current practitioner range | CARB LCFS practitioner guidance; law-firm alerts (Sidley, Weaver, etc.) — no CARB-published fixed fee |
+| Washington CFS enactment (A.5) | HB 1091 signed May 2021; operative January 1, 2023; tightened by HB 1409 (signed May 17, 2025) | 2021 / 2025 | Washington Dept. of Ecology; HB 1091; HB 1409 |
+| Canada CFR in force date (A.5) | July 1, 2023 | 2023 | Canada.ca — Clean Fuel Regulations |
+| Canada liquid fuel market size vs. US (A.5) | "~15% of the US market" — approximate, unverified against published primary data; treat as illustrative order-of-magnitude | — | Verify against EIA / NRCan annual fuel statistics before citing |
+| Singapore SAF mandate (A.5) | SAF levy effective April 1, 2026; flights departing from October 1, 2026; 1% blend target for 2026, scaling to 3–5% by 2030 | March 2026 | Civil Aviation Authority of Singapore (CAAS) announcement March 2026 |
+| Japan SAF "10%-by-2030" target (A.5) | 10% SAF use by Japanese airlines by 2030 | Feb 2023 Cabinet decision | Japan GX Basic Policy (Feb 2023); MLIT Roadmap for Decarbonization of Aviation (Dec 2021) |
+| California annual liquid transport fuel volume (A.5) | ~18–20 billion gallons/year (≈13.4 Bgal gasoline in 2024 + diesel + other) | 2024 | California Energy Commission; California Dept. of Tax and Fee Administration |
+| REDIII GHG-savings thresholds for transport biofuels (A.5) | ≥50% (pre-Oct 2015 plants); ≥60% (from Oct 2015); ≥65% (from Jan 1, 2021) — these apply to biofuels/bioliquids for transport | Oct 2023 (REDIII in force) | REDIII Article 29; EUR-Lex CELEX:32023L2413 |
+| REDIII "80–85%" superior-performance range (A.5) | Illustrative commercial premium range; NOT a statutory threshold — the 70%/80% statutory thresholds apply to electricity/heat from solid biomass, not transport biofuels | — | REDIII Article 29; distinguish from Article 29(1) transport biofuel thresholds vs. Article 29(3) biomass-for-energy thresholds |
+| A.3 routing table $/gal ranges | California $2.50–3.50; OR/WA $1.80–2.80; Federal $1.30–2.00; EU €1.00–2.50; Canada CAD $1.50–2.50 | ~2025–26 | Derived from individual instrument prices above; verify each component as underlying prices move |

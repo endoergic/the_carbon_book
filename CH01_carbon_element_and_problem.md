@@ -594,6 +594,33 @@ If we end up needing more depth on any of these, flag it and we'll do a side exc
 
 ---
 
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| Atmospheric CO₂ (2025 projected annual mean) | 425.7 ppm | Nov 2025 (GCB 2025 press release); ESSD paper states 425.6 ppm | GCB 2025 (Friedlingstein et al., *ESSD*, 2026); NOAA GML Mauna Loa trends |
+| Annual CO₂ growth rate (recent decade) | ~2.4 ppm/yr | 2025 | GCB 2025 / Carbon Brief reports ~2.3 ppm/yr; NOAA 10-yr mean ~2.6 ppm/yr; treat as "~2.3–2.4 ppm/yr" |
+| CH₄ concentration | ~1,930 ppb | 2024 | NOAA GML AGGI reports 1,929.56 ± 0.61 ppb for 2024 — value is correct to within rounding |
+| N₂O concentration | ~336 ppb | 2024 | NOAA GML AGGI reports 337.71 ± 0.02 ppb for 2024 — stated value is slightly low; verify and consider updating to ~338 ppb |
+| Global mean surface temperature warming | ~1.3°C (decadal mean) | 2024 (WMO State of Global Climate 2024) | WMO State of Global Climate 2024; long-term warming estimate 1.34–1.41°C; 2024 annual mean was 1.55°C (record year) |
+| Global mean sea level rise since 1880 | ~22 cm; ~4 mm/yr current rate | 2023–24 | NOAA Climate.gov sea level page; range cited as 21–24 cm; current rate ~3.6–3.7 mm/yr (2006–2015 average); may need updating |
+| Arctic sea ice decline rate | ~13% per decade since 1979 | Through 2024 | NSIDC; 2024 data yields 12.1–12.4% per decade relative to 1981–2010 average — stated "~13%" is within rounding but verify against current NSIDC data |
+| Fossil fuel and industry CO₂ emissions 2025 | 38.1 GtCO₂ (10.4 GtC); +1.1% | Nov 2025 (GCB 2025) | GCB 2025 press release and Friedlingstein et al. *ESSD* 2026 |
+| Coal / oil / gas growth rates (2025 vs 2024) | +0.8% / +1.0% / +1.3% | Nov 2025 (GCB 2025) | GCB 2025 / Carbon Brief analysis |
+| Land-use change emissions | 4.1 GtCO₂ (1.1 GtC) | Nov 2025 (GCB 2025) | GCB 2025; Carbon Brief reports "down 9.8% from 2024" |
+| Ocean sink (decadal mean fraction) | ~29% of total emissions | 2015–2024 decade (GCB 2025) | GCB 2025 FAQ; confirmed by Carbon Brief (~11.8 GtCO₂/yr) |
+| Land sink (decadal mean fraction) | ~21% of total emissions | 2015–2024 decade (GCB 2025) | GCB 2025 FAQ; confirmed by Carbon Brief (~8.7 GtCO₂/yr) |
+| Remaining 1.5°C budget (50% probability) | ~170 GtCO₂ (~4 years) | Jan 2025 (GCB 2025 base) | GCB 2025 / Friedlingstein et al. *ESSD* 2026; confirmed "one-in-two chance" framing |
+| Remaining 1.7°C budget (50% probability) | ~525 GtCO₂ (~12 years) | Jan 2025 (GCB 2025 base) | GCB 2025 FAQ; Carbon Brief confirms |
+| Remaining 2°C budget (50% probability) | ~1,055 GtCO₂ (~25 years) | Jan 2025 (GCB 2025 base) | GCB 2025 FAQ; Carbon Brief confirms |
+| 1.5°C budget at 67% probability ("roughly 100 GtCO₂") | ~100 GtCO₂ (inferred) | 2025 | **No direct primary-source citation; this is a pedagogical inference.** GCB 2025 FAQ confirms 170 GtCO₂ at 50% ("one-in-two chance"); the 67% figure is not published in the GCB 2025 press materials. The IPCC AR6 (2021) gave 400 GtCO₂ at 67% from Jan 2020, implying a rough 2025-adjusted figure somewhat below 170 GtCO₂. "Roughly 100 GtCO₂" is plausible directionally but cannot be sourced precisely; flag as illustrative estimate |
+
+> **Airborne fraction / sink arithmetic note:** The chapter states the airborne fraction is "~45%" and also cites ocean (29%) + land (21%) sinks = 50% absorbed, implying ~50% airborne. These are not directly contradictory: the 29%+21% figures are the GCB 2025 *decadal mean* (2015–2024) sink fractions of *total* anthropogenic emissions (fossil + LUC), while the "~45% airborne fraction" is a long-run historical average. The GCB 2025 also notes the land sink weakened significantly during the 2023–2024 El Niño period. On a *decadal mean* basis, the GCB 2025 data implies the absorbed fraction is closer to 50% (29%+21%), which would put the decadal-mean airborne fraction at ~50%, not ~45%. The 45% figure reflects a longer historical average that pre-dates the revised sink partitioning. Both figures are defensible from their respective sources, but the juxtaposition in the chapter body (lines 259–261 and 528) could mislead a careful reader. Consider adding a clarifying note that the 45% is a multi-decade average while the 50% absorbed (29%+21%) is the GCB 2025 decadal mean — they are consistent with GCB 2025 but not identical claims.
+
+---
+
 # What's next
 
 When you tell me where to go next, here are the most natural moves:

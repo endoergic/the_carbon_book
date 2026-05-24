@@ -557,6 +557,45 @@ The next decade will test whether carbon pricing can extend from the current cov
 
 ---
 
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| EU ETS EUA spot price | ~€72–75/tCO₂e (April 2026 range €71–78; monthly average ~€74) | April 2026 | EEX / ICE settlement; Aither EU ETS April 2026 overview |
+| CBAM Q1 2026 certificate price | €75.36/tCO₂e | April 7 2026 (EC announcement) | European Commission CBAM implementing acts; S&P Global Apr 7 2026 |
+| Biden 2023 EPA central SCC | $190 (2020 baseline), $230 (2030), $308 (2050), $410 (2080) | November 2023 | EPA Report on the Social Cost of Greenhouse Gases (Dec 2023) |
+| Trump 2025 SCC reversion steps | E.O. 14154 (Jan 20 2025) → EPA overhaul announced (Mar 2025) → M-25-27 memorandum (May 5 2025) → OIRA guidance (Jul 2025); interim estimate ~$1/tCO₂ | Jan–Jul 2025 | E.O. 14154; OMB M-25-27; Harvard EELP SCC tracker |
+| Sweden carbon tax | ~€134–138/tCO₂e (SEK 1,510–1,520; USD ~$145–150) | 2025–2026 | OECD Effective Carbon Rates 2025: Sweden; Swedish Government.se |
+| Norway carbon tax | NOK 944/tCO₂e (~$92–95); trajectory to NOK 2,000 (~$220) by 2030 | 2025 | Norwegian Government Prop. 1 LS (2024–2025) |
+| Switzerland carbon tax | CHF 120/tCO₂e (~$135) — note: chapter states CHF 130 (~$150), which overstates; rate has been CHF 120 since 2022 | 2022–present | Swiss BAFU CO₂ levy page; OECD Effective Carbon Rates 2025: Switzerland |
+| France carbon tax (CCE) | €44.6/tCO₂e (frozen since 2018) | 2018–present | IEA policy database; French Ministry statistics |
+| Ireland carbon tax | €63.50 (2025); rising to €71 in Oct 2025 for motor fuels (€71 full rate effective 2026) | Oct 2025 / Budget 2026 | Citizens Information Ireland; RTÉ Budget 2026 reporting |
+| UK Carbon Price Floor (CPF) | £18/tCO₂e (maintained through 2026–2027) | 2016–2027 | UK Practical Law; House of Commons Library |
+| Japan carbon tax | JPY 289/tCO₂e (~$2); GX fossil-fuel surcharge levy launching FY 2028 | 2012-present / 2028 | IEA GX policy database; Carbon Direct Japan GX-ETS analysis |
+| Singapore carbon tax | S$25 (2024) → S$45 (2026–2027) → S$50–80 (2030 target) | Jan 2026 | NCCS Singapore carbontax page; Climate Impact X |
+| South Africa carbon tax | ZAR 190 (2024) → ZAR 236 (Jan 2025) — note: chapter cites ZAR 190, which is the 2024 figure; 2025 statutory rate is ZAR 236 | Jan 2025 | South African Revenue Service; PKF South Africa 2025 |
+| Canada consumer fuel charge | Abolished April 1 2025 (was C$80/tCO₂e); industrial OBPS retained | April 1 2025 | Canadian federal government announcement |
+| BC consumer carbon tax | Repealed April 2025 | April 2025 | BC government announcement |
+| China national ETS CEA price | ~¥85/tCO₂e (approx. $11–12 at prevailing exchange rate); NOT below $10 — see body inconsistency note | 2025 (Q1–Q2) | ICAP China ETS page; IETA China Business Brief Jul 2025 |
+| Microsoft internal carbon fee | $100/tCO₂e (Scope 1, 2, and selected Scope 3 including business travel) | 2025 | Microsoft Industry Blog (Mar 2022, ongoing); SEC FY2025 8-K |
+| World Bank global emissions coverage | ~28% of global GHG emissions priced (updated 2025 report); chapter cites "24%" which was the 2023/2024 figure | June 2025 | World Bank State and Trends of Carbon Pricing 2025 (released Jun 2025) |
+| World Bank "8–10% at materially high levels" | Unchanged characterization; consistent with 2025 data | June 2025 | World Bank State and Trends of Carbon Pricing 2025 |
+| IPCC AR6 1.5°C-compatible carbon price | $135–$5,500/tCO₂e by 2030 (2010 USD) — note: chapter cites "$135–6,000" which slightly overstates the AR6 upper bound | 2022 (AR6 WGIII) | IPCC AR6 WGIII; Niskanen Center AR6 carbon price analysis |
+
+**Body inconsistencies flagged for correction (do not require sources table changes alone):**
+
+- **China CEA price bucket conflict:** Line ~384 places China national ETS in the "below $10/tCO₂e" bucket; line ~425 (Stop-and-check answer) correctly states "roughly $11–14." Verified current (2025) CEA price: ¥85/tCO₂e ≈ $11–12 at 2025 exchange rates. The below-$10 characterization on line 384 is **wrong**. China ETS should be moved to the "$10–50" bucket or given its own ~$11–14 sub-note.
+- **SCC 2050 value discrepancy:** Line ~140 (table) states "$310 in 2050"; line ~167 (timeline narrative) states "$308 in 2050." The official EPA figure is **$308**. The table value "$310" is a rounding error; should be corrected to "$308" for consistency.
+- **South Africa ZAR rate:** Body (line ~242) states "ZAR 190/tCO₂e (~$10)." The 2025 statutory rate is ZAR 236. The body should note ZAR 190 was the 2024 rate, with 2025 statutory rate at ZAR 236 (~$13), though effective rate after allowances is much lower.
+- **Switzerland CHF rate:** Body (line ~226) states "~CHF 130 (~$150)." The actual rate is CHF 120 since 2022. Should read "CHF 120 (~$135)."
+- **Ireland carbon tax:** Body (line ~234) states "€56/tCO₂e (2024)." The 2024 rate was €56; the 2025 rate is €63.50 (rising to €71 from Oct 2025 for motor fuels). Body should reflect current 2025/2026 rate of €63.50–71.
+- **World Bank coverage figure:** Body (line ~378) cites "24% of global GHG emissions" attributing to "State and Trends of Carbon Pricing 2024 (updated 2025)." The 2025 report (released June 2025) updates this to 28%. The body and Stop-and-check question (line ~418) both use 24% and should be updated to 28%.
+- **IPCC AR6 upper bound:** Body (line ~410) states "$135–6,000/tCO₂e." The AR6 upper bound is $5,500, not $6,000.
+
+---
+
 # What's next
 
 - **Chapter 10 (CCUS)** — the carbon capture and storage technology stack: post-combustion, pre-combustion, oxy-fuel, transport, storage, the project landscape including Northern Lights, Quest, Petrobras Santos Basin, ExxonMobil's Baytown pause, and the major hubs.

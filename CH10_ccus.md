@@ -6,7 +6,7 @@
 - Identify the four core technology categories: **post-combustion**, **pre-combustion**, **oxy-fuel combustion**, and **direct capture** (covered more deeply in Ch. 11), and the contexts each is best suited for.
 - Walk through a CCUS project value chain: capture → compression → transport → injection → monitoring → verification.
 - State current global operational CCUS capacity (~50 Mt/yr in 2025), the project pipeline (~430 Mt/yr by 2030 if all announced projects come online), and the gap to NZE pathway requirements (~1,000–1,300 Mt/yr needed by 2030; ~6,000 Mt/yr by 2050).
-- Identify the major operational CCUS projects: Petrobras Santos Basin Pre-Salt (Brazil, ~11 Mt/yr — the world's largest), Sleipner & Snøhvit (Norway), Quest (Canada), Boundary Dam (Saskatchewan), Gorgon (Australia), Northern Lights Phase 1 (Norway, operational 2025), Stratos DAC (Texas, operational 2025), Brevik Cement (Norway).
+- Identify the major operational CCUS projects: Petrobras Santos Basin Pre-Salt (Brazil, ~10.6 Mt/yr nameplate — the world's largest), Sleipner & Snøhvit (Norway), Quest (Canada), Boundary Dam (Saskatchewan), Gorgon (Australia), Northern Lights Phase 1 (Norway, operational 2025), Stratos DAC (Texas, operational 2025), Brevik Cement (Norway).
 - Explain why ~60% of operational CCUS capacity is at natural gas processing — and why this matters for assessing whether CCUS deployment is on track.
 - Articulate the integrity questions specific to CCUS: monitoring, leakage, displacement of investment from direct decarbonization, EOR vs. dedicated storage.
 - Explain the post-OBBBA 45Q dynamics and how subsidies are shaping the project pipeline.
@@ -33,7 +33,7 @@ Carbon capture is not a single technology — it's a family of technologies suit
 
 **What it is:** Capture of CO₂ from flue gas after combustion. The most generic and widely-applicable approach.
 
-**How it works:** Flue gas (which contains roughly 5–15% CO₂ by volume in power plants, 20–30% in cement plants, even higher in some industrial processes) passes through an absorber where CO₂ is selectively captured by a solvent (typically amine-based, like monoethanolamine — MEA — or proprietary solvents like Mitsubishi's KS-1 or Aker's Captol). The CO₂-rich solvent is then heated in a stripper to release pure CO₂, regenerating the solvent for reuse.
+**How it works:** Flue gas (which contains roughly 5–15% CO₂ by volume in power plants, 20–30% in cement plants, even higher in some industrial processes) passes through an absorber where CO₂ is selectively captured by a solvent (typically amine-based, like monoethanolamine — MEA — or proprietary solvents like Mitsubishi's KS-1 or Aker Carbon Capture's S26). The CO₂-rich solvent is then heated in a stripper to release pure CO₂, regenerating the solvent for reuse.
 
 **Where it's used:**
 - **Coal-fired power plants** (rare — Boundary Dam in Saskatchewan is the only commercial example for a long-running facility)
@@ -193,7 +193,7 @@ The breakdown of where this capacity is captured:
 
 **~15% at hydrogen and ammonia plants** — Quest (Canada), Air Products Port Arthur (US), various Middle East and Chinese projects.
 
-**~10% at fertilizer and chemical plants** — including the Petrobras Santos Basin Pre-Salt project (Brazil, ~11 Mt/yr — the world's single largest CCS facility, capturing CO₂ from the pre-salt oil and gas production process).
+**~10% at other industrial sources (gas processing/EOR and chemicals)** — including the Petrobras Santos Basin Pre-Salt project (Brazil, ~10.6 Mt/yr nameplate — the world's single largest CCS facility, capturing CO₂ from the pre-salt gas-processing and EOR process; 2024 actual reinjection was ~14.2 Mt). [Note: Petrobras is a gas-processing/EOR project, not a fertilizer or chemical plant. At ~10.6–14 Mt/yr it substantially exceeds a 10% share of 50 Mt/yr; the percentage breakdown here is approximate.]
 
 **~5% at coal power** — primarily Boundary Dam (Saskatchewan, since 2014) and small-scale projects in China.
 
@@ -281,7 +281,7 @@ Began operation **September 15, 1996** — the world's first commercial CCS proj
 
 ## Snøhvit (Norway, ~700 ktCO₂/yr)
 
-Companion project to Sleipner. Operational since 2008. Same fundamental approach: gas processing CO₂ separated and stored in saline aquifer. Demonstrates that the Sleipner model can be replicated.
+Companion project to Sleipner. Operational since 2008. Same fundamental approach: gas processing CO₂ separated and stored in saline aquifer. However, the project encountered a significant injectivity problem: CO₂ injected into the Tubåen Formation caused rapid pressure build-up (~943 psi over initial reservoir pressure) due to a small isolated channel and faulted reservoir geometry. Injection into the Tubåen was halted in April 2011 and switched to the overlying Stø Formation, where injection has proceeded successfully. No surface leakage has been detected, but the episode is the canonical example of why detailed reservoir characterization is essential — and why "no detectable leakage" should not be conflated with "operated without incident."
 
 ## Quest (Canada, ~1 Mt/yr)
 
@@ -293,7 +293,7 @@ Operational since 2015 in Alberta. Captures CO₂ from Shell's Scotford hydrogen
 
 Operational since 2014. The world's first commercial-scale CCS on a coal-fired power plant (110 MW capacity post-retrofit). Post-combustion capture at SaskPower's Boundary Dam Unit 3.
 
-**Significance:** Proves coal-CCS is technically possible but financially difficult. Boundary Dam has had operational issues including periods well below design capture rate. Per the Canadian government, the project has captured a cumulative ~5 Mt CO₂ over its operational life vs. the design ~7 Mt — a meaningful underperformance.
+**Significance:** Proves coal-CCS is technically possible but financially difficult. Boundary Dam has had operational issues including periods well below design capture rate. As of September 2025, the project had captured a cumulative ~7.1 Mt CO₂ since 2014 (SaskPower disclosures), having recovered from earlier underperformance and approximately meeting its design capture trajectory — though annual capture (~700–790 ktCO₂/yr) remains below the ~1 Mt/yr design rate.
 
 ## Gorgon (Australia, ~3.4 Mt/yr at design)
 
@@ -342,7 +342,7 @@ ExxonMobil and BP's Tangguh LNG expansion in West Papua, Indonesia. CCS reached 
 ## **Stop-and-check 10.B**
 
 1. Sleipner has been operating since 1996 — almost 30 years. Why hasn't the Sleipner model been replicated more widely outside of gas processing?
-2. Petrobras Santos Basin captures ~11 Mt/yr — the world's largest CCS project. But the CO₂ is used for EOR. Does this count as climate action? (Return to this in Part 6.)
+2. Petrobras Santos Basin captures ~10.6 Mt/yr (nameplate; 2024 actual ~14.2 Mt) — the world's largest CCS project. But the CO₂ is used for EOR. Does this count as climate action? (Return to this in Part 6.)
 3. Northern Lights' commercial start in August 2025 is widely described as a turning point. What about it is structurally different from prior CCS projects?
 4. **Socratic prompt:** If you had to advise the US Department of Energy on which CCUS project type to prioritize for federal support, would you choose (a) more big gas-processing CCS, (b) cement CCS, (c) steel CCS, (d) coal power CCS, or (e) DAC? Defend a single choice.
 
@@ -619,6 +619,31 @@ The chapters that follow build on CCUS:
 - **Stratos** — Occidental's DAC facility in Texas, operational 2025. World's largest direct air capture facility (500 ktCO₂/yr design).
 - **Tangguh** — Indonesia LNG facility with CCS reaching FID 2024; one of the largest CCS FIDs ever.
 - **TIER (Technology Innovation and Emissions Reduction) regulation** — Alberta's carbon-pricing system for large industrial emitters; includes credits for CCUS.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The most time-sensitive claims, to be re-verified against primary sources and tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| Global operational CCUS capacity | ~50 Mt/yr (up from 47.4 Mt/yr) | Q1 2025 | IEA CCUS Projects Database 2025 |
+| Number of operational facilities / industries | ~79 facilities across 9 industries | Q1 2025 | IEA CCUS Projects Database 2025 |
+| Project pipeline capture capacity by 2030 | ~430 Mt/yr (if all announced projects proceed) | Q1 2025 | IEA CCUS Projects Database 2025 |
+| Storage capacity by 2030 | ~670 Mt/yr | Q1 2025 | IEA CCUS Projects Database 2025 |
+| Projects in global pipeline | 628 projects (+60% since 2023) | Q1 2025 | IEA CCUS Projects Database 2025 |
+| Projects at FEED stage | 247 (more than double 2023 levels) | Q1 2025 | IEA CCUS Projects Database 2025 |
+| CCUS investment 2024 | ~$6.4 billion (tripled since 2022) | 2024 | IEA CCUS Projects Database 2025 |
+| NZE CCUS requirement 2030 | ~1,024 Mt/yr | 2021/2023 NZE | IEA Net Zero Roadmap (2021 NZE; 2023 update revises to ~1,000 Mt/yr) |
+| NZE CCUS requirement 2050 | ~6,040 Mt/yr | 2021/2023 NZE | IEA Net Zero Roadmap (2023 update: >6 Gt/yr) |
+| Boundary Dam cumulative capture vs. design | ~5 Mt cumulative vs. ~7 Mt design | as stated | SaskPower press releases — NOTE: stale; as of Sept 2025, cumulative is ~7.1 Mt (see body-fix flag) |
+| Gorgon cumulative injection vs. design | ~10.5 Mt through 2024 vs. ~17 Mt design | 2024 | IEEFA / Chevron Australia disclosures; Rigzone Nov 2024 |
+| Petrobras Santos Basin capacity | ~10.6 Mt/yr (design/nameplate; 2024 actual ~14.2 Mt) | 2024 | Petrobras operator disclosures; gasworld; Offshore Energy |
+| Norway CO2 tax current rate | NOK 952/tCO₂ (~$95) | 2023 (mineral oil general rate) — NOTE: 2025 petroleum-sector rate is NOK 944/tCO₂; verify before re-print | Norskpetroleum.no; Norwegian Tax Administration |
+| Norway CO2 tax 2030 target | NOK 2,000/tCO₂ (~$220) | 2020-prices basis; NOK 2,400 in 2025 prices | Norwegian Government Prop. 1 LS (2024–2025) |
+| China operational CCUS capacity | ~5 Mt/yr | end-2024 | IEA CCUS Projects Database 2025 (Chinese data carries higher uncertainty) |
+| Northern Lights EU funding | €131 million | 2024 | European Commission / Connecting Europe Facility; norlights.com |
 
 ---
 

@@ -7,7 +7,7 @@
 - Walk through the chemistry of steel and cement emissions — particularly why **cement process emissions are chemically unavoidable** without CCS or alternative chemistries.
 - Distinguish "process emissions" (from chemical reactions inherent to the production process) from "energy emissions" (from fuels used to heat or run equipment).
 - Identify the main decarbonization pathways for each sector: **steel** (H₂-DRI + EAF, CCS on BF-BOF, scrap recycling, alternative chemistries like molten oxide electrolysis), **cement** (CCS, alternative cements, clinker substitution, demand reduction), **chemicals** (electrification, green hydrogen, CCS, biorefining), **aviation** (SAF, hydrogen aircraft, e-fuels, demand management), **shipping** (ammonia, methanol, LNG-transition, e-fuels, wind-assist).
-- Track current major projects and the 2025–2026 retrenchment — Stegra (formerly H₂ Green Steel) commissioning, Thyssenkrupp and ArcelorMittal postponements, Brevik cement operational, ReFuelEU mandates entering force, IMO 2025 agreement, Singapore SAF levy 2027.
+- Track current major projects and the 2025–2026 retrenchment — Stegra (formerly H₂ Green Steel) delayed to 2027, Thyssenkrupp and ArcelorMittal postponements, Brevik cement CCS opened June 2025, ReFuelEU mandates entering force, IMO 2025 agreement, Singapore SAF levy 2027.
 - Articulate the **"green premium"** concept: the additional cost of low-carbon products over conventional ones, and how policy is trying to close it.
 - Explain why sectoral approaches matter — and why pure carbon pricing alone is insufficient for these sectors.
 
@@ -164,11 +164,11 @@ Iron oxide + H₂ → Iron + H₂O
 The reduced iron (called DRI — Direct Reduced Iron, or sponge iron) is then melted in an EAF to produce steel. When the hydrogen is green (made from renewable electrolysis) and the EAF runs on clean electricity, total emissions can be **0.05–0.2 tCO₂ per ton of steel** — roughly 95% lower than BF-BOF.
 
 **Key projects:**
-- **Stegra** (formerly H₂ Green Steel), Boden, Sweden: 2.5 Mt/yr design capacity (initial phase). 100% green hydrogen-based DRI-EAF, powered by 700+ MW of electrolyzers. Commissioning ramping in 2025–2026.
+- **Stegra** (formerly H₂ Green Steel), Boden, Sweden: 2.5 Mt/yr design capacity (targeting 2.4 Mt/yr initially, 5 Mt/yr by 2030). 100% green hydrogen-based DRI-EAF, powered by 740 MW of electrolyzers (all 37 modules installed by late 2025). First steel expected **2027** — delayed from original 2025–26 target; €1.4 billion financing round announced April 2026.
 - **HYBRIT** (Sweden, joint venture of SSAB, LKAB, Vattenfall): Pilot operational since 2020; demonstration scale-up to 2026; commercial scale-up planned 2030.
-- **Thyssenkrupp Steel** (Germany): 2.5 Mt/yr H₂-DRI plant under construction at Duisburg. Operational target 2026–2027, though 2025 reports suggest delays.
-- **ArcelorMittal**: Multiple H₂-DRI projects across Europe (Spain, Germany, France); 2025 saw multiple **postponements** of European EAF conversions citing economic and energy-cost uncertainty.
-- **Salzgitter** (Germany): SALCOS program — DRI-EAF transition over 2025–2033.
+- **Thyssenkrupp Steel** (Germany): 2.5 Mt/yr H₂-DRI plant under construction at Duisburg. Operational target now **2027**; green hydrogen tender suspended March 2025 due to high prices — plant designed to also run on natural gas as fallback.
+- **ArcelorMittal**: Multiple H₂-DRI projects across Europe; **November 2024** decision put several European green-project investments on hold; company acknowledged in April 2025 it is "increasingly unlikely" to meet 2030 CO₂ reduction targets. Select EAF builds (Gijón, Sestao, Dunkirk) continuing.
+- **Salzgitter** (Germany): SALCOS program — first-stage DRI-EAF startup (2+ Mt/yr) now expected **H1 2027** (delayed from end-2025); stages 2 and 3 postponed ~3 years, investment decisions pushed to 2028–2029; 100 MW electrolysis plant targeting 9,000 t/yr green H₂ from 2026.
 
 **Key challenge — the 2025–2026 retrenchment:** Multiple major European green-steel projects have been delayed or paused in 2024–2025. The economic logic has shifted unfavorably:
 - Green hydrogen production costs remained higher than projected.
@@ -263,7 +263,7 @@ New cement formulations that use less or no limestone:
 
 Capture the CO₂ at the kiln exhaust. The technology is mature; deployment is just beginning.
 
-**Major project:** **Brevik Cement** (Heidelberg Materials, Norway) — **operational 2025**. World's first commercial CCS at a cement plant. Captures ~400 ktCO₂/yr (about 50% of plant emissions). CO₂ ships to Northern Lights for storage. Costs in the $80–100/tCO₂ range.
+**Major project:** **Brevik Cement** (Heidelberg Materials, Norway) — **opened June 2025**. World's first commercial CCS at a cement plant. Captures ~400 ktCO₂/yr (about 50% of plant emissions). CO₂ ships to Northern Lights for storage. Costs in the $80–100/tCO₂ range. First deliveries of evoZero (CCS-certified near-zero cement) began October 2025.
 
 Other CCS-cement projects in pipeline: HeidelbergCement Lengfurt (Germany), CEMEX Hidalgo (Mexico), Holcim Lake Erie (Canada), various Chinese cement-CCS pilots.
 
@@ -279,13 +279,13 @@ Use less cement: better building design, alternative materials (cross-laminated 
 
 Aggregating these pathways: by 2050, cement emissions could plausibly be reduced 50–80% below current levels through a combination of clinker substitution, alternative chemistries, CCS, and demand reduction. The remaining emissions would require CDR neutralization.
 
-The **Global Cement and Concrete Association (GCCA) Net Zero Roadmap** (2023, updated) targets net-zero concrete by 2050 with substantial reliance on CCS (~40% of cumulative reductions) plus the other pathways.
+The **Global Cement and Concrete Association (GCCA) Net Zero Roadmap** (2023, updated) targets net-zero concrete by 2050 with substantial reliance on CCS (~36% of cumulative reductions, per GCCA's own figures; often rounded to ~40% in secondary sources) plus the other pathways.
 
 ## The 2025–2030 cement outlook
 
 Cement's near-term trajectory is more positive than steel's, partly because:
 - Brevik is operational, demonstrating CCS feasibility.
-- CBAM coverage of cement (Q1 2026 enforcement) creates direct economic incentive.
+- CBAM coverage of cement (definitive period from **1 January 2026**) creates direct economic incentive.
 - The technology pathways are more mature than green steel's hydrogen dependence.
 - Major producers (Heidelberg Materials, Holcim, CEMEX) have committed to CCS-led decarbonization.
 
@@ -363,7 +363,7 @@ Similar logic — replace natural gas as feedstock with green hydrogen + biogeni
 
 Electric crackers: using electric heat instead of fuel combustion to crack naphtha/ethane into ethylene.
 - BASF, Linde, SABIC, Dow have announced electric cracker projects.
-- BASF/Linde/SABIC Ludwigshafen e-cracker reached FID in 2024 for 6 MW pilot.
+- BASF/Linde/SABIC Ludwigshafen e-cracker **started up April 2024** — the world's first large-scale electrically heated steam cracking furnace; 6 MW pilot, processing ~4 t/hr hydrocarbon feedstock (not an FID; plant was already under construction since 2021).
 
 **Outlook:** Substantial promise but small commercial scale today. Full deployment requires both technology maturation and very cheap, abundant renewable electricity.
 
@@ -375,15 +375,15 @@ Replace petrochemical feedstocks with biomass-derived alternatives. Mature for s
 
 Chemicals decarbonization is at an earlier stage than cement or steel. Pilot and demonstration projects are deploying; commercial-scale deployment is mostly post-2027. The sector is highly capital-intensive and globally traded — the same trade-leakage concerns apply.
 
-CBAM coverage of hydrogen products (from Q1 2026) and fertilizers creates direct demand for low-carbon ammonia exports to Europe. This is a meaningful demand pull.
+CBAM coverage of hydrogen products (definitive period from 1 January 2026) and fertilizers creates direct demand for low-carbon ammonia exports to Europe. This is a meaningful demand pull.
 
 ---
 
 # Part 5: Aviation
 
-Aviation produces approximately **950 MtCO₂/yr** (2024, recovering from pandemic). That's about 2.5% of global CO₂ but ~12% of transportation-sector emissions and ~2.5% of all anthropogenic radiative forcing (including non-CO₂ effects from contrails and NOₓ at altitude).
+Aviation produces approximately **942 MtCO₂** in 2024 (per IATA), essentially recovering to pre-pandemic levels. That's about 2.5% of global CO₂ but ~12% of transportation-sector emissions and ~2.5% of all anthropogenic radiative forcing (including non-CO₂ effects from contrails and NOₓ at altitude).
 
-The 2024 emissions were ~90% of pre-COVID levels; **2025 emissions are expected to surpass 2019 levels** as travel demand continues to recover. The trajectory is upward, not down.
+The 2024 emissions reached approximately 2019 pre-COVID levels; **2025 emissions are expected to surpass 2019 levels** as travel demand continues to grow. The trajectory is upward, not down.
 
 ## Why aviation is hard
 
@@ -406,7 +406,7 @@ SAF is **chemically similar to conventional jet fuel** but produced from non-fos
 - **Power-to-Liquid (PtL) e-fuels** — synthesized from green hydrogen + captured CO₂. Very low carbon when both inputs are clean. The most scalable long-term pathway.
 
 **Current state:**
-- Global SAF production in 2025: roughly 2–3 billion gallons (~10 Mt) — about 0.5–1% of total jet fuel consumption.
+- Global SAF production in 2025: roughly **500 million gallons (~1.9–2.1 Mt)** — about 0.6–0.7% of total jet fuel consumption. (Note: the "2–3 billion gallon" figure sometimes cited refers to projected 2028+ capacity, not 2025 actuals.)
 - US: ~240 million gallons domestic SAF registered for RFS in 2025.
 - US 45Z Clean Fuel Production Credit: up to $1/gallon for SAF (post-OBBBA, down from $1.75 previously). OBBBA (July 2025) *extended* the credit's sunset from its original end-2027 date to **December 31, 2029**, while restricting eligibility to North American feedstocks and excluding indirect land-use-change (ILUC) emissions from the CI calculation.
 - EU ReFuelEU Aviation mandate: 2% SAF in 2025, escalating to 6% in 2030, 20% in 2035, 70% in 2050 (with sub-targets for e-fuels).
@@ -507,7 +507,7 @@ Modal shift from sea freight to other modes (limited possibilities for internati
 The **International Maritime Organization (IMO)** is the global regulatory body for international shipping.
 
 **The 2025 IMO Agreement:** In April 2025, IMO member states reached a landmark agreement on shipping decarbonization. Key provisions:
-- **30% reduction in CO₂ emissions by 2035, 65% by 2040** (vs. 2008 baseline), for vessels above 5,000 gross tonnage (covering ~85% of global fleet CO₂).
+- **30% reduction in GHG intensity (gCO₂eq/MJ, well-to-wake) by 2035, 65% by 2040** vs. the 2008 fleet baseline of 93.3 gCO₂eq/MJ — for vessels above 5,000 gross tonnage (covering ~85% of global fleet CO₂). Note: this is an intensity standard, not an absolute emissions cap.
 - **Tiered emissions penalty system**: Vessels exceeding caps pay **$100/tCO₂** if mitigation measures are in place; **$380/tCO₂** with no decarbonization efforts.
 - **Entry into force: 2027**, following ratification at follow-up meeting October 2025.
 - **US withdrew from negotiations** but the agreement proceeded.
@@ -552,7 +552,7 @@ The hard-to-abate sectors require **integrated policy** — not just carbon pric
 
 The **"green premium"** is the cost difference between low-carbon and conventional production. Current premiums:
 
-- **Green steel**: 20–30% premium currently (down from 50%+ earlier in the decade as costs converge)
+- **Green steel**: 20–30% premium currently in Europe (Fastmarkets tracks €100–170/t differential for flat products, Jan 2026); the "down from 50%+" framing at line 175 refers to early-decade theoretical cost models, not observed market premiums, which have generally tracked 20–40% where green steel has actually traded
 - **Green ammonia**: 60–150% premium
 - **SAF**: 200–400% premium
 - **Green methanol**: 100–300% premium
@@ -579,7 +579,7 @@ A particularly important demand-side mechanism for hard-to-abate sectors. Launch
 - **Zero-emission shipping** commitments
 - **Low-carbon cement and concrete** commitments
 
-The FMC aggregates demand across major buyers, providing visibility to producers about future market for low-carbon products. As of 2025, FMC includes 60+ companies with $12+ billion in committed purchase agreements.
+The FMC aggregates demand across major buyers, providing visibility to producers about future market for low-carbon products. As of 2025, FMC includes **100+ companies** with ~**$16 billion** in committed demand across covered sectors by 2030 (representing ~31 Mt CO₂e in annual reductions once fulfilled).
 
 ## CBAM as sectoral lever
 
@@ -682,14 +682,49 @@ Three things to take away:
 - **Haber-Bosch process** — Industrial process for synthesizing ammonia from hydrogen and nitrogen. Energy- and CO₂-intensive when fed by natural-gas-derived hydrogen.
 - **HEFA (Hydroprocessed Esters and Fatty Acids)** — SAF production pathway from used cooking oils, animal fats, plant oils. Currently dominant SAF method.
 - **HYBRIT** — Swedish demonstration project (SSAB, LKAB, Vattenfall) for green steel production using green hydrogen.
-- **IMO 2025 Agreement** — Landmark global shipping carbon-pricing framework agreed April 2025; entering force 2027. $100/tCO₂ with mitigation, $380/tCO₂ without.
+- **IMO 2025 Agreement** — Landmark global shipping GHG framework agreed April 2025 at MEPC 83; entering force 2027. Sets GHG intensity (well-to-wake) reduction targets of 30% by 2035 and 65% by 2040 vs. 2008 baseline. Penalty tiers: $100/tCO₂eq (Base Target deficit) and $380/tCO₂eq (Direct Compliance Target deficit).
 - **Methanol** — Alternative marine fuel; can be produced green (from green H₂ + CO₂) or blue (from natural gas + CCS).
 - **MOE (Molten Oxide Electrolysis)** — Pre-commercial alternative steel chemistry; direct electrolytic reduction without hydrogen.
 - **ReFuelEU Aviation** — EU mandate requiring increasing SAF blend shares in aviation fuel. 2% by 2025, 6% by 2030, 70% by 2050.
 - **SAF (Sustainable Aviation Fuel)** — Drop-in jet fuel from non-fossil feedstocks. Multiple production pathways approved.
 - **SCMs (Supplementary Cementitious Materials)** — Materials replacing clinker in cement (fly ash, slag, calcined clay, natural pozzolans).
-- **Stegra** (formerly H₂ Green Steel) — Swedish green-steel company; 2.5 Mt/yr capacity ramping in 2025–2026 at Boden facility.
+- **Stegra** (formerly H₂ Green Steel) — Swedish green-steel company; 2.5 Mt/yr design capacity at Boden facility; first steel expected 2027 (delayed from original 2025–26 target).
 - **SteelZero / ConcreteZero** — Climate Group-led commitments by buyers to procure low-carbon steel and concrete respectively.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| Stegra first steel (Boden, Sweden) | 2027 (delayed from 2025–26); €1.4 B financing April 2026 | April 2026 | Stegra press releases; GME Wiki; Canary Media |
+| Thyssenkrupp DRI-EAF operational target | 2027; H₂ tender suspended March 2025 | March 2025 | Thyssenkrupp Steel press releases |
+| ArcelorMittal European green project hold | Nov 2024 decision; "increasingly unlikely" to meet 2030 targets (Apr 2025) | April 2025 | ArcelorMittal SEC Form 6-K filings |
+| Salzgitter SALCOS stage 1 startup | H1 2027 (delayed from end-2025); stages 2–3 pushed to 2028–2029 | Sept 2024 | Salzgitter AG press releases; EUROMETAL |
+| Green steel premium (Europe, flat products) | 20–30% / €100–170/t over conventional HRC | Jan 2026 | Fastmarkets green steel differential index |
+| Brevik cement CCS opening date | June 18, 2025; evoZero deliveries Oct 2025 | June 2025 | Heidelberg Materials press release 2025-06-18 |
+| Brevik capture volume and cost | ~400 ktCO₂/yr; ~50% of plant; $80–100/tCO₂ capture cost | 2025 | Heidelberg Materials / SLB Capturi / Northern Lights |
+| Global clinker-to-cement ratio | ~0.72 | 2023–24 | GCCA / IEA Cement tracking |
+| GCCA CCS share of roadmap reductions | ~36% (sometimes rounded to ~40% in secondary sources) | 2023 | GCCA 2050 Cement and Concrete Roadmap |
+| CBAM definitive period start | 1 January 2026 | Jan 2026 | European Commission CBAM page; EC press release 2026-01-14 |
+| Ammonia / ethylene / methanol / refining emissions | ~500 / ~280 / ~150 MtCO₂e/yr / ~1 Gt | 2022–24 | IEA Chemicals tracking; ICCA |
+| BASF/Linde/SABIC Ludwigshafen e-cracker | 6 MW pilot; **started up April 2024** (not FID) | April 2024 | BASF press release 2024-04-17 |
+| Global aviation CO₂ (2024) | 942 MtCO₂ (IATA); 2025 expected to surpass 2019 | 2024 | IATA Net Zero Progress Report 2024 |
+| Global SAF production (2025) | ~500 million gallons (~1.9–2.1 Mt) | Dec 2025 | IATA press release Dec 2025; ATAG |
+| US RFS domestic SAF registered (2025) | ~240 million gallons | 2025 | EPA / EIA RFS data |
+| ReFuelEU Aviation mandates | 2% (2025), 6% (2030), 20% (2035), 70% (2050) | Jan 2025 | EU Regulation 2023/2405 |
+| UK SAF Mandate | 2% (2025), 10% (2030), 22% (2040) | Jan 2025 | UK Sustainable Aviation Fuel mandate statutory instruments |
+| Singapore SAF levy/mandate | 2027 introduction; 1% blend → 5% by 2030 | 2024 | Singapore Civil Aviation Authority announcements |
+| 45Z Clean Fuel Production Credit | Up to $1.00/gal SAF (down from $1.75); window Jan 2025 – Dec 31 2029 | July 2025 | IRC §45Z as amended by OBBBA (PL 119-21, July 2025) |
+| CORSIA credit price range | $15–25/tCO₂ | 2024–26 | ICAO CORSIA eligible emission unit reports |
+| IMO April 2025 framework targets | 30% GHG intensity reduction by 2035, 65% by 2040 vs. 2008 fleet baseline (93.3 gCO₂eq/MJ) | April 2025 | IMO MEPC 83 press briefing; MARPOL Annex VI draft amendments |
+| IMO penalty tiers | $100/tCO₂eq (Tier 1, Base Target deficit); $380/tCO₂eq (Tier 2, more ambitious target deficit) | April 2025 | IMO MEPC 83; King & Spalding alert April 2025 |
+| IMO entry into force | 2027 (formal adoption October 2025) | April 2025 | IMO MEPC 83 |
+| US withdrawal from IMO MEPC 83 | US withdrew before negotiations commenced; agreement adopted 63–16–24 | April 2025 | gCaptain; Jones Walker LLP alert; Marine Log |
+| EU ETS price (aviation context) | ~€75/tCO₂e | April–May 2026 | EEX / ICE settlement prices |
+| First Movers Coalition size | 100+ members; ~$16 billion committed demand by 2030; 125 purchasing commitments | 2025 | WEF / FMC March 2025 overview (WTO document); FMC member list |
 
 ---
 

@@ -287,12 +287,12 @@ The deeper implications:
 **1. Demonstrated leverage.** China can effectively throttle Western battery production by adjusting graphite export approvals. It hasn't (so far) done so on a large scale, but the option is established.
 
 **2. Acceleration of non-Chinese capacity.** US Treasury, the IRA's foreign entity of concern (FEOC) rules, and the EU Critical Raw Materials Act have explicitly identified graphite as a focus. In 2024:
-   - Three US graphite-related projects were funded through Bipartisan Infrastructure Law and Defense Production Act Title III ($125M each for an Alabama spherical graphite facility and a Kentucky/Louisiana recycling facility; $8.3M for a Canadian flake graphite mine).
+   - US graphite supply-chain funding in 2024 came through two programs. Under the Bipartisan Infrastructure Law (BIL), Urbix was selected for up to $125M to build a coated spherical graphite processing facility in Arizona, and Ascend Elements received up to $125M for battery-grade graphite recycling capacity in Kentucky/Louisiana. Separately, the Defense Production Act Title III program awarded $8.3M to Lomiko Metals for pre-feasibility work at the La Loutre flake graphite project in Québec, Canada.
    - Westwater Resources, Novonix, and Anovion are building synthetic graphite capacity in the US.
    - Syrah Resources operates a spherical graphite facility in Vidalia, Louisiana — the only major non-Chinese operation at scale.
    - The Inflation Reduction Act's §30D EV tax credit rules require battery critical materials (including graphite) to be increasingly sourced from the US or free-trade-agreement partners (with a temporary exception for graphite that has been extended multiple times because compliance is essentially impossible at current production scales).
 
-**3. Tariff escalation.** The US announced in May 2024 a tariff increase on Chinese natural graphite from 0% to 25% beginning in 2026.
+**3. Tariff escalation.** The US announced in May 2024 a Section 301 tariff increase on Chinese natural graphite from 0% to 25%, effective January 1, 2026. As of early 2026, cumulative US duties on Chinese graphite anode material are substantially higher — approximately 220% — after Commerce issued final antidumping (93.5%) and countervailing (66.68%) duty determinations in February 2026, stacked on top of Section 301 (25%), Section 232 (25%), and IEEPA (10%) tariffs. (See Sources and currency note below.)
 
 **4. Industry response.** The major battery cell makers — CATL, BYD, LG Energy Solution, SK On, Panasonic, Samsung SDI — are diversifying. CATL has invested in Indonesian and Mexican facilities; Korean and Japanese manufacturers are building synthetic graphite capacity in North America to meet IRA-eligible content rules.
 
@@ -507,6 +507,38 @@ Three things to take away and act on:
 - **rCB (recovered carbon black)** — Carbon black recovered by pyrolysis of end-of-life tires. Emerging circular-economy product.
 - **Spherical graphite** — Natural graphite that has been micronized and mechanically rounded to ~10–25 micron spherical particles, the form required for battery anode use.
 - **Synthetic graphite** — Manufactured graphite produced by high-temperature graphitization of needle coke or pitch precursors. Higher cost and energy intensity than natural graphite, but more consistent properties.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| Coking-coal price peak | >$600/t (2021–22) | 2021–22 cycle peak | S&P Global Platts PLV HCC FOB Australia; Argus PLV assessments |
+| Coking-coal price 2024 | ~$200–250/t premium HCC | mid-2024 (slipped below $200 by Q4) | Argus PLV HCC FOB Australia monthly averages |
+| Met-coke price ratio | 1.3–1.5× coking coal | directional (varies by grade and contract) | Argus / S&P Global met-coke assessments |
+| Met-coke market values | $37B / $99.7B / $358B / $218B (2024) | 2024 (directional; methodology-dependent) | Market Research Future; Intel Market Research; Research and Markets / Grand View; FactMR — treat as directional only |
+| Natural graphite production total | ~1.63 Mt (2024) | 2024 | USGS Mineral Commodity Summaries 2025 |
+| China natural graphite share | ~78% (1.27 Mt) | 2024 | USGS Mineral Commodity Summaries 2025 |
+| Madagascar natural graphite | 89 kt, +41% YoY, surpassed Mozambique | 2024 | USGS Mineral Commodity Summaries 2025 |
+| China graphite refining capacity | ~90% of global spheronization / purification / coating | 2024 | USGS MCS 2025; Fastmarkets / Benchmark Mineral Intelligence |
+| China export-license impact — early 2024 | Spherical graphite exports Jan–Feb 2024 down ~65% YoY | Jan–Feb 2024 | USGS MCS 2025; Fastmarkets (citing Chinese customs data) |
+| China export-license impact — next 6 months | Down ~19% YoY (Mar–Aug 2024) | Mar–Aug 2024 | USGS Mineral Commodity Summaries 2025 |
+| BIL graphite awards ($125M each) | Urbix (Arizona CSPG facility) and Ascend Elements (Kentucky/Louisiana recycling) each selected for up to $125M | 2022–24 selections | DOE Office of Manufacturing & Energy Supply Chains (MESC) / BIL program announcements |
+| DPA Title III Canadian mine award | $8.3M to Lomiko Metals (La Loutre, Québec) | 2024 | DoD Defense Production Act Investment program announcement |
+| Section 301 graphite tariff | 0% → 25% effective Jan 1, 2026 | Announced May 2024; effective Jan 1, 2026 | USTR Federal Register, Sep 18 2024 (89 FR 76581); confirmed in effect |
+| Cumulative US graphite anode tariff (as of 2026) | ~220% (Section 301 25% + Section 232 25% + IEEPA 10% + CVD 66.68% + AD 93.5%) | Feb 2026 final Commerce determination | DOC CVD/AD final determinations Feb 11, 2026; ITC injury determination expected Mar 2026 |
+| FEOC graphite deadline / extension | "Impracticable-to-trace" exception for graphite runs through end of 2026; full FEOC tracing required from Jan 1, 2027 | Final IRS/Treasury regs, May 2024 | IRC §30D final regulations (89 FR 37706); OBBBA changes did not extend this specific exception |
+| CBAM steel cost estimate | ~€100–150/t "by 2026+" | Modeled long-run at full phase-in; 2026 actual cost is a fraction (~2.5% of embedded emissions covered in 2026) | EC CBAM implementing regulation; Q1 2026 certificate price €75.36/tCO₂e (EC announcement) |
+| EU battery passport | From Feb 18, 2027, for batteries >2 kWh | EU Battery Regulation 2023/1542 | Regulation (EU) 2023/1542, Art. 77 / Annex implementation timeline |
+
+> **Tariff note (graphite):** The chapter body correctly states that the US announced a 25% Section 301 tariff on Chinese natural graphite effective January 1, 2026. As of May 2026, this has been supplemented by final antidumping and countervailing duty orders (February 2026) bringing the total cumulative duty on Chinese graphite *anode material* to approximately 220%. The Section 301 rate covers natural graphite broadly; the AD/CVD orders are targeted at active anode material. The two regimes overlap on the relevant battery supply-chain product. Source: DOC final determination Feb 11, 2026; Westwater Resources (plaintiff) rate schedule.
+
+> **CBAM steel note:** The "€100–150/ton" figure in the Stop-and-check 2.A answer represents the *fully phased-in* CBAM cost at 100% coverage (expected ~2034), not the 2026 actual cost. In 2026, CBAM covers only 2.5% of embedded emissions, with the Q1 2026 certificate price set at €75.36/tCO₂e. At 2026 actual coverage levels, the incremental CBAM cost on imported steel is roughly €3–8/t, rising steeply each year through 2034. The "by 2026+" qualifier in the text is ambiguous and should be read as a long-run projection, not a near-term realized cost.
+
+> **BIL awards note:** As of early 2025, the Trump DOE canceled several BIL battery-manufacturing grants, including the $117M Anovion award. The Urbix and Ascend Elements awards may also be subject to renegotiation. Verify current status before citing as active funded projects.
 
 ---
 

@@ -122,7 +122,7 @@ For most non-financial companies, **Categories 1 (purchased goods) and 11 (use o
    - The emissions from the trucks that delivered the crude oil to the refinery
 2. Why does the GHG Protocol require dual reporting (location- and market-based) for Scope 2? What questions do the two methods answer?
 3. A company shows large reductions in Scope 2 emissions year-over-year because they bought unbundled RECs from a wind farm that was already operating. What's the integrity issue here, and what would a more rigorous accounting approach require?
-4. **Socratic prompt:** ExxonMobil's Scope 1+2 emissions are about 120 MtCO₂e/yr. Its Scope 3 Category 11 emissions are about 570 MtCO₂e/yr. If ExxonMobil commits to "net zero by 2050" but only specifies Scope 1+2, what fraction of its actual climate impact is the commitment addressing? What should you ask the company before treating its commitment as credible?
+4. **Socratic prompt:** ExxonMobil's Scope 1+2 emissions are approximately 99 MtCO₂e/yr (2024 data; earlier figures near 120 MtCO₂e reflect pre-Pioneer acquisition years). Its Scope 3 Category 11 emissions are approximately 730 MtCO₂e/yr (2024). If ExxonMobil commits to "net zero by 2050" but only specifies Scope 1+2, what fraction of its actual climate impact is the commitment addressing? What should you ask the company before treating its commitment as credible?
 
 **Answers**
 
@@ -132,7 +132,7 @@ For most non-financial companies, **Categories 1 (purchased goods) and 11 (use o
 
 3. The integrity issue is that the wind farm was already operating, so the unbundled RECs represent no additional renewable generation — they shift a paper claim without changing physical electricity flows. This is the "REC washing" critique: the reduction is contractual, not real. A more rigorous approach would prefer additionality (procurement that drives new build, such as PPAs or on-site generation), tighter geographic matching to the actual grid, and ultimately hourly (24/7) matching rather than annual. The proposed Scope 2 Guidance revisions move in exactly this direction, raising the bar for "100% renewable" claims.
 
-4. The commitment addresses only about 120 of roughly 690 MtCO₂e — under a fifth of ExxonMobil's actual climate impact, since Scope 3 Category 11 (customers burning the fuel) is the overwhelming majority. For an oil major, excluding Scope 3 omits the core of the problem. Before treating the pledge as credible, you should ask: does it cover Scope 3 Category 11, and if not why; is the target absolute or intensity-based; what is the base year; does it rely on offsets or removals and of what quality; and is it validated against a recognized framework. The decisive question is whether the boundary of the commitment matches the boundary of the emissions.
+4. The commitment addresses only about 99 of roughly 829 MtCO₂e (2024 basis) — roughly 12% of ExxonMobil's actual climate impact, since Scope 3 Category 11 (customers burning the fuel) is the overwhelming majority. For an oil major, excluding Scope 3 omits the core of the problem. Before treating the pledge as credible, you should ask: does it cover Scope 3 Category 11, and if not why; is the target absolute or intensity-based; what is the base year; does it rely on offsets or removals and of what quality; and is it validated against a recognized framework. The decisive question is whether the boundary of the commitment matches the boundary of the emissions.
 
 ---
 
@@ -364,7 +364,7 @@ IFRS S2 effectively replaces the TCFD recommendations as the global framework fo
 - **21+ jurisdictions** have adopted IFRS S1/S2 on a mandatory or voluntary basis. Adopters include Brazil, Canada, Mexico, Chile, Qatar, Singapore, Hong Kong, Japan, Malaysia, Australia, New Zealand, Turkey, Thailand, Nigeria, Kenya, and others.
 - **An additional 16+ jurisdictions** are in process. China issued a climate standard based on IFRS S2 in December 2025 (without a mandatory timeline yet).
 - **The European Union** is following its own ESRS framework (European Sustainability Reporting Standards) but maintaining interoperability with IFRS S2.
-- **The United States:** the SEC's federal climate disclosure rule was withdrawn in 2025 after sustained litigation. There is no federal mandate. **California's SB 253** (Climate Corporate Data Accountability Act) became effective January 2026, requiring large companies doing business in California to report Scope 1, 2, and (by 2027) Scope 3 emissions. California's framework references the GHG Protocol and is broadly compatible with IFRS S2.
+- **The United States:** the SEC voted on March 27, 2025 to end its defense of its climate-disclosure rule; the rule is effectively unenforced and slated for repeal-by-rulemaking. There is no operative federal mandate. **California's SB 253** (Climate Corporate Data Accountability Act) is moving forward, with CARB implementing regulations approved February 26, 2026 and the first Scope 1/2 reporting deadline on August 10, 2026; Scope 3 phases in by 2027. **SB 261** (climate financial risk) was enjoined by the Ninth Circuit in November 2025 (pending appeal; oral argument January 9, 2026); enforcement remains on hold. California's framework references the GHG Protocol and is broadly compatible with IFRS S2.
 
 In December 2025, the ISSB issued **targeted amendments to IFRS S2** to address implementation challenges, particularly around GWP values (jurisdictional relief allowing different IPCC assessment-cycle values) and reducing duplicative reporting where local frameworks already cover GHG disclosure.
 
@@ -409,14 +409,14 @@ The **ISO 14060 series** is the international standardization body's framework f
 - **ISO 14067** (product carbon footprints) — for individual products.
 - **ISO 14068** (carbon neutrality) — published November 2023, defines what a "carbon neutrality" claim requires. Stricter than many corporate self-declared carbon neutrality claims.
 
-A new **ISO 14060 (Net Zero Aligned Organizations)** standard is in development and expected to launch at COP30 in November 2025. Combined with the ISO-GHG Protocol harmonization announced September 2025, this should reduce the proliferation of competing net-zero frameworks over the next several years.
+A new standalone standard designated **ISO/CD 14060 (Net Zero Aligned Organizations)** — distinct from the existing ISO 14060 sub-series (14064, 14067, 14068) — is in development. As of COP30 (November 2025) the draft was at Committee Draft (CD) stage; publication is expected in 2026, not at COP30. Combined with the ISO-GHG Protocol harmonization announced September 2025, this should reduce the proliferation of competing net-zero frameworks over the next several years.
 
 ## The big picture
 
 The standards landscape is in unusually active flux, but the direction of travel is convergent:
 
 - **GHG Protocol revisions** tighten methodology and expand scope coverage.
-- **ISSB IFRS S2** provides the disclosure baseline now adopted in 20+ jurisdictions.
+- **ISSB IFRS S2** provides the disclosure baseline now adopted in 21+ jurisdictions.
 - **PCAF** is the operational reference for financial-sector emissions, now formally embedded in GHG Protocol.
 - **SBTi V2** raises the target-setting bar with scope-specific targets, mandatory transition plans, and structured OER.
 - **ISO 14060 series** is being aligned with GHG Protocol; ISO 14068 codifies stricter "carbon neutrality" requirements.
@@ -427,7 +427,7 @@ The 2027–2028 transition will be substantial. Most current corporate net-zero 
 
 1. The GHG Protocol revisions are introducing a 95% Scope 3 coverage requirement. What does this rule out, and why is it significant?
 2. The SBTi V2 draft replaces "Beyond Value Chain Mitigation" with "Ongoing Emissions Responsibility." What's substantively different about OER, and why does the change matter?
-3. The US has withdrawn its federal climate disclosure rule, but California has implemented SB 253 effective January 2026. What does this say about the durability of climate disclosure regimes in the absence of federal coordination?
+3. The US SEC abandoned its defense of its federal climate disclosure rule in 2025 (with repeal-by-rulemaking signaled), but California's SB 253 is moving forward with implementing regulations approved February 2026 and SB 261 enjoined pending the Ninth Circuit. What does this say about the durability of climate disclosure regimes in the absence of federal coordination?
 4. **Socratic prompt:** A company has invested heavily in building reporting systems aligned to the current (2011/2015) GHG Protocol standards. With the 2027 revisions coming, should it pause the buildout, accelerate it, or restructure it now in anticipation of the new standards? Which choice carries which risks?
 
 **Answers**
@@ -436,7 +436,7 @@ The 2027–2028 transition will be substantial. Most current corporate net-zero 
 
 2. BVCM under V1.3 was voluntary and loosely defined — companies "should support climate action beyond their value chain," with little structure. OER replaces it with a structured framework: explicit tiers of recognition, a shift from optional to mandatory from 2035, and a focus on taking responsibility for emissions during the transition through carbon credits. The change matters because it converts a vague, easily-ignored encouragement into a defined obligation with timelines, making it harder to claim climate leadership while doing little beyond the value chain, and giving the concept teeth it previously lacked.
 
-3. It suggests climate disclosure regimes have become resilient and polycentric rather than dependent on any single government. Even with the SEC rule withdrawn after litigation and no US federal mandate, California's SB 253 reaches large companies doing business in the state, and 21+ jurisdictions have adopted IFRS S1/S2. Because California references the GHG Protocol and is broadly compatible with IFRS S2, a company operating internationally faces de facto disclosure requirements regardless of federal inaction. The durable trend is convergence on a global baseline that sub-national and foreign jurisdictions enforce even when a national government retreats.
+3. It suggests climate disclosure regimes have become resilient and polycentric rather than dependent on any single government. Even with the SEC having abandoned its rule's defense in 2025 and no US federal mandate in force, California's SB 253 reaches large companies doing business in the state (with implementing regulations approved February 2026 and a first reporting deadline of August 10, 2026), and 21+ jurisdictions have adopted IFRS S1/S2. SB 261 is currently enjoined pending the Ninth Circuit, but SB 253's emissions-data mandate survived the first injunction round. Because California references the GHG Protocol and is broadly compatible with IFRS S2, a company operating internationally faces de facto disclosure requirements regardless of federal inaction. The durable trend is convergence on a global baseline that sub-national and foreign jurisdictions enforce even when a national government retreats.
 
 4. There is no single correct answer; the choice depends on the company's risk tolerance and capabilities. Pausing risks falling behind on current obligations and losing institutional momentum, and leaves the firm scrambling when final standards land. Accelerating on the 2011/2015 basis risks building infrastructure that needs rework once the revisions (95% Scope 3 coverage, stricter Scope 2 matching, data-quality tiering, Category 16) take effect. Restructuring now in anticipation risks betting on draft provisions that may change before 2027. The most defensible path for most firms is to keep building but design for flexibility — modular data systems, granular data capture, and consistent boundaries — so the system can absorb the known direction of travel without committing prematurely to unsettled specifics.
 
@@ -583,6 +583,33 @@ I want you to attempt three things:
 - **TCFD (Task Force on Climate-related Financial Disclosures)** — 2017 framework for climate-related financial disclosure. Effectively replaced by IFRS S2 in 2023.
 - **WBCSD** — World Business Council for Sustainable Development, co-manages GHG Protocol with WRI.
 - **WRI** — World Resources Institute, co-manages GHG Protocol with WBCSD.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| ExxonMobil Scope 1+2 emissions | ~99 MtCO₂e/yr (Scope 1: ~92, Scope 2: ~8) | FY2024 (April 2025 report) | ExxonMobil Metrics & Data page; 2024 Sustainability Report |
+| ExxonMobil Scope 3 Category 11 emissions | ~730 MtCO₂e/yr | FY2024 (April 2025 report) | ExxonMobil Metrics & Data page; 2024 Sustainability Report |
+| ISSB IFRS S1/S2 jurisdictions adopted | 21+ jurisdictions (mandatory or voluntary basis) | January 1, 2026 | IFRS Foundation jurisdictional profiles (June 2025); S&P Global Jan 2026 |
+| ISSB IFRS S1/S2 jurisdictions in process | 16+ additional jurisdictions | January 2026 | IFRS Foundation; S&P Global Jan 2026 |
+| China climate disclosure standard | Corporate Sustainability Disclosure Standard No. 1 – Climate (Trial); based on IFRS S2; voluntary for now; issued by nine central-government bodies | December 19, 2025 | Ministry of Finance / ESG Today / iasplus.com Dec 2025 |
+| PCAF 3rd edition (Part A) and Part C 2nd edition | Published December 2, 2025; Part A adds four new asset-class methodologies; Part C adds treaty reinsurance and project insurance | December 2, 2025 | carbonaccountingfinancials.com |
+| GHG Protocol Scope 2 public consultation | Ran October 20, 2025 – January 31, 2026 (extended from original December 19 close) | January 31, 2026 | ghgprotocol.org consultation page |
+| ISSB targeted amendments to IFRS S2 | Issued December 11, 2025; effective for annual periods beginning on or after January 1, 2027 | December 11, 2025 | IFRS Foundation news release; amendments document |
+| GHG Protocol TWG meeting counts | Corporate Standard: 37 meetings; Scope 3: 42 meetings (both through end of 2025) | December 2025 / March 2026 | GHG Protocol Phase 1 Progress Updates (CS: Dec 2025; S3: March 2026) |
+| GHG Protocol final standards expected | Late 2027 | 2025–26 | GHG Protocol Corporate Suite Update page |
+| SBTi CNZS V2 second consultation | Closed December 12, 2025 | December 12, 2025 | sciencebasedtargets.org |
+| SBTi CNZS V2 final standard | Expected mid-to-late 2026 | Nov 2025 draft | sciencebasedtargets.org |
+| SBTi CNZS V2 mandatory for new targets | January 1, 2028 | Nov 2025 draft | sciencebasedtargets.org |
+| SBTi V1.x valid | Through December 31, 2027 | Nov 2025 draft | sciencebasedtargets.org |
+| SEC climate rule status | SEC voted March 27, 2025 to end defense; rule unenforced; repeal-by-rulemaking signaled | March 27, 2025 | SEC press release 2025-58; see Ch. 13 for full litigation posture |
+| California SB 253 | CARB implementing regulations approved February 26, 2026; first reporting deadline August 10, 2026 (Scope 1/2); Scope 3 by 2027 | February 26, 2026 | CARB; Ch. 13 Sources and currency table |
+| California SB 261 | Ninth Circuit enjoined enforcement November 18, 2025; oral argument January 9, 2026; enforcement on hold | November 2025 | Ninth Circuit order; law-firm alerts (Jones Day, Morgan Lewis, Morrison Foerster) |
+| ISO/CD 14060 (Net Zero Aligned Organizations) | At Committee Draft stage as of COP30 (Nov 2025); publication expected 2026 | 2025 | iso.org/standard/43276.html |
 
 ---
 

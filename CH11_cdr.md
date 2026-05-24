@@ -97,9 +97,9 @@ DAC captures CO₂ from ambient air, which contains approximately **425 ppm (0.0
 - Power plant flue gas: 3–15% CO₂
 - Cement plant flue gas: 20–30% CO₂
 
-Air is **three to four orders of magnitude more dilute** in CO₂ than point-source flue gases. The dilution drives the cost: separating something rare from a vast volume of air requires moving a lot of air, contacting it with a lot of sorbent, and using a lot of energy.
+Air is **two to three orders of magnitude more dilute** in CO₂ than point-source flue gases (power plant 3–15%, cement plant 20–30%; versus 425 ppm in air — roughly 70–700× dilution). The dilution drives the cost: separating something rare from a vast volume of air requires moving a lot of air, contacting it with a lot of sorbent, and using a lot of energy.
 
-The theoretical minimum work to separate CO₂ from air is approximately **20 kJ/mol** (the entropic cost of "concentrating" CO₂ from 425 ppm to pure form). The actual energy use of current DAC systems is **8–10× this thermodynamic minimum** — typically 5–10 GJ per ton CO₂, including thermal energy for sorbent regeneration plus electricity for fans and compression.
+The theoretical minimum work to separate CO₂ from air is approximately **20 kJ/mol** (~0.45 GJ/tCO₂; the entropic cost of "concentrating" CO₂ from 425 ppm to pure form). The actual energy use of current DAC systems is **11–22× this thermodynamic minimum** — typically 5–10 GJ per ton CO₂, including thermal energy for sorbent regeneration plus electricity for fans and compression.
 
 The thermodynamic minimum gives a floor on how cheap DAC can get; current cost trajectories are closing the gap but still some distance away.
 
@@ -125,7 +125,7 @@ The DAC industry has converged on two major technology classes plus a smaller em
 
 **Scale efficiency:** L-DAC achieves scale through fewer, larger units. Capital intensity per unit capacity is lower at large scale than S-DAC, but minimum economic scale is larger.
 
-**Examples:** **1PointFive's Stratos** in Ector County, Texas — operational from late 2025 with phased ramp-up to **500 ktCO₂/yr by mid-2026**. Designed by Carbon Engineering (acquired by Occidental). Powered by a dedicated 145 MW solar facility. The first commercial-scale L-DAC. Other L-DAC developers include Mission Zero Technologies.
+**Examples:** **1PointFive's Stratos** in Ector County, Texas — Phase 1 initial operations expected Q2 2026 with phased ramp-up to **500 ktCO₂/yr design capacity**. Designed by Carbon Engineering (acquired by Occidental). Powered by a dedicated 145 MW solar facility. The first commercial-scale L-DAC.
 
 ### Electrochemical and emerging DAC approaches
 
@@ -171,11 +171,11 @@ For comparison, EU ETS allowances trade at €70–75/tCO₂ in 2026; nature-bas
 
 The cost trajectory is favorable but uncertain. Historical analogues — wind costs fell 50% in 15 years, solar fell 90% in 15 years, batteries fell 80% — suggest DAC could decline substantially. But DAC's thermodynamic minimum (~$30–80/tCO₂ at very large scale and cheap energy) is higher than zero, so the bottom-end target is structural rather than aspirational.
 
-The 45Q tax credit in the US — **$180/tCO₂ for DAC with geological storage**, **$130/tCO₂ for DAC with EOR** — is calibrated near the high end of current costs. For US-located projects, 45Q substantially covers the cost-to-revenue gap.
+The 45Q tax credit in the US — **$180/tCO₂ for DAC** (both geological storage and EOR/utilization, post-OBBBA parity) — is calibrated near the high end of current costs. For US-located projects, 45Q substantially covers the cost-to-revenue gap.
 
 ## **Stop-and-check 11.A**
 
-1. DAC must capture CO₂ from air at 425 ppm — three orders of magnitude more dilute than point-source flue gases. Why hasn't this killed DAC commercially? What features make it economically viable despite the dilution?
+1. DAC must capture CO₂ from air at 425 ppm — two to three orders of magnitude more dilute than point-source flue gases. Why hasn't this killed DAC commercially? What features make it economically viable despite the dilution?
 2. The Mammoth plant has been operating in Iceland since May 2024 at 36 ktCO₂/yr. Total cumulative DAC delivery through mid-2025 was about 1,200 tonnes (across all suppliers). Why is delivery so much smaller than installed capacity?
 3. Stratos's design capacity is 500 ktCO₂/yr — nearly 14× the size of Mammoth. The technology jump (S-DAC → L-DAC) is large. What's the risk if Stratos underperforms?
 4. **Socratic prompt:** If you were Microsoft's chief sustainability officer in 2026, deciding whether to commit to a 10-year DAC purchase agreement at $500/tCO₂, what would you weigh in deciding yes or no?
@@ -216,9 +216,9 @@ The "if" is doing a lot of work. We'll return to this in the integrity discussio
 
 BECCS can be applied wherever biomass is being burned at scale:
 
-**Pulp and paper mills.** Black liquor is a byproduct of paper production; it's burned for energy. Capture from black liquor combustion is a leading near-term BECCS application. Stockholm Exergi's Värtaverket CHP plant in Sweden is the leading commercial example (FID 2024 for 800 ktCO₂/yr capture).
+**Pulp and paper mills.** Black liquor is a byproduct of paper production; it's burned for energy. Capture from black liquor combustion is a leading near-term BECCS application. Stockholm Exergi's Värtaverket CHP plant in Sweden is the leading commercial example (FID March 2025 for 800 ktCO₂/yr capture; operations targeted 2028).
 
-**Biomass-fired power plants.** Drax in the UK is the most prominent example (proposed 8 MtCO₂/yr BECCS). The 2025 status: the project has been in development since 2018, with various policy uncertainties; current status is FID-pending under the UK CCS-CfD framework.
+**Biomass-fired power plants.** Drax in the UK is the most prominent example (proposed 8 MtCO₂/yr BECCS). The 2025–2026 status: the project has been in development since 2018; Drax reached a biomass-generation CfD (£109.90/MWh, April 2027–March 2031) but has scaled back its BECCS-specific investment and staffing, citing insufficient policy and commercial frameworks for large-scale BECCS capital commitment. No FID has been taken on the carbon-capture element.
 
 **Bioethanol plants.** Ethanol production releases concentrated CO₂ that's easy to capture. Several ethanol+CCS projects in the US (mostly oriented toward EOR rather than dedicated storage; Summit Carbon Solutions covered in Ch. 3 is an EOR-coupled approach).
 
@@ -232,7 +232,7 @@ BECCS is more mature than DAC in some ways and less in others:
 
 **Mature:** The technology is straightforward — BECCS = biomass combustion + standard CCS. The major BECCS-relevant components (combustion, amine capture, geological storage) are all commercial.
 
-**Less mature:** Commercial deployment is just starting. The Stockholm Exergi project reached FID in 2024. Drax UK is pending FID under CCS-CfD allocation. Most ethanol+CCS in the US uses EOR rather than dedicated storage, which is not climatically equivalent.
+**Less mature:** Commercial deployment is just starting. The Stockholm Exergi project reached FID in March 2025. Drax UK has secured a generation CfD but has not taken FID on the carbon-capture element, having scaled back its BECCS investment citing insufficient policy frameworks. Most ethanol+CCS in the US uses EOR rather than dedicated storage, which is not climatically equivalent.
 
 **Scale potential:** BECCS could potentially scale to hundreds of MtCO₂/yr by 2030–2035 if the policy framework, biomass supply chains, and CCS infrastructure align.
 
@@ -363,7 +363,7 @@ Total conventional CDR potential: roughly 3–7 GtCO₂/yr by 2050 — significa
 
 The voluntary corporate market is currently the primary funder of novel CDR. As of mid-2025, total CDR purchases (across all novel technologies) reached approximately:
 
-- **Microsoft:** ~18 million tCO₂ across multiple suppliers — by far the largest single buyer. Roughly 80% of total durable CDR purchases globally.
+- **Microsoft:** ~25 million tCO₂ contracted across multiple suppliers as of Q2 2025 (and growing rapidly — 36+ Mt by April 2026) — by far the largest single buyer. Approximately 78–80% of total disclosed durable CDR tonnes contracted globally.
 - **Airbus:** ~400,000 tCO₂ (largely DAC).
 - **Frontier coalition** (Stripe, Alphabet, Shopify, Meta, McKinsey): $1B+ committed, distributed across multiple suppliers.
 - **JP Morgan Chase:** $200M+ committed across multiple providers.
@@ -382,11 +382,11 @@ The buyer concentration is striking. Microsoft alone accounts for the majority o
 - **The selection:** Frontier evaluates providers across multiple dimensions (durability, additionality, scalability, co-benefits) and distributes purchases across promising approaches.
 - **The signal:** The aggregated commitment from major buyers signals to the broader market that there's durable demand for high-quality CDR, encouraging entrepreneurial entry and investment.
 
-Frontier has now made purchases across 12+ suppliers, including DAC providers (Climeworks, 1PointFive, Heirloom), BECCS, biochar, enhanced weathering, mineralization, and biomass burial.
+Frontier has now made purchases across 50+ suppliers (45+ projects), including DAC providers (Climeworks, 1PointFive, Heirloom), BECCS, biochar, enhanced weathering, mineralization, and biomass burial; cumulative offtake/prepurchase value exceeded $585 million as of late 2025.
 
 The model has spawned analogous initiatives:
 - **NextGen** (S&P Global subsidiary): purchasing CDR for corporate buyers.
-- **Symbiosis Coalition:** ~$500M committed for various removal types.
+- **Symbiosis Coalition:** up to $1B committed (Google, Meta, Microsoft, Salesforce), targeting 20 Mt of nature-based CDR by 2030.
 - **Various other corporate buyer aggregators.**
 
 The AMC approach is widely seen as the most consequential innovation in early-stage CDR financing.
@@ -396,7 +396,7 @@ The AMC approach is widely seen as the most consequential innovation in early-st
 Beyond corporate demand, public policy is increasingly supporting CDR:
 
 **United States:**
-- **45Q tax credit:** $180/tCO₂ for DAC with geological storage, $130/tCO₂ for DAC with EOR (post-OBBBA).
+- **45Q tax credit:** $180/tCO₂ for DAC (geological storage and EOR/utilization alike, post-OBBBA parity; point-source capture remains $85/tCO₂).
 - **DOE DAC Hubs:** $1.2 billion initial funding for two hubs (South Texas, Project Cypress).
 - **45V Hydrogen tax credit:** Indirectly supports CDR through blue hydrogen with CCS.
 - **CRP (Carbon Removal Procurement):** Federal procurement commitments under various programs.
@@ -425,7 +425,7 @@ A critical demand driver: **SBTi V2** (Ch. 5, Ch. 8) requires increasing use of 
 - Neutralize residual emissions with high-quality removal credits
 - Increase the durability and quality of removal credits over time, with mandatory shifts toward long-lived removals (DAC, mineralization, biomass burial) by net-zero target year
 
-If SBTi V2 is broadly adopted (final version expected mid-late 2026), it creates substantial implicit demand for durable CDR over 2030–2050. The 4,000+ companies with SBTi-validated net-zero targets would collectively require ~1+ GtCO₂/yr of removal credits by their net-zero target years (mostly 2040–2050).
+If SBTi V2 is broadly adopted (second consultation closed December 2025; publication and mandatory use from January 2028), it creates substantial implicit demand for durable CDR over 2030–2050. The 10,000+ companies with SBTi-validated targets (as of January 2026) would collectively require substantial removal credits by their net-zero target years (mostly 2040–2050).
 
 This is one of the largest demand-side reform mechanisms in the climate-policy landscape. Whether SBTi V2 is implemented as currently drafted will substantially shape CDR scaling.
 
@@ -547,7 +547,7 @@ Several near-term decisions will substantially shape the trajectory:
 ## **Stop-and-check 11.C**
 
 1. The "central case" 2050 CDR scenario has novel CDR at 2–4 GtCO₂/yr. The IPCC's 1.5°C scenarios assume 5–10 GtCO₂/yr. The gap implies either greater emissions reductions or larger overshoot. Which path is more credible?
-2. SBTi V2 mandates increasing removal-credit use over time. If 4,000 SBTi-validated companies all demand removal credits, total demand could reach 1+ GtCO₂/yr by 2050 — orders of magnitude larger than current. Is this realistic?
+2. SBTi V2 mandates increasing removal-credit use over time. If 10,000+ SBTi-validated companies all demand removal credits, total demand could reach 1+ GtCO₂/yr by 2050 — orders of magnitude larger than current. Is this realistic?
 3. The Frontier model has been described as the most important institutional innovation in early-stage CDR. Why hasn't it been replicated more widely — for renewable energy, batteries, or other clean technologies?
 4. **Socratic prompt:** Imagine you're a junior climate-policy advisor in 2026, asked to write a one-page memo on whether the EU should integrate CDR into the ETS. What's the case for, the case against, and what would you recommend?
 
@@ -555,7 +555,7 @@ Several near-term decisions will substantially shape the trajectory:
 
 1. Greater emissions reduction is the more credible path, because the chapter's "pessimistic" CDR case — roughly current trends extrapolated — sits below even the central case, so banking on novel CDR closing a 5–10 GtCO₂/yr gap is the less reliable bet. CDR scaling depends on uncertain cost declines, biomass sustainability, and demand durability, none guaranteed. The honest planning posture is to treat CDR as a complement for genuine residuals and assume it underdelivers, which forces deeper near-term mitigation rather than relying on removals that may not materialize — the moral-hazard trap inverted into prudent conservatism.
 
-2. It is directionally plausible but not assured. The arithmetic is real: 4,000+ SBTi-validated companies neutralizing residuals could imply 1+ GtCO₂/yr of removal demand by their 2040–2050 target years, a genuine multi-gigaton demand-side lever. The contingencies are large, though — SBTi V2 must be finalized roughly as drafted and widely adopted, the durable supply must exist at affordable cost, and companies must honor commitments rather than weaken them. So the demand is realistic as a structural mechanism, but its realization depends on the same scaling and policy uncertainties that constrain supply.
+2. It is directionally plausible but not assured. The arithmetic is real: 10,000+ SBTi-validated companies neutralizing residuals could imply 1+ GtCO₂/yr of removal demand by their 2040–2050 target years, a genuine multi-gigaton demand-side lever. The contingencies are large, though — SBTi V2 must be finalized roughly as drafted and widely adopted, the durable supply must exist at affordable cost, and companies must honor commitments rather than weaken them. So the demand is realistic as a structural mechanism, but its realization depends on the same scaling and policy uncertainties that constrain supply.
 
 3. Because CDR's situation in the early 2020s was unusually well-suited to an AMC: a high-quality, durable product with essentially no existing market, no policy-mandated demand, and buyers (Stripe, Alphabet, Meta) motivated to create a market rather than just procure cheaply. Renewables, batteries, and the like already had large, growing, policy-driven markets and steep cost-decline trajectories — they didn't need a coordinated forward-commitment to create demand from scratch. AMCs fit nascent products lacking any natural buyer; clean technologies that already had self-sustaining markets had less need for the mechanism.
 
@@ -616,10 +616,42 @@ The next two chapters look at where the residual emissions actually live (Ch. 12
 - **Permanence** — Duration of CO₂ storage. DAC + geological: centuries-millennia. Forestry: decades-centuries.
 - **Project Cypress** — Climeworks-Heirloom DOE DAC Hub in Louisiana; 1 MtCO₂/yr target.
 - **S-DAC (Solid sorbent DAC)** — DAC using solid sorbent and lower-temperature regeneration. Climeworks technology.
-- **Stockholm Exergi** — Swedish utility; BECCS at Värtaverket CHP plant; FID 2024 for 800 ktCO₂/yr.
+- **Stockholm Exergi** — Swedish utility; BECCS at Värtaverket CHP plant; FID March 2025 for 800 ktCO₂/yr; operations targeted 2028.
 - **Stratos** — 1PointFive's L-DAC facility in Texas; 500 ktCO₂/yr design capacity; ramping in 2025–2026.
 - **Vaulted Deep** — US biomass burial CDR company.
 - **Verra-style verification** — Refers to the lifecycle of project methodology, validation, monitoring, verification, and credit issuance (covered in Ch. 8). Applies to CDR projects under voluntary market frameworks.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| Atmospheric CO₂ concentration | ~425.7 ppm (labeled "2025") | — | NOAA GML gml.noaa.gov/ccgg/trends/ — 2024 Mauna Loa annual mean is 424.61 ppm (NOAA) / 424.3 ppm (Met Office); 2025 annual mean forecast is 426.6 ± 0.6 ppm (Met Office); no 2025 official annual mean yet; 425.7 is not the published 2024 figure and sits below the 2025 forecast — **flag for update when NOAA publishes 2025 annual mean** |
+| Conventional CDR ~2 GtCO₂/yr | ~2 GtCO₂/yr globally | 2024 | State of Carbon Dioxide Removal report (2nd ed., 2024), LSE Grantham Institute / University of Oxford |
+| Novel DAC cumulative delivery | ~1,200 t through H1 2025 | H1 2025 | CDR.fyi — 1,186 t delivered by 6 DAC suppliers through H1 2025; ~1,200 t is an acceptable rounding |
+| Climeworks Mammoth capacity | 36 ktCO₂/yr design; operational May 2024 | May 2024 | Climeworks press releases; climeworks.com/plant-mammoth |
+| Climeworks Orca capacity | 4 ktCO₂/yr | 2021 | Climeworks press releases |
+| 1PointFive Stratos design capacity | 500 ktCO₂/yr; Phase 1 ops expected Q2 2026 | Q1 2026 | 1PointFive / Occidental investor disclosures; EPA Class VI permit April 2025; oilgasleads.com Q2 2026 update |
+| Operational DAC capacity, early 2026 | ~60–80 ktCO₂/yr fully operational; ~570 ktCO₂/yr if Stratos reaches design | early 2026 | Operator disclosures (Climeworks, 1PointFive); CDR.fyi DAC market snapshot 2025 |
+| 45Q credit — DAC geological storage | $180/tCO₂ | post-OBBBA (July 2025) | IRC §45Q as amended by OBBBA (P.L. 119-21); GlobalCCSInstitute / Jackson Walker analysis |
+| 45Q credit — DAC with EOR/utilization | $180/tCO₂ (parity with geological; pre-OBBBA rate was $130) | post-OBBBA (July 2025) | IRC §45Q as amended; Payne Institute / Jackson Walker analysis — OBBBA eliminated the storage/utilization rate split for DAC |
+| EU ETS EUA price | €70–75/tCO₂ in 2026 | May 2026 | EEX / ICE settlement; recent data shows ~€75.51 (May 2026) |
+| EU Carbon Removals Certification Framework | Formalized December 2024; applied since 26 December 2024 | Dec 2024 | Regulation (EU) 2024/3012, Official Journal 6 Dec 2024 |
+| SBTi V2 status and company count | Second consultation closed Dec 2025; final/mandatory from Jan 2028; 10,000+ companies with validated targets | Jan 2026 | SBTi sciencebasedtargets.org/developing-the-net-zero-standard |
+| Frontier AMC commitment and supplier count | $1B+; 50+ suppliers / 45+ projects; >$585M cumulative offtake value | Oct 2025 | Frontier frontierclimate.com; Wikipedia / Wikipedia sourced from Frontier announcements |
+| Microsoft contracted CDR volume and market share | ~25 Mt as of Q2 2025 (36+ Mt by Apr 2026); ~78–80% of total disclosed durable CDR contracted | Apr 2026 | CDR.fyi durable CDR demand structure snapshot April 2026; CDR.fyi Q2 2025 update |
+| DOE DAC Hubs funding | $1.2 billion for South Texas + Project Cypress | Aug 2023 | DOE announcement Aug 2023; awards: $500M South Texas, $550M Project Cypress |
+| Climeworks Kenya DAC project | ~1 MtCO₂/yr by 2028 (target); MoU stage only | Sep 2023 | Climeworks / Great Carbon Valley press release Sep 2023; feasibility phase as of 2025 — no FID taken |
+| Stockholm Exergi BECCS FID | FID March 2025; 800 ktCO₂/yr; operations targeted 2028 | Mar 2025 | Stockholm Exergi / Capsol Technologies press release 27 Mar 2025; EIB loan announcement 2025 |
+| Drax BECCS status | No FID on BECCS carbon-capture element; generation CfD secured (£109.90/MWh, Apr 2027–Mar 2031); BECCS investment scaled back | 2025–2026 | Drax investor announcements; Ember / Edie.net / Gasworld reporting 2025 |
+| EU Innovation Fund budget | ~€38–40 billion through 2030 | 2023–2026 | European Commission / CINEA; estimate is price-dependent (~€40B at €75/tCO₂); verify against latest ETS auction revenue |
+| Canada DAC ITC | 60% for DAC; 50% for other CCUS (2022–2030) | 2022 (enacted) | Canada Revenue Agency / Canada.ca CCUS ITC guidance |
+| Symbiosis Coalition commitment | Up to $1B; 20 Mt nature-based CDR by 2030 | 2024–2025 | Symbiosis Coalition symbiosiscoalition.org; carboncredits.com launch coverage |
+| JP Morgan CDR commitment | $200M+ across multiple providers | May 2023 | JPMorgan Chase press release May 2023; jpmorganchase.com |
+| Amazon 1PointFive purchase | 250,000 tCO₂ over 10 years | Sep 2023 | 1PointFive / Amazon press release Sep 2023; businesswire.com |
 
 ---
 

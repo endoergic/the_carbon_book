@@ -165,7 +165,7 @@ CCS at scale doesn't work as one-project-at-a-time individual capture-pipeline-s
 
 Phase 2 reached FID in March 2025 — investing NOK 7.5 billion (~$700 million) to expand capacity to **at least 5 Mt/year by 2028**. Phase 1 capacity is already fully booked by five industrial customers: Heidelberg Materials (Norway), Hafslund Celsio (Oslo waste-to-energy), Yara (Netherlands ammonia), Ørsted (Denmark biomass power), Stockholm Exergi (Sweden biomass power). The Norwegian government is covering ~80% of Phase 1 costs through the Longship program — a critical fact, because it makes Northern Lights *not* a market-rate test of CCS economics but a government-subsidized demonstrator.
 
-**Porthos (Netherlands).** ~2.5 Mt/year planned, storing CO₂ from Rotterdam-area industries in depleted North Sea gas reservoirs. Reached FID in October 2023, currently in construction, first injection expected ~2026.
+**Porthos (Netherlands).** ~2.5 Mt/year planned, storing CO₂ from Rotterdam-area industries in depleted North Sea gas reservoirs. Reached FID in October 2023, currently in construction, first injection now expected second half 2027 (delayed from original 2026 target due to supply-chain and first-of-kind complexity).
 
 **Aramis (Netherlands).** Larger and later than Porthos — targeting 22 Mt/year of capacity in the long run, with the first phase ~5 Mt/year. Partners include Shell, TotalEnergies, EBN, Gasunie. FID was originally targeted for 2024 but slipped; the project remains in late-stage development.
 
@@ -213,7 +213,7 @@ Summit's story has been a master class in how CCS projects can fall apart even w
 - **March 2025.** South Dakota enacts a state law (HB 1052) **prohibiting the use of eminent domain for CO₂ pipelines**. This breaks Summit's ability to assemble contiguous rights-of-way through the state.
 - **2025.** A North Dakota judge revokes Summit's underground storage permit, citing inadequate review.
 - **September 2025.** Summit files a petition with the IUC to amend its Iowa permit to remove the requirement for Dakota approvals.
-- **November 2025.** The OBBBA enacts **45Q parity between sequestration and EOR** — meaning Summit can earn the same credit value piping CO₂ to oil-recovery sites as to dedicated storage.
+- **July 4, 2025.** The OBBBA is signed into law, enacting **45Q parity between sequestration and EOR** — meaning Summit can earn the same credit value piping CO₂ to oil-recovery sites as to dedicated storage.
 - **May 2026.** Summit announces a **fundamental project pivot**: a new westward route from Iowa through Nebraska to a **sequestration site in Wyoming**, plus stated interest in EOR uses. The original North Dakota storage destination is no longer the primary plan. The pipeline shrinks by ~200 miles and ~400 landowners are removed from the affected route. Summit also scrubs "climate change" references from its website and reframes the project as supporting "America's long-term goal of energy dominance."
 
 The Summit story is the canonical case study of CCS pipeline politics: **strong economics, weak property-rights coalition, regulatory cascade failures, and a project that survives by transforming its identity in response to political signals**. Whether the new Nebraska-to-Wyoming route survives the next round of property-rights pushback is the question of the next 12–18 months.
@@ -225,7 +225,7 @@ The Summit story is the canonical case study of CCS pipeline politics: **strong 
 | Hub | Architecture | Capacity (planned) | Status | Key challenge |
 |---|---|---|---|---|
 | Northern Lights | Ship-collected, single offshore storage | 1.5 Mt/yr (Phase 1, fully booked); 5+ Mt/yr (Phase 2, 2028) | Phase 1 operational since Aug 2025 | Cost — heavily subsidized by Norwegian government |
-| Porthos | Pipeline from Rotterdam to North Sea | 2.5 Mt/yr | Construction, first injection ~2026 | EU funding, industrial customer offtake |
+| Porthos | Pipeline from Rotterdam to North Sea | 2.5 Mt/yr | Construction, first injection ~H2 2027 (slipped) | EU funding, industrial customer offtake |
 | Aramis | Larger Dutch project | Up to 22 Mt/yr long-term | Pre-FID | Customer commitments, financing |
 | Acorn | UK Scotland cluster | TBD, multi-Mt/yr | Approved Track-1, ~2027 injection | Cost competitiveness |
 | Gulf Coast (ExxonMobil/Houston) | Pipeline, brownfield infrastructure | ~6.7 Mt/yr third-party + 7.5 Mt/yr Baytown (paused) | Phased buildout | Customer demand, 45V uncertainty |
@@ -381,7 +381,7 @@ Three things to take away:
 
 **2. Storage vs. EOR vs. utilization is now a single policy choice.** OBBBA's July 2025 parity provision made EOR and sequestration earn the same 45Q credit. From a project-economic perspective, that means CCS developers can route CO₂ wherever's most economically attractive — and EOR will often win on the basis of nearby pipeline and existing infrastructure. Whether that's a good climate policy is contested. Summit's 2025–2026 pivot from "climate" framing to "energy dominance" framing is in part a response to this policy change.
 
-**3. The next 24 months are decisive.** Northern Lights Phase 2 (FID March 2025, online 2028), Porthos first injection (~2026), Acorn first injection (~2027), Pathways FID decision, Summit reroute approval, Baytown CCS without hydrogen, PHMSA final rule — all of these will resolve in the 2025–2027 window. By the end of 2027 we'll know whether the CCS hub model is becoming reality at meaningful scale or whether it's stuck in permitting-and-financing limbo. The current snapshot (May 2026) is genuinely an in-between moment.
+**3. The next 24 months are decisive.** Northern Lights Phase 2 (FID March 2025, online 2028), Porthos first injection (~H2 2027, slipped from 2026), Acorn first injection (~2027), Pathways FID decision, Summit reroute approval, Baytown CCS without hydrogen, PHMSA final rule — all of these will resolve in the 2025–2028 window. By the end of 2027 we'll know whether the CCS hub model is becoming reality at meaningful scale or whether it's stuck in permitting-and-financing limbo. The current snapshot (May 2026) is genuinely an in-between moment.
 
 ---
 
@@ -420,12 +420,54 @@ Three things to take away:
 - **Pathways Alliance** — Consortium of six Canadian oil sands operators proposing ~10 Mt/yr CCS for oil sands emissions. Pre-FID as of 2026.
 - **Pipeline phase (CO₂)** — Refers to the thermodynamic state of CO₂ in transport: supercritical (above critical point), liquid (below critical, high pressure), or gas (low pressure). Different phases have different operating, safety, and rupture-behavior characteristics.
 - **PHMSA (Pipeline and Hazardous Materials Safety Administration)** — US Department of Transportation agency responsible for regulating pipeline safety. Issued the January 2025 NPRM updating CO₂ pipeline safety regulations.
-- **Porthos** — Dutch CCS hub project, Rotterdam-area industrial sources storing in depleted North Sea gas reservoirs. ~2.5 Mt/yr, first injection expected ~2026.
+- **Porthos** — Dutch CCS hub project, Rotterdam-area industrial sources storing in depleted North Sea gas reservoirs. ~2.5 Mt/yr, first injection now expected second half 2027 (slipped from original 2026 target).
 - **Saline aquifer / saline formation** — Deep underground geological formation containing saltwater, suitable for CO₂ storage. Large potential storage capacity globally; the favored target for most large-scale CCS projects.
 - **Satartia, Mississippi (Feb 22, 2020)** — Town near the rupture of a Denbury CO₂ pipeline. >45 hospitalizations; no fatalities. The defining CO₂ pipeline safety incident in US history; basis for PHMSA's January 2025 NPRM.
 - **Shute Creek / LaBarge** — ExxonMobil's gas processing facility in Wyoming, the largest single anthropogenic CO₂ source for EOR in the world (~7 Mt/yr captured).
 - **Summit Carbon Solutions** — Largest proposed Midwest CO₂ pipeline project, originally a ~2,000 mile, 5-state network collecting ethanol fermentation CO₂ for North Dakota storage. Substantially restructured in 2025–2026 due to property-rights opposition.
 - **Supercritical CO₂** — CO₂ above its critical point (31.1°C, 73.8 bar). Dense, single-phase fluid; the typical state for long-distance pipeline transport.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| 45Q point-source sequestration credit | $85/tCO₂ | July 4, 2025 (OBBBA enactment) | IRC §45Q as amended by OBBBA (P.L. 119-21); Jackson Walker law-firm alert |
+| 45Q DAC sequestration credit | $180/tCO₂ | July 4, 2025 (OBBBA enactment) | IRC §45Q as amended by OBBBA (P.L. 119-21) |
+| OBBBA EOR–sequestration parity (EOR raised from $60 → $85 point-source; $130 → $180 DAC) | EOR now at parity with sequestration | July 4, 2025 | IRC §45Q as amended; Payne Institute analysis; Pipeline Fighters Hub |
+| Northern Lights Phase 1 operational | First injection August 25, 2025 | Aug 25, 2025 | Equinor press release; TotalEnergies press release; norlights.com |
+| Northern Lights Phase 1 capacity | 1.5 Mt/yr, fully booked | Aug 2025 | Equinor / norlights.com |
+| Northern Lights Phase 2 FID | March 27, 2025 | Mar 27, 2025 | Equinor press release 20250327 |
+| Northern Lights Phase 2 investment | NOK 7.5 billion (~$700M) | Mar 27, 2025 | Equinor press release 20250327; Rigzone |
+| Northern Lights Phase 2 capacity / timeline | ≥5 Mt/yr by H2 2028 | Mar 27, 2025 | Equinor press release 20250327 |
+| ExxonMobil Baytown blue-hydrogen project paused | November 2025 | Nov 2025 | PGJ Online; H2 View; Canary Media; Enverus |
+| Summit Carbon reroute announced | May 13–15, 2026 | May 2026 | summitcarbonsolutions.com; North Dakota Monitor; Agriculture of America |
+| Summit route change: Iowa → Nebraska → Wyoming; ~200 miles shorter; ~400 landowners removed | May 2026 | May 2026 | summitcarbonsolutions.com; DakotaFreePress |
+| South Dakota HB 1052 (eminent domain ban for CO₂ pipelines) | Signed March 6, 2025 | Mar 6, 2025 | SD Legislature; SDPB; Pipeline Fighters Hub |
+| North Dakota judge voids Summit CO₂ storage permit | Second ruling March 10, 2026 (first ruling Dec 2025) | Mar 10, 2026 | North Dakota Monitor; Ethanol Producer Magazine |
+| PHMSA NPRM on CO₂ pipeline safety | Issued Jan 10, 2025; Federal Register pub. Jan 15, 2025; unfinalized as of May 2026 | Jan 2025 | PHMSA docket PHMSA-2022-0125 at regulations.gov; DOT press release |
+| Global merchant CO₂ market size | ~$13B (2024) → ~$21B (2029) | 2024/2029 projection | Business Research Company / GlobeNewswire (Nov 2025); triangulate against industrial gas company reports |
+| Top-three merchant CO₂ market share (Air Liquide, Linde, Air Products) | ~82% (81.89% in 2023 data) | 2023 (latest available) | Business Research Company / GlobeNewswire (Nov 2025) |
+| US CO₂ pipeline mileage | ~5,000 miles | circa 2024 | PHMSA pipeline mileage reports; IEA |
+| US CO₂-EOR volume | ~70 Mt/yr | circa 2023–24 | EIA / NETL CO₂-EOR studies |
+| Global merchant CO₂ volume (answer-key anchor) | ~230 Mt/yr | circa 2024 | Market-research consensus; triangulate against industrial-gas company disclosures — this figure appears only in answer keys; add to Part 4 body if confirmed |
+| Shute Creek / LaBarge CO₂ capture rate | ~7 Mt/yr | circa 2022–24 | IEEFA; MIT Sequestration database; EPA Subpart RR reporting |
+| ExxonMobil / Denbury acquisition price | $4.9 billion | Nov 2023 (close) | ExxonMobil press release July 13, 2023; SEC Form 8-K |
+| Porthos first injection | H2 2027 (slipped from original 2026) | Apr 2026 | VEMW (Dutch industry association); porthosco2.nl |
+| Acorn (UK) first injection | ~2027 | Oct 2023 approval | DESNZ Track-1 cluster sequencing decision |
+| Aramis long-term capacity / status | Up to 22 Mt/yr; pre-FID | 2026 | Port of Rotterdam; Shell CCS Globe; Gasunie |
+| Alberta Pathways capacity / cost | ~10 Mt/yr; ~$16B | 2024 | Pathways Alliance press materials; Canadian government filings |
+
+> **OBBBA date note:** Line 216 of this chapter previously stated "November 2025" as the date OBBBA enacted 45Q parity — this was a drafting error. OBBBA (P.L. 119-21) was signed July 4, 2025. The November 2025 date has been corrected to "July 4, 2025" in the Summit timeline. The Closing section (line ~382) correctly states "OBBBA's July 2025 parity provision" and the Glossary delta correctly states "OBBBA (One Big Beautiful Bill Act, July 2025)" — these are consistent and correct.
+
+> **Porthos delay note:** Porthos first injection has slipped from the original end-2026 target to second half 2027, confirmed by VEMW (April 2026). All four occurrences in this chapter (body, hub comparison table, Closing section, Glossary delta) have been updated.
+
+> **North Dakota permit timeline note:** The chapter's Summit timeline entry "2025. A North Dakota judge revokes Summit's underground storage permit" captures the first ruling (Dec 2025, constitutional invalidity finding) but not the second ruling (March 10, 2026, permit formally voided). The entry is technically accurate as written but incomplete; the body text at line ~214 may warrant a date refinement to "Dec 2025–Mar 2026" for precision.
+
+> **Answer-key contradiction note:** Stop-and-check 3.D Answer 1 (line ~366) states the ranking as "EOR (~70 Mt/yr US) ≥ Merchant CO₂ (~230 Mt/yr globally, dwarfing EOR by volume)." This is self-contradictory: if merchant CO₂ dwarfs EOR by volume at 230 Mt/yr vs 70 Mt/yr, the ranking should be Merchant CO₂ > EOR for volume at global scale. The ~230 Mt/yr merchant figure also appears only in answer keys and the convergence discussion (line ~368), not in the Part 4 body narrative — see flag above in the table.
 
 ---
 
