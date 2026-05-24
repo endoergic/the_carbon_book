@@ -213,10 +213,10 @@ Looking at the announced project pipeline through 2030 (IEA database):
 - **247 projects** at FEED (Front-End Engineering Design) stage, more than double 2023 levels.
 - **~$6.4 billion in CCUS investment** in 2024 (tripled since 2022).
 
-Geographic concentration is striking:
-- **~80% of new projects** by capacity are in North America and Europe.
-- China and Middle East account for ~25% of operational/under-construction capacity.
-- Most of Africa, South Asia, and Latin America have minimal CCUS pipeline.
+Geographic concentration is striking, though the picture depends on which denominator you use:
+- **~80% of the announced new-project pipeline** (by capture capacity) is in North America and Europe — the IRA/45Q and EU/UK floors are pulling the growth.
+- By contrast, China and the Middle East hold a larger share of *operational* capacity (~25%) than of that forward pipeline, because the early CCS stock skewed toward their EOR and gas-processing projects.
+- Most of Africa, South Asia, and Latin America have minimal CCUS pipeline on either lens.
 
 ## The gap to net zero pathways
 
