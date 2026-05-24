@@ -85,6 +85,23 @@ Novel CDR is the new frontier. It's where most current investment is going. It's
 
 This chapter focuses on novel CDR while acknowledging that comprehensive CDR strategy involves both categories.
 
+## **Stop-and-check 11.A**
+
+1. Point-source capture (Ch. 10) and CDR are both "carbon capture," but only one can produce *negative* net emissions. Which, and why does the distinction hinge on where the CO₂ came from?
+2. The chapter gives three distinct reasons CDR is necessary — residual emissions, drawing down past emissions, and overshoot recovery. Why do they imply very different *scales* of CDR, and why does conflating them matter?
+3. Conventional CDR (~2 GtCO₂/yr) dwarfs novel CDR (~1,200 tonnes cumulative) by six orders of magnitude, yet this chapter focuses on novel CDR. Justify that focus.
+4. **Socratic prompt:** A company announces "net zero, including the carbon we remove from the atmosphere." Using the three-uses framing, what's the question that determines whether this is a serious climate claim or a rhetorical one?
+
+**Answers**
+
+1. CDR can produce negative net emissions; point-source capture at best produces zero. The distinction hinges on the carbon's origin. Point-source capture intercepts CO₂ that was *about to be emitted* from a fossil stream — preventing an addition, so the best case is a facility that emits nothing net. CDR pulls CO₂ that is *already in the atmosphere* (or, via BECCS, that the biosphere just took out of it) and stores it durably — so it moves carbon from air to ground, generating a genuine negative that can offset other emissions or push a system below zero. Same chemistry of capture; opposite position relative to the atmosphere, and that position is the entire accounting difference.
+
+2. They scale completely differently. *Residual-emissions neutralization* needs CDR roughly equal to the residuals a net-zero economy can't eliminate — ~2–5 GtCO₂/yr. *Drawing down past emissions* and *overshoot recovery* require net-*negative* global emissions sustained for decades — potentially 10–20 GtCO₂/yr. Conflating them matters because a pledge can quietly invoke the modest (residual) framing while the planet actually needs the enormous (drawdown) one, or — worse — use the *promise* of future gigaton drawdown to justify slow mitigation now. The scale you mean determines whether CDR is a targeted cleanup tool or a civilization-scale industry, and vague "net zero" language hides which is being assumed.
+
+3. Because conventional CDR is already happening under existing frameworks (forestry, soil, REDD+, covered in Ch. 8) and is fundamentally *land-constrained* — there's a finite amount of plausible afforestation land, so it can't scale to close the gigaton gap alone. Novel CDR is where the new investment, the rapid growth, and the genuine scaling question live: it's more expensive and far smaller today but more permanent, more verifiable, and not bounded by land in the same way. The focus reflects where the open, consequential question is — whether engineered removal can go from kilotonnes to gigatonnes — not which category is larger today.
+
+4. The determining question is: *which of the three uses is the claim relying on, and at what scale relative to its own gross emissions?* A serious claim reduces gross emissions to a genuinely small residual and removes only that residual with durable CDR (the residual-neutralization use, properly bounded). A rhetorical one leans on the *promise* of removal to justify continuing to emit at scale — invoking the language of drawdown while doing little mitigation, betting on removals that may never materialize at the implied scale (the moral-hazard trap). So you ask: how much are you actually reducing versus removing, and is the removal durable and contracted, or a future hope? The ratio and the durability separate a plan from a slogan.
+
 ---
 
 # Part 2: Direct Air Capture (DAC) in depth
@@ -173,7 +190,7 @@ The cost trajectory is favorable but uncertain. Historical analogues — wind co
 
 The 45Q tax credit in the US — **$180/tCO₂ for DAC** (both geological storage and EOR/utilization, post-OBBBA parity) — is calibrated near the high end of current costs. For US-located projects, 45Q substantially covers the cost-to-revenue gap.
 
-## **Stop-and-check 11.A**
+## **Stop-and-check 11.B**
 
 1. DAC must capture CO₂ from air at 425 ppm — two to three orders of magnitude more dilute than point-source flue gases. Why hasn't this killed DAC commercially? What features make it economically viable despite the dilution?
 2. The Mammoth plant has been operating in Iceland since May 2024 at 36 ktCO₂/yr. Total cumulative DAC delivery through mid-2025 was about 1,200 tonnes (across all suppliers). Why is delivery so much smaller than installed capacity?
@@ -261,6 +278,23 @@ The IPCC scenarios using BECCS at scale have been substantively criticized for r
 
 The implication: if BECCS doesn't scale to the levels IPCC scenarios assume, the negative emissions have to come from somewhere else. DAC is the obvious alternative but is 5–10× more expensive per ton.
 
+## **Stop-and-check 11.C**
+
+1. BECCS counts as net-negative only "if the biomass was sustainably produced." Walk through what that "if" requires, and which BECCS feedstocks satisfy it cleanly versus contentiously.
+2. Drax's wood pellets have been linked to clear-cutting; its black-liquor-style residue streams are "genuinely unproblematic." Using the Ch. 1 biomass counterfactual, explain why two BECCS projects with identical capture equipment can have opposite climate verdicts.
+3. IPCC 1.5°C scenarios historically assumed 5–15 GtCO₂/yr of BECCS — above realistic sustainable potential. What's the consequence of a scenario leaning on a removal pathway that may not scale sustainably?
+4. **Socratic prompt:** You're certifying BECCS credits. A pulp mill captures CO₂ from black liquor it was already burning; a new power plant imports wood pellets from cleared forest. Both deliver one tonne of geologically stored CO₂. Should they earn the same credit? What exactly are you certifying?
+
+**Answers**
+
+1. The "if" requires that the harvested biomass is genuinely *regrown* (so forest carbon stocks stay stable rather than being depleted), that the biomass isn't diverted from a higher-value carbon use (food land, standing forest, soil-building residues), and that full lifecycle emissions — land-use change, harvest, transport, processing — don't eat the captured benefit. Cleanly satisfying it: black liquor and process residues already being burned (capture adds CDR without changing the supply chain) and genuine waste streams. Contentiously: dedicated energy crops (food-vs-fuel land competition), imported wood pellets (forest-depletion and transport-emission questions), and agricultural residues whose removal degrades soils. The accounting label is identical; the physical reality ranges from clearly net-negative to plausibly net-positive.
+
+2. Because BECCS's climate value rests entirely on the counterfactual — what would have happened to that carbon absent the project (the Ch. 1 logic). For the black-liquor stream, the biomass was *already being burned* and the carbon was about to re-enter the atmosphere anyway; capturing it is pure addition, unambiguously net-negative. For the clear-cut wood pellets, the counterfactual is a standing forest that was instead felled, so the project *caused* a stock depletion and decades of regrowth-period atmospheric loading that may exceed what was captured — net-positive once the forest debt is counted. Identical capture hardware, opposite verdicts, because the carbon's counterfactual fate differs entirely.
+
+3. The consequence is a pathway that looks 1.5°C-compatible on paper but may be undeliverable in reality — and worse, that *licenses slower near-term mitigation* on the strength of negative emissions that won't materialize at the assumed sustainable scale. If BECCS underdelivers, the gap has to be filled by something costlier (DAC at 5–10× the price) or by deeper mitigation that was deferred precisely because the scenario assumed BECCS would clean up later. Over-reliance on a constrained pathway is thus not just an accounting optimism; it's a moral-hazard mechanism baked into the scenario itself, which is why more recent scenarios diversify CDR away from heavy BECCS dependence.
+
+4. No — they should not earn the same credit, even though both store one tonne geologically, because what you're certifying is not the storage step but the *net atmospheric effect of the whole system*. The black-liquor tonne is a genuine removal: the carbon was about to be emitted and now isn't. The clear-cut-pellet tonne sits atop a forest-carbon debt the project created, so the *net* removal may be a fraction of a tonne or negative once land-use change is counted. Certifying them identically would reward the depletion and undermine the credit's meaning. You are certifying additionality and full-lifecycle net negativity — the counterfactual — not the visible CO₂ flowing into the well, which is exactly the discipline Ch. 8's integrity tests demand.
+
 ---
 
 # Part 4: The broader removal portfolio
@@ -338,7 +372,7 @@ Worth one more note on conventional CDR. **Afforestation and reforestation** can
 
 Total conventional CDR potential: roughly 3–7 GtCO₂/yr by 2050 — significant but constrained by land availability and competing uses.
 
-## **Stop-and-check 11.B**
+## **Stop-and-check 11.D**
 
 1. Looking at the realistic 2050 scale potentials: DAC (5–10+ GtCO₂/yr potential), BECCS (1–5), enhanced weathering (1–5), biochar (0.5–2), ocean alkalinity (uncertain), mineralization (1–3), conventional CDR (3–7). What does the portfolio approach imply about climate strategy?
 2. Biochar and enhanced weathering have substantial co-benefits (soil improvement). DAC has no inherent co-benefits beyond CDR. Does this matter for which technologies deserve priority?
@@ -429,6 +463,23 @@ If SBTi V2 is broadly adopted (second consultation closed December 2025; publica
 
 This is one of the largest demand-side reform mechanisms in the climate-policy landscape. Whether SBTi V2 is implemented as currently drafted will substantially shape CDR scaling.
 
+## **Stop-and-check 11.E**
+
+1. Frontier is an *advance market commitment* (AMC), not a spot buyer. How does an AMC differ from simply buying credits, and why is that structure suited to a technology that doesn't yet exist at scale?
+2. Microsoft alone is ~78–80% of disclosed durable-CDR demand. Why is that simultaneously what's keeping the industry alive and its single biggest vulnerability?
+3. The demand stack is voluntary-corporate + AMC + nascent-sovereign (Article 6) + potential EU-ETS integration. Which of these, if it arrives at scale, would most change CDR's trajectory — and why is this the policy-manufactured-floor pattern from Ch. 3, 8, and 10 yet again?
+4. **Socratic prompt:** Is today's CDR "market" actually a market, or a philanthropy-and-subsidy program in market clothing? What would have to be true for it to become a real market — and does the label matter?
+
+**Answers**
+
+1. A spot buyer purchases credits that already exist; an AMC *pre-commits* to buy future output at agreed prices before the supplier has built capacity or proven scale. That forward demand is exactly what an immature technology needs: it converts an uncertain future revenue line into a bankable contract, letting a CDR developer raise capital and build, and it signals to the whole field that durable demand exists — encouraging entry. For a product with no natural market yet (durable removal had essentially zero buyers and no policy mandate), the AMC manufactures the demand certainty that a spot market can't provide. It's the same instrument used to pull vaccines and other public-good technologies into existence.
+
+2. Concentrated demand gives early suppliers revenue certainty — one deep-pocketed, committed buyer underwriting most of the offtake is what makes first-of-a-kind plants financeable, so Microsoft's ~80% share is load-bearing for the entire nascent industry. But it means the industry's demand has a single point of failure: if Microsoft's strategy, budget, or leadership shifts, most of the demand pool evaporates at once, and there is no diversified base to absorb the shock. A market resting on one buyer is a market one boardroom decision away from collapse — which is why diversification (sovereign, regulated, broader corporate) is treated as the precondition for durable scaling.
+
+3. EU ETS integration would most change the trajectory, because it would convert CDR demand from *voluntary* (revocable, reputation-driven) into *compliance* (legally obligated, durable) and tap thousands of regulated emitters at once — a structural step-change beyond what corporate goodwill or AMCs can provide. And it is the now-familiar pattern: just as the graphite plants (Ch. 2), CCS hubs (Ch. 3/10), and high-integrity VCM supply (Ch. 8) couldn't scale until policy manufactured a durable revenue floor, novel CDR can't reach gigatonnes on voluntary demand alone — it needs a compliance mandate (ETS integration, SBTi-driven obligation, or sovereign procurement) to create the bankable, non-revocable demand that private capital will build against.
+
+4. Honestly, it is closer today to a philanthropy-and-subsidy program than a market: demand is voluntary, concentrated in a few mission-driven buyers and AMCs, and the economics depend on 45Q and grants rather than on any party *needing* to buy. For it to become a real market, demand must be (a) obligatory or self-interested at scale — compliance integration or a binding net-zero standard, not goodwill — (b) diversified across many buyers, and (c) met by supply at prices buyers will pay without subsidy. The label matters because it sets expectations: calling it a "market" implies a self-sustaining price mechanism that doesn't yet exist, which can mask how contingent the whole edifice is on policy and a handful of buyers. Naming it accurately — an infant, policy-and-philanthropy-seeded market — keeps the fragility in view.
+
 ---
 
 # Part 6: Substantive critiques of CDR
@@ -510,6 +561,23 @@ CDR is expensive. DAC at $400–800/tCO₂ today, $250–350 targeted by 2030. C
 
 The substantive critiques don't add up to a case for rejecting CDR — they add up to a case for being careful about how CDR is deployed and what it's used to justify. The honest reading: **CDR is necessary for any realistic 1.5°C-compatible pathway**, but it's not a substitute for direct mitigation, its scaling is uncertain, and it requires careful policy design to avoid moral hazard.
 
+## **Stop-and-check 11.F**
+
+1. The moral-hazard critique is the deepest. Does it argue against CDR *itself*, or against a particular *use* of it — and how does SBTi V2's structure try to defuse it?
+2. DAC at 10 GtCO₂/yr would need ~10–20% of *current global energy*, all of it zero-carbon. Why is that a more fundamental constraint than the dollar cost?
+3. Of the five critiques (moral hazard, energy/land, permanence, cost, buyer concentration), which are reasons to deploy CDR *carefully* and which are reasons it might simply *fail to scale*?
+4. **Socratic prompt:** A skeptic says "CDR is a fossil-industry alibi — it lets emitters promise future cleanup instead of cutting now." A proponent says "every 1.5°C pathway needs it, so refusing to build it guarantees failure." Both cite real evidence. Construct the position that takes both seriously.
+
+**Answers**
+
+1. It argues against a particular *use*, not against CDR itself. The hazard is *substitution* — using the promise of future removal to justify not cutting emissions now — which is a deployment choice, not a property of the technology. CDR used for genuinely residual emissions, or to draw down past emissions on top of deep mitigation, carries no such hazard. SBTi V2 tries to defuse it structurally by *sequencing*: companies must reduce gross emissions to near zero *first*, and may use removals only to neutralize the residual, with avoidance credits explicitly barred from the net-zero claim. By making removal a complement to mandated deep reduction rather than a substitute for it, the framework removes the "buy our way out" pathway that the critique targets.
+
+2. Because money is fungible and can in principle scale, but *zero-carbon energy* is itself the scarce thing the entire transition is competing for. If DAC at 10 GtCO₂/yr consumes 10–20% of current global energy and that energy must be zero-carbon to make DAC net-negative, then DAC is competing directly with electrification, green hydrogen, and every other use of clean power — and using a clean electron to run a DAC fan is a clean electron not displacing a fossil one elsewhere. A high dollar cost can fall with learning; a claim on a large fraction of the world's clean energy is a physical, zero-sum constraint that doesn't dissolve with cost declines. It can make large-scale DAC self-defeating until clean energy is genuinely abundant — a deeper limit than price.
+
+3. *Deploy carefully* (real but manageable with policy/design): moral hazard (fixed by reduction-first sequencing), permanence (fixed by durability-differentiated pricing), and to a degree energy/land (managed by diversification and efficiency). *Might fail to scale* (structural risks to the whole enterprise): the cost curve (CDR may never get cheap enough for gigatonnes), the energy/land ceiling at the high end (a physical cap on DAC/BECCS), and buyer concentration (demand may not diversify beyond a few voluntary buyers). The first group are arguments for guardrails; the second are arguments for not *banking* on CDR in plans — which is why prudent pathways front-load mitigation and treat CDR scale as uncertain.
+
+4. The position that takes both seriously: *CDR is genuinely necessary and must be built now, precisely so that it cannot be used as an alibi.* The skeptic is right that, deployed as a promise, CDR licenses delay and may not materialize — so it must never be counted as a substitute for cutting emissions, and "net" claims that lean on future removal to excuse present emissions should be rejected. The proponent is right that residual emissions and overshoot recovery make some CDR unavoidable in every 1.5°C pathway — so refusing to develop it guarantees failure on the residual. The synthesis: pursue maximal direct mitigation *and* build CDR in parallel, but ring-fence CDR to genuinely residual/drawdown uses through reduction-first standards (SBTi V2), durability requirements, and compliance integration that can't be gamed. Build it, but deny it the alibi role — the disagreement is not really about whether to build CDR but about what it is allowed to excuse.
+
 ---
 
 # Part 7: The path forward 2026–2050
@@ -544,7 +612,7 @@ Several near-term decisions will substantially shape the trajectory:
 
 **Major DAC project performance.** Whether Stratos, Project Cypress, the South Texas DAC Hub, Mammoth, and Kenya project deliver on capacity and cost targets.
 
-## **Stop-and-check 11.C**
+## **Stop-and-check 11.G**
 
 1. The "central case" 2050 CDR scenario has novel CDR at 2–4 GtCO₂/yr. The IPCC's 1.5°C scenarios assume 5–10 GtCO₂/yr. The gap implies either greater emissions reductions or larger overshoot. Which path is more credible?
 2. SBTi V2 mandates increasing removal-credit use over time. If 10,000+ SBTi-validated companies all demand removal credits, total demand could reach 1+ GtCO₂/yr by 2050 — orders of magnitude larger than current. Is this realistic?
