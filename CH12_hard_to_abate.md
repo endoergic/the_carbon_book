@@ -603,7 +603,7 @@ The hard-to-abate sectors require **integrated policy** — not just carbon pric
 
 The **"green premium"** is the cost difference between low-carbon and conventional production. Current premiums:
 
-- **Green steel**: 20–30% premium currently in Europe (Fastmarkets tracks €100–170/t differential for flat products, Jan 2026); the "down from 50%+" framing at line 175 refers to early-decade theoretical cost models, not observed market premiums, which have generally tracked 20–40% where green steel has actually traded
+- **Green steel**: ~20–30% premium currently in Europe (Fastmarkets tracked a €100–170/t differential for flat products, Jan 2026), and trending lower as low-carbon steel price indices soften. (Early-decade estimates of 50%+ reflected theoretical cost models rather than observed market premiums, which have generally tracked 20–40% where green steel has actually traded.)
 - **Green ammonia**: 60–150% premium
 - **SAF**: 200–400% premium
 - **Green methanol**: 100–300% premium
