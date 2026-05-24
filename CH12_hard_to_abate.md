@@ -557,19 +557,20 @@ Modal shift from sea freight to other modes (limited possibilities for internati
 
 The **International Maritime Organization (IMO)** is the global regulatory body for international shipping.
 
-**The 2025 IMO Agreement:** In April 2025, IMO member states reached a landmark agreement on shipping decarbonization. Key provisions:
+**The 2025 IMO Net-Zero Framework:** In April 2025, at MEPC 83, IMO member states *approved* a landmark framework on shipping decarbonization. Key provisions:
 - **30% reduction in GHG intensity (gCO₂eq/MJ, well-to-wake) by 2035, 65% by 2040** vs. the 2008 fleet baseline of 93.3 gCO₂eq/MJ — for vessels above 5,000 gross tonnage (covering ~85% of global fleet CO₂). Note: this is an intensity standard, not an absolute emissions cap.
 - **Tiered emissions penalty system**: Vessels exceeding caps pay **$100/tCO₂** if mitigation measures are in place; **$380/tCO₂** with no decarbonization efforts.
-- **Entry into force: 2027**, following ratification at follow-up meeting October 2025.
-- **US withdrew from negotiations** but the agreement proceeded.
+- **US withdrew from negotiations**, but the framework was approved over its objection.
 
-The agreement is significant — the **first global carbon-pricing mechanism for international shipping**. The $100–380/tCO₂ range is comparable to current EU ETS levels and provides strong economic incentive for fuel switching.
+**But formal adoption stalled.** The extraordinary session convened to formally adopt the MARPOL Annex VI amendments — MEPC/ES.2 in **October 2025** — **adjourned without adopting them**: a majority of member states (Saudi Arabia leading the procedural opposition) voted to delay for a year. The next adoption opportunity is **October 2026 (MEPC/ES.3)**, which means the originally-targeted **2027 entry into force is now in doubt**, with effective compliance unlikely before 2028. As of writing (May 2026) the framework is *approved but not adopted*, and its fate is genuinely uncertain — a sharp illustration of how even a near-consensus global mechanism can stall on the formal-adoption step.
+
+If adopted, the framework would be significant — the **first global carbon-pricing mechanism for international shipping**, with a $100–380/tCO₂ range comparable to current EU ETS levels and a strong economic incentive for fuel switching. That "if" is now doing real work.
 
 **Industry response:** Major shipowners (Maersk, MSC, COSCO, others) accelerated alternative-fuel commitments through 2025. Order books for methanol-, ammonia-, and LNG-fueled ships rose substantially.
 
 ## The shipping outlook 2026–2030
 
-The IMO agreement entering force in 2027 creates the strongest near-term decarbonization driver any hard-to-abate sector has. Combined with:
+*If* the IMO framework clears its delayed adoption (now no earlier than October 2026) and enters force, it would create the strongest near-term decarbonization driver any hard-to-abate sector has — but the October 2025 postponement has pushed that timeline back and injected real uncertainty. Combined with:
 - EU ETS coverage of maritime (in force from 2024)
 - Major shipowner fuel-switching commitments
 - Methanol-fueled fleet expansion
@@ -579,7 +580,7 @@ Shipping is positioned for meaningful 2027–2035 decarbonization — potentiall
 ## **Stop-and-check 12.F**
 
 1. SAF is currently ~0.5–1% of global jet fuel. The EU mandate requires 6% by 2030. What does this scaling challenge imply about the feasibility of the EU mandate?
-2. The 2025 IMO agreement creates a $100/tCO₂ "with mitigation" and $380/tCO₂ "without mitigation" tiered penalty. The US withdrew. Why did the agreement still proceed, and what does this say about the political economy of climate negotiations?
+2. The 2025 IMO framework creates a $100/tCO₂ "with mitigation" and $380/tCO₂ "without mitigation" tiered penalty. The US withdrew, yet the framework was *approved* at MEPC 83 (April 2025) over that objection — only for its *formal adoption* to stall at the October 2025 session. What does that split outcome say about the political economy of climate negotiations?
 3. Shipping is electrifying short routes, switching to methanol/ammonia for longer routes, and adding wind-assist where useful. Aviation has fewer pathways. Why is shipping decarbonization moving faster than aviation despite similar fundamental constraints?
 4. **Socratic prompt:** If you were a shipping company in 2026, considering whether to invest in 20-year methanol-fueled ships vs. 20-year conventional ships, what would shift your calculation toward methanol? What toward conventional?
 
@@ -587,11 +588,11 @@ Shipping is positioned for meaningful 2027–2035 decarbonization — potentiall
 
 1. The gap is large — moving from ~0.5–1% of jet fuel to a 6% mandate by 2030 is roughly a six- to twelvefold scale-up in five years — and it implies the EU target is aggressive against current supply. Feasibility hinges on feedstock: HEFA, the dominant pathway, is limited by used cooking oil and fats, so meeting the mandate requires rapid expansion of FT, alcohol-to-jet, and especially power-to-liquid e-fuels, which are costlier and earlier-stage. The mandate is plausible only with heavy investment and a tolerated 2–5× green premium; otherwise it risks supply shortfalls or reliance on constrained feedstocks.
 
-2. It proceeded because IMO operates by member-state majority rather than unanimity, so the broad coalition (covering vessels above 5,000 GT, ~85% of fleet CO₂) could adopt it over US withdrawal. Shipping is also genuinely global and competitive, giving most flag and port states a shared interest in one rulebook rather than fragmented national measures. The lesson about climate political economy: durable multilateral action does not require the largest emitters' participation when the activity is internationally governed and a critical mass sees mutual advantage — a contrast to consensus-bound forums where one holdout can stall progress.
+2. The split is the lesson. Because IMO operates by member-state majority rather than unanimity, the broad coalition (covering vessels above 5,000 GT, ~85% of fleet CO₂) could *approve* the framework over US withdrawal — majority rule let progress past the single largest holdout, which a consensus forum could not have done. But approval is not adoption: at the October 2025 extraordinary session a *different* blocking coalition (Saudi Arabia leading) marshalled a majority to *delay* formal adoption by a year. So the same majoritarian machinery that overrode the US also proved vulnerable to a later procedural counter-mobilization. The political-economy reading: a majority-rule global body can move past one powerful objector when a critical mass sees shared advantage (shipping is global and competitive, so most flag/port states prefer one rulebook), but the multi-step path from approval to binding adoption leaves room for opponents to regroup — durable multilateral action is possible without the largest emitter, yet remains fragile at every formal gate.
 
 3. Shipping moves faster mainly because it has both a stronger policy framework and more tractable physics. The 2025 IMO agreement creates the first global shipping carbon price ($100–380/tCO₂ from 2027), layered on EU ETS maritime coverage, giving a clear economic signal aviation's weaker instruments (CORSIA's low-quality $15–25 credits) lack. Physically, ships tolerate heavier, lower-energy-density fuels, can slow-steam, and can store ammonia or methanol more easily than aircraft, opening multiple near-ready pathways. Aviation's severe energy-density constraint leaves SAF as the only drop-in option, scaling slowly against rising demand.
 
-4. Toward methanol: the IMO penalty regime from 2027 ($100/tCO₂ with mitigation, $380 without) plus EU ETS maritime coverage raises the lifetime carbon cost of a conventional ship over its 20-year life; First Movers / cargo-owner demand for zero-emission shipping; and securing green-methanol supply early (as Maersk has). Toward conventional: lower upfront capital, mature global bunkering infrastructure, and uncertainty about green-methanol availability and price. The decisive variables are expected carbon-cost trajectory, fuel-supply security, and how much of the fleet's life falls under the tightening 2035/2040 IMO caps.
+4. Toward methanol: the IMO penalty regime ($100/tCO₂ with mitigation, $380 without) — *if and when* it is adopted and enters force (now delayed past its 2027 target by the October 2025 adoption stall) — plus EU ETS maritime coverage raises the lifetime carbon cost of a conventional ship over its 20-year life; add First Movers / cargo-owner demand for zero-emission shipping and securing green-methanol supply early (as Maersk has). Toward conventional: lower upfront capital, mature global bunkering infrastructure, uncertainty about green-methanol availability and price, and — newly relevant — the IMO framework's own adoption uncertainty, which weakens the carbon-cost signal a 20-year investment would otherwise price in. The decisive variables are the expected (and now less certain) carbon-cost trajectory, fuel-supply security, and how much of the fleet's life would fall under the 2035/2040 intensity targets if they take effect.
 
 ---
 
@@ -733,7 +734,7 @@ Three things to take away:
 - **Haber-Bosch process** — Industrial process for synthesizing ammonia from hydrogen and nitrogen. Energy- and CO₂-intensive when fed by natural-gas-derived hydrogen.
 - **HEFA (Hydroprocessed Esters and Fatty Acids)** — SAF production pathway from used cooking oils, animal fats, plant oils. Currently dominant SAF method.
 - **HYBRIT** — Swedish demonstration project (SSAB, LKAB, Vattenfall) for green steel production using green hydrogen.
-- **IMO 2025 Agreement** — Landmark global shipping GHG framework agreed April 2025 at MEPC 83; entering force 2027. Sets GHG intensity (well-to-wake) reduction targets of 30% by 2035 and 65% by 2040 vs. 2008 baseline. Penalty tiers: $100/tCO₂eq (Base Target deficit) and $380/tCO₂eq (Direct Compliance Target deficit).
+- **IMO 2025 Net-Zero Framework** — Global shipping GHG framework *approved* April 2025 at MEPC 83, but **formal adoption postponed** when MEPC/ES.2 (October 2025) adjourned without adopting the MARPOL Annex VI amendments; next adoption opportunity October 2026, so 2027 entry into force is now in doubt. Sets GHG intensity (well-to-wake) reduction targets of 30% by 2035 and 65% by 2040 vs. 2008 baseline. Penalty tiers: $100/tCO₂eq (Base Target deficit) and $380/tCO₂eq (Direct Compliance Target deficit).
 - **Methanol** — Alternative marine fuel; can be produced green (from green H₂ + CO₂) or blue (from natural gas + CCS).
 - **MOE (Molten Oxide Electrolysis)** — Pre-commercial alternative steel chemistry; direct electrolytic reduction without hydrogen.
 - **ReFuelEU Aviation** — EU mandate requiring increasing SAF blend shares in aviation fuel. 2% by 2025, 6% by 2030, 70% by 2050.
@@ -772,7 +773,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | CORSIA credit price range | $15–25/tCO₂ | 2024–26 | ICAO CORSIA eligible emission unit reports |
 | IMO April 2025 framework targets | 30% GHG intensity reduction by 2035, 65% by 2040 vs. 2008 fleet baseline (93.3 gCO₂eq/MJ) | April 2025 | IMO MEPC 83 press briefing; MARPOL Annex VI draft amendments |
 | IMO penalty tiers | $100/tCO₂eq (Tier 1, Base Target deficit); $380/tCO₂eq (Tier 2, more ambitious target deficit) | April 2025 | IMO MEPC 83; King & Spalding alert April 2025 |
-| IMO entry into force | 2027 (formal adoption October 2025) | April 2025 | IMO MEPC 83 |
+| IMO Net-Zero Framework adoption status | Approved at MEPC 83 (Apr 2025); formal adoption **postponed** — MEPC/ES.2 (Oct 2025) adjourned without adopting; next opportunity MEPC/ES.3 (Oct 2026); 2027 entry into force now in doubt | Oct 2025 | IMO MEPC/ES.2 outcome; DNV / Vinson & Elkins alerts |
 | US withdrawal from IMO MEPC 83 | US withdrew before negotiations commenced; agreement adopted 63–16–24 | April 2025 | gCaptain; Jones Walker LLP alert; Marine Log |
 | EU ETS price (aviation context) | ~€75/tCO₂e | April–May 2026 | EEX / ICE settlement prices |
 | First Movers Coalition size | 100+ members; ~$16 billion committed demand by 2030; 125 purchasing commitments | 2025 | WEF / FMC March 2025 overview (WTO document); FMC member list |

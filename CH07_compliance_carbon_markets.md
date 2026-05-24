@@ -181,7 +181,7 @@ ETS2 is the EU's attempt to apply cap-and-trade to the harder-to-decarbonize "fr
 
 A comprehensive revision of the EU ETS Directive is planned for 2026, addressing several open issues:
 
-- **Post-2030 trajectory** — what happens after Phase 4 ends? The EU's 2040 climate target (90% net reduction below 1990 levels, agreed December 2025 with 5% flexibility for international credits) requires Phase 5 design.
+- **Post-2030 trajectory** — what happens after Phase 4 ends? The EU's 2040 climate target (90% net reduction below 1990 levels, with up to 5% flexibility from international credits) is now law — **Regulation (EU) 2026/667, in force 7 April 2026** (political deal Dec 2025; EP vote Feb 2026; Council final approval Mar 2026) — and requires Phase 5 design.
 - **MSR redesign** — possible threshold adjustments, intake/release rate changes, possible suppression of the invalidation mechanism (which absorbs allowances permanently when surpluses persist).
 - **Integration of carbon removals (CDR)** — whether to allow CDR credits as compliance units within the ETS. The European Commission is expected to evaluate this in 2026.
 - **CBAM expansion** — possible extension of CBAM to additional sectors beyond the current scope.
