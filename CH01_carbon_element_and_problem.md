@@ -98,6 +98,16 @@ C-14 also has a practical commercial use beyond climate science. Because biogeni
 3. If you found a sample of CO₂ in the atmosphere with no detectable C-14, what would you infer about its origin?
 4. **Socratic prompt:** "Carbon is just an element — it's neither good nor bad." How would you respond to that framing in a policy conversation?
 
+**Answers**
+
+1. Carbon has 4 electrons in its outer shell (2s²2p²). After hybridization, this gives 4 unpaired electrons available for bonding. Forming 4 covalent bonds completes the octet and reaches the lowest-energy configuration — hence carbon's universal tetravalency.
+
+2. Both are pure carbon, but the bonding geometry differs. In graphite, each atom is sp²-hybridized: 3 bonds form flat hexagonal layers, and the fourth electron sits in a delocalized π orbital that can move freely across the plane — this is electrical conduction. In diamond, each atom is sp³-hybridized: all 4 outer electrons are locked in directed σ bonds in a three-dimensional lattice with no free electrons, hence no conductivity.
+
+3. C-14 is continuously produced in the upper atmosphere and has a half-life of ~5,730 years. All C-14 in fossil carbon has long since decayed — coal, oil, and gas are millions of years old. A CO₂ sample with no detectable C-14 almost certainly originated from combustion of fossil carbon, not from biological or modern atmospheric sources.
+
+4. The framing is physically accurate — the element is neutral — but strategically misleading. The policy concern isn't carbon's moral status; it's the *rate and direction* of carbon movement between reservoirs. Humans are mobilizing ~38 GtCO₂/yr from geological reservoirs into the atmosphere at 100× the background rate. That flow rate, not the element itself, is what policy addresses.
+
 ---
 
 # Part 2: From carbon to CO₂ to CO₂e to GHG
@@ -192,7 +202,15 @@ When I'm being precise, I'll use the specific term. When I lapse into "carbon" c
 3. Why is water vapor not a regulated greenhouse gas, even though it's quantitatively the most important one?
 4. **Socratic prompt:** The 2021 IRA contains a provision that pays $85/ton for sequestered CO₂. Is that $85 per ton of carbon or per ton of CO₂? Why does it matter, and how would the project economics differ?
 
-(Answer to #4: it's $85 per tCO₂ for geologic storage, per IRC §45Q as amended. Per tC, that would be $312. Always read the unit on a price.)
+**Answers**
+
+1. No. "Tons of carbon" is genuinely ambiguous — it could be tC (elemental carbon) or tCO₂ depending on the reporting convention. The two differ by a factor of 3.67 (the CO₂/C molecular weight ratio). Without context or a methodology note, you cannot tell. This ambiguity appears constantly in press releases, financial filings, and policy documents.
+
+2. Which GWP factor was used, and over what time horizon? At GWP-100 (AR6), methane is ~30 tCO₂e per ton. At GWP-20, it's ~82. The choice can change the reported impact by ~2.7×. This question is not pedantry — it changes whether the project looks like a small or a large climate intervention.
+
+3. Water vapor is a *feedback*, not a forcing. Human activities don't meaningfully change atmospheric water vapor concentration directly — it's governed by temperature via the Clausius-Clapeyron relation (warmer air holds more water vapor). Regulating water vapor would be like regulating a thermometer reading. What climate policy regulates are the gases (CO₂, CH₄, N₂O) that *change the temperature* that then drives water vapor concentration.
+
+4. It's $85 per tCO₂ — the 45Q credit is denominated in CO₂, not elemental carbon. Per tC, that would be $85 × 3.67 = $312. The project economics differ by a factor of 3.67, which would substantially change NPV calculations. Always read the unit on any carbon price.
 
 ---
 
@@ -306,7 +324,15 @@ The practical implication: even if we stopped all CO₂ emissions today, atmosph
 3. If human emissions are ~10% of natural gross fluxes, why does the atmospheric concentration rise?
 4. **Socratic prompt:** Imagine a paper that says "global net zero CO₂ emissions would stabilize atmospheric CO₂." Is that statement true? Is "net zero" enough to *reduce* atmospheric CO₂?
 
-(Answer to #4: net zero CO₂ emissions stabilizes atmospheric concentration roughly — though slow ocean uptake means a slow decline over centuries. To meaningfully *reduce* atmospheric CO₂ on policy timescales, you need *net negative* emissions: gross removals exceed gross emissions. This is why most 1.5°C-compatible IPCC scenarios involve global net-negative emissions in the second half of the century.)
+**Answers**
+
+1. Adding CO₂ acidifies seawater through the reaction CO₂ + H₂O → carbonic acid → H⁺ + HCO₃⁻. Ocean acidification threatens shell-forming organisms, coral reefs, and marine food chains. Additionally, near-term CO₂ loading concentrates in surface water (deep ocean turnover takes ~1,000 years), so acidification at the surface is acute well before the deep ocean can buffer it.
+
+2. The airborne fraction rises when natural sinks weaken. Land sinks weaken as warming increases soil respiration, fires increase, and droughts suppress photosynthesis. Ocean sinks weaken as warmer water holds less dissolved CO₂ (Henry's Law) and as stratification reduces deep-water mixing. Both effects are already observed and are projected to strengthen under continued warming — a positive feedback that increases the airborne fraction.
+
+3. Natural gross emissions (~220 GtCO₂/yr) are closely balanced by natural gross removals (~230 GtCO₂/yr). Humans add ~38 GtCO₂/yr as a *net* input with no corresponding removal loop. Small net additions to a balanced system change the stock steadily. If you add 1% to a stable reservoir indefinitely, the stock grows indefinitely — even if the additions look small relative to gross flows.
+
+4. The statement is approximately true: net zero CO₂ emissions stabilizes atmospheric concentration in the near term, though slow ocean outgassing means a gradual long-term decline over centuries. But to meaningfully *reduce* atmospheric CO₂ on policy timescales — to reverse warming overshoot — you need *net negative* emissions: gross removals exceed gross emissions. This is why 1.5°C-compatible IPCC scenarios require global net-negative emissions in the second half of the century.
 
 ---
 
@@ -405,6 +431,16 @@ These numbers update annually. When I write subsequent chapters that reference t
 3. Climate sensitivity is uncertain by a factor of ~2. Does that uncertainty argue for more aggressive emissions reductions or less? Make the case both ways.
 4. **Socratic prompt:** "The climate has always changed." How would you respond to that in a way that's accurate, not condescending, and engages with what's actually different about the current change?
 
+**Answers**
+
+1. The forcing-concentration relationship is logarithmic because CO₂ absorbs infrared at specific wavelength bands, and these saturate as concentration rises. At the band center (~15 μm), existing CO₂ already captures essentially all outgoing photons at that wavelength. Additional CO₂ can only extend absorption into the band *wings* — wavelengths near but not at the center. The wings have less available absorption per ppm added, so each successive doubling yields roughly equal additional forcing rather than proportional increase.
+
+2. The danger isn't temperature magnitude but rate. Earth has been warmer in the Eocene, and life thrived — but those conditions took millions of years to develop, and ecosystems co-evolved with them. Current warming is 10–100× faster than post-ice-age warming. Agriculture, coastlines, water systems, and biodiversity depend on the narrow Holocene climate range. The binding constraint is the adaptation rate of human and natural systems, not the absolute temperature.
+
+3. The uncertainty cuts toward more action, not less. The key asymmetry: if sensitivity is high (4.5°C/doubling) and we don't act, outcomes are catastrophic and irreversible. If sensitivity is low (1.5°C) and we do act aggressively, the cost is unnecessary abatement spending. Under standard expected-value and risk frameworks (insurance logic, real-options pricing), the high-consequence tail argues for precaution. Most decision-theorists who have examined this conclude the uncertainty justifies more aggressive targets.
+
+4. "Yes, the climate has always changed. Those changes caused mass extinctions, collapsed civilizations, and made vast regions uninhabitable for millennia. The question isn't whether climate can change — it clearly can, disastrously. The question is whether we want to *cause* rapid change, and whether 8 billion people whose food, water, cities, and infrastructure are built around the current climate can adapt to 2–3°C in a century. Past climate changes weren't threats because there weren't agricultural civilizations to disrupt."
+
 ---
 
 # Part 5: The carbon budget and the policy frontier
@@ -468,6 +504,16 @@ This is one of the largest unresolved gaps between scenario logic and committed 
 2. If proved fossil reserves contain ~2,900 GtCO₂ and the 2°C budget is ~1,000 GtCO₂, what fraction of reserves can be burned? Now factor in that some of those emissions can be captured by CCS. How much does that change the answer? (We'll come back to this in Ch. 10 — for now, think order of magnitude.)
 3. A company commits to "net zero by 2040, achieved primarily through offsetting." A different company commits to "75% absolute Scope 1+2 reduction by 2035 plus removal of residual emissions." Which is more credible, and why?
 4. **Socratic prompt:** Why is "net negative" emissions required globally for some 1.5°C pathways, but most country and corporate pledges only go to "net zero"? Who's supposed to do the net negative part?
+
+**Answers**
+
+1. Probability matters enormously because the remaining budget roughly halves between 50% and 67% probability. At 67%, the 1.5°C budget is roughly 100 GtCO₂ — less than 3 years at current rates. The 50% framing is often used in summaries, but it implies a coin-flip chance of missing the target — a deeply uncomfortable risk level for a generational decision. Most insurance-style risk reasoning would demand the 83% probability budget, which is smaller still.
+
+2. Proved reserves represent ~3,400 GtCO₂. The 2°C budget is ~1,055 GtCO₂ — about 31% of reserves. CCS at plausible scale (perhaps 3–6 GtCO₂/yr by 2050) would capture perhaps 5–10% additional budget space by 2050, shifting usable reserves from ~31% to perhaps 35–40%. Under 1.5°C (budget ~170 GtCO₂), even aggressive CCS doesn't meaningfully change the picture — roughly 95% of reserves remain unburnable.
+
+3. The more credible company is the second one — 75% absolute reduction plus removal of residuals. The first company's strategy ("primarily through offsetting") has near-zero operational change and relies on an offset market with severe integrity problems (Ch. 8). "Net zero by 2040 through offsetting" is the archetypal greenwashing structure: the company doesn't change its business and buys credits to make a claim. The second company has a concrete, time-bound operational commitment with removal credits only for true residuals.
+
+4. Net negative is required in some pathways because of overshoot: if emissions exceed the 1.5°C budget (as appears likely), getting back to 1.5°C requires removing the excess CO₂ already emitted. Most country and corporate pledges stop at net zero because (a) net negative requires technologies (DAC, BECCS) that don't yet exist at scale; (b) the NDC architecture asks for "contributions" toward Paris goals, not obligations to go negative; and (c) no major country has claimed the political responsibility for the net-negative work. The IPCC scenarios embed an implicit assumption that some party — probably advanced economies with the most capital — will do it, but the obligation is unassigned.
 
 ---
 

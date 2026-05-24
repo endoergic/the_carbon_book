@@ -89,6 +89,16 @@ These mechanisms exist because the political-economic durability of cap-and-trad
 3. The Market Stability Reserve introduces administrative discretion into a system that's supposed to be market-driven. Is the MSR a feature or a bug?
 4. **Socratic prompt:** A cap-and-trade system has a stringent declining cap, broad coverage, transparent governance, and a stable price between $50–$100/tCO₂. Is this enough to count as a successful climate policy? What does "successful" require?
 
+**Answers**
+
+1. The cap only "guarantees" emissions if it actually binds, and several features loosen it. Over-allocation — issuing more allowances than emissions, as in EU Phase 1 — means the cap sits above business-as-usual and constrains nothing. Banking lets entities carry surpluses forward indefinitely, so a soft early cap pushes emissions into the future rather than eliminating them. Offsets (where permitted) let covered entities meet obligations with credits of contested integrity rather than real reductions under the cap. Each mechanism converts a nominally hard quantity limit into something more elastic, which is why critics treat the "guarantee" as conditional on stringency and design.
+
+2. Free allocation buys political entry: incumbents who would fight a system that forces them to buy permits will tolerate one that hands them allowances, so most systems start free to get launched, then shift to auctioning once the institution is entrenched and industry is locked in. Free allocation is justified where genuine carbon-leakage risk exists — production could relocate to uncovered jurisdictions, producing no climate benefit and lost competitiveness. It becomes a giveaway when allocated to sectors not actually exposed to leakage, or when it generates windfall profits because firms pass through the allowance's opportunity cost in prices while paying nothing for it (as documented in EU Phase 1).
+
+3. It is genuinely both. As a bug, the MSR injects administrative discretion into a system whose appeal was that the regulator sets quantity and the market sets price; intake and release thresholds become new policy levers subject to lobbying and reform debate. As a feature, pure quantity systems proved dangerously volatile — over-allocation crushed prices for a decade — and that volatility itself threatened the system's political durability. The MSR trades some market purity for price stability, and because durability is what lets a cap-and-trade system survive long enough to tighten, the trade is defensible even if it is not elegant.
+
+4. Those four features are necessary but not obviously sufficient. "Successful" depends on what you ask the policy to do. If the test is cost-effective emission reductions within covered sectors, a stringent binding cap at $50–$100 plausibly qualifies. But several things can still be missing: the price may be below the level needed for the hardest abatement (IPCC scenarios point much higher), coverage may exclude transport, buildings, and agriculture, free allocation may insulate industry from the signal, and the absolute emissions trajectory may not align with a 1.5–2°C pathway. The decisive variables are stringency relative to a climate target, breadth of effective (not just nominal) coverage, and whether complementary policies fill the gaps the price alone cannot.
+
 ---
 
 # Part 2: The EU ETS — the dominant system
@@ -103,6 +113,8 @@ The EU ETS covers approximately 10,000 large industrial facilities plus aviation
 - **Energy-intensive industry** — steel, cement, aluminum, fertilizers, refining, chemicals, paper, glass, ceramics
 - **Intra-EEA aviation** (domestic and intra-EU flights) — extra-EU flights remain under CORSIA (Ch. 8/12)
 - **Maritime transport** (>5000 GT vessels) — phasing in 2024–2026, with 70% of CO₂ emissions covered in 2025 and full coverage 2026; CH₄ and N₂O added 2026
+
+> **A note on CORSIA**, referenced here and throughout the markets chapters: CORSIA (the Carbon Offsetting and Reduction Scheme for International Aviation) is ICAO's scheme requiring international airlines to offset emissions above a baseline by purchasing eligible credits. It is a *separate* regime from the EU ETS — intra-EEA flights sit under the EU ETS, while most international flights sit under CORSIA. Because it accepts voluntary-market credits to meet a compliance obligation, it is best understood as a hybrid compliance/voluntary mechanism; it is picked up in Ch. 8 (as a demand source for the voluntary market) and treated in depth in Ch. 12 (aviation).
 
 Total coverage is approximately 40% of EU GHG emissions. The remaining 60% — transport, buildings, agriculture, smaller industry, F-gas applications — sits under other policy instruments, including the new ETS2 (Part 2.5).
 
@@ -184,6 +196,16 @@ The 2026 reform is the most consequential pending decision in the international 
 3. EUA prices reached €100+/tCO₂e in 2023 but settled to €60–80 in 2025. Three different observers might interpret this as (a) successful cost-effective decarbonization (price signal worked), (b) overreaction followed by correction (oscillation around fundamentals), or (c) policy weakness (prices should be higher). Which interpretation does your reading favor?
 4. **Socratic prompt:** If you were a US senator proposing a national cap-and-trade system in 2027, what features of the EU ETS would you adopt, modify, or reject? What's the case for and against each choice?
 
+**Answers**
+
+1. Phase 1 was a failure as a price signal — it over-allocated and prices collapsed toward zero — but it was essential as institution-building. It established the registries, the monitoring-reporting-verification (MRV) requirements, the compliance procedures, and the administrative machinery that every later phase ran on. Building that infrastructure under a low-stakes, low-price regime meant the system could absorb its mistakes before the cap began to bind. The accomplishment was not abatement but a working, tested institution capable of being progressively tightened — which is exactly what Phases 2–4 did.
+
+2. The MSR arrived late because the problem it solves — chronic oversupply — only became undeniable after a decade of depressed prices, and because adding regulatory discretion to a market system was politically and conceptually contentious. Fixing it required diagnosing that the surplus was structural rather than cyclical, then negotiating a Europe-wide mechanism. The lesson is that cap-and-trade institutions learn slowly and reactively: design flaws are corrected only after they manifest as sustained dysfunction, and the correction is itself a multi-year political process. The fourteen-year lag is a caution about how long it takes to get a major carbon market's architecture right.
+
+3. The text supports the "oscillation around fundamentals" reading most directly: the €100+ spike in 2023 was driven substantially by the gas crisis pushing coal generation and EUA demand up, and calmer gas markets in 2024–2025 brought prices back to €60–80. That suggests the swing reflected a genuine fundamental (fuel-switching economics) rather than either pure policy success or pure weakness. But the interpretations are not mutually exclusive: the structural tightening from cap declines and MSR intake is real (supporting (a)), while €60–80 remains below the central IPCC-aligned estimates and below where free allocation lets full industrial signals through (supporting (c)). A careful reading favors (b) as the proximate explanation, with (c) as the longer-run concern.
+
+4. Several EU features are worth adopting: a declining cap with a clear long-run trajectory, banking to reward early action, transparent MRV and registries, and a stability mechanism to avoid the volatility that nearly killed the EU system. The harder choices are political. Free allocation is the case for and against in one: adopting it eases industry opposition and addresses leakage, but it dilutes the signal and risks windfalls — a US system might pair limited free allocation with a CBAM-style border adjustment instead. A US senator would likely reject the EU's slow, reactive governance (the fourteen-year MSR lag) in favor of pre-committed automatic adjustments, and would have to decide whether to preempt or coexist with existing state programs (California, RGGI, Washington). The decisive variables are the strength of the industrial lobby, exposure to import competition, and whether the price floor/ceiling can be set credibly enough to survive the next administration.
+
 ---
 
 # Part 3: CBAM — the border adjustment
@@ -256,7 +278,7 @@ California's cap-and-trade program launched January 2012 (allowance distribution
 
 ## RGGI (Regional Greenhouse Gas Initiative)
 
-RGGI launched in 2009 as the first US mandatory carbon cap-and-trade system. It covers **only the power sector** in 11 northeastern and mid-Atlantic states (New York, Pennsylvania, Massachusetts, Connecticut, Maine, New Hampshire, Vermont, Rhode Island, Maryland, Delaware, New Jersey, Virginia — Pennsylvania's participation has been legally contested).
+RGGI launched in 2009 as the first US mandatory carbon cap-and-trade system. It covers **only the power sector** in 11 northeastern and mid-Atlantic states: New York, Massachusetts, Connecticut, Maine, New Hampshire, Vermont, Rhode Island, Maryland, Delaware, New Jersey, and Virginia. Pennsylvania moved to join via regulation but its participation has been tied up in litigation and is not in effect; Virginia's continued participation has also been politically contested.
 
 **Cap:** Stringent power-sector cap declining steadily. RGGI has been credited with driving substantial power-sector decarbonization in member states, though much of the reduction came from natural-gas displacement of coal rather than direct cap-induced action.
 
@@ -291,6 +313,16 @@ The state programs together cover roughly 15% of US emissions. A federal system,
 2. Washington's voters rejected the 2024 repeal initiative 62-38. What does this tell you about the political durability of state-level carbon pricing in the US?
 3. AB 1207's offset reform (offsets now "under the cap" — each offset compliance use retires an equivalent allowance) is a substantial change. Why is this considered an integrity strengthening, and what does it cost?
 4. **Socratic prompt:** If you were a state legislator in a non-cap-and-trade state in 2026, what features from California, RGGI, and Washington would you adopt or reject for your own state's program?
+
+**Answers**
+
+1. The trade-off is breadth versus depth of political exposure. California covers ~76% of state emissions — power, industry, and fuel distributors — making the program economically comprehensive but politically exposed to fuel-price pass-through. RGGI covers only the power sector (~25% of regional emissions), which is administratively simple and politically insulated (few visible consumer costs) but inherently limited in reach. Broader coverage means a given price touches more of the economy, so California's effective stringency per dollar of price is higher across sectors; RGGI's narrow scope means even a robust power-sector price leaves most regional emissions untouched. Scope and political durability trade against each other.
+
+2. It signals that state-level carbon pricing can survive direct electoral tests even when costs are visible at the pump. Washington's coverage of transportation fuels at the supplier level produces real gasoline-price pass-through, which is exactly the kind of cost-of-living impact that sinks carbon policies elsewhere — yet voters rejected repeal 62-38. That suggests a durable constituency, plausibly built by the program's earmarking of revenue for popular climate and transportation investments. It does not prove invulnerability, but it shows that a well-designed program with visible benefits can withstand a referendum even under fuel-price sensitivity, which matters for the durability of state programs amid federal retreat.
+
+3. AB 1207 makes each offset used for compliance retire an equivalent allowance from the following year's budget, placing offsets "under the cap." This is an integrity strengthening because, without it, an offset adds a compliance ton on top of the capped allowances — effectively loosening the cap by the offset volume, and inheriting any additionality or baseline weakness in the offset. Tying each offset use to an allowance retirement ensures the cap's total quantity is preserved regardless of offset quality. The cost is reduced flexibility and higher compliance cost: offsets no longer expand the available supply, so their value to covered entities falls and the cheap-compliance safety valve narrows.
+
+4. A new-entrant state would likely adopt California's broad sectoral coverage and strong revenue-equity provision (35% to disadvantaged communities) for both impact and political durability, and adopt the AB 1207 "offsets under the cap" discipline to protect integrity. From RGGI it would take the lesson that a power-only program is simple and durable but limited — a reasonable starting point if political capital is scarce. From Washington it would weigh the risk of fuel-price pass-through against the demonstrated survivability when revenue funds visible benefits. The decisive variables are the state's industrial and import profile, its tolerance for visible consumer costs, and whether it can link to an existing market (WCI) to deepen liquidity rather than launch alone.
 
 ---
 
@@ -438,6 +470,16 @@ The substantive question of which instrument is most effective in a given sector
 3. ETS2 will impose price increases on heating fuels in the EU starting 2027–2028 (delayed). What's the political risk, and how is the Social Climate Fund supposed to manage it?
 4. **Socratic prompt:** If a future US administration in 2029 had a 60-vote Senate majority and wanted to pass a single climate-pricing law, would you advise them to propose cap-and-trade or a carbon tax? What's the trade-off and what's your defense?
 
+**Answers**
+
+1. Under Weitzman, the choice turns on which marginal cost curve is steeper. Cap-and-trade (quantity certainty) is preferred when the damage from an extra ton rises sharply, so getting the quantity wrong is very costly; carbon taxes (price certainty) are preferred when abatement costs rise sharply, so getting the price wrong is very costly. The climate case is genuinely ambiguous and arguably favors price certainty for the near term: annual climate damage is driven by cumulative stock, not one year's flow, so a single year's emissions overshoot does little marginal harm, while a runaway abatement cost from a rigid cap could be very expensive. That argues for price certainty short-term, though tail risks and tipping points push back toward valuing quantity certainty.
+
+2. Sweden's $130 tax works partly because of conditions other countries don't share. Much of Sweden's exposed industry sits under the EU ETS and faces partial or zero national tax, so the high rate falls mainly on heating and fuels where alternatives (district heating, biomass) existed; the tax was introduced early and escalated gradually; and the political culture tolerated it. Elsewhere, visible per-ton charges trigger backlash (the French yellow vests were partly a carbon-tax revolt), trade-exposed industry resists, and the absence of revenue-recycling makes the cost salient. Sweden's policy is not freely transplantable because its success depended on sequencing, complementary infrastructure, sector composition, and political consent that vary widely across countries.
+
+3. The political risk is that ETS2 raises heating and motor-fuel costs for households (estimated €80–150/household/year early on) in a cost-of-living context, producing exactly the visible-cost backlash that froze France's carbon tax and that already forced ETS2's delay to 2028. The Social Climate Fund (€65 billion, 2026–2032) is meant to manage this by channeling most ETS2 revenue back to vulnerable households, transport users, and micro-enterprises — softening the net cost for those least able to absorb it while preserving the marginal price signal. Whether it works depends on whether the transfers reach affected groups visibly and promptly enough to defuse the politics before the price bites.
+
+4. For a single law with 60 votes, the defensible advice is a carbon tax — preferably revenue-recycled — with cap-and-trade as the alternative if political coalition-building requires allocation flexibility. The case for a tax: price certainty aids investment planning, administration is simpler, and a visible dividend (as in Canada's design, where most households get back more than they pay) can build durable support. The case against: a tax fixes price, not emissions, so the quantity outcome is uncertain, and the cost is politically salient (the yellow-vest risk). Cap-and-trade offers an emissions guarantee and lets you distribute allowances to assemble a coalition, but invites free-allocation giveaways and price volatility. The decisive variables are whether the administration values emissions certainty or political durability more, and whether a dividend can make the cost politically survivable.
+
 ---
 
 # Part 8: Fuel-standard compliance regimes
@@ -512,18 +554,39 @@ The EU's **Renewable Energy Directive III (REDIII)** sets binding renewable-fuel
 
 **FuelEU Maritime** (effective 2025) sets declining GHG-intensity targets for energy used by ships calling at EU ports. Until 2033, renewable fuels of non-biological origin — including green ammonia — count double toward a ship's GHG-intensity target. FuelEU is a newer and still-maturing regime; the IMO's global GHG mechanism remains in formation and will interact with FuelEU as both systems develop.
 
+## Operational depth: see Appendix A
+
+The material above gives the *architecture* of fuel-standard compliance — the step-function/continuous-function distinction, the major regimes, and how they differ. The *operational* questions a fuel-project developer actually faces — how CI optimization translates into credit revenue, when plant-specific certification pays for itself, how to route product across California/federal/EU/Canada markets, how any producer in the world can access California's LCFS by registering a CARB pathway, and how the LCFS design is diffusing internationally — are collected in **Appendix A (Fuel-Standard Compliance Operations and the Fuel–VCM Boundary)**. They are kept there to avoid weighing down the chapter narrative, and because the same mechanics are referenced again from Chapter 8 Part 8.
+
+The one point worth carrying forward into the rest of this chapter: **California's LCFS is the most comprehensive CI-capture instrument in operation** — it scores feedstock CI, process-energy switching, and efficiency gains that volume mandates (RFS, ReFuelEU) miss entirely. That comprehensiveness is exactly why it both maximizes a producer's compliance revenue and, as Chapter 8 will show, leaves almost no room for a voluntary credit on top.
+
 ## Stacking and its limits
 
 These regimes can stack on the same physical gallon. A US HEFA SAF producer selling into California can legitimately earn a RIN (from the RFS), an LCFS credit (for CI below the benchmark), and a 45Z tax credit simultaneously. Each instrument targets a different market failure: RINs drive volume; LCFS drives improvement; 45Z drives investment.
 
 The stacking limit is the attribute. A physical gallon can only be sold once. Its CI attributes can only be counted toward one compliance obligation at a time. The book-and-claim mechanism (discussed in Chapter 8) allows attributes to be separated from the physical molecule, but simultaneous compliance monetization across two regimes for the same attribute is double-counting. This constraint becomes critical when asking whether a voluntary carbon credit can also be layered on top — the central question of Chapter 8 Part 8.
 
+As the LCFS family expands (Oregon 2016 → Washington 2023 → Canada CFR 2023 → potential Singapore framework 2027+), the stacking question scales proportionally: a producer with multiple market relationships may face competing compliance claims from several CI-based programs on the same gallon of fuel. The attribute-claiming discipline described here applies across all of them.
+
 ## **Stop-and-check 7.E**
 
 1. The LCFS and RFS both apply to the same fuel markets but have fundamentally different economic structures. Which rewards continuous improvement, and which rewards qualifying? What are the implications for producer incentives?
 2. Why does California's LCFS have more "granularity" than the EU's REDIII? What does this mean for which system leaves more room for ongoing improvement to be rewarded — and for which system closes more potential voluntary-credit white space?
 3. A US HEFA SAF producer earns a RIN, an LCFS credit, and a 45Z credit on the same gallon. Can they also sell a voluntary carbon credit on the same tonne of abatement? Why or why not? (Answer developed in Chapter 8.)
-4. **Socratic prompt:** The EU is building out ReFuelEU (volume mandate) and the US maintains LCFS-style systems (continuous improvement). From an emissions-reduction standpoint, which architecture produces more abatement per dollar of policy cost? What's the trade-off?
+4. A biofuel producer in Brazil has been selling UCO-HEFA into the EU market for three years and has never engaged with CARB. Does this mean the California LCFS is unavailable to them? What would it cost and take to access it? What other North American compliance programs would registration also unlock?
+5. **Socratic prompt:** The EU is building out ReFuelEU (volume mandate) and the US maintains LCFS-style systems (continuous improvement). From an emissions-reduction standpoint, which architecture produces more abatement per dollar of policy cost? What's the trade-off? And which architecture is more likely to expand internationally — and why?
+
+**Answers**
+
+1. The LCFS rewards continuous improvement; the RFS rewards qualifying. The LCFS is a continuous-function regime: credits scale with the gap between a fuel's carbon intensity and a declining benchmark, so a fuel that is twice as clean earns roughly twice the credit, and getting cleaner always pays. The RFS is a step function: a fuel either passes its D-code lifecycle threshold or it doesn't, and over-performing beyond the threshold earns nothing extra. The implication for producers is that under the LCFS, ongoing CI reduction (feedstock switching, process-energy decarbonization, efficiency) is continuously monetizable, driving innovation; under the RFS, the incentive stops the moment the fuel qualifies, so the system drives volume of qualifying fuel rather than ever-deeper decarbonization.
+
+2. The LCFS is more granular because it scores carbon intensity continuously and plant-specifically — feedstock CI, process-energy switching, and efficiency gains all move the credit volume — whereas REDIII relies primarily on default CI values assigned by feedstock pathway, which blunt plant-level gains by averaging them into a standardized score. This means the LCFS leaves less room for ongoing improvement to go unrewarded: it captures the improvement itself. REDIII's default-value structure leaves real plant-level improvements the methodology cannot score, and that gap between default and actual values is precisely where voluntary-credit "boundary-gap" white space can exist. The LCFS, by capturing improvement comprehensively, closes most of that voluntary white space; REDIII leaves more open.
+
+3. No — and this is the central point developed in Chapter 8. Earning a RIN, an LCFS credit, and a 45Z credit means the compliance regimes have already claimed the emissions-reduction attribute of that gallon and provided the revenue that makes the project viable. A voluntary credit requires additionality (the reduction would not have happened without the credit revenue) and a single, unclaimed attribute. A gallon richly paid by the compliance stack is both non-additional (the stack already finances it) and already-claimed (selling a voluntary credit on the same attribute is double-claiming). The richer the compliance stack, the less defensible any voluntary credit on top — the "additionality inversion."
+
+4. No, the LCFS is not unavailable to them — it is available but unused. Any producer in the world can access California's LCFS by registering a CARB-approved CI pathway and delivering fuel into California; the binding constraint is delivery into the California market, not where the fuel is produced. So the Brazilian UCO-HEFA producer faces a registration and delivery decision, not a categorical exclusion. The cost is the effort of certifying a CARB pathway plus arranging commercially viable delivery into California. Registering would also potentially unlock other CI-based North American programs — Oregon, Washington, and Canada's CFR — which recognize or parallel the LCFS framework, so a single certification effort can open several compliance markets at once.
+
+5. The honest answer is that the two architectures optimize for different things, so "more abatement per policy dollar" depends on the goal. The continuous-improvement (LCFS) architecture extracts deeper decarbonization per unit of fuel because it rewards every increment of CI reduction, plausibly yielding more abatement per dollar where the fuel pool can keep getting cleaner; the volume-mandate (ReFuelEU) architecture guarantees a quantity of qualifying clean fuel regardless of price, which buys deployment certainty but leaves over-performance unrewarded and can overpay for marginal qualifying volume. The trade-off is depth versus certainty of deployment. On international expansion, the LCFS family is already diffusing (Oregon, Washington, Canada's CFR, potential Singapore framework) because its credit-market mechanics are transplantable and let any producer plug in; volume mandates are more tightly bound to a specific jurisdiction's fuel supply and harder to export. The decisive variables are whether a jurisdiction prioritizes guaranteed volumes or maximal abatement, and whether it has the administrative capacity to run a CI-scoring market.
 
 ---
 
@@ -600,7 +663,27 @@ The compliance carbon markets are the most stable and durable part of the climat
 - **RFS (Renewable Fuel Standard)** — US federal volumetric biofuel mandate; step-function design.
 - **RIN (Renewable Identification Number)** — Tradeable credit under the RFS, attached per gallon of qualifying fuel at production; price set by compliance supply-demand.
 - **Step function vs. continuous function** — Step (RFS, ReFuelEU): pass/fail, no reward for improvement. Continuous (LCFS): reward scales with CI gap.
-- **WEC (Waste Emissions Charge)** — US fee on excess methane from large oil and gas facilities.
+
+---
+
+# Sources and currency
+
+This chapter cites figures that are current as of writing (May 2026) and will move. The following are the most time-sensitive claims; each should be re-verified against the primary source before being relied upon, and updates tracked via `CHANGELOG.md`:
+
+| Claim | Value as stated | As-of | Primary source to verify against |
+|---|---|---|---|
+| EU ETS cumulative auction revenue | ~€245 billion since 2005 | mid-2025 | European Commission / EEA auction reports |
+| 2023 record annual auction revenue | ~€44 billion | 2023 | EEA |
+| EUA spot price | ~€72–75/tCO₂e | April 2026 | EEX / ICE settlement |
+| CBAM first official certificate price | €75.36/tCO₂e (Q1 2026) | April 2026 | European Commission CBAM implementing acts |
+| EU 2040 climate target | 90% net reduction below 1990 (with 5% international-credit flexibility) | agreed Dec 2025 | European Climate Law amendment |
+| ETS2 full-operation date | delayed to 2028 | Nov 2025 EP vote | ETS2 Directive / EP record |
+| 45Z Clean Fuel Production Credit window | effective 2025–2029 | — | IRC §45Z as amended (see note below) |
+| California LCFS reference price / price cap | ~$63/tCO₂e; cap $275.39 (June 2026) | Q1–Q2 2026 | CARB LCFS data |
+| AB 1207 / SB 840 (Cap-and-Invest extension) | signed; extended to 2045 | Sept 2025 | California statute |
+| Consensus EUA forecast | ~€85 (2026), >€100 (2027), ~€126 (2030) | 2025–26 | BloombergNEF / ICIS / S&P / Aurora / PIK |
+
+> **45Z reconciliation flag:** this chapter states a 2025–2029 window while Chapter 12 states 2025–2027 (post-OBBBA, $1.00/gal down from $1.75). Reconcile to a single sourced figure.
 
 ---
 

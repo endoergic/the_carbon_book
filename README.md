@@ -31,6 +31,7 @@ Chapters are written to be modular. Each declares its prerequisites. The depende
 | `GLOSSARY.md` | Running glossary, grown each chapter |
 | `CH01_carbon_element_and_problem.md` | Chapter 1: Carbon the Element, Carbon the Problem |
 | `CH02_*.md` through `CH15_*.md` | Subsequent chapters as they are released |
+| `APPENDIX_A_fuel_standard_operations.md` | Operational deep-dive on fuel-standard compliance (RFS/LCFS/45Z/REDIII/ReFuelEU) and the fuel–VCM boundary; companion to Ch. 7–8, referenced from Ch. 12 |
 | `LICENSE.md` | CC BY 4.0 license terms |
 | `DISCLAIMERS.md` | Accuracy, currency, AI authorship, and use disclaimers |
 | `CHANGELOG.md` | Substantive revisions, especially when current numbers or regulations are updated |

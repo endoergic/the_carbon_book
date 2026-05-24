@@ -502,6 +502,57 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **eSAF / RFNBO (Renewable Fuels of Non-Biological Origin)** — Synthetic e-fuels (power-to-liquid) made from renewable electricity and captured CO₂ or green hydrogen. More specific than the general "e-fuels" label; the term used in EU mandates. ReFuelEU Aviation has a dedicated eSAF sub-mandate. Typically near-zero CI.
 - **UCO (Used Cooking Oil)** — Waste feedstock for HEFA. Low CI, but the locus of significant fraud risk in the EU (virgin vegetable oil relabeled as UCO to claim the better CI score). UCO supply constraints are already limiting HEFA capacity growth.
 
+## Chapter 13 additions (introduced: Ch. 13)
+
+- **Abatement** — Reductions in a company's own value-chain emissions (Scopes 1–3), as distinct from neutralization or compensation outside the boundary. Credible net zero requires abatement first.
+- **Carbon neutral (claim)** — A balance claim matching gross emissions with retired offsets over a period; says nothing about reductions or credit quality. Increasingly a legal-risk claim under greenwashing law.
+- **Compensation / BVCM (beyond value-chain mitigation)** — Paying for climate action outside the company's footprint during the transition; cannot substitute for abatement or end-state neutralization under credible standards. See [[OER]].
+- **CSRD (Corporate Sustainability Reporting Directive)** — EU law mandating sustainability reporting against the ESRS. Scope sharply narrowed by the 2025–2026 Omnibus package (Directive (EU) 2026/470, in force March 2026): thresholds raised to >1,000 employees and >€450m turnover; mandatory reporting for financial years from 1 Jan 2027.
+- **Double materiality** — EU principle requiring disclosure of both climate's financial effect on the company *and* the company's impact on climate/society. Contrast: ISSB single (financial) materiality.
+- **ESRS E1** — The climate standard within the European Sustainability Reporting Standards; the most detailed mandatory climate-disclosure standard in the world. Revised (simplified) Set 1 Delegated Act due ~Sept 2026.
+- **Financed emissions** — A financial institution's Scope 3 Category 15 emissions from lending/investing/insuring; dwarf operational emissions. Methodology: PCAF.
+- **GFANZ (Glasgow Financial Alliance for Net Zero)** — Umbrella for finance-sector net-zero alliances (2021); significantly unraveled 2024–2025 under antitrust and political pressure; restructured into an advisory body.
+- **IFRS S1 / S2** — The ISSB's first sustainability (S1) and climate (S2) disclosure standards (2023); S2 builds on the TCFD four pillars. The emerging global disclosure baseline.
+- **ISSB (International Sustainability Standards Board)** — IFRS Foundation body building a global disclosure baseline; uses single (financial) materiality. Absorbed the TCFD's monitoring role in 2023–2024.
+- **Mitigation hierarchy** — Avoid, then reduce, then neutralize the residual. The sequencing rule underlying credible net zero.
+- **Neutralization** — Removing and durably storing atmospheric CO₂ to balance residual emissions at the net-zero target year; under credible standards, removals only (not avoidance credits).
+- **OER (Ongoing Emissions Responsibility)** — SBTi V2 concept: take responsibility for emissions during the transition via credits / beyond-value-chain action, without substituting for abatement.
+- **Paris-aligned** — The loosest climate-claim term; "consistent with the goals of the Paris Agreement," with no single quantitative definition.
+- **SBTi (Science Based Targets initiative)** — NGO-coalition standard-setter that became the de facto arbiter of credible corporate climate targets. Corporate Net-Zero Standard V2 expected 2026 (second consultation closed Dec 2025), mandatory for new targets from 2028.
+- **SB 253 / SB 261** — California climate-disclosure laws (2023): SB 253 (Scope 1/2/3 emissions per GHG Protocol, first deadline Aug 2026); SB 261 (climate financial risk, TCFD-aligned, enforcement enjoined Nov 2025 pending Ninth Circuit ruling). CARB regulations approved Feb 2026.
+- **Science-based target** — A target whose trajectory is consistent with a defined global carbon budget (typically 1.5°C); describes pathway steepness/endpoint, not offset use. See [[SBTi]].
+- **TCFD (Task Force on Climate-related Financial Disclosures)** — Its four-pillar framework (governance, strategy, risk management, metrics & targets) reframed climate as financial risk; absorbed into the ISSB in 2023–2024.
+- **TPT (Transition Plan Taskforce)** — UK body whose transition-plan disclosure framework is being folded into the ISSB's work.
+- **Transition plan** — A costed, year-by-year account of how a company will achieve its climate target; the frontier of corporate credibility (a target without a plan is treated as marketing).
+
+## Chapter 14 additions (introduced: Ch. 14)
+
+- **BASIC group** — Brazil, South Africa, India, China; a negotiating bloc of large emerging economies prominent in CBAM and equity disputes.
+- **Belém Package** — The COP30 (Nov 2025) outcome: ~29 consensus decisions advancing the $1.3T finance roadmap, tripling adaptation finance, a just-transition mechanism, and adaptation indicators — but no binding fossil-fuel phaseout. Widely called a "stabilization" outcome.
+- **Carbon club** — Nordhaus's proposal: members adopt a common minimum carbon price and impose a uniform penalty tariff on non-members, converting free-riding into an incentive to join. The G7 Climate Club is a soft real-world approximation. (Introduced conceptually in Ch. 9; geopoliticized in Ch. 14.)
+- **Climate finance** — Transfer of resources from the industrialized North to the developing South for mitigation and adaptation; the most contentious thread of the UN process. See [[NCQG]], [[$100 billion pledge]], [[Loss and damage]].
+- **CRMA (Critical Raw Materials Act)** — EU 2024 law setting extraction/processing/recycling targets and supplier-diversification benchmarks for strategic minerals; a de-risking instrument.
+- **De-risking** — EU/Western strategy of reducing (not eliminating) dependence on Chinese clean-tech and critical-mineral supply chains via industrial policy; US framing: reshoring/friend-shoring.
+- **G7 Climate Club** — Forum established 2023 to coordinate climate policy among major economies; in practice soft coordination rather than a tariff-backed Nordhaus club.
+- **Loss and damage** — Compensation for climate harms beyond adaptation; a dedicated fund was agreed at COP27 (2022) and operationalized at COP28 (2023).
+- **NCQG (New Collective Quantified Goal)** — The COP29 (2024) climate-finance goal: developed countries to take the lead in mobilizing ≥$300 billion/year by 2035, within a broader $1.3 trillion/year aspiration. Replaces the $100B goal.
+- **Petrostate** — A state whose fiscal base and geopolitical weight depend heavily on hydrocarbon exports; faces national-scale asset-stranding risk in the transition (Gulf diversifiers, Norway's two-track, Russia).
+- **$100 billion pledge** — The 2009 Copenhagen commitment by developed countries to mobilize $100B/year by 2020; met late (~2022) and contested over accounting, damaging North–South trust.
+
+## Chapter 15 additions (introduced: Ch. 15)
+
+- **DAC cost curve** — Trajectory of direct-air-capture cost over time; ~$100/tonne is the threshold for broad deployability, against several-hundred-$/t today. Whether DAC follows solar's cost collapse or hits a thermodynamic floor is genuinely unknown.
+- **Emissions gap** — The difference between projected emissions under current policy/pledges and the levels consistent with temperature goals. Current policy points to ~2.5–2.9°C; pledges ~2.1–2.5°C.
+- **Implementation / delivery gap** — The gap between pledges that exist and the policy, capital, and capacity actually deployed to deliver them; widened by the 2025 reversals.
+- **Marine cloud brightening** — An SRM method that brightens low marine clouds to reflect more sunlight.
+- **Mineralization (engineered)** — Converting CO₂ into stable carbonate rock for permanence-by-chemistry (e.g., Heirloom from air; 44.01 by peridotite injection); sidesteps the reversal risk of nature-based storage.
+- **Overshoot** — Temporarily exceeding a temperature target before returning below it via later net-negative emissions; carries irreversible tipping-point risk during the peak, and is not symmetric with never exceeding it.
+- **SRM (Solar Radiation Management)** — Deliberately reflecting incoming sunlight to cool the planet; does not address CO₂ or ocean acidification. Includes [[SAI]] and marine cloud brightening.
+- **SAI (Stratospheric Aerosol Injection)** — The leading SRM concept: injecting reflective aerosols into the stratosphere, mimicking volcanic cooling. Cheap and fast, but carries termination-shock and governance risks.
+- **Termination shock** — The rapid return of masked warming if SRM is deployed at scale and then abruptly stopped; the defining hazard of SRM dependence — a risk that grows with reliance.
+- **Thermodynamic tax** — The large clean-energy input required to convert stable CO₂ back into fuels/chemicals; the physical constraint limiting climate-useful utilization.
+- **Utilization (CCU)** — Using captured CO₂ as feedstock; climate-useful only for durable products (mineralized building materials) or clean-energy-powered e-fuels displacing fossil carbon, not as a general-purpose answer.
+
 ---
 
 *Entries will be added each session in alphabetical order under the appropriate heading. When a term is formally introduced in a chapter, I'll note `(introduced: Ch. X)` next to it.*

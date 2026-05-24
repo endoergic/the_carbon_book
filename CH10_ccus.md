@@ -169,6 +169,16 @@ After injection ends, the storage site must be permanently sealed and monitored 
 3. CO₂ pipelines and shipping infrastructure are essential for large-scale CCUS but cost roughly the same per ton-mile as oil pipelines (Ch. 3). Why has CO₂ pipeline build-out been so slow relative to the apparent climate need?
 4. **Socratic prompt:** If the Norwegian state suddenly transferred 100% of post-closure liability for Sleipner's stored CO₂ to the project operator (Equinor), what would happen? What does this hypothetical tell you about the importance of post-closure liability frameworks?
 
+**Answers**
+
+1. It tells us that operational capacity is a misleading proxy for climate progress. The ~50 Mt/yr is overwhelmingly the cheap "low-hanging fruit" — gas processing at $15–25/tCO₂, where CO₂ was already being separated for fuel-spec reasons — which has been picked for two decades. The climate-meaningful applications (power, cement, steel, DAC) sit at the $60–1,000+/tCO₂ end and remain barely deployed. So most operational CCUS represents the easy, marginal-emissions cases rather than the hard decarbonization the climate problem actually requires.
+
+2. For a 40-year-old coal plant, the better question is often whether to capture at all rather than which method. But forced to choose, post-combustion is the realistic option: it is retrofittable to existing equipment, while oxy-fuel's lower energy penalty is largely theoretical and requires near-rebuilds (a new air separation unit and combustion redesign) that rarely pencil out on an aging asset with limited remaining life. The decisive variable is remaining useful life — a plant near retirement usually favors closure over either capture route.
+
+3. CO₂ pipelines face problems oil pipelines do not: there is no pre-existing revenue stream (the CO₂ has negative value absent subsidy or carbon price), so build-out depends on coordinating capture demand, transport, and storage simultaneously — the bankability and infrastructure-mismatch problems. Add a 20–30 year payback needing policy certainty that most regimes do not provide, plus public opposition and permitting friction, and the per-ton-mile cost similarity to oil is beside the point. The economics and coordination, not the engineering, are the bottleneck.
+
+4. Equinor would likely have declined to build Sleipner, or demanded far higher returns, because open-ended liability for CO₂ that must remain stored for millennia is effectively unquantifiable and uninsurable. No commercial operator can carry thousand-year risk on its balance sheet. The hypothetical shows that the standard framework — operator liability during operations plus a defined post-closure window (often 50+ years), then transfer to a public authority — is not a giveaway but a precondition for any private CCUS investment to occur at all.
+
 ---
 
 # Part 3: Current state and the gap
@@ -336,6 +346,16 @@ ExxonMobil and BP's Tangguh LNG expansion in West Papua, Indonesia. CCS reached 
 3. Northern Lights' commercial start in August 2025 is widely described as a turning point. What about it is structurally different from prior CCS projects?
 4. **Socratic prompt:** If you had to advise the US Department of Energy on which CCUS project type to prioritize for federal support, would you choose (a) more big gas-processing CCS, (b) cement CCS, (c) steel CCS, (d) coal power CCS, or (e) DAC? Defend a single choice.
 
+**Answers**
+
+1. The Sleipner model works because gas processing already separates CO₂ to meet pipeline-spec gas requirements, so capture is nearly free and storage is the only added step — and Norway's carbon tax made venting more expensive than storing. Outside gas processing, capture must do the full, energy-intensive separation work from dilute flue gas, costs jump three- to ten-fold, and the climate-meaningful applications lack both the cheap concentrated stream and the policy pressure Norway's tax provided. The model didn't replicate because its core advantage — pre-separated CO₂ plus a punitive venting cost — is specific to gas processing.
+
+2. By the chapter's own framing, this is genuinely contested. Petrobras re-injects the CO₂ for enhanced oil recovery, so the injected CO₂ extracts additional oil that is then burned. Whether it counts as climate action turns on the marginal-oil counterfactual: if EOR substitutes for equivalent oil that would have been produced anyway while keeping CO₂ that would otherwise be vented underground, it is modestly climate-positive; if it enables incremental oil production that wouldn't have happened, the downstream combustion emissions can offset or exceed the injected ton. The answer depends on the counterfactual, not the technology.
+
+3. Northern Lights is the first operational hub-and-spoke model and the first commercial cross-border CO₂ shipping operation. Prior projects were single-emitter, vertically integrated stores (a gas plant disposing of its own CO₂). Northern Lights instead provides shared transport-and-storage as a service, receiving CO₂ by ship from many emitters across several countries (Brevik cement, Yara ammonia, German power). This decouples capture from storage, lets emitters without local geology participate, and pools demand to make the infrastructure bankable — a structural shift from project-by-project CCS.
+
+4. A defensible single choice is cement CCS. Cement's process emissions (CO₂ released from limestone calcination) cannot be eliminated by electrification or fuel-switching, so capture is the only deep-decarbonization route — unlike coal power, where renewables plus storage are cheaper and CCS mainly delays retirement. Cement also has a higher flue-gas CO₂ concentration than power, lowering capture cost, and Brevik already proves commercial feasibility at $80–100/tCO₂. The decisive criterion is prioritizing sectors with no alternative and a demonstrated, replicable template; DAC is defensible too but far costlier and earlier-stage.
+
 ---
 
 # Part 5: Economic and policy drivers
@@ -396,6 +416,16 @@ Chinese CCS capacity is harder to track in international databases but is growin
 2. The UK's CCS-CfD provides 25-year revenue certainty. The US 45Q is a 12-year credit (per project). How does this difference affect project financing decisions?
 3. China's CCS deployment is happening without major subsidy — driven by state-owned enterprise mandates and industrial demonstration. What does this say about deployment models outside the US-EU framework?
 4. **Socratic prompt:** If you were designing CCUS policy from scratch in a hypothetical major economy in 2026, what would you prioritize — a strong subsidy like 45Q, a price-stabilization mechanism like CCS-CfD, or something else? Defend your choice.
+
+**Answers**
+
+1. Both cases are legitimate. The "loss" case: by paying EOR-coupled and dedicated storage identically at $85/tCO₂, OBBBA removes the policy preference for permanent sequestration over CO₂ that extracts more oil whose combustion emits further — rewarding continued oil production and blurring the climate distinction. The "win" case: industry argues the equalization simply incentivizes more capture regardless of disposition, pulling additional CO₂ out of stacks that would otherwise be vented, and higher credits make more projects bankable. The disagreement reduces to whether you trust the EOR marginal-oil counterfactual.
+
+2. The UK's ~25-year CCS-CfD certainty directly addresses the bankability problem: CCUS projects need 20–30 year payback periods, and lenders price long-tenor debt on revenue stability. A 12-year 45Q credit covers only part of the asset's life, leaving post-credit revenue dependent on uncertain carbon prices, which raises the cost of capital and shortens financeable debt. The CfD's longer horizon supports cheaper, higher-leverage project finance; 45Q tends to favor equity-heavy structures or sponsors who can monetize the credit quickly via transferability.
+
+3. It shows the subsidy-led US-EU model is not the only viable deployment pathway. China is mobilizing CCS through state-owned-enterprise mandates (CNPC, Sinopec, CNOOC), industrial demonstration programs, and strategic industrial positioning rather than per-ton credits. In economies with strong state direction over heavy industry, deployment can be commanded rather than priced. The implication is that the "policy support is essential" lesson is about needing *some* forcing mechanism — tax credit, price stabilization, or mandate — not specifically a Western-style subsidy.
+
+4. A defensible answer prioritizes a price-stabilization mechanism like CCS-CfD, because the binding constraint identified in this chapter is bankability — projects need ~25-year revenue certainty that volatile carbon prices and time-limited credits don't deliver. A CfD targets that directly while letting competitive auctions discover the true cost. The decisive variables are the maturity of your carbon market (a credible price for the CfD to reference) and fiscal capacity. Absent a functioning carbon price, a 45Q-style subsidy or a mandate may be the only feasible starting point.
 
 ---
 
@@ -511,6 +541,16 @@ The actual outcome depends on policy, project execution, technology cost traject
 2. The hub-and-spoke model (Northern Lights, Porthos, East Coast Cluster) bundles capture from multiple emitters with shared transport and storage. What's the advantage over project-by-project CCS?
 3. The Trump administration has not so far attacked 45Q despite broader climate skepticism. What does this say about the political coalition supporting CCUS?
 4. **Socratic prompt:** If you were a climate-focused VC in 2026, which CCUS investment opportunities would you find most attractive — equity in capture-technology companies, infrastructure equity in hubs, project finance for individual capture projects, or advance market commitments for high-quality credits? Defend your choice.
+
+**Answers**
+
+1. It implies that 1.5°C-compatible pathways cannot lean on CCUS as a primary lever during this decade. If CCUS realistically reaches only 250–350 Mt/yr against the ~1,000 Mt/yr NZE need by 2030, the bulk of near-term abatement must come from direct decarbonization — renewables, electrification, efficiency — with CCUS reserved for the hard-to-abate residual. Pathways should treat CCUS as a targeted tool for sectors with no alternative (cement, steel, some chemicals) rather than a license to sustain fossil use, and should not bank on capture volumes the deployment record does not support.
+
+2. Hub-and-spoke pools capture demand from multiple emitters across shared transport and storage, which solves the coordination and infrastructure-mismatch problems that stall standalone projects. A single emitter often cannot justify building dedicated pipeline or storage; bundling several spreads the large fixed costs of transport and the storage site across many tonnes, lowering per-ton cost and unlocking storage access for emitters without local geology. It also concentrates the regulatory, MRV, and liability burden in one professionalized operator rather than replicating it project by project.
+
+3. It suggests the CCUS coalition is bipartisan and constituency-driven rather than ideological. 45Q has sponsors across the aisle (Capito, Whitehouse) and a strong industry base — oil, gas, and heavy industry — that benefits regardless of climate framing, partly because the EOR pathway aligns with fossil interests. So even an administration hostile to climate policy broadly leaves 45Q intact: it functions as industrial and energy-sector support, not just climate policy, which insulates it politically in a way that, say, renewable mandates are not.
+
+4. A defensible choice is infrastructure equity in hubs. Transport-and-storage hubs are the chapter's identified breakthrough and behave like regulated utility assets: long-lived, with contracted throughput from multiple emitters and often public or CfD-backed revenue, which diversifies away single-project execution risk. Capture-technology equity offers higher upside but binary outcomes; individual project finance concentrates execution and policy risk; AMCs suit buyers, not investors. The decisive variables are your risk tolerance and time horizon — a VC seeking durable, de-risked cash flows favors hubs; one seeking venture-scale returns favors capture-tech equity.
 
 ---
 

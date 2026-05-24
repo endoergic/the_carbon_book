@@ -112,6 +112,16 @@ Petcoke is a striking case of the embedded-carbon problem. It's effectively pure
 3. India is the fastest-growing met coke producer. Why is that strategically significant in the next decade, given what you know about steel demand and decarbonization?
 4. **Socratic prompt:** If you were running a major integrated steel mill and you saw CBAM coming (Chapter 14), would you defend your coke-fueled blast furnaces or start building DRI-EAF capacity? What does the answer depend on?
 
+**Answers**
+
+1. Raw coal lacks coking coal's structural properties — it doesn't form a stable, porous mass that allows hot air to flow through the blast furnace charge. Coke's mechanical strength and porosity are essential: it must support the weight of iron ore above it, allow reducing gases to percolate upward, and simultaneously combust to produce the CO and heat needed for the reaction. Charcoal is structurally weaker and energy-poor by comparison. Only metallurgical-grade coking coal, after coking, produces a coke strong enough to bear blast furnace conditions.
+
+2. Because most coke is produced and consumed captively — the steelmaker owns or contracts the coking coal directly from mines and does not sell coke on the open market. Merchant market prices are set by a thin, residual float. This makes price discovery harder and more volatile: a few large transactions can swing benchmark prices. It also means pricing relationships (spot vs. contract, quarterly vs. annual) are opaque relative to commodities like oil or LME metals.
+
+3. India's fast-growing met coke capacity combined with rapid steel demand growth means India becomes both a major buyer and increasingly a major seller of coke globally in the next decade. As Indian steel mills scale, they need coke; as Indian coke capacity grows, India competes with China for export markets. At the same time, India's steelmakers are facing European CBAM pressure, creating an economic incentive to adopt DRI-EAF earlier. The tension between India's coal-heavy industrial base and CBAM-driven trade incentives makes India a pivotal player in coke market trajectory.
+
+4. The answer depends on the asset's remaining useful life, the cost of green hydrogen in your region, and your CBAM exposure. If your blast furnaces have 20+ years left and you're selling primarily to non-EU markets, defending them and adding CCS may be NPV-positive. If you're heavily EU-exposed, CBAM costs (~€100–150/ton of steel by 2026+) start competing with the green premium for DRI-EAF. The decisive variable is the cost of green hydrogen: if you can access it at under ~$2–3/kg, H₂-DRI pencils against CBAM costs; above $5/kg, BF-BOF+CCS may be cheaper even at current EU ETS prices.
+
 ---
 
 # Part 2: Carbon black — the carbon you ride on
@@ -160,6 +170,16 @@ A second emerging vector: **carbon black from methane pyrolysis** — splitting 
 2. The carbon black market is far more consolidated (top 5 = >50%) than the coke market (top 5 = ~15%). Why?
 3. If recovered carbon black scales up faster than expected, what does that do to virgin carbon black margins? What does it do to virgin carbon black feedstock demand (and therefore refinery economics)?
 4. **Socratic prompt:** Methane pyrolysis produces hydrogen and solid carbon black. If you're decarbonizing the gas industry, is this a desirable pathway? What does the answer depend on, including what happens to the carbon black?
+
+**Answers**
+
+1. Carbon black mechanically reinforces the rubber matrix by forming strong polymer-filler bonds that constrain chain slippage under stress. The effect is dramatic: tensile strength, tear resistance, and abrasion resistance all increase roughly 2–10× compared to unfilled rubber. Without this reinforcement, tire tread would wear away in thousands rather than tens of thousands of miles. The mechanism is surface-chemistry-mediated adhesion between the carbon black particle surface and the elastomer chains — not just physical mixing.
+
+2. Carbon black is largely a merchant commodity sold on visible spot markets; tires are manufactured globally and carbon black producers serve many buyers with relatively standardized grades. This creates enough buyer and seller competition for price discovery. Coke is mostly captive — steelmakers and cokemakers are often vertically integrated — and when trades occur, they're bilateral between large counterparties who negotiate confidentially. The thinner merchant float produces opaque pricing.
+
+3. If rCB scales rapidly, virgin carbon black producers face margin compression on standard tire grades (the largest volume segment). They would likely retreat toward specialty grades (conductive, battery-application, narrow-particle-size) where rCB doesn't yet match virgin quality. On the feedstock side, reduced virgin CB demand means lower demand for carbon black oil (CBO) — a refinery byproduct — which is actually a problem for refiners who already struggle to find markets for heavy residuals.
+
+4. Desirable depends critically on what happens to the carbon black (solid carbon byproduct). If it's used in long-lived industrial applications — tire reinforcement, battery electrodes, industrial composites — the carbon stays out of the atmosphere and the pathway is net-negative relative to conventional H₂ production (which produces CO₂). If the carbon black is burned for energy, the sequestration is temporary. The other variable is energy: methane pyrolysis is endothermic; if you run it on renewable electricity, it's green; if you run it on natural gas heat, you've partly undone the climate benefit.
 
 ---
 
@@ -301,6 +321,16 @@ The intersection point: as the world increases EAF steelmaking (good for emissio
 3. Synthetic graphite is more energy-intensive to produce than natural. But suppose you can run the synthetic-graphite plant on cheap renewable electricity. Does that change the long-run competitive landscape vs. natural graphite? What's the catch?
 4. **Socratic prompt:** The IRA's FEOC rule says that after 2025, EVs with battery materials from "foreign entities of concern" (read: China) lose the $7,500 consumer credit. Graphite is in the rules, but the deadline has been extended because compliance is impossible. Should the deadline be enforced anyway, accepting the short-term price increase to force the non-Chinese supply chain? Make the case both ways.
 
+**Answers**
+
+1. Natural graphite flakes are irregular platelet shapes. When lithium ions intercalate and deintercalate during battery cycling, irregular shapes create mechanical stress concentrations that crack the graphite particle. Spheroidization (tumbling flakes until they're rounded) distributes stress more evenly and dramatically improves cycle life — the number of charge-discharge cycles before capacity degrades. Without it, batteries would fail in hundreds rather than thousands of cycles. The process also creates a more predictable packing density, improving volumetric energy density in the anode.
+
+2. Mining is more strategic for direct supply of raw material; refining is more strategic for control of the value-added steps that determine performance. China dominates both, but the mining choke is easier to challenge — graphite deposits exist globally (Mozambique, Madagascar, Norway, Canada) and mine development is feasible within 5–10 years. The refining choke is harder: spheroidization, purification to 99.95%+, and coating require highly specialized equipment and process knowledge concentrated almost entirely in China. A non-Chinese miner shipping to a Chinese refiner solves nothing for supply-chain independence. The refining choke is more strategic.
+
+3. Renewable electricity for synthetic graphite would significantly reduce the dominant operating cost (electricity is ~40–50% of production cost). It could make synthetic graphite competitive on cost with processed natural graphite at scale — synthetic has the advantage of more consistent quality and no geopolitical supply concentration. The catch: the Achilles heel of synthetic graphite is graphitization temperature (~2,500–3,000°C in Acheson furnaces), which is difficult to electrify with current technology. You need very-high-temperature industrial electric heating, which is available but expensive and not yet at full commercial scale for graphite volumes.
+
+4. For enforcement: sustained ambiguity about compliance deadlines weakens the policy signal and delays non-Chinese supply-chain investment. Automakers and suppliers won't build the necessary infrastructure unless they believe the deadline is real. A deadline with repeated extensions is no deadline. Against enforcement: no non-Chinese anode graphite supply chain exists at scale in 2025; enforcing the rule would price American consumers out of EV credits, harm domestic EV adoption exactly when it's competing with Chinese EVs, and benefit no one. The pragmatic case is for phased enforcement with hard stop-dates — announce that the 2027 extension is truly final, and accompany it with supply-chain investment incentives that make compliance achievable by then.
+
 ---
 
 # Part 5: Carbon fiber — the lightweight composite
@@ -411,6 +441,16 @@ The two carbon economies — the physical materials one we've covered here, and 
 2. Of the materials we've covered, which one's supply chain restructuring will be the most consequential for the energy transition in the next 5 years? Defend your answer.
 3. The largest carbon commodity by mass (met coke) is also the one most threatened by the energy transition. The smallest mainstream one (graphite, ~1.6 Mt) is the one most likely to grow because of the energy transition. What does this tell you about the trajectory of "carbon as a material" over the next two decades?
 4. **Socratic prompt:** Suppose you're advising a sovereign wealth fund on long-term industrial investments. Of the commodity carbon industries in this chapter, which would you long, which would you short, and which would you avoid? Be specific about your reasoning, including time horizons and embedded assumptions.
+
+**Answers**
+
+1. By tonnage: met coke (~700 Mt/yr) ≫ carbon black (~14 Mt/yr) > activated carbon (~2.5–3 Mt/yr) > graphite (~1.5–1.6 Mt/yr) > carbon fiber (~150 kt/yr). By revenue: the rankings shift substantially because price/ton varies enormously. Carbon black (~$13–21B globally) exceeds met coke (~$15–25B) by revenue despite lower tonnage. Graphite is small by volume but high-value for anode-grade processing. Carbon fiber is very small tonnage but high revenue (~$6–8B). No — tonnage and revenue rankings are not the same; price per ton varies by 100× across these commodities.
+
+2. Anode-grade graphite (natural and synthetic) for EV batteries. It's the commodity with the most structural growth driver (EV penetration), an emerging supply-chain reconfiguration underway (FEOC, IRA), and the highest complexity of quality requirements that create durable competitive moats for well-positioned producers and processors. The bet's key assumption: EV adoption continues at roughly current trajectory and lithium-ion chemistry (graphite anode) remains dominant through 2030. Silicon-dominant anodes or sodium-ion chemistries could undermine this.
+
+3. Carbon as a material is shifting from an industrial byproduct of fossil combustion (met coke as coal derivative) to an engineered, precision material (battery anode graphite, advanced carbon fiber). Over two decades: coke demand peaks and declines as green steel displaces BF-BOF; carbon black faces growth in specialty segments as tire market evolves; graphite demand explodes as batteries scale. The commodity is transitioning from "what comes from burning coal" to "what enables the energy transition." The physical nature of the element is unchanged; the end markets are rotating dramatically.
+
+4. Long: anode-grade graphite (natural spheroidization capacity outside China, and synthetic capacity on renewable electricity), specialty carbon black (battery-grade, high-performance industrial), carbon fiber (structural composite demand from wind, EVs, aerospace). Short: met coke producers with no DRI/EAF adjacent strategy, especially in OECD jurisdictions with carbon pricing — structurally stranded over a 10–20 year horizon. Avoid: commodity virgin carbon black for standard tire grades, as rCB and synthetic alternatives will compete on cost.
 
 ---
 

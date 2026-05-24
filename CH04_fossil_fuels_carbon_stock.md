@@ -90,6 +90,16 @@ The intuition: **natural gas is the lowest-carbon fossil fuel only if the methan
 3. If methane leakage from natural gas systems is 3%, how does that change the climate comparison between gas and coal? (You don't need exact math — qualitative reasoning is enough.)
 4. **Socratic prompt:** The conventional climate framing is "coal worst, oil middle, gas best — so switch from coal to gas while we figure out the rest." What assumptions does that framing depend on, and where could it be wrong?
 
+**Answers**
+
+1. Natural gas (methane, CH₄) has the highest hydrogen-to-carbon ratio of any fossil fuel — one carbon to four hydrogens. Energy released from combustion comes from oxidizing both carbon (to CO₂) and hydrogen (to water), but only the carbon produces CO₂. A higher H:C ratio therefore means more of the fuel's energy comes from hydrogen oxidation, which is carbon-free. That is why gas emits ~50 kgCO₂/GJ versus ~90 for coal — about a third lower — even though all three fuels are combusted for heat.
+
+2. Lignite has the lowest energy content (25–35% carbon) and the highest moisture content of any coal grade. That combination makes it uneconomic to transport: you would be paying to ship water and low-energy mass over distance. So lignite is burned at the mine mouth, where transport costs are essentially zero. Bituminous coal (60–90% carbon) carries enough energy per ton to justify rail, barge, and ocean shipping, which is why it moves through a genuine global trade rather than staying local.
+
+3. At about 3% leakage, the climate advantage of gas over coal largely collapses on a 20-year basis. Methane is a far more potent greenhouse gas than CO₂ in the near term (~82× on a 20-year horizon), so even a few percent of unburned gas escaping erodes the combustion benefit. At >3% leakage, gas is worse than coal on a 20-year basis and barely better on a 100-year basis — the "bridge fuel" framing fails. The comparison depends critically on the time horizon chosen and on actual measured leakage, which satellites suggest is higher than industry self-reports.
+
+4. The framing assumes the gas advantage is real in practice, not just in stoichiometry. Its key vulnerabilities: methane leakage (above ~3%, gas loses to coal on near-term warming); the time horizon (gas looks much better on 100-year metrics than 20-year ones); and lock-in (building gas infrastructure can entrench a fossil dependency that displaces zero-carbon alternatives rather than just coal). The framing holds where leakage is tightly controlled, the comparison is genuinely coal-to-gas (not renewables-to-gas), and gas is treated as a transitional rather than terminal asset. It is weakest where leakage is unmeasured, near-term warming dominates the policy concern, or gas crowds out faster decarbonization.
+
 ---
 
 # Part 2: The global oil market
@@ -141,6 +151,16 @@ Oil is the most geopolitically-loaded commodity in the world. Three structural f
 2. OPEC+ controls ~41% of production but its actual market power is sometimes described as larger than that. Why might that be? (Hint: Saudi Arabia specifically.)
 3. The IEA's 2025 WEO range for 2050 oil demand spans 25 mb/d to 113 mb/d — a factor of 4.5 difference. What are the two or three biggest swing variables that drive that range?
 4. **Socratic prompt:** If you're a Saudi oil minister in 2026, how do you think about whether to maximize current revenue (high prices, slow-walk supply) or to maximize lifetime revenue from your reserves (lower prices, faster monetization before demand peaks)? What does your answer depend on?
+
+**Answers**
+
+1. Oil is a liquid of high energy density that can move cheaply by pipeline, tanker, and rail, so cargoes flow wherever the price is highest and arbitrage closes regional gaps within hours. Gas, by contrast, is a low-density gas that is cheap to move within a connected pipeline network but expensive to ship across oceans without liquefaction, so it fragments into regional markets (Henry Hub, TTF, JKM). Coal is a bulky solid concentrated in Asia-Pacific consumption. Oil's transportability and fungibility are what produce a single global price where New York, Rotterdam, and Singapore move together.
+
+2. Saudi Arabia holds most of the world's spare production capacity — it can produce ~10 mb/d but sustainably reach ~12 mb/d. That swing capacity lets it move the marginal barrel up or down faster than anyone else, which sets the global price at the margin. OPEC+ also has more power on the downside (cutting to support prices) than the upside, and Saudi Arabia is the disciplinarian that makes cuts credible. So its influence over price formation exceeds its raw production share, because it controls the buffer the rest of the market lacks.
+
+3. The biggest swing variables are EV adoption in light-duty road transport (the fastest-disrupting ~45% of demand), petrochemical demand growth (the most resilient segment, which keeps oil relevant as a molecular feedstock even if fuels decline), and policy continuity — whether governments implement announced climate policies (STEPS) or let them lapse (CPS). The 4.5× range reflects these being genuinely uncertain rather than analytically resolvable; small differences in EV penetration and policy follow-through compound over 25 years into vastly different 2050 demand levels.
+
+4. The decision turns on the expected timing of peak demand and the discount rate applied to future barrels. If demand peaks soon and declines, reserves left in the ground risk becoming stranded, favoring faster monetization at lower prices to capture value before the window closes. If demand proves resilient (as 2024's record 101 mb/d suggests), holding for high prices maximizes value. The decisive variables are your confidence in the peak-demand timeline, your discount rate (a high one favors monetizing now), your fiscal break-even needs, and whether you believe your low-cost reserves will be among the last produced regardless — which argues for patience.
 
 ---
 
@@ -233,6 +253,16 @@ The cleanest reading: coal *globally* is likely to peak in the mid-to-late 2020s
 3. China is building both renewables *and* coal at unprecedented rates simultaneously. Is this a contradiction, or is it a coherent strategy? Make the case for each interpretation.
 4. **Socratic prompt:** If you had to allocate $100 billion of climate finance to reduce coal use globally, where would you spend it? Which countries, which sectors, which projects? Why?
 
+**Answers**
+
+1. Because the dominant levers act on the wrong jurisdictions. Carbon pricing, financing restrictions, and trade measures are mostly designed and enforced by OECD economies, but 83% of coal consumption is in Asia-Pacific and ~55% is in China alone — which is its own largest producer, importer, and consumer. China can substitute domestic coal for imports and is largely insulated from Western financing constraints. So international levers bite hardest where coal use is already declining (OECD) and weakest where it is concentrated, meaning real leverage requires engaging Chinese and Indian domestic policy rather than relying on external pressure.
+
+2. Indonesia derives substantial export revenue, employment, and fiscal income from coal, so phase-down threatens a core economic interest, not just an energy choice. That creates strong domestic political resistance and incentives to keep producing for export even as some buyers retreat — a producer facing demand decline tends to defend volume and revenue. It means coal phase-down is not only a demand-side question (will Asia stop burning it) but a supply-side political-economy problem: major exporters have every reason to slow-walk transition unless compensated, which is part of the logic behind just-transition financing packages.
+
+3. The contradiction case: building coal while building renewables locks in emissions, risks stranded assets, and undercuts the climate benefit of the renewables surge. The coherent-strategy case: China is managing a grid where renewables are variable and power security became politically urgent after the 2021 blackouts, so it adds coal as backup/insurance capacity (often low-utilization) while letting renewables take the marginal growth — Chinese solar additions in 2024 alone exceeded total US generating capacity. Whether it reads as contradiction or strategy depends on whether the new coal runs at high capacity factors (genuine expansion) or sits idle as reserve margin (insurance behind a real transition).
+
+4. A defensible allocation concentrates spending where coal use is large, growing, and policy-movable rather than where it is already declining. India and Southeast Asia (Indonesia, Vietnam, Philippines) are higher-leverage than the OECD, where coal is retreating without help. Within those, prioritize accelerating renewables plus the grid investment and storage that make coal retirement feasible, and fund just-transition packages that compensate coal-dependent economies and workers so phase-down is politically survivable. The reasoning: money should buy avoided coal that would otherwise be built or kept running, and the binding constraints are grid capacity, financing cost, and the political economy of coal-dependent regions — not a shortage of solar panels.
+
 ---
 
 # Part 5: Reserves, the carbon budget, and the stranded-asset question
@@ -296,6 +326,16 @@ The cleanest framing: stranded-asset risk is real, concentrated in high-cost res
 2. Coal stranding has happened in OECD economies but barely in China or India. What does this asymmetry suggest about how stranded-asset transitions actually play out?
 3. The IEA's reintroduction of the Current Policies Scenario (CPS) in 2025 shows oil demand growing to 113 mb/d by 2050 — a dramatic walkback from previous "peak oil 2030" framing. How should you, as a sophisticated reader, interpret this change?
 4. **Socratic prompt:** A pension fund holds 8% of its portfolio in oil and gas equities. If 1.5°C policy is implemented, those equities are worth a fraction of their current price. What should the fund do — divest now (potentially missing further upside), engage with companies on transition plans, hedge through derivatives, or accept the risk? Defend a specific answer.
+
+**Answers**
+
+1. CCS helps less than assumed because climate scenarios only credit reserves that are *actually* burned with capture, and CCS deployment remains small, expensive, and far from the scale that would unlock most reserves. The reserve-to-budget gap is enormous — proved reserves hold ~3,400 GtCO₂ against a 2°C budget of ~1,000 GtCO₂ — so even generous CCS cannot close a roughly two-thirds shortfall. CCS converts specific high-value plants' emissions into a managed cost (the ExxonMobil argument), but it cannot economically capture the CO₂ from the vast majority of dispersed combustion, so most reserves stay unburnable.
+
+2. It suggests stranded-asset transitions are driven by domestic policy and economics, not by the global carbon budget acting uniformly. OECD coal stranded because of phase-out commitments, cheap competing renewables, and falling demand — Peabody and others went bankrupt, Germany set a 2038 exit. China and India kept building because domestic power-security and growth imperatives dominate, and they are insulated from the financing pressures that hit Western producers. So stranding happens where local policy and cost trajectories turn against an asset, not wherever the unburnable-carbon math says it should — meaning the transition is uneven and politically contingent.
+
+3. Read it as a politically-mediated shift, not a purely analytical update. CPS was reintroduced in 2025 after a five-year hiatus under explicit US pressure, and it assumes near-universal failure of announced policies — a heroic counterfactual that independent analysts (BNEF, IEEFA, IISD) have called closer to a capitulation scenario than an unbiased baseline. A sophisticated reader treats CPS as one bracketing scenario among several, looks at the underlying demand and technology assumptions rather than the headline, and recognizes that 2024's record demand also gave the industry's "demand is here" framing genuine empirical support.
+
+4. There is no single correct choice; the answer depends on the fund's beliefs and constraints. Divestment removes exposure but forfeits upside and surrenders shareholder voice; engagement keeps a seat at the table to push transition plans but works only if the fund has real influence and the companies are genuinely transitioning; hedging buys protection but costs premium and is hard to size against a slow, uncertain structural decline. The decisive variables are the fund's probability estimate that 1.5°C policy actually arrives, its time horizon and liquidity needs, its fiduciary mandate, and whether it can exert credible influence. A defensible position for most large funds is staged: engage where it has leverage, trim concentrated high-cost upstream exposure (where stranding risk is greatest), and treat full divestment as warranted only if it assigns high probability to aggressive policy and judges engagement futile.
 
 ---
 

@@ -180,6 +180,16 @@ The 45Q tax credit in the US — **$180/tCO₂ for DAC with geological storage**
 3. Stratos's design capacity is 500 ktCO₂/yr — nearly 14× the size of Mammoth. The technology jump (S-DAC → L-DAC) is large. What's the risk if Stratos underperforms?
 4. **Socratic prompt:** If you were Microsoft's chief sustainability officer in 2026, deciding whether to commit to a 10-year DAC purchase agreement at $500/tCO₂, what would you weigh in deciding yes or no?
 
+**Answers**
+
+1. The dilution hasn't killed DAC because subsidy and premium voluntary demand bridge the cost-to-revenue gap, and because DAC offers something nature-based credits cannot: highly permanent, verifiable removal of atmospheric CO₂ that supports net-negative claims. What makes specific projects viable is co-locating with cheap clean energy (Climeworks uses Icelandic geothermal for low-grade S-DAC heat; Stratos has a dedicated 145 MW solar facility), and the US 45Q credit of $180/tCO₂, calibrated near current costs. The dilution sets a cost floor, not a death sentence.
+
+2. Because installed capacity is a nameplate design figure, while delivery is verified, contracted CO₂ actually captured and stored. Plants ramp slowly — Mammoth only reached operation in May 2024 and runs below nameplate as it commissions; capacity figures (e.g., Stratos's 500 kt/yr) are design targets not yet achieved. Removals are also only counted once monitored and verified to a standard, which lags physical capture. So the ~1,200 tonnes reflects the immature, just-starting nature of the industry rather than a contradiction with installed numbers.
+
+3. Stratos represents both a 14× scale jump and a technology jump from solid-sorbent to liquid-solvent (high-temperature, ~900°C calcination) DAC. If it underperforms — on capacity, cost, or reliability — it would undercut confidence in the L-DAC pathway specifically and in DAC's cost-decline narrative generally, since it is the flagship first commercial-scale L-DAC plant. Buyers, investors, and the DOE hubs are watching it as proof that DAC can move from kilotonnes to megatonnes; a high-profile shortfall (echoing the Baytown pause in Ch. 10) would chill the pipeline.
+
+4. The CSO would weigh: the durability and verifiability advantage of DAC (genuine, long-lived removal that satisfies stringent net-zero accounting like SBTi V2's shift toward long-lived removals), the reputational and market-shaping value of being an anchor buyer, and the supplier's delivery track record against the $500/tCO₂ premium — 5–50× pricier than ETS allowances or nature-based credits. The decisive variables are whether the company's net-zero commitment specifically demands durable removals, its tolerance for paying to mature the market, and counterparty delivery risk over a 10-year horizon.
+
 ---
 
 # Part 3: BECCS in depth
@@ -334,6 +344,16 @@ Total conventional CDR potential: roughly 3–7 GtCO₂/yr by 2050 — significa
 2. Biochar and enhanced weathering have substantial co-benefits (soil improvement). DAC has no inherent co-benefits beyond CDR. Does this matter for which technologies deserve priority?
 3. The IPCC has historically relied heavily on BECCS in 1.5°C scenarios. If BECCS scales below expectations, what alternatives are most credible?
 4. **Socratic prompt:** If you had $1 billion to invest in CDR by 2030, would you concentrate it in one technology category or diversify across several? Defend your strategy.
+
+**Answers**
+
+1. The portfolio approach implies no single technology is being counted on to close the gigaton gap, and climate strategy should hedge across pathways with different cost, permanence, scale, and resource profiles. Each pathway is individually capped — DAC by energy, BECCS by sustainable biomass, enhanced weathering and mineralization by geology, biochar and biomass burial by feedstock, conventional CDR by land. Summing realistic potentials gets to the needed 5–10+ GtCO₂/yr only by combining several. Strategy therefore means parallel development and diversified demand, not betting on a winner, because any one pathway hitting its low estimate must be backstopped by others.
+
+2. Yes, it can matter for priority, but it cuts both ways. Co-benefits like soil improvement (biochar, ERW) lower the effective cost and create non-climate demand that aids early scaling and political durability, and can make deployment economic where pure-CDR pricing would not. But co-benefits complicate verification — distinguishing the CDR from agronomic effects is harder and monitoring is costly — and they may cap scale to where the co-benefit is wanted. DAC's lack of co-benefits is offset by cleaner, more verifiable accounting. So co-benefits should inform, not dictate, priority; durability and verifiability matter as much.
+
+3. The most credible alternative is DAC, since it has the largest theoretical scale potential (5–10+ GtCO₂/yr), excellent permanence, and clean verification, and is the obvious substitute when BECCS biomass-sustainability limits bite. Enhanced rock weathering and mineralization (geological-timescale permanence) and biomass burial are credible complements. The catch, flagged in the chapter, is that DAC is currently 5–10× more expensive per ton than BECCS, so substituting DAC for shortfallen BECCS raises the total cost of the negative-emissions program substantially — which is precisely why scenarios leaned on BECCS in the first place.
+
+4. A defensible strategy diversifies, for the reasons in Q1: in 2030 the relative winners are genuinely uncertain, permanence and cost profiles differ, and an AMC-style spread (the Frontier model) de-risks the portfolio while sending demand signals across the field. Concentration is only justified if you have strong conviction in one pathway's cost trajectory and want to drive it down the learning curve fastest. The decisive variables are your goal (maximize tonnes delivered by 2030 favors cheaper near-ready options like biochar/ERW; maximize long-run capacity favors seeding DAC) and your risk tolerance.
 
 ---
 
@@ -530,6 +550,16 @@ Several near-term decisions will substantially shape the trajectory:
 2. SBTi V2 mandates increasing removal-credit use over time. If 4,000 SBTi-validated companies all demand removal credits, total demand could reach 1+ GtCO₂/yr by 2050 — orders of magnitude larger than current. Is this realistic?
 3. The Frontier model has been described as the most important institutional innovation in early-stage CDR. Why hasn't it been replicated more widely — for renewable energy, batteries, or other clean technologies?
 4. **Socratic prompt:** Imagine you're a junior climate-policy advisor in 2026, asked to write a one-page memo on whether the EU should integrate CDR into the ETS. What's the case for, the case against, and what would you recommend?
+
+**Answers**
+
+1. Greater emissions reduction is the more credible path, because the chapter's "pessimistic" CDR case — roughly current trends extrapolated — sits below even the central case, so banking on novel CDR closing a 5–10 GtCO₂/yr gap is the less reliable bet. CDR scaling depends on uncertain cost declines, biomass sustainability, and demand durability, none guaranteed. The honest planning posture is to treat CDR as a complement for genuine residuals and assume it underdelivers, which forces deeper near-term mitigation rather than relying on removals that may not materialize — the moral-hazard trap inverted into prudent conservatism.
+
+2. It is directionally plausible but not assured. The arithmetic is real: 4,000+ SBTi-validated companies neutralizing residuals could imply 1+ GtCO₂/yr of removal demand by their 2040–2050 target years, a genuine multi-gigaton demand-side lever. The contingencies are large, though — SBTi V2 must be finalized roughly as drafted and widely adopted, the durable supply must exist at affordable cost, and companies must honor commitments rather than weaken them. So the demand is realistic as a structural mechanism, but its realization depends on the same scaling and policy uncertainties that constrain supply.
+
+3. Because CDR's situation in the early 2020s was unusually well-suited to an AMC: a high-quality, durable product with essentially no existing market, no policy-mandated demand, and buyers (Stripe, Alphabet, Meta) motivated to create a market rather than just procure cheaply. Renewables, batteries, and the like already had large, growing, policy-driven markets and steep cost-decline trajectories — they didn't need a coordinated forward-commitment to create demand from scratch. AMCs fit nascent products lacking any natural buyer; clean technologies that already had self-sustaining markets had less need for the mechanism.
+
+4. The case for: integrating permanent CDR into the ETS creates large, durable, regulated demand beyond fragile corporate concentration, prices removals against allowances, and could pull novel CDR up the scaling curve. The case against: fungible CDR-for-allowances risks moral hazard — letting regulated emitters buy removals instead of cutting emissions — and permanence/verification gaps could let lower-quality removals undermine the cap's environmental integrity. A defensible recommendation: integrate cautiously, restricting eligibility to high-durability, well-verified removals (under the CRCF), capping the share usable for compliance, and ring-fencing it so it supplements rather than substitutes for gross reductions.
 
 ---
 
