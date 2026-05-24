@@ -85,6 +85,23 @@ The internal corporate price doesn't compare to any of these directly. A $100 in
 
 This chapter spends most of its time on the SCC because it's the most analytically important number — and the most politically volatile — but you should keep the categorical distinction clear throughout.
 
+## **Stop-and-check 9.A**
+
+1. Of the four "carbon prices," three are *prices on emissions* and one is an *estimate of damages*. Which is which, and why does that line matter more than any difference among the first three?
+2. A €72 EU ETS allowance and a $190 SCC are both "$/tCO₂" numbers. In what sense is comparing them meaningful, and in what sense is it a category error?
+3. A company touts a "$100 internal carbon price." Why is that number not comparable to a €72 ETS price or a $190 SCC — what different question does it answer?
+4. **Socratic prompt:** A newspaper headline reads "carbon now costs $X a ton." Given the four meanings, why is that sentence almost always under-specified — and what's the single question you'd ask to disambiguate it?
+
+**Answers**
+
+1. The compliance-market price, the carbon-tax rate, and the internal corporate price are all *prices on emitting* — administrative or management charges set by policy or management choice. The social cost of carbon is the only one that tries to *estimate the damage* a ton actually does. That line matters more than any difference among the first three because the first three are inputs to a decision (what does it cost me to emit?) while the SCC is a measure of the underlying externality (what does emitting cost the world?). Confusing a policy price for a damage estimate — e.g., concluding that because the ETS is €72 the "real" cost of carbon is €72 — collapses the is/ought distinction at the heart of climate economics.
+
+2. The comparison is meaningful as a *gap* statement: a €72 ETS price is "above the Trump-era SCC of ~$1–7 but well below the Biden-era $190," which tells you how far the policy price sits below the estimated damages — a genuinely useful diagnostic of whether emissions are underpriced. It's a category error if you treat them as the *same kind* of number — as if the ETS price were a measurement of damages, or the SCC were a market price someone pays. One is a clearing price for a permit under a cap; the other is a modeled estimate of discounted future harm. They live on the same axis (dollars per tonne) but answer different questions, so the only valid comparison is "how does the price we charge compare to the damage we estimate?"
+
+3. Because the internal price isn't a price anyone external pays or a damage estimate — it's a *management-accounting* figure used to rank the company's own investment alternatives. A $100 internal shadow price answers "how should we weight carbon in our capital-allocation decisions?", not "what does a tonne cost society?" or "what will the market charge me?" It can be set above or below both the ETS price and the SCC for strategic reasons (to anticipate future regulation, to steer R&D). Comparing it to the ETS or SCC mistakes an internal decision tool for an external price signal — useful to the firm, meaningless as a market or damage figure.
+
+4. It's under-specified because "$X a ton" could be any of the four — a market allowance price, a statutory tax rate, a company's internal shadow price, or an SCC damage estimate — and they can differ by two orders of magnitude for the same tonne. The single disambiguating question: *"Is that a price someone is charged to emit, or an estimate of the damage emitting causes?"* That immediately separates the SCC from the other three; a follow-up ("set by a market, a statute, or a company?") resolves the rest. The headline is almost always reporting one of these as if there were only one kind of "cost of carbon."
+
 ---
 
 # Part 2: The social cost of carbon in depth
@@ -137,7 +154,7 @@ The combination of these sensitivities gives a range:
 |---|---|
 | Trump 2017–2018 (domestic-only, high discount) | $3–7/tCO₂e |
 | Obama 2016 IWG | $51 (in 2020 dollars) |
-| Biden 2023 EPA (low discount, global, GIVE damages) | $190 (2020 baseline, $230 in 2030, $310 in 2050) |
+| Biden 2023 EPA (low discount, global, GIVE damages) | $190 (2020 baseline, $230 in 2030, $308 in 2050) |
 | Biden 2023 EPA at 1.5% discount rate | $380 (2030) |
 | Recent academic estimates (Bilal & Känzig 2024; broader damages) | $1,000+ |
 | Trump 2025 EPA proposed | $1 or eliminated |
@@ -192,7 +209,7 @@ Academic critiques (Bilal & Känzig 2024; Hänsel et al. 2020; Howard & Sterner 
 
 The bottom line: the policy-relevant SCC is somewhere in the $50–$500/tCO₂ range depending on assumptions, with $190/tCO₂ being the recent US central estimate and $1,000+ being plausible under more comprehensive damage treatment. The 2025 US administration estimate of $1/tCO₂ is not credible as a damage estimate; it's a political choice to minimize the role of climate in regulatory analysis.
 
-## **Stop-and-check 9.A**
+## **Stop-and-check 9.B**
 
 1. The four "carbon prices" introduced in Part 1 are not interchangeable. Which is most relevant for a coal power plant operator's investment decisions? Which is most relevant for a federal regulator setting vehicle emission standards? Which is most relevant for a tech company's net-zero strategy?
 2. The SCC has ranged from $1 to $1,000+ across legitimate estimates. Is this range a reason to dismiss the SCC entirely, or a reason to take it more seriously? Make the case both ways.
@@ -267,6 +284,23 @@ Worth a brief deeper look — not as a success story but as the most consequenti
 
 The Canadian experiment was the largest-scale test of whether a substantial, escalating national carbon tax with explicit revenue recycling could survive politically. The answer, at least for the consumer-facing charge, was no — despite a rebate design that left most households better off, the tax's visibility made it an irresistible political target, while the less-visible industrial carbon price survived. That asymmetry — visible consumer charges are fragile, industrial pricing is durable — is the lesson other jurisdictions are now absorbing.
 
+## **Stop-and-check 9.C**
+
+1. Sweden has sustained a ~$130/tCO₂e carbon tax for three decades, but most of its trade-exposed industry sits under the EU ETS and pays little or no national tax. Why is that exemption structure part of *why* the high headline rate is politically survivable?
+2. Canada's consumer fuel charge returned ~90% of households more than they paid, yet was repealed in 2025 — while the less-visible industrial carbon price survived. What does this say about whether good *design* can overcome bad *politics*?
+3. "Carbon taxes will crash the economy" is the standard objection, yet Sweden ($130), Switzerland (~$135), and Canada (en route to $125 before repeal) showed no clear economic harm. Why has the economic-harm prediction failed empirically — and why does the political-harm prediction keep succeeding?
+4. **Socratic prompt:** You're designing a national carbon tax in 2026 and your single overriding goal is *durability* — that it survives the next two elections. What design choices follow, and which textbook-efficient features would you sacrifice for political survival?
+
+**Answers**
+
+1. Because exempting EU-ETS (trade-exposed) sectors removes the constituency most able to credibly threaten relocation and mobilize against the tax, and concentrates the high rate on sectors — heating, transport fuels — where domestic alternatives (district heating, biomass, efficiency) exist and leakage isn't a real threat. A headline "$130" that actually fell at full force on steel and cement would provoke exactly the competitiveness fight that sinks carbon taxes elsewhere. So the exemption is not a loophole undermining the tax; it's what lets the high visible rate coexist with political peace — the tax bites where substitution is feasible and consent is obtainable, and steps aside where it would trigger a leakage-and-jobs backlash. (It also means Sweden's "95% coverage at $130" overstates the effective economy-wide price.)
+
+2. It says good design *helps but cannot guarantee* survival — politics can override economics. Canada's rebate design was, on the economic merits, close to ideal: progressive net incidence, transparent recycling, most households ahead. Yet "axe the tax" still worked, because the cost was salient and recurring (visible at the pump and on heating bills) while the rebate was diffuse and easy to discount or disbelieve. The asymmetry of salience — concentrated visible costs versus diffuse periodic benefits — is a political fact that no incidence table fully neutralizes. The survival of the *industrial* price in the same country confirms the lesson: durability tracks *visibility* more than *fairness*. Design can improve the odds; it cannot make a visible consumer charge politically safe.
+
+3. The economic-harm prediction failed because carbon taxes at observed levels are a small share of GDP, fall on activities with real substitution options, and are often revenue-recycled — so economies adjust at the margin rather than contracting. The political-harm prediction keeps succeeding because the *distribution* and *visibility* of the cost, not its aggregate size, drive politics: a modest economy-wide cost concentrated on visible, frequent purchases (fuel, heating) generates a vocal constituency of losers, while the benefits (avoided future damage, recycled revenue) are diffuse, deferred, and abstract. So the two predictions aren't in tension — the tax can be economically benign *and* politically toxic at the same time, which is exactly the pattern the global record shows.
+
+4. Durability-first design implies: (a) price *upstream and industrial* sources rather than visible consumer fuels where possible — the Canadian split shows industrial pricing survives; (b) if you must touch consumer fuels, recycle revenue as a *visible, frequent, branded* dividend (not a diffuse tax cut), so the benefit is as salient as the cost; (c) escalate *gradually and predictably* to avoid a yellow-vest shock; (d) exempt or transition trade-exposed industry (pair with a border adjustment) to neutralize the leakage-and-jobs argument; (e) bind it into linked institutions (an ETS market, a carbon club) that are costly to unwind. The textbook-efficiency sacrifices: comprehensive economy-wide coverage at a uniform price (you'll under-cover transport/buildings for political safety), a single high rate now (you'll phase in slowly), and minimal exemptions (you'll grant several). You trade first-best efficiency for the second-best policy that actually survives to keep operating — which, over decades, may abate more.
+
 ---
 
 # Part 4: Internal corporate carbon prices
@@ -316,6 +350,23 @@ For an investor or analyst reading a disclosure mentioning an "internal carbon p
 - **How does it interact with the SBTi or net-zero target?** A robust internal price should be doing some of the work toward the company's emissions trajectory.
 
 A high-quality internal carbon price plus a credible target with reasonable interim milestones is a strong signal. A low-level shadow price plus a 2050 target with no interim plan is weak.
+
+## **Stop-and-check 9.D**
+
+1. Distinguish a fee-internal carbon price from a shadow price. Which one actually changes behavior, and why?
+2. ExxonMobil's ~$80 shadow price has been criticized as "applied only nominally." From the *outside*, how would you tell whether an internal price is decision-changing or window-dressing?
+3. Microsoft's $100 fee funds its carbon-removal purchases. Trace how an internal fee becomes a self-funding decarbonization engine — and why a shadow price can't do the same.
+4. **Socratic prompt:** The internal carbon price is the one "carbon price" a company sets for itself with no external compulsion. What stops every firm from setting it at $0 — or a token $5 — and what actually disciplines the level?
+
+**Answers**
+
+1. A fee-internal price is real money: business units are charged per tonne of their emissions and the revenue is pooled (typically funding clean-energy or removal purchases). A shadow price is hypothetical: a per-tonne figure inserted into investment analysis to rank alternatives, with no cash changing hands. The fee changes behavior directly because it alters each unit's actual budget — emitting costs them money now — whereas the shadow price changes behavior only if leadership lets it *override* a conventional NPV that points the other way. A shadow price with no override authority is just a number in a spreadsheet; a fee is a live incentive.
+
+2. You look for evidence the price has *teeth*: Is it a fee with disclosed revenue and disclosed uses, or just a shadow figure? What scope does it cover, and is it high enough to flip real decisions (a $20 price in oil and gas is within normal fuel-cost noise)? Are there documented cases of investments chosen or rejected *because* of it? Does it bind — i.e., has it ever overridden a higher-NPV but higher-carbon option? And does it line up with the firm's actual emissions trajectory and interim targets? A price that is high, fee-based, broad in scope, and visibly tied to decisions and revenue is substantive; a low shadow price with no documented decision impact and a distant target is window-dressing.
+
+3. The fee creates an internal cash flow proportional to emissions, which does three things at once: it makes high-emitting projects internally more expensive (changing rankings), it generates a pool of money, and it earmarks that money for decarbonization (renewables, efficiency, removals). So the more the company emits, the more it funds its own abatement — a self-financing loop that also gives business units an incentive to cut emissions to lower their internal charge. A shadow price generates no cash, so it can reweight a decision but cannot *fund* anything; it has no mechanism to convert the carbon signal into deployed capital. The fee turns the price into a budget; the shadow turns it into advice.
+
+4. Nothing in principle stops a firm from setting $0 or a token level — and many effectively do, which is the core weakness of self-set prices. What disciplines the level is external and reputational, not internal: anticipated *real* carbon costs (a firm exposed to the EU ETS or CBAM has reason to shadow-price near the expected future allowance price, or be blindsided); investor and ESG-rater scrutiny (CDP now asks fee-vs-shadow, scope, and use); the credibility demands of an SBTi-validated target that the price is supposed to help deliver; and litigation/greenwashing risk if the stated price is exposed as ornamental. Absent those pressures, the internal price drifts toward the symbolic — which is exactly why a low shadow price with no interim plan is read as weak. The discipline comes from the firm's *external* carbon exposure and audience, not from virtue.
 
 ---
 
@@ -367,6 +418,23 @@ CBAM has triggered substantial international pushback:
 
 The political response is at least as consequential as the direct economic impact. CBAM has reshaped the conversation about carbon pricing as a domestic-only matter into one with explicit international implications.
 
+## **Stop-and-check 9.E**
+
+1. The carbon club is a solution to one specific economic problem. Name it, and explain why ordinary climate treaties (Kyoto, Paris) structurally *cannot* solve it.
+2. Why does a carbon club need *border tariffs against non-members* to function — why isn't it enough to simply reward members who price carbon?
+3. The club's leverage depends on the EU sustaining CBAM through a WTO challenge *and* on other big economies adopting CBAM-like mechanisms. What's the failure mode if the club stays small and isolated?
+4. **Socratic prompt:** A developing-country trade minister calls CBAM "green protectionism that violates CBDR." An EU official calls it "the only way to stop free-riding." Both are partly right. Whose framing should govern — and what would a *fair* version of the carbon club look like?
+
+**Answers**
+
+1. The problem is *free-riding* (Nordhaus, 2015): climate stability is a global public good, so a country that doesn't price carbon still enjoys the benefit of everyone else's reductions without bearing the cost — making non-participation individually rational and cooperation unstable. Kyoto and Paris can't solve it because they are *voluntary* regimes with no mechanism to penalize non-participation: Kyoto bound only a shrinking subset and the US simply left; Paris lets every country set (and miss) its own target with no enforcement. Both rely on goodwill and reputation, which is exactly what a free-rider can ignore. The carbon club's innovation is to attach a *cost to staying out* (border tariffs), converting a voluntary public-goods game into one where joining is the cheaper option.
+
+2. Because rewarding members only doesn't change the free-rider's calculus — a non-member still gets the global climate benefit for free and now also keeps its cost advantage. The penalty has to fall on *non-participation* to flip the incentive: the border tariff makes selling into the club's market more expensive for carbon that hasn't been priced, so the exporter's choice becomes "price carbon at home and keep the revenue, or don't and pay it at the club's border." Only a stick aimed at outsiders makes joining individually rational. A club that merely subsidizes members would itself be a public good vulnerable to free-riding — the very problem it's meant to fix.
+
+3. If the club stays small, its border tariffs are pinpricks rather than a binding incentive: a non-member can reroute carbon-intensive exports to non-club markets, the price signal at the club border is too narrow to reshape global production, and the club bears administrative and trade-friction costs without achieving recruitment. Worse, a small isolated club invites retaliation and WTO challenge it may not survive, and risks simply shifting dirty production to serve the rest of the world ("resource shuffling" at global scale) rather than cleaning it up. The mechanism only works above a critical mass of market power — which is why the EU's solo CBAM is a test case whose success depends on the UK, and ideally the US/Japan/Canada, following.
+
+4. Both framings capture something real, and the honest resolution is that *neither alone should govern* — the legitimacy of the club depends on reconciling them. The EU official is right that without a cost on non-participation, free-riding makes ambitious pricing self-defeating. The trade minister is right that a rich bloc imposing its carbon price on poorer exporters — who emitted little historically and have less capacity — collides with CBDR and can function as protectionism. A fair carbon club would: recycle CBAM revenue (or equivalent) back to developing-country decarbonization rather than into EU coffers; grant differentiated phase-in timelines and capacity/verification support to lower-income exporters; recognize a broad range of equivalent domestic measures (not only EU-style ETS) as qualifying; and pair the border charge with technology and finance transfer. The decisive variables are whether the club is designed as a *recruitment-and-support* mechanism (legitimate) or a *revenue-and-advantage* grab (protectionist), and whether the historical-responsibility asymmetry is addressed rather than ignored.
+
 ---
 
 # Part 6: Coverage gap analysis
@@ -381,7 +449,7 @@ But the headline coverage hides huge variation in the price level. Of the 24% co
 
 - **Maybe 8–10%** is covered at prices above $50/tCO₂e (EU ETS, California, Washington, Sweden, Norway, Canada national, Switzerland, UK ETS at the higher end).
 - **Roughly 8–10%** is covered at modest prices $10–50/tCO₂e (other EU member-state taxes, Korea, RGGI, etc.).
-- **Roughly 6–8%** is covered at low prices below $10/tCO₂e (China national ETS, Japan, South Africa, Argentina, Singapore in early years, Mexico, Brazil pilots, various others).
+- **Roughly 6–8%** is covered at low prices below $10/tCO₂e (Japan, South Africa, Argentina, Singapore in early years, Mexico, Brazil pilots, various others). **China's national ETS — roughly 10% of global emissions on its own, the single largest covered bloc by volume — sits just above this band at ~¥85/tCO₂e (≈$11–14)**, at the low end of the modest-price tier; its low price, not its coverage, is what keeps it from materially shifting behavior yet.
 
 So **the "high-impact" carbon pricing coverage** — prices high enough to materially shift behavior in covered sectors — is roughly 8–10% of global emissions. This is far smaller than the headline 24%.
 
@@ -413,7 +481,7 @@ The gap analysis suggests two things:
 
 The realistic picture: **carbon pricing is becoming nearly universal as an institutional fact, but the prices in most jurisdictions remain below what comprehensive climate-economics analysis suggests is needed.** Whether prices in major systems escalate to the $200+/tCO₂e level that some analyses suggest is needed by 2030 is the major open question.
 
-## **Stop-and-check 9.B**
+## **Stop-and-check 9.F**
 
 1. The World Bank's "24% of global emissions priced" sounds substantial. The "8–10% priced at materially high levels" sounds much less. Both are true. Which framing is more useful for assessing global progress, and why?
 2. The carbon-club concept proposes a coalition of carbon-pricing jurisdictions imposing tariffs on non-participants. What's the strategic logic, and what's the main weakness?
@@ -499,6 +567,23 @@ A pragmatic synthesis of the experience to date:
 - Political constituencies vetoing visible price increases (transportation fuel in many democracies).
 
 The 2026–2030 window will substantially clarify which sectors carbon pricing works for and which require complementary instruments. The EU ETS2 launch will be a major test of whether cap-and-trade can extend to fragmented sectors. And Canada's 2025 repeal of its consumer carbon tax — while its industrial carbon price survived — has already delivered one verdict: highly visible consumer charges are politically fragile in a way that upstream or industrial pricing is not.
+
+## **Stop-and-check 9.G**
+
+1. The chapter concludes that "no single instrument has been responsible for major decarbonization." If that's true, why is so much policy debate framed as carbon-pricing-versus-everything-else?
+2. Renewable cost declines were driven mainly by R&D, manufacturing learning, and deployment subsidies — not carbon prices. What does that reveal about what carbon pricing *is* and *isn't* good at?
+3. Carbon pricing is "most effective where emissions are large and concentrated" and "least effective where distributed across many small sources." Map the major emitting sectors onto that distinction and name which most need complementary instruments.
+4. **Socratic prompt:** You have the political capital to pass exactly *one* major climate policy. Carbon price, or a package of standards-plus-subsidies? What does the answer depend on — and does the economists' carbon-pricing-first instinct survive contact with the political-economy record?
+
+**Answers**
+
+1. Partly because the debate is ideological as much as empirical: carbon pricing is the market-based, economist-favored instrument, so it became a proxy in a broader argument about whether climate policy should work through prices or through the state picking technologies and writing rules. The framing also persists because each camp has real intellectual commitments (efficiency and neutrality on one side; deployment certainty and political durability on the other) and because "which instrument?" is a cleaner debate than "what's the right mix?" But the empirical record shows the dichotomy is mostly false — actual decarbonization came from *combinations* (price + standards + subsidies + R&D) — so the versus-framing is more a feature of advocacy and academic identity than of how emissions actually fell.
+
+2. It reveals that carbon pricing is good at *allocating* abatement efficiently across existing options and at *accelerating adoption* of technologies that already exist, but weak at *creating* the technologies in the first place. Price signals tell the economy "find the cheapest tonne to cut" — which works when low-carbon substitutes are available — but fundamental cost breakthroughs (solar, batteries, EVs) came from sustained R&D, manufacturing scale-up, and deployment subsidies that pushed nascent technologies down the learning curve before any carbon price would have made them competitive. So pricing is an excellent *deployment and allocation* instrument and a poor *innovation* instrument; the two jobs need different tools, which is why the mix outperforms either alone.
+
+3. Large-and-concentrated (pricing works well): power generation, heavy industry (steel, cement, chemicals), refining, large gas-processing — few big point sources, monitorable, with substitution options. Distributed-and-small (pricing works poorly, complementary instruments needed): buildings/heating (millions of units, slow stock turnover, up-front capital barriers — needs codes, heat-pump subsidies, retrofit finance), road transport (needs standards and EV subsidies plus charging infrastructure), and agriculture (millions of diffuse biological sources, politically protected — needs targeted regulation and incentives). The sectors most needing complementary instruments are precisely the fragmented ones the ETSs have historically excluded, which is why ETS2's attempt to price buildings and transport is such a consequential test.
+
+4. It depends on the sector you're targeting, the available substitutes, and the political tolerance for visible cost. For a power/industry-heavy economy with concentrated emitters and some political room, a carbon price is the higher-leverage single bet — broad coverage, revenue, efficient allocation. For an economy where the binding problem is distributed sources with no cheap substitute yet (transport, buildings) or where any visible price is politically fatal, the standards-plus-subsidies package will achieve more actual abatement and build supportive constituencies rather than opposition. The economists' pricing-first instinct *partially* survives the political-economy record: pricing remains the efficiency benchmark and belongs in almost any serious mix, but the record (yellow vests, Canada's repeal, the fact that the biggest cost declines came from subsidies and R&D) shows that a politically durable second-best package often beats a first-best price that gets repealed. The decisive variables are whether low-carbon substitutes already exist to respond to the price, and whether the price can survive the next election — if either is "no," the package wins.
 
 ---
 
