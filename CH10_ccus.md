@@ -338,7 +338,7 @@ Santos's Moomba project in South Australia. Operational October 2024. Reuses exi
 
 ## Stratos DAC (Texas, USA, 500 ktCO₂/yr at full capacity)
 
-Occidental Petroleum's 1PointFive subsidiary brought the world's largest direct air capture facility online in 2025. Located in the Permian Basin. CO₂ captured and stored geologically (with some EOR use).
+Occidental Petroleum's 1PointFive subsidiary is bringing the world's largest direct air capture facility online, with Phase 1 operations expected in 2026 and a phased ramp toward design capacity (Ch. 11). Located in the Permian Basin. CO₂ captured and stored geologically (with some EOR use).
 
 **Significance:** Brings DAC to commercial-relevant scale (500 kt/yr is roughly 100× the previous largest DAC facility). Provides a template for the next decade's DAC scaling. Heavily reliant on 45Q tax credits and voluntary credit purchases (Microsoft and others have purchased Stratos credits at premium prices).
 
@@ -415,7 +415,7 @@ The UK has developed one of the most sophisticated CCUS support frameworks. The 
 
 **Canada's CCUS Investment Tax Credit** (announced 2022, in force 2023): 50% of capital cost for direct CO₂ capture (60% for DAC), 37.5% for transport and storage. Combined with provincial supports (Alberta's TIER credits, Saskatchewan's similar programs), provides substantial subsidy.
 
-**Norway's CO₂ tax** has been a major driver of Sleipner and Snøhvit. Currently NOK 952/tCO₂ (~$95), rising to NOK 2,000/tCO₂ (~$220) by 2030. Combined with the carbon-storage exemption, this creates strong CCS economics. **Longship** is the Norwegian government's flagship CCS funding program supporting Northern Lights and Brevik.
+**Norway's CO₂ tax** has been a major driver of Sleipner and Snøhvit. Currently ~NOK 944/tCO₂ (~$95) for the petroleum sector, rising to NOK 2,000/tCO₂ (~$220) by 2030 (Ch. 9). Combined with the carbon-storage exemption, this creates strong CCS economics. **Longship** is the Norwegian government's flagship CCS funding program supporting Northern Lights and Brevik.
 
 ## China's deployment
 
@@ -674,7 +674,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | Boundary Dam cumulative capture | ~7.1 Mt cumulative since 2014 (annual ~700–790 ktCO₂/yr, below ~1 Mt/yr design) | Sept 2025 | SaskPower disclosures |
 | Gorgon cumulative injection vs. design | ~10.5 Mt through 2024 vs. ~17 Mt design | 2024 | IEEFA / Chevron Australia disclosures; Rigzone Nov 2024 |
 | Petrobras Santos Basin capacity | ~10.6 Mt/yr (design/nameplate; 2024 actual ~14.2 Mt) | 2024 | Petrobras operator disclosures; gasworld; Offshore Energy |
-| Norway CO2 tax current rate | NOK 952/tCO₂ (~$95) | 2023 (mineral oil general rate) — NOTE: 2025 petroleum-sector rate is NOK 944/tCO₂; verify before re-print | Norskpetroleum.no; Norwegian Tax Administration |
+| Norway CO2 tax current rate | ~NOK 944/tCO₂ (~$95); to NOK 2,000 (~$220) by 2030 | 2025 petroleum-sector rate (applies to Sleipner/Snøhvit); matches Ch. 9 | Norskpetroleum.no; Norwegian Tax Administration |
 | Norway CO2 tax 2030 target | NOK 2,000/tCO₂ (~$220) | 2020-prices basis; NOK 2,400 in 2025 prices | Norwegian Government Prop. 1 LS (2024–2025) |
 | China operational CCUS capacity | ~5 Mt/yr | end-2024 | IEA CCUS Projects Database 2025 (Chinese data carries higher uncertainty) |
 | Northern Lights EU funding | €131 million | 2024 | European Commission / Connecting Europe Facility; norlights.com |
