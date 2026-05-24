@@ -234,13 +234,13 @@ Most economists historically favored carbon taxes over cap-and-trade, on grounds
 
 ## Major operational carbon tax systems
 
-**Sweden** — Carbon tax since 1991, the world's first. Current rate: ~$130/tCO₂e (one of the highest in the world). Coverage: ~95% of CO₂ emissions in covered sectors (heating, fuel, industry). Some industries (cement, EU ETS sectors) face partial or zero tax to avoid double-coverage with EU ETS. Substantial decarbonization of heating sector and broader industrial intensity reduction since adoption.
+**Sweden** — Carbon tax since 1991, the world's first. Current rate: ~SEK 1,510–1,520/tCO₂ (~€134–138, ~$145–155) — **the highest national carbon tax in the world**. Coverage: ~95% of CO₂ emissions in covered sectors (heating, fuel, industry). Some industries (cement, EU ETS sectors) face partial or zero tax to avoid double-coverage with EU ETS. Substantial decarbonization of heating sector and broader industrial intensity reduction since adoption.
 
-**Norway** — Tax since 1991 (concurrent with Sweden, the original Nordic pioneers). Current rate: ~NOK 952/tCO₂e (~$95). Projected to rise to NOK 2,000/tCO₂e (~$220/tCO₂e) by 2030 under current planning. Coverage: ~60% of national emissions. Major source of state revenue.
+**Norway** — Tax since 1991 (concurrent with Sweden, the original Nordic pioneers). Current rate: ~NOK 944/tCO₂e (~$95) in 2025, rising ~14% for 2026. Legislated to reach NOK 2,000/tCO₂e by 2030 (in 2020 prices ≈ ~NOK 2,400 in 2025 prices, ~$220). Coverage: ~60% of national emissions. Major source of state revenue.
 
 **Finland, Denmark, Liechtenstein, Iceland** — Other Nordic-region carbon taxes ranging from $30 to $100+/tCO₂e. Varying coverage.
 
-**Switzerland** — Carbon tax since 2008. Rate: ~CHF 130 (~$150). Coverage: heating and process emissions outside the Swiss ETS (which is linked to EU ETS).
+**Switzerland** — Carbon tax since 2008. Rate: CHF 120/tCO₂e (~$135), unchanged since 2022. Coverage: heating and process emissions outside the Swiss ETS (which is linked to EU ETS).
 
 **British Columbia** — Carbon tax from 2008 until 2025. Reached ~C$80/tCO₂e (~$59); revenue-neutral by design (offset by tax cuts in early years; partially recycled to taxpayers as a Climate Action Tax Credit). Covered ~70% of provincial emissions and was one of the most rigorously studied carbon tax implementations, with a generally positive empirical record — yet BC **repealed its consumer carbon tax in April 2025**, days after the federal floor that had backstopped it was removed (see the Canadian case below).
 
@@ -248,7 +248,7 @@ Most economists historically favored carbon taxes over cap-and-trade, on grounds
 
 **France** — Domestic carbon tax (Contribution Climat Énergie) since 2014. Currently €44.6/tCO₂e (frozen since 2018 after yellow vest protests). The 2018 protests halted the planned annual escalation.
 
-**Ireland** — Carbon tax since 2010. Rate: €56/tCO₂e (2024), legislated to rise to €100 by 2030. Coverage: domestic fuel and gas.
+**Ireland** — Carbon tax since 2010. Rate: €63.50/tCO₂e (2025) for most fuels, rising to €71 (from Oct 2026) and legislated to reach €100 by 2030. Coverage: domestic fuel and gas.
 
 **United Kingdom** — Carbon Price Floor (CPF) — a top-up to the (now-departed) EU ETS power sector. Currently £18/tCO₂e (~$23). Applies to fossil fuel use in power generation. Operates in addition to the UK ETS.
 
@@ -256,7 +256,7 @@ Most economists historically favored carbon taxes over cap-and-trade, on grounds
 
 **Singapore** — Carbon tax since 2019. Rate: S$25/tCO₂e (~$19) in 2024, rising to S$45 in 2026–2027 and S$50–80 by 2030. Coverage: ~80% of national emissions.
 
-**South Africa** — Carbon tax since 2019. Rate: ZAR 190/tCO₂e (~$10). Limited coverage in early years; phased expansion underway.
+**South Africa** — Carbon tax since 2019. Headline rate: ZAR 308/tCO₂e (~$17) from Jan 2026 (ZAR 236 in 2025; was ZAR 190 in 2024), though effective rates remain far lower after generous allowances. Phase 2 began 2026; phased expansion underway.
 
 **Argentina, Chile, Colombia, Mexico** — Various national carbon taxes at modest rates ($1–25/tCO₂e). Limited coverage.
 
@@ -443,15 +443,15 @@ A useful question: what fraction of global emissions is meaningfully priced?
 
 ## The headline number
 
-According to the **World Bank's State and Trends of Carbon Pricing 2024** report (updated 2025), carbon pricing instruments now cover approximately **24% of global GHG emissions**. This number has grown steadily — about 5% in 2010, 12% in 2015, 22% by 2023.
+According to the **World Bank's State and Trends of Carbon Pricing 2025** report (June 2025), carbon pricing instruments now cover approximately **28% of global GHG emissions** across 80 instruments (43 carbon taxes + 37 ETSs). Coverage has grown steadily — about 5% in 2010, 12% in 2015, 22% by 2023, ~28% by 2025.
 
-But the headline coverage hides huge variation in the price level. Of the 24% covered:
+But the headline coverage hides huge variation in the price level. Of the ~28% covered:
 
 - **Maybe 8–10%** is covered at prices above $50/tCO₂e (EU ETS, California, Washington, Sweden, Norway, Canada national, Switzerland, UK ETS at the higher end).
 - **Roughly 8–10%** is covered at modest prices $10–50/tCO₂e (other EU member-state taxes, Korea, RGGI, etc.).
-- **Roughly 6–8%** is covered at low prices below $10/tCO₂e (Japan, South Africa, Argentina, Singapore in early years, Mexico, Brazil pilots, various others). **China's national ETS — roughly 10% of global emissions on its own, the single largest covered bloc by volume — sits just above this band at ~¥85/tCO₂e (≈$11–14)**, at the low end of the modest-price tier; its low price, not its coverage, is what keeps it from materially shifting behavior yet.
+- **Roughly 10–12%** is covered at low prices at or below ~$10–14/tCO₂e (Japan, South Africa, Argentina, Mexico, Brazil pilots, and others). **China's national ETS — roughly 10% of global emissions on its own, the single largest covered bloc by volume — sits at the low end of this range at ~¥85/tCO₂e (≈$11–14)**; its low price, not its coverage, is what keeps it from materially shifting behavior yet.
 
-So **the "high-impact" carbon pricing coverage** — prices high enough to materially shift behavior in covered sectors — is roughly 8–10% of global emissions. This is far smaller than the headline 24%.
+So **the "high-impact" carbon pricing coverage** — prices high enough to materially shift behavior in covered sectors — is roughly 8–10% of global emissions. This is far smaller than the headline ~28%.
 
 ## Sector and country gaps
 
@@ -475,7 +475,7 @@ By **country**:
 
 The gap analysis suggests two things:
 
-**1. Carbon pricing is geographically and sectorally uneven.** Most of the global emissions footprint is not priced at levels that match the policy ambition implied by the Paris Agreement. The 1.5°C-compatible price ranges from IPCC AR6 ($135–6,000/tCO₂e by 2030) are far above current effective prices in most contexts.
+**1. Carbon pricing is geographically and sectorally uneven.** Most of the global emissions footprint is not priced at levels that match the policy ambition implied by the Paris Agreement. The 1.5°C-compatible price ranges from IPCC AR6 ($135–5,500/tCO₂e by 2030, 2010 USD) are far above current effective prices in most contexts.
 
 **2. Coverage growth is real but mostly in lower-price systems.** China's national ETS at low prices added ~30% of global emissions to "covered" but with limited near-term behavioral impact. Brazil's pending system, Indonesia's expansion, Thailand's pilots — all add coverage but at modest prices.
 
@@ -483,14 +483,14 @@ The realistic picture: **carbon pricing is becoming nearly universal as an insti
 
 ## **Stop-and-check 9.F**
 
-1. The World Bank's "24% of global emissions priced" sounds substantial. The "8–10% priced at materially high levels" sounds much less. Both are true. Which framing is more useful for assessing global progress, and why?
+1. The World Bank's "~28% of global emissions priced" sounds substantial. The "8–10% priced at materially high levels" sounds much less. Both are true. Which framing is more useful for assessing global progress, and why?
 2. The carbon-club concept proposes a coalition of carbon-pricing jurisdictions imposing tariffs on non-participants. What's the strategic logic, and what's the main weakness?
 3. Carbon prices in major systems have risen substantially over the past five years. EU ETS from ~€20 in 2018 to ~€75 in 2026. Canada from C$20 to C$80. Sweden from $130 (sustained). What's likely to happen to prices in 2026–2030, and what would push them higher or lower?
 4. **Socratic prompt:** If you were advising a developing country in 2026 on whether to adopt carbon pricing and at what level, what factors would you consider, and what would your recommendation be?
 
 **Answers**
 
-1. The "8–10% at materially high levels" framing is more useful for assessing real progress toward emissions reductions, because behavior changes only where the price is high enough to shift operating and investment decisions. The 24% headline counts any covered emission regardless of price, so it lumps China's national ETS at roughly $11–14 and Japan at about $2 together with the EU ETS at €75, overstating effective pressure. The 24% figure is the better measure of institutional reach — how widely the machinery of carbon pricing has spread — which matters because that infrastructure can later be tightened. So 24% tracks institutional adoption; 8–10% tracks where pricing actually bites. For gauging whether the world is reducing emissions, the narrower number is the honest one.
+1. The "8–10% at materially high levels" framing is more useful for assessing real progress toward emissions reductions, because behavior changes only where the price is high enough to shift operating and investment decisions. The ~28% headline counts any covered emission regardless of price, so it lumps China's national ETS at roughly $11–14 and Japan at about $2 together with the EU ETS at €75, overstating effective pressure. The ~28% figure is the better measure of institutional reach — how widely the machinery of carbon pricing has spread — which matters because that infrastructure can later be tightened. So ~28% tracks institutional adoption; 8–10% tracks where pricing actually bites. For gauging whether the world is reducing emissions, the narrower number is the honest one.
 
 2. The strategic logic answers the free-rider problem in climate cooperation (Nordhaus, 2015): countries that don't price carbon benefit from others' reductions without bearing the cost, so a coalition of pricing jurisdictions imposes border tariffs (CBAM-style) on non-participants, flipping the incentive — joining the club and pricing domestically becomes cheaper than paying the club's border charges, and a joiner keeps the revenue itself. The main weakness is that it depends on a large, committed coalition with market power and on surviving the WTO-compatibility challenge: a small or fractious club lacks the leverage to coerce participation, non-participants can retaliate or reroute trade, and verification of embedded emissions creates asymmetric, contestable burdens. Without critical mass and legal durability, the club's tariffs are pinpricks rather than a binding incentive.
 
@@ -595,7 +595,7 @@ Three things to take away:
 
 **2. The social cost of carbon has been politically volatile in the US.** From $7 (Trump 1) to $51 (Obama/Biden interim) to $190 (Biden 2023) to ~$1 (Trump 2). The volatility reflects genuine analytical choices (discount rate, damage function, scope) but the policy swings have been larger than the science justifies. The recent 2025 reversion is significant for federal regulatory analysis.
 
-**3. Coverage is rising but high-impact pricing is still limited.** ~24% of global emissions are formally priced; only ~8–10% at materially high levels. The gap between current pricing and what climate-economic models suggest is needed remains substantial. Closing this gap is the central open question in 2026–2030.
+**3. Coverage is rising but high-impact pricing is still limited.** ~28% of global emissions are formally priced; only ~8–10% at materially high levels. The gap between current pricing and what climate-economic models suggest is needed remains substantial. Closing this gap is the central open question in 2026–2030.
 
 The next decade will test whether carbon pricing can extend from the current coverage to comprehensive global pricing, whether prices can rise to levels that reflect climate damages, and whether the political economy can sustain pricing at those levels.
 
@@ -654,30 +654,22 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | Trump 2025 SCC reversion steps | E.O. 14154 (Jan 20 2025) → EPA overhaul announced (Mar 2025) → M-25-27 memorandum (May 5 2025) → OIRA guidance (Jul 2025); interim estimate ~$1/tCO₂ | Jan–Jul 2025 | E.O. 14154; OMB M-25-27; Harvard EELP SCC tracker |
 | Sweden carbon tax | ~€134–138/tCO₂e (SEK 1,510–1,520; USD ~$145–150) | 2025–2026 | OECD Effective Carbon Rates 2025: Sweden; Swedish Government.se |
 | Norway carbon tax | NOK 944/tCO₂e (~$92–95); trajectory to NOK 2,000 (~$220) by 2030 | 2025 | Norwegian Government Prop. 1 LS (2024–2025) |
-| Switzerland carbon tax | CHF 120/tCO₂e (~$135) — note: chapter states CHF 130 (~$150), which overstates; rate has been CHF 120 since 2022 | 2022–present | Swiss BAFU CO₂ levy page; OECD Effective Carbon Rates 2025: Switzerland |
+| Switzerland carbon tax | CHF 120/tCO₂e (~$135), unchanged since 2022 | 2022–present | Swiss BAFU CO₂ levy page; OECD Effective Carbon Rates 2025: Switzerland |
 | France carbon tax (CCE) | €44.6/tCO₂e (frozen since 2018) | 2018–present | IEA policy database; French Ministry statistics |
 | Ireland carbon tax | €63.50 (2025); rising to €71 in Oct 2025 for motor fuels (€71 full rate effective 2026) | Oct 2025 / Budget 2026 | Citizens Information Ireland; RTÉ Budget 2026 reporting |
 | UK Carbon Price Floor (CPF) | £18/tCO₂e (maintained through 2026–2027) | 2016–2027 | UK Practical Law; House of Commons Library |
 | Japan carbon tax | JPY 289/tCO₂e (~$2); GX fossil-fuel surcharge levy launching FY 2028 | 2012-present / 2028 | IEA GX policy database; Carbon Direct Japan GX-ETS analysis |
 | Singapore carbon tax | S$25 (2024) → S$45 (2026–2027) → S$50–80 (2030 target) | Jan 2026 | NCCS Singapore carbontax page; Climate Impact X |
-| South Africa carbon tax | ZAR 190 (2024) → ZAR 236 (Jan 2025) — note: chapter cites ZAR 190, which is the 2024 figure; 2025 statutory rate is ZAR 236 | Jan 2025 | South African Revenue Service; PKF South Africa 2025 |
+| South Africa carbon tax | ZAR 308/tCO₂e from Jan 2026 (ZAR 236 in 2025; ZAR 190 in 2024); effective rate far lower after allowances | Jan 2026 | South African Revenue Service; National Treasury Budget 2026 |
 | Canada consumer fuel charge | Abolished April 1 2025 (was C$80/tCO₂e); industrial OBPS retained | April 1 2025 | Canadian federal government announcement |
 | BC consumer carbon tax | Repealed April 2025 | April 2025 | BC government announcement |
 | China national ETS CEA price | ~¥85/tCO₂e (approx. $11–12 at prevailing exchange rate); NOT below $10 — see body inconsistency note | 2025 (Q1–Q2) | ICAP China ETS page; IETA China Business Brief Jul 2025 |
 | Microsoft internal carbon fee | $100/tCO₂e (Scope 1, 2, and selected Scope 3 including business travel) | 2025 | Microsoft Industry Blog (Mar 2022, ongoing); SEC FY2025 8-K |
-| World Bank global emissions coverage | ~28% of global GHG emissions priced (updated 2025 report); chapter cites "24%" which was the 2023/2024 figure | June 2025 | World Bank State and Trends of Carbon Pricing 2025 (released Jun 2025) |
+| World Bank global emissions coverage | ~28% of global GHG emissions priced; 80 instruments (43 taxes + 37 ETSs) | June 2025 | World Bank State and Trends of Carbon Pricing 2025 (released Jun 2025) |
 | World Bank "8–10% at materially high levels" | Unchanged characterization; consistent with 2025 data | June 2025 | World Bank State and Trends of Carbon Pricing 2025 |
-| IPCC AR6 1.5°C-compatible carbon price | $135–$5,500/tCO₂e by 2030 (2010 USD) — note: chapter cites "$135–6,000" which slightly overstates the AR6 upper bound | 2022 (AR6 WGIII) | IPCC AR6 WGIII; Niskanen Center AR6 carbon price analysis |
+| IPCC AR6 1.5°C-compatible carbon price | $135–$5,500/tCO₂e by 2030 (2010 USD) | 2022 (AR6 WGIII) | IPCC AR6 WGIII; Niskanen Center AR6 carbon price analysis |
 
-**Body inconsistencies flagged for correction (do not require sources table changes alone):**
-
-- **China CEA price bucket conflict:** Line ~384 places China national ETS in the "below $10/tCO₂e" bucket; line ~425 (Stop-and-check answer) correctly states "roughly $11–14." Verified current (2025) CEA price: ¥85/tCO₂e ≈ $11–12 at 2025 exchange rates. The below-$10 characterization on line 384 is **wrong**. China ETS should be moved to the "$10–50" bucket or given its own ~$11–14 sub-note.
-- **SCC 2050 value discrepancy:** Line ~140 (table) states "$310 in 2050"; line ~167 (timeline narrative) states "$308 in 2050." The official EPA figure is **$308**. The table value "$310" is a rounding error; should be corrected to "$308" for consistency.
-- **South Africa ZAR rate:** Body (line ~242) states "ZAR 190/tCO₂e (~$10)." The 2025 statutory rate is ZAR 236. The body should note ZAR 190 was the 2024 rate, with 2025 statutory rate at ZAR 236 (~$13), though effective rate after allowances is much lower.
-- **Switzerland CHF rate:** Body (line ~226) states "~CHF 130 (~$150)." The actual rate is CHF 120 since 2022. Should read "CHF 120 (~$135)."
-- **Ireland carbon tax:** Body (line ~234) states "€56/tCO₂e (2024)." The 2024 rate was €56; the 2025 rate is €63.50 (rising to €71 from Oct 2025 for motor fuels). Body should reflect current 2025/2026 rate of €63.50–71.
-- **World Bank coverage figure:** Body (line ~378) cites "24% of global GHG emissions" attributing to "State and Trends of Carbon Pricing 2024 (updated 2025)." The 2025 report (released June 2025) updates this to 28%. The body and Stop-and-check question (line ~418) both use 24% and should be updated to 28%.
-- **IPCC AR6 upper bound:** Body (line ~410) states "$135–6,000/tCO₂e." The AR6 upper bound is $5,500, not $6,000.
+> **Resolved in the May 2026 fact-currency sweep:** the previously-flagged body inconsistencies have all been corrected against primary sources — SCC-2050 table value ($310→$308); China CEA moved out of the "<$10" bucket; South Africa (ZAR 308 from Jan 2026); Switzerland (CHF 120); Ireland (€63.50, rising to €71); Sweden (now ~$145–155, the world's highest); Norway (NOK 944, 2026 uplift); World Bank coverage (24%→28%, 2025 report); and the IPCC AR6 upper bound ($6,000→$5,500). The figures above reflect the corrected values.
 
 ---
 

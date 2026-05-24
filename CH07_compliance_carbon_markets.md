@@ -433,7 +433,7 @@ The empirical record: free allocation in EU Phase 1 produced significant windfal
 
 ## Critique 3: "Carbon prices are still too low to matter"
 
-The IPCC AR6 estimates that consistent with 1.5°C, carbon prices need to reach **$135–6,000/tCO₂e by 2030** (with the range reflecting different modeling assumptions). Current EU ETS prices around €75/tCO₂e are within the low end of this range, but well below the central estimates.
+The IPCC AR6 estimates that consistent with 1.5°C, carbon prices need to reach **$135–5,500/tCO₂e by 2030** (2010 USD; the range reflecting different modeling assumptions). Current EU ETS prices around €75/tCO₂e are within the low end of this range, but well below the central estimates.
 
 The defense: prices have risen substantially (from ~€10/tCO₂e in 2017 to ~€75/tCO₂e in 2026, a roughly 7× increase). The trajectory is clearly upward. Complementary policies (regulations, subsidies, R&D) supplement the price signal. The Paris-aligned price levels in IPCC scenarios are conditional on policy frameworks that don't exist yet.
 
@@ -459,7 +459,7 @@ The empirical record: cap-and-trade has clearly been subject to industry influen
 
 1. Of the five critiques — commodifies pollution, free allocation undermines, prices too low, excludes hard sectors, subject to capture — which are fixable *implementation* problems and which are closer to *inherent* features of the cap-and-trade instrument?
 2. Free allocation is called "the dominant integrity issue," yet also "a political necessity for system durability." Can both be true? Reconcile them.
-3. IPCC scenarios imply 1.5°C-consistent prices of $135–6,000/tCO₂e by 2030, but the EU sits around €75. Does that gap mean cap-and-trade has failed — or is the headline price the wrong thing to look at?
+3. IPCC scenarios imply 1.5°C-consistent prices of $135–5,500/tCO₂e by 2030, but the EU sits around €75. Does that gap mean cap-and-trade has failed — or is the headline price the wrong thing to look at?
 4. **Socratic prompt:** A critic says cap-and-trade "commodifies the right to pollute and breeds a lobby that protects it." A defender says "the *declining* property right is precisely what makes the policy durable enough to keep tightening." Both describe the same mechanism. Which framing better predicts the EU ETS's actual 20-year trajectory?
 
 **Answers**

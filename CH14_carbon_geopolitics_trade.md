@@ -373,7 +373,7 @@ This chapter cites figures and political states current as of writing (May 2026)
 
 | Claim | Value/state as stated | As-of | Primary source to verify against |
 |---|---|---|---|
-| Global emissions facing meaningful carbon price | ~one-quarter; most at low/zero price | 2025–26 | World Bank State and Trends of Carbon Pricing |
+| Global emissions covered by carbon pricing | ~28% covered (2025 report); only ~8–10% at materially high prices, so ~three-quarters face no meaningful price | June 2025 | World Bank State and Trends of Carbon Pricing 2025 |
 | CBAM first certificate price / coverage | ~€75/tCO₂e Q1 2026; steel, aluminum, cement, fertilizers, hydrogen, electricity | 2026 | European Commission (see Ch. 7) |
 | G7 Climate Club | established 2023; soft coordination forum | 2023–26 | G7 / Climate Club secretariat |
 | China supply-chain dominance | >65% natural graphite; ~80%+ anode processing; dominant polysilicon | 2024–25 | IEA Critical Minerals; BNEF (see Ch. 2) |
