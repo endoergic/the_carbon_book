@@ -73,6 +73,23 @@ The UNFCCC famously avoided quantified emission targets. Article 4.2's "aim to r
 
 This choice — framework first, specific commitments later — set the pattern for everything that followed. The Kyoto Protocol would add quantitative targets to the framework. The Paris Agreement would replace the targets with self-determined commitments. But the framework convention itself has remained the legal backbone of international climate policy for 30+ years.
 
+## **Stop-and-check 6.A**
+
+1. Climate *science* is over a century old (Arrhenius calculated doubled-CO₂ warming in 1896), but climate *policy* is only ~45 years old. What changed in the late 1970s–1980s to turn a scientific curiosity into a policy concern?
+2. UNFCCC Article 2 sets the objective as avoiding "dangerous anthropogenic interference" but never defines "dangerous." Why would negotiators write a founding objective around an undefined term — is that a flaw or a feature?
+3. The Convention divided the world into Annex I and non-Annex I and built the whole regime on that line. What was the equity logic, and what future problem was baked in from the start?
+4. **Socratic prompt:** The UNFCCC deliberately avoided binding targets in 1992, choosing near-universal participation under a vague framework over binding commitments from a few. Thirty years later, was that the right call? What would the counterfactual — a binding 1992 treaty with a smaller membership — have plausibly produced?
+
+**Answers**
+
+1. Three things converged. Scientific consensus solidified through the 1979 World Climate Conference and the 1985 Villach statement; general circulation models became credible enough on 1980s supercomputers to project GHG-forced warming; and public attention spiked, crystallized by James Hansen's June 1988 Senate testimony during a record-hot US summer. Science alone doesn't move politics — it took models that could project consequences plus a salient public moment to convert a century-old physics result into an agenda item, which is why the institutional response (IPCC 1988, UNFCCC 1992) came so fast afterward.
+
+2. It was a deliberate feature, not an oversight. Defining "dangerous" quantitatively in 1992 would have required agreeing on a temperature or concentration threshold — and the science wasn't settled and the politics were impossible. Leaving it open let 154 countries sign a framework they could all accept, deferring the contested threshold question to later science and negotiation (it eventually became the 2°C and 1.5°C goals). The cost is that an undefined objective provides no enforceable standard; the benefit is that it got the regime built. It's the same "framework first, specifics later" logic that runs through the whole period.
+
+3. The equity logic was CBDR-RC: developed countries had caused most accumulated emissions and had the most capacity to act, so they should lead while developing countries prioritized growth and poverty reduction. The problem baked in was that the Annex I / non-Annex I line was *static* — fixed to 1992 circumstances — while the emissions map was dynamic. Once China passed the US as the largest emitter and India grew rapidly, a regime that permanently exempted all developing countries from quantified targets lost credibility with developed-country publics yet remained legally entrenched, consuming two decades of negotiating energy until Durban/Paris finally dismantled it.
+
+4. There's no settled answer; it's the foundational trade-off of the regime. The case that it was right: universality kept everyone — including the US, China, and India — inside one framework with shared reporting norms and an institutional home (the COP), and arguably no binding 1992 treaty could have included the US Senate anyway, so a smaller binding club would have excluded the largest economy and emitter. The case that it was wrong: three decades of framework-building coincided with emissions rising ~50–60%, so universality may have bought participation at the cost of urgency. The counterfactual binding treaty would likely have resembled Kyoto — real targets for a shrinking minority of emissions, US absent — suggesting the binding-vs-broad tension was never escapable, only relocatable.
+
 ---
 
 # Part 2: The Kyoto Protocol (1992–1997)
@@ -125,7 +142,7 @@ Kyoto needed extensive implementation rules before it could function. Negotiatin
 
 The Marrakech Accords became the operational backbone of the Kyoto regime. They were also remarkable for being negotiated *without* the US, which had withdrawn from the Protocol earlier that year.
 
-## **Stop-and-check 6.A**
+## **Stop-and-check 6.B**
 
 1. What's the difference between a "framework convention" and a "protocol"? Why did the UNFCCC structure climate policy this way rather than including binding targets in the original 1992 treaty?
 2. The Annex I / non-Annex I distinction was framed as "common but differentiated responsibilities." What's the substantive principle, and what made it politically unsustainable by the 2000s?
@@ -193,6 +210,23 @@ The **Bali Action Plan** at COP13 (December 2007) launched the negotiation of a 
 
 The Bali Action Plan called for the negotiation to conclude in two years, with a target date of COP15 in Copenhagen (December 2009). Setting that deadline turned out to be a serious mistake.
 
+## **Stop-and-check 6.C**
+
+1. The CDM let Annex I countries earn credits by funding emission-reduction projects in developing countries. What problem was it designed to solve, and why was that attractive to both sides?
+2. HFC-23 destruction projects earned roughly half of early CER volume, and there were credible claims that plants were built *specifically* to produce HFC-23 so they could be paid to destroy it. Name the precise design flaw — and why it's a perverse incentive rather than just fraud.
+3. CER prices collapsed from $20+ to under $1/tCO₂e by 2012. Walk through the supply-and-demand mechanics of that collapse. What does it tell you about crediting markets that depend on policy-created demand?
+4. **Socratic prompt:** The CDM's four signature problems — additionality (was the reduction real?), perverse incentives (HFC-23), geographic concentration (half in China, <3% in Africa), and supplementarity that was never quantified — *all recur* in the voluntary carbon market (Ch. 8) and Article 6. If these flaws were visible by 2012, why do they keep reappearing? Which are fixable with better rules, and which are inherent to paying for a counterfactual?
+
+**Answers**
+
+1. The CDM solved a cost-efficiency problem: a ton of CO₂ avoided is worth the same to the atmosphere wherever it happens, and reductions were far cheaper in developing countries than in Western economies. So it let Annex I countries meet part of their Kyoto obligations more cheaply (attractive to them) while channeling climate finance and technology to developing countries that had no targets of their own (attractive to them). It was the first global offset market, and that buyer-and-host alignment is exactly what made it grow explosively — and what made its integrity so hard to police.
+
+2. The flaw is crediting a *counterfactual destruction* of a super-pollutant whose abatement cost is tiny relative to the credit it earns. HFC-23 has a GWP near 14,800, so destroying one ton yields ~14,800 credits, while destruction costs pennies — meaning the credit revenue could exceed the value of the underlying HCFC-22 product itself. That inverts the incentive: a plant can be worth more for the waste gas it can be paid to destroy than for its actual product, so rational operators expand HCFC-22 production to generate destroyable HFC-23. It's a perverse incentive, not mere fraud, because the operators are following the rules exactly as written — the rules themselves reward the wrong behavior.
+
+3. Demand for CERs came almost entirely from policy: Annex I Kyoto obligations and EU ETS compliance buying. Supply, meanwhile, ballooned as thousands of projects registered. When the EU ETS restricted the use of CERs from HFC-23 and adipic-acid projects, and Kyoto's first commitment period wound down with no robust successor demand, the demand side collapsed while supply kept arriving — so prices fell from $20+ to under $1. The lesson: a credit's price is only as durable as the *policy* that creates demand for it. A crediting market with no underlying compliance obligation (or a wavering one) has no price floor, which is exactly the fragility the voluntary market inherited.
+
+4. They keep reappearing because three of the four are not bugs but structural features of paying for an *avoided* outcome. Additionality requires proving a counterfactual — that the reduction wouldn't have happened anyway — which is fundamentally unobservable and judgment-laden, so it can be tightened but never solved. Supplementarity (how much offsetting is "too much") is a political line that no technical rule settles. Perverse incentives are the most fixable: once diagnosed, you cap or re-baseline the specific project type (as the CDM eventually did). Geographic concentration is partly fixable with targeted support but sticky because transaction costs favor large, easy projects. They recur because each new market (VCM, Article 6) re-creates the same buyer-host cost-efficiency logic and rediscovers that the counterfactual at its core can't be made fully rigorous — the reason Chapter 8's integrity crises rhyme so closely with the CDM's.
+
 ---
 
 # Part 4: The road to Copenhagen and its collapse (2007–2009)
@@ -243,7 +277,7 @@ Looking back, Copenhagen accomplished more than it seemed in the moment:
 
 In effect, Copenhagen failed to produce the *kind* of agreement it was aiming for (Kyoto 2.0) but inadvertently produced the architecture for a different *kind* of agreement (Paris). At the time, this wasn't visible.
 
-## **Stop-and-check 6.B**
+## **Stop-and-check 6.D**
 
 1. The Kyoto Protocol entered into force in February 2005, eight years after its adoption. What does this delay tell you about the limits of international law as a climate policy instrument?
 2. The CDM was the world's first global carbon offset market. Of the integrity problems it experienced (HFC-23, geographic concentration, additionality), which seem most fixable, and which seem inherent to the offset mechanism?
@@ -309,6 +343,23 @@ COP20 in Lima (December 2014) produced the **Lima Call for Climate Action**, whi
 
 By the end of 2014, the architecture of the Paris Agreement was largely in place: bottom-up pledges (INDCs/NDCs), universal coverage, "applicable to all parties," anchored to the 2°C goal. The negotiation in 2015 was about finalizing the details and producing a legal text that could be adopted.
 
+## **Stop-and-check 6.E**
+
+1. Cancún (2010) was "deliberately low-expectation." After the trauma of Copenhagen, why might *lowering* expectations have been the strategically correct move for the UN process?
+2. The Durban Platform (2011) committed to an agreement "applicable to all parties." Trace what had to change between the 1995 Berlin Mandate and 2011 for that phrase to become acceptable to China, India, and Brazil.
+3. Warsaw (2013) introduced "intended nationally determined contributions" (INDCs). Why is the shift from *negotiated* targets (Kyoto) to *self-determined* contributions the single most important structural innovation of this period?
+4. **Socratic prompt:** The Warsaw International Mechanism for Loss and Damage was created in 2013, but developed countries insisted it imply no legal liability for historical emissions. Why is "loss and damage" the hardest equity question in climate policy — harder than mitigation finance — and what makes the liability framing so radioactive for developed countries?
+
+**Answers**
+
+1. Because Copenhagen's failure was partly a failure of *expectations*: framing it as "humanity's last chance" meant anything short of a comprehensive binding treaty registered as catastrophe, which damaged confidence in the entire multilateral process. Cancún's modest, deliverable agenda — formalizing the 2°C goal, inscribing the Copenhagen pledges, standing up the Green Climate Fund — let the UN process demonstrate it could still produce useful outcomes. Restoring institutional credibility was itself the substantive goal; you cannot negotiate an ambitious agreement on top of a process everyone has written off, so rebuilding confidence with achievable wins was the necessary precondition for Durban and Paris.
+
+2. The Berlin Mandate (1995) had hard-coded the firewall: binding targets for Annex I, none for developing countries. By 2011 the factual premise had eroded — China had passed the US as the largest emitter and India was growing fast — so developed-country publics would no longer accept a regime that exempted the major emerging emitters. At the same time, the bottom-up *pledge* architecture surfaced at Copenhagen offered emerging economies a face-saving path: "applicable to all parties" without top-down imposed targets, since each country would set its own. The combination — eroded factual basis for the firewall plus a self-determination mechanism that protected sovereignty — is what let China, India, and Brazil accept universal coverage they had treated as non-negotiable.
+
+3. Because it changed the *theory of change* of the entire regime. Kyoto's negotiated, binding targets could only ever apply to countries willing to accept them — a shrinking minority of emissions — and the negotiation was zero-sum (every country wanted others to do more). Self-determined contributions flipped this: every country can join because every country sets its own level, making universal participation possible, and the difficulty moves from "agreeing on targets" to "ratcheting up self-set ones over time." It trades enforceability for breadth, and it's the innovation that made a genuinely global agreement achievable — every feature of Paris (the ratchet, the stocktake, the transparency framework) exists to make self-determined pledges add up to something over time.
+
+4. Loss and damage is the hardest equity question because it concerns harm that has *already occurred or is unavoidable* — impacts beyond what adaptation can prevent — so unlike mitigation finance (which funds future action) it points backward toward responsibility for emissions already emitted. That is precisely what makes liability framing radioactive: a formal acknowledgment of legal liability for historical emissions could expose the largest historical emitters to potentially unbounded compensation claims, litigated indefinitely, with no natural ceiling. Developed countries will fund loss and damage as an act of solidarity (the eventual COP27/28 compromise) but fight any wording — "compensation," "liability" — that converts a voluntary contribution into an enforceable debt. The radioactivity is the open-endedness: mitigation finance can be pledged in bounded sums, but liability for past harm has no defined limit.
+
 ---
 
 # Part 6: Paris (2015)
@@ -372,7 +423,7 @@ Comparing Paris to Kyoto:
 
 The structural shift is enormous: from a small-club approach with binding obligations to a universal-participation approach with procedural obligations. The reason for the shift was the lesson of the 1997–2015 period: binding obligations on a subset of countries had not produced sufficient action and could not be politically extended. A different theory of change — universal participation with a ratchet — was the negotiating space that remained.
 
-## **Stop-and-check 6.C**
+## **Stop-and-check 6.F**
 
 1. The Durban Platform (2011) committed parties to negotiate an agreement "applicable to all parties." Why was this a breakthrough, and what political shift had to occur for it to be possible?
 2. The Paris Agreement is binding on procedure but not on substance — countries must submit NDCs, but they choose what to put in them. Is this stronger or weaker than Kyoto? Make the case both ways.
