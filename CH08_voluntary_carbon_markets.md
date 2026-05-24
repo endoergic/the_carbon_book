@@ -70,6 +70,23 @@ A useful frame: the voluntary market is really *two* markets operating under sha
 
 The 2022–2024 crisis is primarily a Market B crisis. The reform movement (ICVCM, VCMI, SBTi V2) is trying to shrink Market B and grow Market A.
 
+## **Stop-and-check 8.A**
+
+1. Compliance markets have a cap; the voluntary market does not. Walk through what that single structural difference does to how credits are *priced* and how supply is *constrained*.
+2. A "$3 REDD+ credit" and a "$1,200 DAC credit" are both labelled "1 tCO₂e." In what sense is calling them the same unit the conceptual error at the root of most VCM integrity failures?
+3. No one is legally required to buy voluntary credits. Given that, what actually creates demand — and why does that make VCM demand more fragile than compliance demand?
+4. **Socratic prompt:** The chapter frames the VCM as "two markets in one" — a high-integrity removal segment (Market A) and a legacy avoidance segment (Market B) sharing one infrastructure and one label. Is sharing the "carbon credit" label across both a feature (liquidity, common rails) or a bug (it lets low-integrity credits borrow the credibility of high-integrity ones)?
+
+**Answers**
+
+1. In a compliance market the cap fixes total supply: allowances are scarce by law, and the price is the market clearing that fixed quantity against demand. The voluntary market has no cap — supply is whatever projects get developed and verified — so more demand calls forth more credits rather than bidding up a fixed stock. That means price is set project-by-project (cost of the underlying activity plus a quality premium) rather than by system-wide scarcity, and it removes the floor that a binding cap provides. Without a cap, low-cost project types (cheap avoidance) can flood supply and crater prices, which is exactly what happened to nature-based credits in 2022–2024.
+
+2. Because the label asserts equivalence the physical activities don't have. A DAC credit removes a tonne and stores it for millennia; a $3 REDD+ credit claims a tonne *avoided* against an unobservable counterfactual baseline, with reversal and leakage risk. Treating them as one fungible unit lets a buyer "neutralize" a fossil emission (centuries of atmospheric impact) with a cheap, non-durable, possibly non-additional avoidance credit — a swap that doesn't hold up physically. The three-orders-of-magnitude price range is the market admitting the units aren't the same; the integrity failures come from pretending, for accounting and marketing purposes, that they are.
+
+3. Demand comes almost entirely from *voluntary* corporate climate claims (carbon-neutral and net-zero marketing), plus emerging sovereign Article 6 and CORSIA buying. Because the corporate portion rests on reputational choices rather than legal obligation, it evaporates the moment the reputational calculus flips — which is precisely what happened when the 2023 investigations made "carbon neutral via cheap offsets" a liability rather than an asset, and major buyers exited. Compliance demand is anchored by a legal surrender obligation that doesn't disappear when the news cycle turns; voluntary demand is anchored only by the value of the claim, so it is far more sensitive to scandal, scrutiny, and disclosure rules.
+
+4. It is genuinely both, and the tension is the chapter's through-line. The shared label and infrastructure (registries, methodologies, VVBs, exchanges) give the market liquidity, common standards, and a path for high-integrity supply to scale on existing rails — a real feature. But the same shared label lets a low-integrity avoidance credit present itself as the same "1 tCO₂e" as a durable removal, borrowing the credibility of the good end of the market to sell the weak end — the bug that produced the crisis. The reform architecture (ICVCM labeling, SBTi restricting which credit types neutralize residuals) is essentially an attempt to *keep the shared rails while unbundling the label* — to let buyers tell the two markets apart without forcing them onto entirely separate infrastructure. Whether a single label can carry that much discrimination is the open question.
+
 ---
 
 # Part 2: The project lifecycle and the four integrity concerns
@@ -146,7 +163,7 @@ Other project types fail differently:
 
 The "carbon credit" label hides enormous variation in which tests projects pass.
 
-## **Stop-and-check 8.A**
+## **Stop-and-check 8.B**
 
 1. Why is additionality "inherently counterfactual" — and what does this imply about how well any verification system can prove additionality?
 2. The 2023 Guardian investigation found that REDD+ baselines on average overstated deforestation by 400%. If baselines were tighter, would the credits be smaller or more credible? What's the trade-off?
@@ -268,6 +285,23 @@ The **Integrity Council for the Voluntary Carbon Market (ICVCM)** announced in 2
 
 CCP-Eligibility is the first stage. The ICVCM then assesses individual methodologies — some methodologies from CCP-Eligible programs get CCP-Approved status, others don't. As of October 2025, approximately 51 million credits had been issued under CCP-Approved methodologies (representing ~4% of 2024 market volume), with hundreds of millions more expected.
 
+## **Stop-and-check 8.C**
+
+1. Multiple standards (Verra, Gold Standard, ACR, CAR, ART, Isometric, Puro.earth, Plan Vivo) compete for the same project developers. In a market where the *standard* is paid (indirectly) by the projects it certifies, what's the structural risk — and what does it have in common with credit-rating agencies before 2008?
+2. ICVCM sits *above* the standards as a "standard for standards." Why was a meta-layer needed — why couldn't competition among the existing standards produce high integrity on its own?
+3. Verra holds ~70% market share and was the focus of the 2023 REDD+ investigation, while newer entrants (Isometric, Puro.earth) are removal-only and "high-integrity by design." Why might a smaller, narrower, newer standard be structurally better-positioned on integrity than the dominant incumbent?
+4. **Socratic prompt:** ICVCM's CCP label is itself voluntary and has no enforcement power — it works only if buyers prefer labeled credits. Is a privately-run "standard for standards" with no statutory authority a credible long-term fix for VCM integrity, or a placeholder until real financial regulators (SEC, ESMA) step in?
+
+**Answers**
+
+1. The structural risk is issuer-pays conflict of interest: a standard competing for the developers whose projects (and fees) sustain it has an incentive to keep methodologies generous, because a developer can take its volume to a laxer competitor. That is precisely the dynamic that corrupted credit-rating agencies before 2008 — issuers shopped for the agency that would rate their structured products AAA, and the agencies, paid by issuers, obliged. In carbon markets the "rating" is the methodology's leniency on baselines and additionality, and a race-to-the-bottom among issuer-paid standards is the natural failure mode. It is a major reason the 2022–2024 crisis concentrated in the largest, most developer-facing standard.
+
+2. Because competition among issuer-paid standards pushes toward leniency, not rigor — the opposite of what integrity requires. If buyers can't easily tell a strict standard from a lax one (and pre-crisis they mostly couldn't, since every credit said "1 tCO₂e"), then the cheaper, easier-to-certify credit wins on price, rewarding the laxest standard. A meta-layer (ICVCM) was needed to create a quality signal *above* the competing standards — a common benchmark (the CCPs) that lets buyers distinguish integrity, so that demand can reward rigor instead of leniency. It's an attempt to convert a race-to-the-bottom into a race-to-the-CCP-label by giving the quality difference a name buyers can price.
+
+3. Several structural reasons. A removal-only standard sidesteps the hardest integrity problem in the market — the unobservable avoidance counterfactual — because removals have a near-zero, easily-defined baseline and physically-measurable storage. A newer standard carries no legacy book of weak credits to defend, so it has no incentive to rationalize past methodologies (Verra had to defend a billion issued credits). And a smaller, narrower scope lets it hold a single high bar rather than maintain a sprawling catalog across every project type. Incumbency in this market is partly a liability: scale brings a legacy portfolio, developer relationships, and reputational stakes that all pull against tightening.
+
+4. There's a real case it's a credible long-term fix *and* a real case it's a placeholder, and the honest answer hinges on whether buyer demand for integrity persists. The case for durability: the VCM is voluntary by nature, so a buyer-driven quality signal is the native enforcement mechanism — if premium buyers (Microsoft, Frontier, sovereign Article 6 purchasers) keep paying up for CCP-labeled and durable credits, a private meta-standard backed by disclosure rules (IFRS S2) can discipline the market without statute. The case for placeholder: a body with no subpoena power, funded within the ecosystem it polices, depending on voluntary demand that evaporates in a downturn, looks fragile — and the December 2024 internal dissent over REDD+ approvals showed it can be captured or split. The likely trajectory is hybrid: ICVCM-style labeling becomes the technical substrate that statutory regulators (and Article 6 governance) eventually lean on, much as accounting standards bodies feed securities regulation. Private standard-setting and public enforcement converge rather than one replacing the other.
+
 ---
 
 # Part 4: The 2022–2024 crisis
@@ -321,7 +355,7 @@ The 2022–2024 crisis catalyzed a reform movement that has been working through
 
 These run in parallel and are designed to be complementary.
 
-## **Stop-and-check 8.B**
+## **Stop-and-check 8.D**
 
 1. The Guardian investigation said "more than 90%" of REDD+ credits were worthless. The academic debate suggests the overstated fraction is probably more like 50–70% (i.e., ~30–50% represent real benefit). Is this a meaningful distinction? Does it change how a corporate buyer should treat their existing credit portfolio?
 2. The cookstove crisis involved methodologies that systematically overstated baselines. How does this kind of methodological failure differ from the REDD+ case?
@@ -400,6 +434,23 @@ The ICVCM/CCP framework is the most ambitious supply-side reform attempt in VCM 
 
 The ICVCM's institutional position is uncomfortable: it's voluntary, has no enforcement power, and depends on demand-side pressure (buyers preferring CCP-labeled credits) to drive supply-side change. That demand-side pressure is itself dependent on the VCMI and SBTi framework decisions in 2026–2027.
 
+## **Stop-and-check 8.E**
+
+1. CCP-labeled credits trade at a 30–60% premium. Trace the causal chain by which a *labeling* scheme with no enforcement power nonetheless changes what projects developers choose to build.
+2. ICVCM approved three REDD+ methodologies in December 2024 over the public dissent of some of its own expert panel. What does that internal split tell you about whether REDD+ *avoidance* can clear a rigorous integrity bar at all?
+3. The chapter grades ICVCM's progress at "reducing low-integrity credit volume" as limited — weak legacy credits keep being issued and retired outside the CCP framework. Why can a supply-side label not stop that on its own?
+4. **Socratic prompt:** Only ~4% of 2024 market volume carries the CCP label after several years of work. Is a reform that has labeled 4% of the market succeeding slowly or failing? What evidence would distinguish the two?
+
+**Answers**
+
+1. The chain runs through price and finance. The label creates a visible quality tier; quality-sensitive buyers (facing disclosure rules and reputational risk) pay a premium for it; that premium raises the realized price and bankability of label-eligible projects relative to non-eligible ones; so developers, choosing what to build and which methodology to use, steer toward CCP-compliant designs to capture the premium and the easier financing. No enforcement is required — the label changes relative project economics, and developers follow the money. It's the same mechanism by which any voluntary certification (organic, Fair Trade, LEED) shifts production without legal compulsion: it works as long as buyers keep paying for the label.
+
+2. It tells you the integrity community itself is not convinced REDD+ avoidance can pass, even with the revised jurisdictional methodologies. The dissent wasn't about a peripheral detail — expert-panel members publicly argued the approved methodologies still failed core CCP requirements, which is a remarkable thing for a body's own experts to say about its flagship decision. That signals the problem may be structural rather than methodological: avoidance rests on an unobservable counterfactual baseline, and no amount of methodology revision fully removes that. The split suggests REDD+ integrity is contested at the deepest level, and that approving it was partly a market-pragmatic decision (REDD+ is too large to exclude) rather than a purely technical one.
+
+3. Because a supply-side label only governs which credits *can* claim a quality tier — it cannot stop other credits from being issued and sold. As long as some buyers will purchase cheap non-labeled avoidance credits for low-cost "carbon neutral" claims, standards will keep issuing them and the legacy volume persists. Killing that volume requires the *demand* side to refuse it — buyers, regulators, and claim-frameworks declining to recognize non-labeled credits. That's exactly why supply-side reform (ICVCM) is explicitly paired with demand-side reform (VCMI, SBTi, ISSB disclosure): the label raises the ceiling for good credits but only demand-side discipline can lower the floor for bad ones.
+
+4. The 4% number alone is ambiguous; what distinguishes slow success from failure is the *trajectory and the price signal*, not the level. Success looks like: the labeled share growing each year, the CCP premium persisting or widening (showing buyers value the distinction), methodology approvals expanding the eligible pool, and non-labeled volume shrinking. Failure looks like: the share stalling, the premium collapsing (buyers stop caring), approvals gridlocked by disputes like the REDD+ dissent, and cheap non-labeled credits continuing to clear at volume. The 47% Tier-1 premium and the methodology pipeline are early evidence for the optimistic reading; the persistence of large non-labeled retirement and the internal dissent are evidence for the pessimistic one. You judge a young certification by its derivative, not its level — but if the share is still ~4% several years on, the derivative had better be clearly positive.
+
 ---
 
 # Part 6: VCMI, SBTi, and demand-side reform
@@ -449,6 +500,23 @@ The supply-side and demand-side reforms operate alongside emerging regulatory pr
 This disclosure requirement makes credit quality publicly visible in audited financial reports. Combined with shareholder pressure and litigation risk, this is producing material constraints on corporate use of low-quality credits.
 
 The combination of ICVCM + VCMI + SBTi V2 + ISSB represents the most comprehensive reform of VCM governance ever attempted. Whether it's adequate to transform the market is the central open question.
+
+## **Stop-and-check 8.F**
+
+1. ICVCM reforms the supply side (credit quality); VCMI/SBTi reform the demand side (what claims you can make). Why does neither work without the other?
+2. SBTi V2 lets avoidance credits support "Ongoing Emissions Responsibility" but bars them from neutralizing residual emissions at the net-zero target year — only removals qualify. Trace how that one rule reshapes demand across the credit-type spectrum.
+3. The VCMI Claims Code and SBTi target validation operate by reputational pressure, not law. What gives reputational pressure real teeth in this market, and what could remove the teeth?
+4. **Socratic prompt:** Supply-side and demand-side reforms are designed to be "complementary" — each makes the other matter. But both are voluntary, and each depends on the other to have force. Is this a virtuous circle (quality supply and discerning demand reinforcing each other) or a fragile loop that unwinds if either side loses momentum?
+
+**Answers**
+
+1. Supply-side reform creates the *ability* to tell good credits from bad (the CCP label); demand-side reform creates the *motive* to care. A quality label with no buyers who insist on it just sits there — developers won't pay to meet a bar no purchaser rewards. Conversely, a demand-side rule that says "only high-integrity removals neutralize residuals" is meaningless if there's no agreed, verifiable definition of "high-integrity" for buyers to point to. ICVCM supplies the definition and VCMI/SBTi supply the obligation to use it; the label is the noun and the claims code is the verb. Each is inert alone, which is why the reform was deliberately built as two interlocking tracks.
+
+2. The rule splits the demand curve in two. Removals (DAC, BECCS, biochar, durable ARR) become the only instrument that can do the high-value job — neutralizing residual emissions in a net-zero claim — so demand and price for durable removals rise and a forward scarcity builds (hence advance-purchase coalitions like Frontier). Avoidance credits are demoted to a supporting role ("support for climate action" under OER) that is recognized but cannot back the headline net-zero claim, capping their value and pushing their price down. The single accounting rule thus does what years of integrity argument couldn't: it reprices the entire spectrum by *use case*, making a durable removal and a cheap avoidance credit non-substitutable even though both are "1 tCO₂e." (This is the demand-side expression of Ch. 5's avoided/removed distinction.)
+
+3. The teeth come from three reinforcing sources: mandatory disclosure (IFRS S2 forces credit type and quality into audited reports, so claims are visible and comparable), litigation and regulatory risk (greenwashing actions by the FTC, ESMA, ASA, ACCC turn a loose claim into legal exposure), and the concentration of demand among large, reputation-sensitive buyers who can be named. What removes the teeth: a political/regulatory rollback that weakens disclosure or greenwashing enforcement, an economic downturn that makes buyers prioritize cost over credibility, or fragmentation where enough buyers accept weaker claims that the reputational penalty for low integrity disappears. Reputational pressure has force only while non-compliance is *visible* and *costly*; remove either and it evaporates.
+
+4. It is genuinely both, and which one it is depends on momentum that is not guaranteed. The virtuous-circle reading: discerning demand (SBTi/VCMI) pays premiums for labeled, durable credits (ICVCM), which finances better projects, which deepens high-integrity supply, which makes it easier for more buyers to commit — a flywheel, with disclosure rules as the ratchet that stops backsliding. The fragile-loop reading: every node is voluntary and mutually dependent, so a stall anywhere propagates — if buyers retreat (downturn, political cover to stop bothering), the CCP premium collapses, developers stop pursuing the label, supply quality stalls, and the demand-side rules lose the supply they presuppose. The honest assessment is that the system is a flywheel that hasn't yet built enough mass to be self-sustaining: it is being held in motion by a relatively small set of committed buyers and a still-fragile set of voluntary institutions, and its durability through a political or economic shock (the Trump-era skepticism, a recession) is the unresolved question the chapter keeps returning to. Mandatory disclosure is the most likely candidate for the "ratchet" that would make the circle robust rather than fragile — which is why the reform's fate is tied to the disclosure regimes of Ch. 5 and Ch. 13.
 
 ---
 
@@ -507,7 +575,7 @@ ICVCM, VCMI, SBTi V2 — all are voluntary governance bodies dependent on contin
 
 The 2026–2027 period will substantially determine whether the post-crisis voluntary market becomes a credibly high-integrity mechanism or fragments into competing tiers with permanent quality concerns.
 
-## **Stop-and-check 8.C**
+## **Stop-and-check 8.G**
 
 1. The voluntary market is bifurcating into "removal credits" (premium-priced, scarce) and "avoidance credits" (discounted, abundant). Is this bifurcation a sign of healthy market discrimination or a sign that the avoidance category has structural problems?
 2. CDR at $500–1,500/tCO₂e can scale within current carbon-pricing margins for some sectors but not all. Where does this leave the gigaton-scale CDR that 1.5°C pathways assume?
@@ -645,7 +713,7 @@ Two further pieces of this analysis are operational rather than conceptual, and 
 
 The headline carries forward without the detail: the single best VCM white space in fuel markets is the deregulated-geography bridge, and the most defensible play in a regulated market is the EU improvement delta — precisely because the EU rewards volume rather than continuous improvement. California's LCFS, by being the most granular continuous-CI market in the world, leaves almost no white space at all.
 
-## **Stop-and-check 8.D**
+## **Stop-and-check 8.H**
 
 1. The additionality inversion says the richest compliance stack produces the weakest VCM white space. A critic says this is just a definitional trick — if the reduction happens, why do we care which revenue stream caused it? What's the substantive answer?
 2. A LATAM HEFA developer plans to earn VCM revenue for four years, then transition to compliance revenue when local regulation arrives. Is this a defensible strategy? What does it require to be credible, and what can go wrong?
