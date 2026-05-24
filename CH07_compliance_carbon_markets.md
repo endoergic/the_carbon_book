@@ -683,7 +683,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | AB 1207 / SB 840 (Cap-and-Invest extension) | signed; extended to 2045 | Sept 2025 | California statute |
 | Consensus EUA forecast | ~€85 (2026), >€100 (2027), ~€126 (2030) | 2025–26 | BloombergNEF / ICIS / S&P / Aurora / PIK |
 
-> **45Z reconciliation flag:** this chapter states a 2025–2029 window while Chapter 12 states 2025–2027 (post-OBBBA, $1.00/gal down from $1.75). Reconcile to a single sourced figure.
+> **45Z note:** OBBBA (Public Law 119-21, July 2025) *extended* the 45Z credit's sunset from its original end-2027 date to **December 31, 2029**, and cut the SAF rate to $1.00/gal (from $1.75); it also restricted eligibility to North American feedstocks and excluded indirect land-use-change emissions from the CI model. The 2025–2029 window used here and in Ch. 12 reflects that amendment. Source: IRC §45Z as amended; Treasury/IRS 2026 proposed regulations.
 
 ---
 

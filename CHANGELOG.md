@@ -43,11 +43,11 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/), 
 - **Chapters 7 and 8 restructured (markets pair).** The fuel-standard / fuel-VCM material that had grown to ~40% of each chapter was compressed to its conceptual core and the operational depth relocated to the new **Appendix A** (single, de-duplicated home). Corrective fixes: dimensional error in the LCFS worked example (energy density now ~43 GJ/tonne; LCFS ≈ $3.75/GJ; certification uplift ≈ $1.6M/yr); RGGI state count reconciled (11 members + Pennsylvania/Virginia caveats); orphan "WEC" glossary entry removed. Added a CORSIA anchor at first mention in Ch. 7 and "Sources and currency" footers to Ch. 7 and Ch. 8.
 - Ch. 12 (aviation/SAF) now cross-references Appendix A for SAF compliance economics.
 - README repository-contents table updated to list Appendix A.
+- **Answer keys** added to every Stop-and-check block across Ch. 1–15 (Ch. 1–3 done previously; Ch. 4–15 in this cycle).
+- **45Z window reconciled.** Verified against IRC §45Z as amended and the Treasury/IRS 2026 proposed regulations: OBBBA (Public Law 119-21, July 2025) *extended* the credit's sunset from end-2027 to **December 31, 2029**, cut the SAF rate to $1.00/gal (from $1.75), restricted eligibility to North American feedstocks, and excluded ILUC emissions. Ch. 7 (2025–2029) was correct; Ch. 12 corrected from "expire end of 2027" to the extended end-2029 window. Both chapters' notes now cite the source.
 
 ### Identified for revision (queued, not yet applied)
-- **Answer keys** being rolled out to the Stop-and-check blocks. Present in Ch. 1–3; in progress for Ch. 4–15.
-- **45Z window discrepancy** flagged for reconciliation: Ch. 7 states 2025–2029; Ch. 12 states 2025–2027 (post-OBBBA). Confirm against IRC §45Z as amended and align.
-- Fact-check sweep of the time-sensitive 2025–26 figures (now flagged in each chapter's "Sources and currency" footer) not yet performed.
+- Fact-check sweep of the remaining time-sensitive 2025–26 figures (now flagged in each chapter's "Sources and currency" footer) not yet performed.
 - Chapters 2 through 15 have not yet been subjected to Socratic walk-throughs.
 
 ---

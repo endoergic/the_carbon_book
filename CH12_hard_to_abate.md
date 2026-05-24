@@ -408,7 +408,7 @@ SAF is **chemically similar to conventional jet fuel** but produced from non-fos
 **Current state:**
 - Global SAF production in 2025: roughly 2–3 billion gallons (~10 Mt) — about 0.5–1% of total jet fuel consumption.
 - US: ~240 million gallons domestic SAF registered for RFS in 2025.
-- US 45Z Clean Fuel Production Credit: up to $1/gallon for SAF (post-OBBBA, down from $1.75 previously); set to expire end of 2027 unless extended.
+- US 45Z Clean Fuel Production Credit: up to $1/gallon for SAF (post-OBBBA, down from $1.75 previously). OBBBA (July 2025) *extended* the credit's sunset from its original end-2027 date to **December 31, 2029**, while restricting eligibility to North American feedstocks and excluding indirect land-use-change (ILUC) emissions from the CI calculation.
 - EU ReFuelEU Aviation mandate: 2% SAF in 2025, escalating to 6% in 2030, 20% in 2035, 70% in 2050 (with sub-targets for e-fuels).
 - UK SAF Mandate: 2% in 2025, 10% in 2030, 22% in 2040.
 - Singapore: announced mandatory SAF levy 2027 with 1% blend target, scaling to 5% by 2030.
