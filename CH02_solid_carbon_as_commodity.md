@@ -66,7 +66,7 @@ Geographic distribution (approximate, 2024):
 
 China is also the major net exporter of met coke (~5 Mt of exports in 2023 per market research sources, though export volumes are volatile because of domestic policy interventions). India is a net importer to feed its growing steel industry.
 
-Pricing is notoriously volatile. Metallurgical coke is closely tied to the coking-coal market (the upstream feedstock) and the steel market (the downstream demand). In 2021–2022, coking coal prices spiked to over **$600/ton** on supply disruptions; by 2024 they had settled to roughly **$200–250/ton** for premium hard coking coal. Met coke itself prices at roughly 1.3–1.5× the underlying coking coal cost — so call it **$300–400/ton** for blast furnace coke in normal market conditions, with wide swings.
+Pricing is notoriously volatile. Metallurgical coke is closely tied to the coking-coal market (the upstream feedstock) and the steel market (the downstream demand). In 2021–2022, coking coal prices spiked to over **$600/ton** on supply disruptions; they then settled toward **$200–250/ton** for premium hard coking coal, dipped below $200 in late 2024, and had recovered to roughly **$238–240/ton** by May 2026 on tight supply. Met coke itself prices at roughly 1.3–1.5× the underlying coking coal cost — so call it **$300–400/ton** for blast furnace coke in normal market conditions, with wide swings.
 
 The market-research firms cite vastly different total market values:
 - One source: $37 billion in 2024 (Market Research Future).

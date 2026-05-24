@@ -56,7 +56,7 @@ The integrity of this entire chain depends on the methodology, the validation, t
 | Price discovery | Market within cap | Project-by-project plus market |
 | Geographic scope | Jurisdictional | Global |
 | Quality of underlying units | Backed by sovereign authority + cap | Backed by standard's methodology + verification |
-| Typical price (2025–26) | €70–80 (EU), $25–30 (CA), $15–22 (RGGI) | $1–1,500+ (depending on type) |
+| Typical price (2025–26) | €70–80 (EU), ~$30 (CA), RGGI ~$13 auction / volatile secondary | $1–1,500+ (depending on type) |
 
 The voluntary market's enormous price range — three orders of magnitude — is the most visible sign that the credits sold under the "carbon credit" label are not homogeneous. A $3 REDD+ credit and a $1,200 DAC credit are both called "1 tCO₂e," but they represent very different physical activities, durabilities, and risk profiles.
 

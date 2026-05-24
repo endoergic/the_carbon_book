@@ -440,7 +440,7 @@ SAF is **chemically similar to conventional jet fuel** but produced from non-fos
 - **Power-to-Liquid (PtL) e-fuels** — synthesized from green hydrogen + captured CO₂. Very low carbon when both inputs are clean. The most scalable long-term pathway.
 
 **Current state:**
-- Global SAF production in 2025: roughly **500 million gallons (~1.9–2.1 Mt)** — about 0.6–0.7% of total jet fuel consumption. (Note: the "2–3 billion gallon" figure sometimes cited refers to projected 2028+ capacity, not 2025 actuals.)
+- Global SAF production in 2025: approximately **1.9 Mt (~630 million gallons)** per IATA's December 2025 estimate — about 0.6–0.7% of total jet fuel consumption, and a downward revision from IATA's earlier ~2 Mt projection. (The "2–3 billion gallon" figure sometimes cited refers to projected 2028+ capacity, not 2025 actuals.)
 - US: ~240 million gallons domestic SAF registered for RFS in 2025.
 - US 45Z Clean Fuel Production Credit: up to $1/gallon for SAF (post-OBBBA, down from $1.75 previously). OBBBA (July 2025) *extended* the credit's sunset from its original end-2027 date to **December 31, 2029**, while restricting eligibility to North American feedstocks and excluding indirect land-use-change (ILUC) emissions from the CI calculation.
 - EU ReFuelEU Aviation mandate: 2% SAF in 2025, escalating to 6% in 2030, 20% in 2035, 70% in 2050 (with sub-targets for e-fuels).
@@ -764,7 +764,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 | Ammonia / ethylene / methanol / refining emissions | ~500 / ~280 / ~150 MtCO₂e/yr / ~1 Gt | 2022–24 | IEA Chemicals tracking; ICCA |
 | BASF/Linde/SABIC Ludwigshafen e-cracker | 6 MW pilot; **started up April 2024** (not FID) | April 2024 | BASF press release 2024-04-17 |
 | Global aviation CO₂ (2024) | 942 MtCO₂ (IATA); 2025 expected to surpass 2019 | 2024 | IATA Net Zero Progress Report 2024 |
-| Global SAF production (2025) | ~500 million gallons (~1.9–2.1 Mt) | Dec 2025 | IATA press release Dec 2025; ATAG |
+| Global SAF production (2025) | ~1.9 Mt (~630 million gallons); ~0.6–0.7% of jet fuel; down from IATA's earlier ~2 Mt projection | Dec 2025 | IATA press release Dec 9 2025; S&P Global |
 | US RFS domestic SAF registered (2025) | ~240 million gallons | 2025 | EPA / EIA RFS data |
 | ReFuelEU Aviation mandates | 2% (2025), 6% (2030), 20% (2035), 70% (2050) | Jan 2025 | EU Regulation 2023/2405 |
 | UK SAF Mandate | 2% (2025), 10% (2030), 22% (2040) | Jan 2025 | UK Sustainable Aviation Fuel mandate statutory instruments |

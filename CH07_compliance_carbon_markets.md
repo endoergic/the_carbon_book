@@ -299,7 +299,7 @@ RGGI launched in 2009 as the first US mandatory carbon cap-and-trade system. It 
 
 **Cap:** Stringent power-sector cap declining steadily. RGGI has been credited with driving substantial power-sector decarbonization in member states, though much of the reduction came from natural-gas displacement of coal rather than direct cap-induced action.
 
-**Prices:** RGGI allowance prices have been ~$15–22/tCO₂e through 2024–2025, with elevated prices supported by power-sector fundamentals. RGGI allowances trade above the soft price ceiling, indicating tight supply.
+**Prices:** RGGI prices have become unusually volatile. Auction clearing settled around **~$13/tCO₂e** in early 2026 (Auction 71, March 2026), but the secondary market spiked sharply to **~$40–58/short ton** in late April–early May 2026 on the news of Virginia's re-entry, before retreating after the RGGI states issued a market-monitoring notice. The book's earlier ~$15–22 range (2024–25) is now too narrow; treat RGGI as a thin, headline-sensitive market where a single state's participation decision can move prices dramatically.
 
 **Limitations:** RGGI's narrow sectoral scope (power only) and modest cap make it a smaller-impact system than California's. There has been recurring discussion of expanding RGGI to transportation fuels (Transportation and Climate Initiative, mostly stalled) or to other sectors.
 

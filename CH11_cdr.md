@@ -18,7 +18,7 @@
 
 Chapters 1–10 have largely been about reducing emissions — preventing CO₂ from entering the atmosphere in the first place. This chapter is about the other half of the climate problem: **removing CO₂ that's already there, or that will be emitted by hard-to-eliminate sources.**
 
-The climate science makes the case unavoidable. The atmosphere now holds approximately **425.7 ppm CO₂** (2025) — up from 280 ppm pre-industrial. Every plausible 1.5°C-compatible pathway involves not just stopping new emissions but actively removing CO₂ from the atmosphere at gigaton scale. The IPCC AR6 scenarios require **5–10 GtCO₂/yr of CDR by 2050**, with some scenarios going as high as 20 GtCO₂/yr. Current novel-CDR capacity is in the kilotonne range — three to four orders of magnitude below required scale.
+The climate science makes the case unavoidable. The atmosphere now holds approximately **426 ppm CO₂** (2025 global annual mean, Global Carbon Budget 2025; the Mauna Loa station, which runs above the global mean and peaks seasonally, read ~431 ppm in April 2026) — up from 280 ppm pre-industrial. Every plausible 1.5°C-compatible pathway involves not just stopping new emissions but actively removing CO₂ from the atmosphere at gigaton scale. The IPCC AR6 scenarios require **5–10 GtCO₂/yr of CDR by 2050**, with some scenarios going as high as 20 GtCO₂/yr. Current novel-CDR capacity is in the kilotonne range — three to four orders of magnitude below required scale.
 
 This chapter therefore sits at the most uncertain frontier of the curriculum. The technologies covered are real, deployed (some of them at meaningful scale), and improving rapidly. They are also far below the scale climate scenarios assume, far more expensive than market-rate decarbonization, and the subject of intense debate about whether they should be relied on at all. Whether CDR can scale from kilotonnes to gigatonnes in the next 25 years is one of the most consequential open questions in climate policy.
 
@@ -163,7 +163,7 @@ These approaches are at smaller scale than S-DAC and L-DAC but represent signifi
 - Heirloom first commercial facility (California): kilotonne-scale (mineralization-based)
 - Various smaller pilots and demonstration facilities globally
 
-**Total operational DAC capacity, early 2026:** approximately 60–80 ktCO₂/yr fully operational, with Stratos still ramping. If Stratos achieves design capacity by mid-2026, total operational DAC capacity will approach 570 ktCO₂/yr — an 8.7× single-year increase.
+**Total operational DAC capacity, early 2026:** *nameplate* capacity of roughly 60–80 ktCO₂/yr, with Stratos still ramping. The crucial caveat — and it deserves emphasis — is that *actual delivered* tonnes have run far below nameplate. Climeworks' Mammoth, nominally 36 ktCO₂/yr, had only ~12 of its 72 collector containers installed through mid-2025, with remaining installation paused over filter/sorbent performance problems; independently verified capture was on the order of *hundreds of tonnes*, not tens of thousands, through 2024–25, and Climeworks laid off ~22% of staff in May 2025. So "60–80 ktCO₂/yr operational" is a design figure; real-world output across the sector remained a small fraction of it. If Stratos achieves its 500 ktCO₂/yr design capacity through 2026, total *nameplate* DAC capacity would approach ~570 ktCO₂/yr — but, as Mammoth shows, nameplate and delivered tonnes are not the same thing, and the gap is the story of the industry's early years.
 
 **Pipeline through 2030:** 30+ DAC facilities announced for post-2025 operation; cumulative announced capacity in low megatonnes/yr by 2030. Significant geographic concentration in the US, Europe, and Iceland.
 
@@ -397,7 +397,7 @@ Total conventional CDR potential: roughly 3–7 GtCO₂/yr by 2050 — significa
 
 The voluntary corporate market is currently the primary funder of novel CDR. As of mid-2025, total CDR purchases (across all novel technologies) reached approximately:
 
-- **Microsoft:** ~25 million tCO₂ contracted across multiple suppliers as of Q2 2025 (and growing rapidly — 36+ Mt by April 2026) — by far the largest single buyer. Approximately 78–80% of total disclosed durable CDR tonnes contracted globally.
+- **Microsoft:** ~25 million tCO₂ contracted across multiple suppliers as of Q2 2025 (and growing rapidly — ~36.4 Mt by April 2026) — by far the largest single buyer. Approximately 78–80% of total disclosed durable CDR tonnes *contracted* globally. (Note the contracted/delivered gap: total durable CDR *deliveries* across all methods only crossed the **1 Mt cumulative** mark in December 2025 — most of it biochar and other near-term methods rather than DAC — against tens of megatonnes contracted for future delivery.)
 - **Airbus:** ~400,000 tCO₂ (largely DAC).
 - **Frontier coalition** (Stripe, Alphabet, Shopify, Meta, McKinsey): $1B+ committed, distributed across multiple suppliers.
 - **JP Morgan Chase:** $200M+ committed across multiple providers.
