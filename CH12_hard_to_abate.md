@@ -1,7 +1,7 @@
 # Chapter 12 — Hard-to-Abate Sectors
 
-**Track:** Forward View (C).
-**Prerequisites:** Chapter 10 (CCUS), Chapter 11 (CDR). Helpful: Chapter 4 (fossil fuels), Chapter 7 (compliance markets including CBAM coverage of steel/cement/aluminum/fertilizers).
+**Track:** Foundations & Physical Carbon → Climate Liability → Forward View (A + B + C).
+**Prerequisites:** Chapter 5 (emissions accounting — the process-vs-energy-emissions distinction), Chapter 10 (CCUS), Chapter 11 (CDR). Helpful: Chapter 4 (fossil fuels), Chapter 7 (compliance markets including CBAM coverage of steel/cement/aluminum/fertilizers).
 **What you should be able to do by the end:**
 - Define "hard-to-abate sector" and identify the major ones: **steel, cement, chemicals (especially ammonia and ethylene), aviation, shipping, long-haul road freight, and certain refining processes**.
 - Walk through the chemistry of steel and cement emissions — particularly why **cement process emissions are chemically unavoidable** without CCS or alternative chemistries.

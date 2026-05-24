@@ -74,11 +74,11 @@ The economics: Pigouvian taxes vs. cap-and-trade, price vs. quantity instruments
 Point-source capture: post-combustion (amines), pre-combustion, oxyfuel. The CO₂-EOR origins and why that legacy is contested (links back to Ch. 3). Storage geology — saline aquifers, depleted reservoirs, basalt mineralization. Class VI wells in the US, the regulatory regime. The 45Q tax credit and how the IRA transformed CCUS economics. Hubs treated as projects (the value chain itself is in Ch. 3): Gulf Coast, North Sea (Northern Lights, Acorn), Alberta. Honest assessment: what's actually been built, what's failed (Petra Nova, Gorgon underperformance), what's plausible by 2035.
 
 ### Chapter 11 — Carbon Dioxide Removal (CDR) *(Track C)*
-*Prerequisite:* Ch. 1, Ch. 5, Ch. 8. Helpful: Ch. 10.
+*Prerequisite:* Ch. 5, Ch. 10. Helpful: Ch. 1, Ch. 8.
 The taxonomy: nature-based (afforestation, soil carbon, blue carbon), engineered (DAC, BECCS), hybrid (biochar, enhanced rock weathering, ocean alkalinity enhancement, mCDR more broadly). Permanence tiers. The Frontier model (offtake agreements as market-making). Stripe Climate, Microsoft's procurement, the emerging buyer's market. Cost curves — what's $100/ton, what's $1,000/ton, what would it take to get DAC to $100. The "residual emissions" framing and how much CDR the IPCC scenarios actually require. Where the science is genuinely uncertain (oceans, soils).
 
-### Chapter 12 — Hard-to-Abate Sectors *(Track A + B)*
-*Prerequisite:* Ch. 4, Ch. 5. Helpful: Ch. 10.
+### Chapter 12 — Hard-to-Abate Sectors *(Track A + B + C)*
+*Prerequisite:* Ch. 5, Ch. 10, Ch. 11. Helpful: Ch. 4, Ch. 7.
 Steel (DRI-EAF, hydrogen, molten oxide electrolysis, Stegra/H2 Green Steel). Cement (clinker substitution, calcined clay, CCS, Sublime Systems' electrochemical approach). Chemicals and plastics (the carbon-as-feedstock question — links to Ch. 3 on CO₂-to-products). Aviation (SAF pathways, book-and-claim). Shipping (ammonia, methanol, the IMO's 2023 strategy). Long-haul trucking. Each sub-sector: current emissions, technology options, cost gap, policy levers, who's actually doing it.
 
 ### Chapter 13 — Corporate Net Zero and the Disclosure Regime *(Track B + C)*

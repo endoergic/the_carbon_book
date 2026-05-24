@@ -1,7 +1,7 @@
 # Chapter 11 — Carbon Dioxide Removal (CDR)
 
 **Track:** Forward View (C).
-**Prerequisites:** Chapter 10 (CCUS — point-source capture and storage infrastructure). Helpful: Chapter 1 (the carbon cycle), Chapter 8 (voluntary markets and the bifurcation between avoidance and removal credits).
+**Prerequisites:** Chapter 5 (emissions accounting — the avoided/reduced/removed distinction, residual emissions, SBTi neutralization), Chapter 10 (CCUS — point-source capture and storage infrastructure). Helpful: Chapter 1 (the carbon cycle), Chapter 8 (voluntary markets and the bifurcation between avoidance and removal credits).
 **What you should be able to do by the end:**
 - Distinguish **carbon dioxide removal (CDR)** from **point-source carbon capture (CCS/CCUS)** — both are "carbon capture" but they answer different climate questions.
 - Distinguish **conventional CDR** (afforestation, soil carbon, blue carbon) from **novel CDR** (DAC, BECCS, enhanced rock weathering, ocean alkalinity enhancement, biochar, biomass burial, mineralization).
