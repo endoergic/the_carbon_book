@@ -699,7 +699,7 @@ This chapter cites figures that are current as of writing (May 2026) and will mo
 
 | Claim | Value as stated | As-of | Primary source to verify against |
 |---|---|---|---|
-| Atmospheric CO₂ concentration | ~425.7 ppm (labeled "2025") | — | NOAA GML gml.noaa.gov/ccgg/trends/ — 2024 Mauna Loa annual mean is 424.61 ppm (NOAA) / 424.3 ppm (Met Office); 2025 annual mean forecast is 426.6 ± 0.6 ppm (Met Office); no 2025 official annual mean yet; 425.7 is not the published 2024 figure and sits below the 2025 forecast — **flag for update when NOAA publishes 2025 annual mean** |
+| Atmospheric CO₂ concentration | ~426 ppm (2025 global annual mean, GCB 2025); Mauna Loa ~431 ppm (April 2026) | 2025 / Apr 2026 | Global Carbon Budget 2025 (global annual mean); NOAA GML gml.noaa.gov/ccgg/trends/ (Mauna Loa, runs above global mean). 2024 Mauna Loa annual mean ~424.6 ppm (NOAA); 2025 global annual mean ~426 ppm — **flag for update when NOAA/GCB publish final 2025 figures** |
 | Conventional CDR ~2 GtCO₂/yr | ~2 GtCO₂/yr globally | 2024 | State of Carbon Dioxide Removal report (2nd ed., 2024), LSE Grantham Institute / University of Oxford |
 | Novel DAC cumulative delivery | ~1,200 t through H1 2025 | H1 2025 | CDR.fyi — 1,186 t delivered by 6 DAC suppliers through H1 2025; ~1,200 t is an acceptable rounding |
 | Climeworks Mammoth capacity | 36 ktCO₂/yr design; operational May 2024 | May 2024 | Climeworks press releases; climeworks.com/plant-mammoth |
