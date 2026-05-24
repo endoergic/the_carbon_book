@@ -135,6 +135,17 @@ The energy transition will hit these segments at very different rates. **Light-d
 
 The IEA STEPS scenario projects oil demand peaks around 102 mb/d in 2030 (essentially right now), then declines slowly to ~100 mb/d by 2035 and ~97 mb/d by 2050 (a late-century plateau rather than continued decline). The CPS scenario shows demand growing to 113 mb/d by 2050. The NZE scenario shows demand falling to ~50 mb/d by 2035 and ~24–25 mb/d by 2050. The range across these scenarios — ~25 mb/d to 113 mb/d in 2050 — is enormous and reflects very different assumptions about EV adoption, policy continuity, and petrochemical demand growth.
 
+## The investment decision: long-cycle, short-cycle, and the peak-demand hedge
+
+That 25-to-113 mb/d fan isn't just a forecasting curiosity — it is the uncertainty every upstream capital allocator now has to *price*, and it's where the fossil chapter meets the financing through-line of this book. An oil project is never bought at a demand number; it's sanctioned at a **breakeven price** and a **payback period**, and the demand fan determines how risky that bet is. Two archetypes sit at opposite ends:
+
+- **Long-cycle** projects — deepwater, oil sands, Arctic, large conventional fields — take **5–10 years from final investment decision (FID) to first oil** and then produce for **20–40 years**, at breakevens commonly $40–80+/bbl. A deepwater project sanctioned in 2026 is producing into the 2050s, straddling the *entire* scenario fan. You are committing billions of irreversible capital now against prices and demand decades out — exactly the window where the uncertainty is widest.
+- **Short-cycle** projects — US shale above all — go from spud to production in months, pay back in **2–3 years**, and let the operator dial capital up or down quarter to quarter. Core-acreage breakevens run ~$40–55/bbl.
+
+The strategic consequence is the one worth internalizing: **short-cycle is a hedge against peak-demand uncertainty.** If you can deploy and recover capital in two or three years, you don't need a confident 2050 view — only a confident view of the next few years. That option value is a large part of why, after the 2020 crash, the majors pivoted from sanctioning mega-projects toward capital discipline, buybacks, and shorter-cycle barrels: when the long-run demand signal is this wide, the option to *wait* is valuable, and long-cycle projects must now clear a higher hurdle because stranding risk (Part 5) raises their cost of capital.
+
+This is the upstream mirror of the steel reline decision (Ch. 2) and the CCS final-investment-decision problem (Ch. 3): a multi-billion-dollar, largely irreversible commitment made under deep uncertainty about a 20-year demand-price-policy trajectory. The twist specific to fossil upstream is that the *option not to build* is itself a live, value-preserving choice — which is why the energy transition may show up first not as dramatic stranded-asset write-downs but as the quieter phenomenon of long-cycle projects that simply never get sanctioned: supply that never appears because no one would underwrite the 2050 barrel. Keep that in mind when you reach Part 5, because it explains why stranding concentrates in the highest-cost, longest-cycle reserves: those are the first barrels a rational allocator declines to fund.
+
 ## The geopolitical structure
 
 Oil is the most geopolitically-loaded commodity in the world. Three structural features shape this:
@@ -195,6 +206,23 @@ EU methane regulations (effective from 2024, ramping through 2030) require impor
 
 This is one of the contested areas where the data is improving fast (satellite measurements) but the policy regimes are diverging.
 
+## **Stop-and-check 4.C**
+
+1. Gas is a "regional commodity" while oil is a "single global market." What physical fact about methane forces gas into fragmented regional markets (Henry Hub, TTF, JKM) rather than one global price?
+2. The EU now requires imported LNG to meet methane-intensity standards. Why is *verifying* the methane intensity of a specific cargo so much harder than verifying, say, its sulfur content — and what does that have in common with CBAM (Ch. 7)?
+3. The world is building ~300 bcm of new LNG export capacity by 2030 — the largest buildout in history. Walk through why the same buildout looks rational under STEPS and looks like stranded capacity under NZE.
+4. **Socratic prompt:** You're financing a new LNG export terminal in 2026 — a 20-year asset costing billions. Demand scenarios for 2040 gas range from "still growing" to "well into decline." How do you structure the deal to survive the downside, and what does your answer reveal about who ultimately bears peak-demand risk?
+
+**Answers**
+
+1. Methane is a low-density gas. It moves cheaply within a connected pipeline network but is expensive to ship across oceans, because that requires cooling it to −162°C, loading it onto specialized cryogenic tankers, and regasifying it at the other end — an LNG chain that adds several dollars per MMBtu. That liquefaction cost is high enough that, historically, regional markets (North America, Europe, Asia) cleared at very different prices and only arbitraged when the LNG spread exceeded the shipping-plus-liquefaction cost. Oil, a dense liquid, ships cheaply anywhere, so its price is single and global; gas fragments into Henry Hub, TTF, and JKM, knitted together only loosely by the growing LNG trade.
+
+2. Sulfur content is a property of the molecule in the cargo — you can measure it directly in a sample. Methane intensity is a property of the *production and transport history* of the gas: how much methane leaked upstream, at the wellhead, in processing, in the pipeline, during liquefaction — none of which is visible in the delivered cargo. Verifying it means tracing and attributing emissions across a supply chain you don't control, with measurement (satellite vs. self-report) still contested. That is exactly the problem CBAM faces with embedded carbon in steel: you're regulating an attribute that lives in the production process, not in the product, so the regime stands or falls on measurement, verification, and trust — which is why both become trade-friction flashpoints.
+
+3. Under STEPS, the LNG wave floods the market, depresses prices, and *induces* additional gas demand in importing countries (cheaper gas displaces coal and gets locked into new power and industrial capacity) — so the capacity gets used and the buildout looks rational. Under NZE, aggressive policy suppresses gas demand on the timetable needed for 1.5°C, so much of that same capacity runs at low utilization or never fills — stranded. The identical steel and ships are either a sound investment or a write-down depending entirely on which demand trajectory materializes; the IEA itself notes many under-construction LNG projects are "no longer necessary" under NZE.
+
+4. The honest structuring relies on **long-term take-or-pay offtake contracts** (often 15–20 years) that shift volume risk onto the buyers — utilities and importers who commit to pay whether or not they lift the gas. That's how terminals get financed: the lender underwrites the contracted cashflows, not the spot market. But notice what that reveals — the peak-demand risk doesn't vanish, it migrates to whoever signs the offtake, and ultimately to the importing country's ratepayers or taxpayers if demand falls and the contracts are honored anyway. If buyers won't sign long-tenor contracts (because *they* see the demand risk), the terminal can't reach FID. So the financeability of new fossil infrastructure is, increasingly, a referendum on whether someone downstream will absorb the stranding risk — the same revenue-floor logic that governs CCS (Ch. 3) and green steel (Ch. 2), here running through private offtake rather than government subsidy.
+
 ---
 
 # Part 4: The global coal market
@@ -246,7 +274,7 @@ But the peak isn't certain because:
 
 The cleanest reading: coal *globally* is likely to peak in the mid-to-late 2020s, but the decline is gradual in scenarios consistent with current policy. Faster decline requires more aggressive subsidization of renewables, faster grid investment in major Asian economies, and politically difficult retirement of existing coal capacity. Even after the peak, coal will be a major energy source through at least the 2040s.
 
-## **Stop-and-check 4.C**
+## **Stop-and-check 4.D**
 
 1. The coal market is geographically concentrated in a way oil and gas are not — 83% of consumption is in Asia-Pacific, dominated by China. What does this concentration imply for international policy levers (carbon pricing, financing restrictions, trade)?
 2. Indonesia is now the world's largest coal exporter, displacing Australia. Indonesia's economy is heavily dependent on coal export revenue. How does that affect the politics of coal phase-down?
@@ -320,7 +348,7 @@ There's a deeper analytical issue worth flagging: the stranded-asset framework t
 
 The cleanest framing: stranded-asset risk is real, concentrated in high-cost reserves and high-fossil-share companies, materially under-priced by markets compared to the IEA's 1.5°C scenarios, but not yet manifest at scale outside coal. Whether the broader oil/gas stranded-asset wave arrives in the late 2020s, the 2030s, or never depends substantially on the policy trajectory.
 
-## **Stop-and-check 4.D**
+## **Stop-and-check 4.E**
 
 1. Even with full CCS deployment, less than half of proved fossil reserves can be burned within the 2°C carbon budget. Why does CCS help less than people sometimes assume?
 2. Coal stranding has happened in OECD economies but barely in China or India. What does this asymmetry suggest about how stranded-asset transitions actually play out?
@@ -376,6 +404,23 @@ Three calibration points for using the 2025 WEO:
 
 The honest read: the 2025 WEO is a more politically-mediated document than recent years' editions. The underlying analytical work remains good, but the scenario presentation has shifted to accommodate political pressure. Treat the scenarios as scenarios, look at the underlying technology and demand assumptions for each, and form your own view about which assumptions are more plausible.
 
+## **Stop-and-check 4.F**
+
+1. The IEA is often described as a "relatively pro-transition" voice, yet the 2025 WEO walked back several fossil-demand declines. What does that tell you about treating *any* single institution's scenarios as ground truth?
+2. CPS, STEPS, and NZE are sometimes read as low/medium/high cases on one axis. Why is that wrong — what fundamentally different *kind* of object is each scenario?
+3. The reintroduction of CPS came after explicit US political pressure. Does that make CPS analytically worthless, or is there a legitimate reading of it? Make both cases.
+4. **Socratic prompt:** You're a CFO deciding whether to sanction a 25-year, capital-intensive asset (an LNG terminal, a refinery upgrade, a steel mill). You can't plan against all three IEA scenarios at once. Which do you plan against — and how do you think about the asymmetric cost of planning against the wrong one (building for demand that doesn't come vs. failing to build for demand that does)?
+
+**Answers**
+
+1. It tells you scenarios are products of institutions, and institutions respond to evidence *and* to pressure. The IEA revised toward higher fossil demand partly because 2024's record consumption was real data, and partly because the political environment shifted. Either way, treating one institution's central case as "the forecast" is a mistake: the useful move is to read multiple sources (IEA, BNEF, OPEC, the majors' own outlooks), notice where they diverge and why, and treat the spread itself as the information. The forecast you can't see the assumptions behind is not a forecast you can use.
+
+2. They aren't three points on one probability axis. **STEPS** is a *predictive* scenario — what's likely given stated policies. **CPS** is a *conditional* scenario — what happens under a specific (and contestable) assumption that announced policies fail. **NZE** is a *normative/backcast* scenario — what would be *required* to hit 1.5°C, derived backward from the goal, not forward from current behavior. Reading NZE as "the optimistic case" or CPS as "the pessimistic case" misses that one describes intentions, one describes a counterfactual, and one describes a target. They answer different questions, so collapsing them onto a single low/medium/high scale produces nonsense.
+
+3. Worthless case: CPS assumes *near-universal* policy backsliding — EU coal phase-outs failing, Japan/Korea/California/India all missing their plans at once — which is a heroic counterfactual reintroduced under political pressure, so it functions less as a baseline than as a fossil-favorable talking point (the criticism from BNEF, IEEFA, IISD). Legitimate case: policies *do* fail to deliver with some regularity, implementation gaps are real, and having an explicit "what if delivery falls short everywhere" bracket is genuinely useful for stress-testing — provided you read it as a stress case, not as the expected path. The honest use is as one bound of a range, with eyes open about why it reappeared.
+
+4. There's no scenario-independent right answer; the discipline is to reason about the *asymmetry of regret*. Planning against high demand (building) and being wrong means a stranded asset — capital destroyed, but a bounded, balance-sheet loss you can sometimes hedge with offtake contracts. Planning against low demand (not building) and being wrong means foregone profit and lost market share — an opportunity cost, often recoverable later at higher cost. Which error is worse depends on the asset's reversibility, your balance-sheet capacity to absorb a write-down, your ability to push volume risk onto offtakers, and your cost of capital. The sophisticated move is rarely "pick a scenario" — it's to favor options that preserve flexibility (shorter-cycle, modular, contract-backed) so you're not forced to bet the firm on which scenario comes true. That's the same peak-demand-hedge logic from Part 2, viewed from the boardroom.
+
 ---
 
 # Closing exercise
@@ -410,6 +455,7 @@ The fossil-fuel chapter sits at an uncomfortable junction. The science is clear 
 
 - **API gravity** — Measure of crude oil density: higher API = lighter crude. Light sweet crude (high API, low sulfur) commands premium prices; heavy sour crude trades at discount.
 - **Bituminous coal** — The dominant coal grade globally; 60–90% carbon. Used for both power generation and (when low in ash/sulfur) coking coal for steelmaking.
+- **Breakeven price** — The commodity price at which a project recovers its full costs (including required return). An oil/gas project is sanctioned against a breakeven and a payback period, not a demand forecast; deepwater/oil-sands breakevens run ~$40–80+/bbl, core US shale ~$40–55/bbl.
 - **CNG (Compressed Natural Gas)** — Natural gas at 200–250 bar pressure, used as vehicle fuel in some markets.
 - **CPS (Current Policies Scenario)** — IEA scenario reintroduced in WEO 2025 after a 5-year hiatus, under US pressure. Assumes governments fail to implement announced policies. Shows oil demand growing to 113 mb/d by 2050. Implies ~2.9°C warming.
 - **Crude oil benchmarks** — Brent (North Sea light sweet), WTI (Texas light sweet), Dubai/Oman (Middle East medium), Bonny Light (Nigeria), Maya (Mexico heavy sour). Most globally-traded crudes price at spreads to these benchmarks.
@@ -418,6 +464,7 @@ The fossil-fuel chapter sits at an uncomfortable junction. The science is clear 
 - **JKM (Japan-Korea Marker)** — Asian LNG benchmark, set by spot LNG cargoes delivered to Japan and Korea.
 - **Lignite (brown coal)** — Lowest-energy coal grade (25–35% C). Almost always burned at the mine-mouth because not economic to transport.
 - **LNG (Liquefied Natural Gas)** — Natural gas cooled to ~–162°C (1/600 the volume of gas), shipped on specialized tankers. Connects regional gas markets globally.
+- **Long-cycle / short-cycle (upstream)** — Long-cycle projects (deepwater, oil sands, Arctic) take 5–10 years from FID to first oil and produce for decades; short-cycle (US shale) goes from spud to production in months with 2–3-year payback. Short-cycle's capital flexibility makes it a hedge against peak-demand uncertainty.
 - **Methane leakage** — Loss of unburned methane during natural gas production, processing, transport, and use. Recent satellite measurements suggest 2–4% leakage from major producing regions, substantially higher than industry self-reports.
 - **NGLs (Natural Gas Liquids)** — Heavier hydrocarbon components (ethane, propane, butane) separated from natural gas. Sold as petrochemical feedstock or LPG.
 - **NOC (National Oil Company)** — State-owned oil company. Includes Saudi Aramco, ADNOC, Pemex, Petrobras, CNPC, ONGC, Rosneft, and others. Together control most global reserves.
@@ -429,6 +476,7 @@ The fossil-fuel chapter sits at an uncomfortable junction. The science is clear 
 - **STEPS (Stated Policies Scenario)** — IEA scenario based on currently-stated government policies and announced plans. Shows oil peaking ~2030, gas peaking ~2035, coal peaking before 2030. Implies ~2.5°C warming.
 - **Stranded asset** — Asset that loses economic value before the end of its expected useful life due to changing market or regulatory conditions. In fossil fuels, refers to reserves and infrastructure that cannot be exploited under climate-constrained demand.
 - **Strait of Hormuz** — Strategic chokepoint between Iran and Oman through which ~20 mb/d of crude oil and substantial LNG transit. Single most consequential energy chokepoint globally.
+- **Take-or-pay (offtake contract)** — Long-term contract in which the buyer commits to pay for a volume whether or not it is lifted. The standard way LNG terminals and other fossil megaprojects get financed — it shifts volume (and thus peak-demand) risk onto the buyer, which is what makes the project bankable.
 - **Tight oil / shale oil** — Oil produced from low-permeability shale formations using horizontal drilling and hydraulic fracturing. US tight oil ~13 mb/d in 2024.
 - **TTF (Title Transfer Facility)** — European natural gas price benchmark (Netherlands).
 - **Unburnable carbon** — The fraction of proved fossil reserves whose CO₂ emissions would exceed the remaining carbon budget for a chosen temperature target. ~95% of reserves at 1.5°C; ~70% at 2°C.

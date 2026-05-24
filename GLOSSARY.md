@@ -201,6 +201,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 
 - **API gravity** — Measure of crude oil density; higher API = lighter crude. Light sweet crude commands premium prices.
 - **Bituminous coal** — The dominant coal grade globally (60–90% C). Used for power generation and (when low in ash/sulfur) coking coal for steelmaking.
+- **Breakeven price** — The commodity price at which a project recovers full costs including required return. Oil/gas projects are sanctioned against a breakeven and payback period, not a demand forecast; deepwater/oil-sands ~$40–80+/bbl, core US shale ~$40–55/bbl.
 - **CNG (Compressed Natural Gas)** — Natural gas at 200–250 bar pressure, used as vehicle fuel in some markets.
 - **CPS (Current Policies Scenario)** — IEA scenario reintroduced in WEO 2025 after a 5-year hiatus, under US pressure. Assumes governments fail to implement announced policies. Oil demand grows to 113 mb/d by 2050; implies ~2.9°C warming.
 - **Crude oil benchmarks** — Brent (North Sea light sweet), WTI (Texas light sweet), Dubai/Oman (Middle East medium), Bonny Light (Nigeria), Maya (Mexico heavy sour). Most globally-traded crudes price at spreads to these.
@@ -209,6 +210,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **JKM (Japan-Korea Marker)** — Asian LNG benchmark, set by spot LNG cargoes delivered to Japan and Korea.
 - **Lignite (brown coal)** — Lowest-energy coal grade (25–35% C). Almost always burned at the mine-mouth because not economic to transport.
 - **LNG (Liquefied Natural Gas)** — Natural gas cooled to ~–162°C (1/600 the volume of gas), shipped on specialized tankers. Total global trade ~410 Mt (560 bcm equivalent) in 2024.
+- **Long-cycle / short-cycle (upstream)** — Long-cycle projects (deepwater, oil sands, Arctic) take 5–10 years to first oil and produce for decades; short-cycle (US shale) reaches production in months with 2–3-year payback. Short-cycle's capital flexibility is a hedge against peak-demand uncertainty.
 - **Methane leakage** — Loss of unburned methane during natural gas production, processing, transport, and use. Recent satellite measurements: 2–4% leakage from major producing basins, substantially higher than industry self-reports. At >3% leakage, gas loses its climate advantage over coal on a 20-year basis.
 - **NGLs (Natural Gas Liquids)** — Heavier hydrocarbon components (ethane, propane, butane) separated from natural gas. Sold as petrochemical feedstock or LPG.
 - **NOC (National Oil Company)** — State-owned oil company. Saudi Aramco, ADNOC, Pemex, Petrobras, CNPC, ONGC, Rosneft, and others. Together control most global reserves.
@@ -219,6 +221,7 @@ Living document. Each entry shows: **term** — definition, plus *(first introdu
 - **Sour / sweet crude** — Sour = high sulfur (>0.5%); sweet = low sulfur (<0.5%).
 - **STEPS (Stated Policies Scenario)** — IEA scenario based on currently-stated government policies and announced plans. Oil peaks ~2030, gas peaks ~2035, coal peaks before 2030. Implies ~2.5°C warming.
 - **Strait of Hormuz** — Strategic chokepoint between Iran and Oman through which ~20 mb/d of crude oil transit. Single most consequential energy chokepoint globally.
+- **Take-or-pay (offtake contract)** — Long-term contract in which the buyer pays for a volume whether or not it is lifted. The standard way LNG terminals and fossil megaprojects get financed; shifts volume/peak-demand risk onto the buyer, which is what makes the project bankable.
 - **Tight oil / shale oil** — Oil produced from low-permeability shale formations using horizontal drilling and hydraulic fracturing. US tight oil ~13 mb/d in 2024.
 - **TTF (Title Transfer Facility)** — European natural gas price benchmark (Netherlands).
 - **WEO (World Energy Outlook)** — Annual IEA flagship report; canonical global reference for energy demand projections. 2025 edition (published Nov 2025 at COP30) reintroduced CPS scenario under US pressure.
