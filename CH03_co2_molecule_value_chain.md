@@ -236,7 +236,7 @@ The honest read on this table: **of all the projects listed, only Northern Light
 
 ## How a CCS project actually gets financed
 
-To see *why* most of that table is stuck pre-FID or on government life support, you have to look at how a CCS project assembles its revenue — because the problem is the same one the non-Chinese graphite plants faced in Chapter 2: a high-capital-cost asset that cannot reach a final investment decision (FID) without a *contracted, bankable revenue floor*. A capture plant and its storage well are billion-dollar commitments with decades of operating life; a lender will not fund them against a hoped-for spot price.
+To see *why* most of that table is stuck pre-FID or on government life support, you have to look at how a CCS project assembles its revenue — because the problem is the same one the non-Chinese graphite plants faced in Chapter 2: a high-capital-cost asset that cannot reach a final investment decision (FID) without a *contracted, bankable revenue floor*. A capture plant and its storage well are billion-dollar commitments with decades of operating life — the same irreversible-capital-under-demand-uncertainty bet as the steel reline in Chapter 2 — and a lender will not fund them against a hoped-for spot price.
 
 A CCS project has up to three revenue streams, and the financing turns on how bankable each one is:
 

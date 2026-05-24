@@ -277,6 +277,7 @@ This is the book's closing synthesis. Across every chapter, the most useful orga
 - **Compliance carbon pricing, where it exists.** The EU ETS and the durable subnational US systems demonstrably price carbon, raise revenue, and have contributed to power-sector decarbonization (Ch. 7). The instrument works where it is allowed to.
 - **Electrification of light transport and low-temperature heat.** EVs and heat pumps are mature, improving, and scaling.
 - **A few hard-to-abate beachheads.** Commercial cement CCS (Brevik), green-steel pilots, and a real shipping framework (the IMO 2025 agreement) show the hardest sectors are not hopeless (Ch. 12).
+- **Policy-manufactured revenue floors, where governments hold them.** The single most recurring pattern in this book — a public floor (Norway's Longship and the UK's CCS-CfD, 45Q/45V, CDR advance market commitments, SAF mandates) de-risking a high-capital, long-payback asset until private capital will finance it — is the mechanism behind nearly every hard-tech project that has actually reached FID (Ch. 2, 3, 10, 11, 12). It works *when the floor is durable*; its failure mode is the reversibility problem below.
 
 ## What doesn't work (the defensible pessimism)
 
