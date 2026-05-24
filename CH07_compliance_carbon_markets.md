@@ -20,7 +20,7 @@ The substantive importance of compliance markets is twofold. First, they directl
 
 This chapter focuses on operational compliance markets — cap-and-trade systems imposed by law, where covered entities must surrender allowances or face penalties. Voluntary markets (Ch. 8) operate under entirely different logic and are best understood as a separate institution that shares some technical features.
 
-The chapter is organized in seven parts: cap-and-trade fundamentals, the EU ETS (the most consequential system), CBAM (the EU's import-side counterpart), the North American systems (WCI, RGGI, Washington), other major markets (China, UK, Korea, others), the broader case for and against cap-and-trade, and the carbon-tax alternative.
+The chapter is organized in eight parts: cap-and-trade fundamentals, the EU ETS (the most consequential system), CBAM (the EU's import-side counterpart), the North American systems (WCI, RGGI, Washington), other major markets (China, UK, Korea, others), the broader case for and against cap-and-trade, the carbon-tax alternative, and fuel-standard regimes (a structurally distinct compliance instrument).
 
 ---
 
@@ -116,7 +116,7 @@ The EU ETS covers approximately 10,000 large industrial facilities plus aviation
 
 > **A note on CORSIA**, referenced here and throughout the markets chapters: CORSIA (the Carbon Offsetting and Reduction Scheme for International Aviation) is ICAO's scheme requiring international airlines to offset emissions above a baseline by purchasing eligible credits. It is a *separate* regime from the EU ETS — intra-EEA flights sit under the EU ETS, while most international flights sit under CORSIA. Because it accepts voluntary-market credits to meet a compliance obligation, it is best understood as a hybrid compliance/voluntary mechanism; it is picked up in Ch. 8 (as a demand source for the voluntary market) and treated in depth in Ch. 12 (aviation).
 
-Total coverage is approximately 40% of EU GHG emissions. The remaining 60% — transport, buildings, agriculture, smaller industry, F-gas applications — sits under other policy instruments, including the new ETS2 (Part 2.5).
+Total coverage is approximately 40% of EU GHG emissions. The remaining 60% — transport, buildings, agriculture, smaller industry, F-gas applications — sits under other policy instruments, including the new ETS2 (see "ETS2" in Part 2).
 
 ## The phases
 
@@ -227,7 +227,7 @@ Importers of CBAM-covered goods must:
 2. **Purchase CBAM certificates** equal to the embedded emissions, at a price tracking EU ETS allowance prices (full enforcement starts January 2026).
 3. **Deduct** any carbon price already paid in the country of origin (avoiding double-charging if exporters' home countries have their own carbon pricing).
 
-**CBAM certificate prices** track EUA prices. The first official price (announced April 2026): **€75.36/tCO₂e** for Q1 2026, based on the Q4 2025 EUA auction average. For perspective, this adds approximately €140/ton to imported steel (with ~1.85 tCO₂e embedded per ton).
+**CBAM certificate prices** track EUA prices. The first official price (announced April 2026): **€75.36/tCO₂e** for Q1 2026, based on the Q4 2025 EUA auction average. For perspective, at *full* coverage this would add approximately €140/ton to imported steel (with ~1.85 tCO₂e embedded per ton) — but in 2026, with only 2.5% of embedded emissions covered (see the phase-in below), the actual obligation is roughly €3.50/ton, rising as coverage ramps toward 100% by 2034.
 
 CBAM is being phased in to coincide with the phase-out of free allowances for CBAM-covered sectors. The phase-in schedule:
 - **2023–2025:** Reporting only; no certificate purchase required.
@@ -409,7 +409,7 @@ The empirical question: whether €75–125/tCO₂e is sufficient to drive subst
 
 Most ETSs cover power generation and large industry but exclude transportation (where emissions are growing) and buildings (where stocks are slow-turnover). Agriculture, the second-largest source globally, is almost entirely uncovered.
 
-The defense: cap-and-trade works best where emitters are large and concentrated. Distributed sectors are better addressed through standards, fuel taxes, or building codes. ETS2 (Part 2.5) is the EU's attempt to extend cap-and-trade to fragmented sectors.
+The defense: cap-and-trade works best where emitters are large and concentrated. Distributed sectors are better addressed through standards, fuel taxes, or building codes. ETS2 (Part 2) is the EU's attempt to extend cap-and-trade to fragmented sectors.
 
 This critique is largely correct as a description of current systems, but partly addresses incomplete implementation rather than inherent design limitation. The next-generation systems (ETS2, India CCTS, various proposed designs) are exploring whether cap-and-trade can work for fragmented sectors.
 

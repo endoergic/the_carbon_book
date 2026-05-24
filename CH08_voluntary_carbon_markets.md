@@ -284,7 +284,7 @@ In January 2023, three news organizations published a joint investigation — th
 - **Guizar-Coutiño et al. (Cambridge, 2022)** — Examined REDD+ project effectiveness using synthetic control methods.
 - **West et al. (2023)** — Systematic synthetic control analysis of 27 REDD+ projects.
 
-The headline findings: REDD+ project baselines on average overstated avoided deforestation by ~400%. Only 8 of the 29 analyzed projects showed evidence of reduced deforestation. The credits being sold (and retired by buyers like Gucci, Shell, easyJet, Salesforce, Disney, and BHP) didn't represent the climate benefits they claimed.
+The headline findings: REDD+ project baselines on average overstated avoided deforestation by ~400%. Only 8 of the 29 projects examined across the combined investigations showed clear evidence of reduced deforestation. The credits being sold (and retired by buyers like Gucci, Shell, easyJet, Salesforce, Disney, and BHP) didn't represent the climate benefits they claimed.
 
 Verra responded with a strong technical rebuttal disputing the studies' methodology — challenging the synthetic-control approaches used, the matching criteria, the underlying data quality, the lack of peer review of the journalistic claims, and the misrepresentation of one of the cited Cambridge studies (which actually had cautiously positive findings about REDD+).
 
@@ -323,14 +323,14 @@ These run in parallel and are designed to be complementary.
 
 ## **Stop-and-check 8.B**
 
-1. The Guardian investigation said "more than 90%" of REDD+ credits were worthless. The academic debate suggests the true number is probably 50–70%. Is this a meaningful distinction? Does it change how a corporate buyer should treat their existing credit portfolio?
+1. The Guardian investigation said "more than 90%" of REDD+ credits were worthless. The academic debate suggests the overstated fraction is probably more like 50–70% (i.e., ~30–50% represent real benefit). Is this a meaningful distinction? Does it change how a corporate buyer should treat their existing credit portfolio?
 2. The cookstove crisis involved methodologies that systematically overstated baselines. How does this kind of methodological failure differ from the REDD+ case?
 3. The 2024 ICVCM rejection of legacy renewable-energy methodologies effectively removed a major historical category of credits from CCP eligibility. What does this say about the legitimacy of the credits that were sold under those methodologies historically?
 4. **Socratic prompt:** A company bought 1 million tCO₂e of nature-based credits from Verra projects between 2018–2022. The credits were retired and the company made "carbon neutral" claims at the time. In 2026, the company learns that those credits were likely 30–50% of the climate benefit claimed. What should the company do — disclose, retroactively buy additional credits, change its current strategy, all of the above, or none?
 
 **Answers**
 
-1. The distinction matters less for the headline than for the response. Whether the worthless fraction is 90% or 30–50%, the operative conclusion is the same: a large share of REDD+ credits did not deliver the claimed benefit, so a portfolio built on them is substantially overstated and any "carbon neutral" claim resting on them is unsupported. Where the distinction does matter is in the remedy and the framing: 30–50% real benefit means the credits were not pure fiction, so a buyer should treat the portfolio as partially valid and discount it rather than write it to zero, and policymakers should reform rather than abolish REDD+. The precise number guides how much to discount and how to fix the methodology, not whether there is a problem.
+1. The distinction matters less for the headline than for the response. Whether the overstated fraction is 90% or ~50–70% (i.e., ~30–50% real benefit), the operative conclusion is the same: a large share of REDD+ credits did not deliver the claimed benefit, so a portfolio built on them is substantially overstated and any "carbon neutral" claim resting on them is unsupported. Where the distinction does matter is in the remedy and the framing: 30–50% real benefit means the credits were not pure fiction, so a buyer should treat the portfolio as partially valid and discount it rather than write it to zero, and policymakers should reform rather than abolish REDD+. The precise number guides how much to discount and how to fix the methodology, not whether there is a problem.
 
 2. The cookstove failure was a quantification-and-baseline error of a different kind. REDD+ baselines projected a counterfactual deforestation rate that was systematically inflated; cookstove methodologies systematically mis-measured inputs — overstating how much firewood households would have burned and understating fuel-switching behavior — over-crediting by 5–10×. The REDD+ problem was the counterfactual scenario; the cookstove problem was the measurement parameters feeding the credit calculation. Both produce inflated issuance, but the REDD+ case is harder because the counterfactual is irreducibly unobservable, whereas the cookstove parameters can in principle be measured better, which is why methodology revisions in 2024–2025 could address them more directly.
 
@@ -422,7 +422,7 @@ The 2024 release of Version 1 of the Claims Code triggered substantial corporate
 
 ## SBTi V2 and the role of credits in net-zero
 
-The Science Based Targets initiative's **Corporate Net-Zero Standard Version 2 (CNZS V2)** — currently in second consultation as of November 2025, expected final mid-to-late 2026 — substantially changes how corporate net-zero pledges can use voluntary credits.
+The Science Based Targets initiative's **Corporate Net-Zero Standard Version 2 (CNZS V2)** — second consultation closed December 2025, final standard expected in 2026 and mandatory for new near-term targets from 1 January 2028 (see Ch. 13 for the authoritative timeline) — substantially changes how corporate net-zero pledges can use voluntary credits.
 
 Key V2 provisions (Ch. 5 covered this in more detail):
 - **"Ongoing Emissions Responsibility (OER)"** replaces the previous "Beyond Value Chain Mitigation" (BVCM) framework. Companies are encouraged (voluntary until 2035, mandatory thereafter for Category A companies) to take responsibility for their emissions during the transition period through carbon credits.

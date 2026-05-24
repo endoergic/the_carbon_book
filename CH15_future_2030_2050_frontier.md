@@ -3,7 +3,7 @@
 **Track:** Forward View (C)
 **Prerequisites:** Most of the book. This chapter draws on Chapter 4 (carbon budget), Chapter 7–9 (markets and pricing), Chapter 10–11 (CCUS and CDR), Chapter 12 (hard-to-abate), Chapter 13 (corporate net zero), and Chapter 14 (geopolitics).
 **What you should be able to do by the end:**
-- State, with numbers, where current policy actually puts global warming (the emissions gap, the ~2.5–2.8°C trajectory) and what closing it would require.
+- State, with numbers, where current policy actually puts global warming (the emissions gap, the ~2.5–2.9°C trajectory) and what closing it would require.
 - Explain the collision between AI-driven electricity demand and the grid, and why it cuts both ways for the transition.
 - Assess the frontier carbon-to-products and engineered-removal plays honestly — separating what is thermodynamically and commercially real from what is hype.
 - Characterize the genuine scientific uncertainties (ocean and soil CDR) and the governance vacuum around solar geoengineering.
@@ -42,7 +42,7 @@ The honest answer, by the mid-2020s, is: **not as originally framed.** Holding w
 This reframes the entire forward problem around two concepts:
 
 - **Overshoot.** Peak warming above the target, followed by a decline. The deeper and longer the overshoot, the greater the risk of triggering irreversible tipping points (ice-sheet collapse, permafrost carbon release, ecosystem state shifts) that no later cooling can undo. Overshoot is not symmetric: the damages during the peak are real even if temperature later falls.
-- **Net-negative dependence.** Coming back down requires removing CO₂ at gigatonne scale for decades — which is why the IPCC's 1.5°C-consistent pathways assume **5–10 GtCO₂/year of CDR by mid-century** (Ch. 11). Current CDR is under a megatonne of durable removal per year. The pathways quietly assume a several-thousand-fold scale-up of an industry that barely exists. This is the largest single act of faith embedded in the scenarios.
+- **Net-negative dependence.** Coming back down requires removing CO₂ at gigatonne scale for decades — which is why the IPCC's 1.5°C-consistent pathways assume **5–10 GtCO₂/year of CDR by mid-century** (Ch. 11). Current *durable* (novel) CDR is well under a megatonne per year — against ~2 Gt/yr of conventional, mostly land-based removal (Ch. 11). The pathways quietly assume a several-thousand-fold scale-up of the durable-removal industry, which barely exists. This is the largest single act of faith embedded in the scenarios.
 
 ## The "delivery gap" beneath the emissions gap
 
@@ -153,7 +153,7 @@ Utilization is real and useful in specific niches — durable mineralization in 
 
 ## The scale problem restated
 
-Chapter 11 established the removal taxonomy and the central tension: the 1.5°C pathways assume gigatonnes of durable CDR, the current industry delivers well under a megatonne, and the highest-durability removals (DAC) cost roughly $500–1,000+/tonne. The forward question is whether this gap can close — whether engineered removal can scale by three to four orders of magnitude this century at a cost the world can afford.
+Chapter 11 established the removal taxonomy and the central tension: the 1.5°C pathways assume gigatonnes of durable CDR, the current industry delivers well under a megatonne, and the highest-durability removals (DAC) cost roughly $400–800/tonne today (Ch. 11). The forward question is whether this gap can close — whether engineered removal can scale by three to four orders of magnitude this century at a cost the world can afford.
 
 ## Where the frontier is moving
 
@@ -323,7 +323,7 @@ The single most valuable thing this book can leave you with is the habit of aski
 
 Three things to take away — from this chapter and, really, from the whole book:
 
-**1. We are on a bad-but-improving path, far too slow for the headline target.** Current policy points to ~2.5–2.8°C; the trajectory has bent down from ~4°C a decade ago, driven mostly by collapsing clean-tech costs; 1.5°C will almost certainly be overshot. The future hinges on a handful of swing variables — clean-firm-power and DAC cost curves, Chinese deployment speed, policy durability, and how AI's demand is powered — not on any single treaty or technology.
+**1. We are on a bad-but-improving path, far too slow for the headline target.** Current policy points to ~2.5–2.9°C; the trajectory has bent down from ~4°C a decade ago, driven mostly by collapsing clean-tech costs; 1.5°C will almost certainly be overshot. The future hinges on a handful of swing variables — clean-firm-power and DAC cost curves, Chinese deployment speed, policy durability, and how AI's demand is powered — not on any single treaty or technology.
 
 **2. The frontier is real but oversold in pieces.** Utilization helps in narrow niches (durable mineralization, clean e-fuels for hard-to-abate transport) but fights thermodynamics; engineered removal must scale by orders of magnitude and may or may not get cheap; ocean/soil CDR is scientifically unsettled; and solar geoengineering is cheap, fast, dangerous, and ungoverned — the most underexamined high-stakes issue in the field.
 
