@@ -273,7 +273,7 @@ This is the section that connects the fossil fuel chapter directly back to Ch. 1
 
 Total proved reserves of the three fossil fuels (Energy Institute *Statistical Review of World Energy 2024–2025*, latest available figures):
 
-- **Oil:** ~1,700 billion barrels of proved reserves. At current production of ~37 Gt/yr, that's roughly a 50-year reserves-to-production ratio.
+- **Oil:** ~1,700 billion barrels of proved reserves. At current production of ~37 billion barrels/yr (~5 Gt/yr), that's roughly a 46-year reserves-to-production ratio.
 - **Natural gas:** ~190 trillion cubic meters of proved reserves. At ~4,070 bcm/yr production, roughly a 47-year R/P ratio.
 - **Coal:** ~1,070 billion tons of proved reserves. At ~9 Gt/yr production, ~118-year R/P ratio.
 

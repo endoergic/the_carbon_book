@@ -41,7 +41,7 @@ The price at which emission allowances trade in cap-and-trade systems. EU ETS at
 
 ## 2. Carbon tax rate
 
-The per-ton charge imposed by statute. Sweden at $130. Canada's national backstop at $80 (rising to $170 by 2030). British Columbia at $80. France's domestic tax at €44.
+The per-ton charge imposed by statute. Sweden at $130. Canada and British Columbia both abolished their consumer carbon charges in April 2025 (Canada's industrial carbon price continues). France's domestic tax at €44.
 
 **What it is:** A legislatively-set charge per ton.
 **Who pays it:** Whoever the statute designates — often upstream (fuel suppliers) for administrative simplicity.
@@ -225,9 +225,9 @@ Most economists historically favored carbon taxes over cap-and-trade, on grounds
 
 **Switzerland** — Carbon tax since 2008. Rate: ~CHF 130 (~$150). Coverage: heating and process emissions outside the Swiss ETS (which is linked to EU ETS).
 
-**British Columbia** — Carbon tax since 2008. Rate: ~C$80/tCO₂e (~$59). Revenue-neutral by design (offset by tax cuts in early years; partially recycled to taxpayers as a Climate Action Tax Credit). Coverage: ~70% of provincial emissions. One of the most rigorously studied carbon tax implementations; generally positive empirical record.
+**British Columbia** — Carbon tax from 2008 until 2025. Reached ~C$80/tCO₂e (~$59); revenue-neutral by design (offset by tax cuts in early years; partially recycled to taxpayers as a Climate Action Tax Credit). Covered ~70% of provincial emissions and was one of the most rigorously studied carbon tax implementations, with a generally positive empirical record — yet BC **repealed its consumer carbon tax in April 2025**, days after the federal floor that had backstopped it was removed (see the Canadian case below).
 
-**Canada (national backstop)** — Federal carbon pricing since 2019. Sets a minimum carbon price that provinces must implement (either via tax or cap-and-trade) or face the federal backstop. Current floor: C$80/tCO₂e ($59) in 2025, escalating to **C$170/tCO₂e ($125) by 2030**. The largest national-scale carbon tax program in the world. Politically contested; survived major legal challenges in Reference re Greenhouse Gas Pollution Pricing Act (2021 Supreme Court of Canada).
+**Canada (national backstop)** — Federal carbon pricing since 2019, in two parts: a consumer **fuel charge** and an **industrial** output-based pricing system (OBPS) for large emitters. The fuel charge reached C$80/tCO₂e ($59) in early 2025 and was on a legislated path to **C$170/tCO₂e ($125) by 2030** — but the incoming Carney government **set it to zero effective April 1, 2025**, ending the consumer charge and the household rebate. Industrial carbon pricing (the OBPS and provincial equivalents) **remains in place**. The program survived a constitutional challenge (Reference re Greenhouse Gas Pollution Pricing Act, 2021 Supreme Court of Canada) only to be unwound politically — examined as a cautionary case below.
 
 **France** — Domestic carbon tax (Contribution Climat Énergie) since 2014. Currently €44.6/tCO₂e (frozen since 2018 after yellow vest protests). The 2018 protests halted the planned annual escalation.
 
@@ -257,15 +257,15 @@ Several patterns emerge from the global record:
 
 ## The Canadian carbon tax case
 
-Worth a brief deeper look as the most consequential national carbon tax outside Europe. Canada's national backstop, adopted in 2018 and operational from 2019, has several distinctive features:
+Worth a brief deeper look — not as a success story but as the most consequential **repeal** of a national carbon tax to date. Canada's national backstop, adopted in 2018 and operational from 2019, had several distinctive features:
 
 - **Federal-provincial structure:** Provinces can implement their own systems (Quebec ETS, BC carbon tax) or use the federal backstop. The minimum stringency is set federally.
-- **Steep escalation:** From C$20 in 2019 to C$80 in 2025 to C$170 by 2030 — a 8.5× increase over 11 years.
-- **Revenue recycling:** Federal proceeds returned to households in covered provinces as Climate Action Incentive Payments. ~90% of households receive more in payments than they pay in carbon tax (the cost is concentrated in highest emitters).
+- **Escalation, then reversal:** The fuel charge rose from C$20 in 2019 to C$80 by early 2025 and was legislated to reach C$170 by 2030 — an 8.5× planned increase — but was abolished (set to zero) on April 1, 2025 before that path played out.
+- **Revenue recycling (while it lasted):** Federal fuel-charge proceeds were returned to households in covered provinces as the Canada Carbon Rebate (formerly Climate Action Incentive Payments). The government argued ~90% of households received more in rebates than they paid (the cost concentrated in the highest emitters) — yet the policy remained politically toxic, the central puzzle of the Canadian case.
 - **Constitutional challenge:** Several conservative provinces challenged federal authority. The Supreme Court of Canada upheld the law in March 2021 (5-3-1 decision), establishing that climate change is a matter of national concern within federal authority under the Peace, Order, and Good Government clause.
-- **Political volatility:** The 2024 federal election cycle saw the Conservative Party campaign explicitly on repealing the carbon tax. Multiple provincial governments (Alberta, Saskatchewan, Ontario) have actively opposed it. Whether the tax survives long-term is genuinely uncertain.
+- **Political collapse:** The consumer carbon tax became the dominant wedge issue of the 2024–25 federal cycle, with the Conservatives campaigning on "axe the tax" and several provinces (Alberta, Saskatchewan, Ontario) actively opposing it. Facing that pressure, the Liberals under Mark Carney eliminated the consumer fuel charge on taking office in 2025; British Columbia repealed its own consumer carbon tax the same month.
 
-The Canadian experiment is the largest-scale test of whether a substantial, escalating national carbon tax with explicit revenue recycling can survive politically. The outcome will substantially influence carbon tax adoption elsewhere.
+The Canadian experiment was the largest-scale test of whether a substantial, escalating national carbon tax with explicit revenue recycling could survive politically. The answer, at least for the consumer-facing charge, was no — despite a rebate design that left most households better off, the tax's visibility made it an irresistible political target, while the less-visible industrial carbon price survived. That asymmetry — visible consumer charges are fragile, industrial pricing is durable — is the lesson other jurisdictions are now absorbing.
 
 ---
 
@@ -426,7 +426,7 @@ The realistic picture: **carbon pricing is becoming nearly universal as an insti
 
 2. The strategic logic answers the free-rider problem in climate cooperation (Nordhaus, 2015): countries that don't price carbon benefit from others' reductions without bearing the cost, so a coalition of pricing jurisdictions imposes border tariffs (CBAM-style) on non-participants, flipping the incentive — joining the club and pricing domestically becomes cheaper than paying the club's border charges, and a joiner keeps the revenue itself. The main weakness is that it depends on a large, committed coalition with market power and on surviving the WTO-compatibility challenge: a small or fractious club lacks the leverage to coerce participation, non-participants can retaliate or reroute trade, and verification of embedded emissions creates asymmetric, contestable burdens. Without critical mass and legal durability, the club's tariffs are pinpricks rather than a binding incentive.
 
-3. The likely direction is upward in the major systems, but the pace is uncertain. Structural tightening — declining caps, MSR intake in the EU, Canada's legislated escalation to C$170 by 2030 — points prices higher, and the EU consensus forecast crosses €100 in 2027 toward ~€126 by 2030. What would push prices higher: tighter caps, supply-side reforms, expanded coverage (ETS2, CBAM phase-in), and high gas prices that raise fuel-switching demand. What would push them lower: economic downturn cutting emissions and demand, political backlash forcing accommodation (the ETS2 delay, Canadian repeal pressure), over-allocation, calmer gas markets, and abundant cheap abatement. Even at the higher end, prices are likely to remain below the IPCC AR6 1.5°C-aligned ranges, so the open question is whether escalation reaches the $200+ level some analyses say is needed.
+3. The likely direction is upward in the major systems, but the pace is uncertain. Structural tightening — declining caps, MSR intake in the EU — points prices higher, and the EU consensus forecast crosses €100 in 2027 toward ~€126 by 2030. What would push prices higher: tighter caps, supply-side reforms, expanded coverage (ETS2, CBAM phase-in), and high gas prices that raise fuel-switching demand. What would push them lower: economic downturn cutting emissions and demand, political backlash forcing accommodation (the ETS2 delay, Canada's 2025 repeal of its consumer carbon tax), over-allocation, calmer gas markets, and abundant cheap abatement. Even at the higher end, prices are likely to remain below the IPCC AR6 1.5°C-aligned ranges, so the open question is whether escalation reaches the $200+ level some analyses say is needed.
 
 4. The advice depends on the country's emissions profile, fiscal needs, administrative capacity, trade exposure, and political tolerance for visible costs. Factors to weigh: whether large concentrated emitters exist (favoring an ETS) or whether simple upstream administration is better (favoring a tax); CBAM exposure, since pricing domestically lets the country keep revenue rather than paying it to the EU (the motivation cited for Turkey and Brazil); the availability of revenue-recycling to blunt regressive, cost-of-living impacts; and the realistic starting price given development priorities. A defensible recommendation is to start with a modest, credible price on the largest concentrated sources, build the MRV and registry infrastructure first, recycle revenue visibly to vulnerable groups, and pre-commit to escalation — capturing the institutional and CBAM-revenue benefits now while leaving room to tighten as capacity grows. The decisive variables are administrative readiness, trade exposure, and the political durability of a visible carbon cost.
 
@@ -498,7 +498,7 @@ A pragmatic synthesis of the experience to date:
 - Substitution requires major up-front capital that consumers can't finance (heat pumps, EVs).
 - Political constituencies vetoing visible price increases (transportation fuel in many democracies).
 
-The 2026–2030 window will substantially clarify which sectors carbon pricing works for and which require complementary instruments. The EU ETS2 launch will be a major test of whether cap-and-trade can extend to fragmented sectors. The fate of Canada's national backstop will test whether escalating tax-based pricing can be politically durable.
+The 2026–2030 window will substantially clarify which sectors carbon pricing works for and which require complementary instruments. The EU ETS2 launch will be a major test of whether cap-and-trade can extend to fragmented sectors. And Canada's 2025 repeal of its consumer carbon tax — while its industrial carbon price survived — has already delivered one verdict: highly visible consumer charges are politically fragile in a way that upstream or industrial pricing is not.
 
 ---
 
@@ -540,7 +540,7 @@ The next decade will test whether carbon pricing can extend from the current cov
 - **Damage function** — In SCC calculation, the relationship between climate variables (temperature, sea level) and economic damages. A central source of SCC variability.
 - **DICE (Dynamic Integrated Climate-Economy)** — IAM developed by William Nordhaus. The most widely-used IAM historically. Produces relatively low SCC estimates.
 - **Discount rate** — The rate at which future damages are discounted to present value in SCC calculation. Lower rates produce higher SCCs. Central political-economic choice.
-- **Federal backstop (Canada)** — Federal carbon pricing minimum that provinces must implement or use as default. Currently C$80/tCO₂e (2025), rising to C$170 by 2030.
+- **Federal backstop (Canada)** — Federal carbon pricing minimum provinces must meet or adopt as default, with a consumer fuel-charge component and an industrial output-based component. The consumer fuel charge reached C$80/tCO₂e in early 2025 and was abolished (set to zero) on April 1, 2025; the industrial carbon price remains.
 - **Fee-internal carbon price** — An actual internal charge levied on business units based on emissions, with revenue often recycled to climate programs. Distinct from shadow pricing.
 - **GIVE (Greenhouse Gas Impact Value Estimator)** — Modern IAM developed by Resources for the Future and University of California Berkeley. Underlies the 2023 EPA SCC estimate of $190/tCO₂.
 - **Integrated Assessment Model (IAM)** — Modeling framework linking climate physics, economics, and policy. Used for SCC estimation and IPCC pathway analysis.

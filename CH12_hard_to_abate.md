@@ -43,7 +43,7 @@ Cement is produced primarily from limestone (calcium carbonate, CaCO₃). The ch
 
 $$\text{CaCO}_3 \xrightarrow{\text{heat}} \text{CaO} + \text{CO}_2$$
 
-This reaction releases **~535 kg of CO₂ per ton of CaO produced**. About 60% of cement's CO₂ emissions come from this calcination reaction; only 40% come from the fuel burned to heat the kiln.
+This reaction releases **~525 kg of CO₂ per ton of cement clinker produced** (equivalently, ~786 kg per ton of CaO, or ~440 kg per ton of limestone). About 60% of cement's CO₂ emissions come from this calcination reaction; only 40% come from the fuel burned to heat the kiln.
 
 You cannot decarbonize cement by switching to clean energy alone. Even with 100% renewable electricity heating the kiln, the 60% process emissions remain. The only options for these emissions are: (a) capture them with CCS, (b) use alternative chemistries that don't release CO₂, or (c) reduce demand for cement.
 

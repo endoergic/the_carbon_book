@@ -330,7 +330,7 @@ Mineralization is permanent (>1000-year storage) and counts as both CCU and CCS 
 
 ## E-fuels and methanol
 
-Combining CO₂ with hydrogen produces methanol (CH₃OH), which can then be upgraded to gasoline, jet, or diesel via established processes (Fischer-Tropsch, methanol-to-olefins, methanol-to-gasoline). The whole pathway requires substantial hydrogen input — typically 2-3 tons of H₂ per ton of methanol, requiring ~70 MWh of electricity at electrolyzer efficiency.
+Combining CO₂ with hydrogen produces methanol (CH₃OH), which can then be upgraded to gasoline, jet, or diesel via established processes (Fischer-Tropsch, methanol-to-olefins, methanol-to-gasoline). The whole pathway requires substantial hydrogen input — about 0.19 tons of H₂ per ton of methanol (CO₂ + 3H₂ → CH₃OH + H₂O), which at current electrolyzer efficiency takes on the order of 10–11 MWh of electricity per ton of methanol.
 
 E-fuels are climatically meaningful only if the hydrogen is green (renewable-powered electrolysis) and the CO₂ is biogenic or atmospheric (not fossil). Even with both inputs green, e-fuels are typically 3–10× the cost of fossil-fuel alternatives. Their realistic near-term market is sustainable aviation fuel (SAF) and shipping fuel, where electrification isn't viable.
 

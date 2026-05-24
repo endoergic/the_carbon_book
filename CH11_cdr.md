@@ -6,7 +6,7 @@
 - Distinguish **carbon dioxide removal (CDR)** from **point-source carbon capture (CCS/CCUS)** — both are "carbon capture" but they answer different climate questions.
 - Distinguish **conventional CDR** (afforestation, soil carbon, blue carbon) from **novel CDR** (DAC, BECCS, enhanced rock weathering, ocean alkalinity enhancement, biochar, biomass burial, mineralization).
 - Walk through the major CDR technology categories: DAC (solid sorbent vs. liquid solvent vs. electrochemical), BECCS (bioenergy + CCS), enhanced rock weathering, ocean-based CDR, biochar, biomass burial, mineralization.
-- State current CDR deployment (~2 GtCO₂/yr globally, ~99.9% from conventional CDR; novel CDR delivered ~1,200 tonnes through 2023 H1 of 2025 from DAC specifically; ~600 ktCO₂/yr operational DAC capacity entering 2026 with Stratos ramp-up).
+- State current CDR deployment (~2 GtCO₂/yr globally, ~99.9% from conventional CDR; novel CDR via DAC has delivered ~1,200 tonnes cumulatively through H1 2025; operational DAC capacity is ~60–80 ktCO₂/yr entering 2026, rising toward ~570 ktCO₂/yr as 1PointFive's Stratos ramps to design capacity).
 - Articulate the gigaton gap: IPCC 1.5°C-compatible scenarios require **5–10 GtCO₂/yr of novel CDR by mid-century** — three to four orders of magnitude above current capacity.
 - Explain what advance market commitments (AMCs) are and why Frontier ($1B+) is the most consequential mechanism for early-stage CDR financing.
 - Identify the major operational and FID-stage projects: Climeworks Mammoth (Iceland, 36 ktCO₂/yr), 1PointFive Stratos (Texas, 500 ktCO₂/yr at full capacity), Heirloom-Climeworks Project Cypress, Stockholm Exergi BECCS (Sweden), Drax UK (proposed BECCS), Carbfix (Iceland mineralization), various biochar and biomass-burial deployments.
@@ -73,7 +73,7 @@ Conventional CDR is **the bulk of all current CDR**. The IPCC and the State of C
 - **Biomass burial** — storing biomass in conditions that prevent decomposition
 - **Mineralization** — reacting CO₂ with reactive rocks to form stable carbonates
 
-Novel CDR delivered approximately **1,200 tonnes** of removals (DAC specifically) through H1 2025 — five orders of magnitude smaller than conventional CDR. The novel-CDR pipeline is what's growing rapidly.
+Novel CDR (DAC specifically) had delivered approximately **1,200 tonnes** of removals cumulatively through H1 2025 — against conventional CDR's ~2 GtCO₂ removed *every year*, roughly six orders of magnitude larger. The novel-CDR pipeline is what's growing rapidly.
 
 The conceptual difference: conventional CDR is bio-based and uses living systems; novel CDR is technology-based and uses physical-chemical processes. Conventional CDR is older, cheaper, and at scale; novel CDR is newer, more expensive, but more permanent and verifiable in many cases.
 
