@@ -183,13 +183,9 @@ The SCC has been one of the most politically volatile metrics in federal policy:
 
 **November 2023:** EPA releases new central estimate of **$190/tCO₂** (2020 baseline), rising to $230 in 2030, $308 in 2050, $410 in 2080. Methodology updated with Rennert et al. (2022) GIVE model, lower discount rates, broader damage functions. Adopted in November 2023 methane rule.
 
-**January 2025:** Trump E.O. 14154 ("Unleashing American Energy") disbands IWG again. Withdraws IWG documents. Orders EPA to issue guidance considering eliminating SCC from federal decisions.
+**January 2025:** Trump E.O. 14154 ("Unleashing American Energy") disbands the IWG again, withdraws its documents, and orders EPA to consider eliminating the SCC from federal decisions.
 
-**March 2025:** EPA Administrator Lee Zeldin announces "overhaul" of SCC.
-
-**May 2025:** Executive memorandum directs federal agencies to stop factoring climate damages into regulations except where statutorily required. Where required, interim estimate of approximately $1/tCO₂.
-
-**July 2025:** OIRA issues guidance further restricting SCC use. Where any climate cost analysis is required, it should be "minimum consideration required to meet a statutory requirement" and ideally not monetized.
+**Mid–late 2025:** The dismantling is executed in steps — Administrator Zeldin's announced "overhaul" (March), an executive memorandum directing agencies to stop monetizing climate damages except where statutorily required, with an interim estimate of ~$1/tCO₂ (May), and OIRA guidance that any required climate-cost analysis be the "minimum consideration" needed and ideally not monetized (July).
 
 The trajectory matters because the SCC has been the dominant tool for monetizing climate benefits in regulatory analysis. Eliminating or reducing it shifts the analytical basis for federal climate regulation. Many EPA rules — vehicle emissions, methane regulations, power plant rules — were justified in part by SCC-weighted benefits. Without the SCC, those benefit calculations collapse, and the cost-benefit analysis no longer favors regulation.
 
