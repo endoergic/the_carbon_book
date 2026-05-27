@@ -1,0 +1,563 @@
+Chapter 5, Emissions Accounting: The Rosetta Stone.
+
+Why this chapter exists.
+
+The chapters so far have established the physical carbon problem (Chapter 1), the materials commodity economy (Chapter 2), the CO2 infrastructure economy (Chapter 3), and the fossil fuel value chain (Chapter 4). Everything to come, carbon markets, climate policy, corporate net-zero claims, climate finance, disclosure regulation, runs on a single piece of plumbing: how emissions are counted.
+
+Emissions accounting is the rosetta stone. When someone says "we cut emissions 40 percent" or "our portfolio is aligned to 1.5 degrees Celsius" or "the bank financed 300M dollars of emissions" or "the offset retired 1,000 tonnes of CO2-equivalent," those claims are only as meaningful as the accounting underneath them. The accounting choices shape the markets, the regulations, the incentives, and ultimately the climate outcomes.
+
+This is where three of the five questions from Chapter 1, measured how, by whom, against what baseline, get their operational answers. "Measured how" is the choice of protocol and emission factor; "by whom" is the organizational boundary and whose inventory a tonne lands in; "against what baseline" is the base year or counterfactual a reduction is claimed against. Get those wrong and the other two questions, which carbon and how durable, can't rescue the claim.
+
+This chapter is the most technical of the curriculum so far, and also the most important for reading anything else. Once you have a working model of Scope 1/2/3, control versus equity share, location-based versus market-based, financed versus facilitated, avoided versus reduced versus removed, you can read any climate disclosure, any net-zero pledge, any market integrity controversy, and locate the substantive question fast. Without it, you're at the mercy of the framing.
+
+I'll be more terms-and-definitions heavy here than elsewhere because the precision matters. I'll also flag the contested edges: emissions accounting has more genuine analytical controversy embedded in it than most non-specialists realize, and the ongoing greenhouse gas Protocol and S.B.T.i. revisions are touching all of them.
+
+Part 1: The basic architecture, Scope 1, 2, 3.
+
+Where the scopes come from.
+
+The architecture of corporate greenhouse gas accounting was set by the Greenhouse Gas Protocol Corporate Accounting and Reporting Standard, first published in 2001 and revised in 2004. The greenhouse gas Protocol is a joint initiative of the World Resources Institute and the World Business Council for Sustainable Development, originally founded in 1997. The Corporate Standard introduced the three-scope structure that has dominated corporate emissions accounting ever since.
+
+The framing was elegant and has held up remarkably well: divide a company's emissions into three layers based on control and causation:
+
+Scope 1, Direct emissions. Emissions from sources the company owns or operationally controls. The flames coming out of the company's smokestacks. Trucks the company owns. The natural gas the company burns in its boilers. Fugitive methane from the company's gas pipelines. If a company sold all its assets to someone else, Scope 1 emissions would move with them.
+
+Scope 2, Energy indirect emissions. Emissions from the generation of electricity, heat, steam, or cooling that the company purchases. A data center buying grid electricity has Scope 2 emissions equal to the emissions from the power plant supplying that electricity (or some allocation thereof). The company didn't burn the fuel; the power plant did. But because the company's demand caused the power plant to burn the fuel, the emissions are attributed to the buyer.
+
+Scope 3, Other indirect emissions. Everything else in the value chain. This is the catch-all and by far the largest category for most non-utility companies. The emissions of the company's suppliers (upstream Scope 3). The emissions caused by the use of the company's products (downstream Scope 3). The emissions of employees commuting and travelling. The emissions of waste disposal. The emissions of financial investments. Scope 3 is divided into 15 categories under the greenhouse gas Protocol's Corporate Value Chain (Scope 3) Accounting and Reporting Standard, published in 2011, and a 16th category is being added in the current revision (more on this below).
+
+The point of the three-scope structure.
+
+The reason the greenhouse gas Protocol drew the lines this way: it wanted a system where every emission gets counted somewhere, but no single emission gets double-counted across companies.
+
+A coal-fired power plant's emissions are the power company's Scope 1. The same emissions, attributed by electricity sold, are the customers' Scope 2. The fuel burned in the plant was upstream Scope 3 for the power company (Category 3: Fuel- and energy-related activities) and downstream Scope 3 for the coal mining company (Category 11: Use of sold products). If you summed all the world's corporate inventories, the same physical CO2 molecule would appear several times, but at different positions in different companies' inventories.
+
+This is intentional. The greenhouse gas Protocol calls the three scopes a "complementary framework": it's not arithmetic, it's a system of accountability. A coal company can't say "we don't emit; our customers do", that's exactly what downstream Scope 3 captures. An electricity buyer can't say "we don't emit; the power plant does", that's Scope 2. The framework lets each company see the emissions it influences and creates pressure points for action up and down the value chain.
+
+The corollary: you cannot add up corporate Scope 1+2+3 emissions across companies and get to the global total. That math doesn't work. National emissions inventories (which feed into I.P.C.C. reports and U.N.F.C.C.C. submissions) are constructed completely differently, they're territorial, attributing emissions to where the activity physically occurred, with no Scope 2 or 3.
+
+What goes in Scope 1.
+
+Scope 1 covers four categories under the greenhouse gas Protocol:
+
+Stationary combustion. Fuel burned in facilities owned or controlled by the company: boilers, furnaces, generators, kilns. The output is CO2 plus smaller amounts of methane and nitrous oxide.
+Mobile combustion. Fuel burned in company-owned vehicles, ships, aircraft, equipment. Same gases.
+Process emissions. greenhouse gases released by chemical or physical processes other than fuel combustion. Cement (CO2 from calcining limestone), ammonia (CO2 from hydrogen production via steam methane reforming), aluminum (PFCs from anode effects in smelting), refrigerants (HFCs from leaks).
+Fugitive emissions. Unintentional releases. Methane from natural gas pipelines and compressor stations. Refrigerant leaks from cooling systems. sulfur hexafluoride leaks from electrical equipment.
+
+Scope 1 is usually the easiest scope to measure, because the company directly controls the activity. It's also the scope where third-party verification is most rigorous, assurance providers can inspect facilities, audit fuel purchase records, and verify combustion emission factors.
+
+For most companies in most sectors, Scope 1 is a small fraction of total emissions. The exceptions: heavy industry (steel, cement, chemicals, refining), upstream oil and gas, electric utilities, freight transport, agriculture. For these sectors, Scope 1 is the dominant emission category.
+
+What goes in Scope 2.
+
+Scope 2 covers emissions from purchased energy:
+Electricity (the dominant component for most companies).
+Heat or steam (district heating, industrial steam from a third party).
+Cooling (chilled water from a district cooling system).
+
+The accounting question is non-trivial: when a company plugs into a grid, what emissions should be attributed to its consumption? The grid is a mix of generation sources, the mix varies by time of day and season, and the same electricity could in principle have come from many sources. The greenhouse gas Protocol's 2015 Scope 2 Guidance introduced two methods that must both be reported (a "dual reporting" requirement):
+
+Location-based method. Uses an average emission factor for the grid in the geographic location where the electricity was consumed. A facility in West Virginia (coal-heavy grid) has higher Scope 2 than the same load in Norway (hydro-dominated grid), regardless of what the buyer claims to have procured. This method captures physical reality.
+
+Market-based method. Uses emission factors that reflect the company's contractual instruments for electricity supply: R.E.C.s (renewable energy certificates), P.P.A.s (power purchase agreements), green tariffs, on-site generation. If a company buys renewable energy contractually, those contracts "claim" the clean attributes and the company's market-based Scope 2 is reduced.
+
+Both methods have to be reported because they answer different questions:
+Location-based: what physical emissions resulted from this consumption?
+Market-based: what is the company doing to drive clean electricity through procurement?
+
+The market-based method has been the subject of ongoing controversy. The criticism: a company can buy cheap unbundled R.E.C.s from a wind project that would have been built anyway, retire them against its Scope 2, and claim "100 percent renewable" without changing actual electricity flows. This is the "R.E.C. washing" critique. The defense: R.E.C. markets create demand signals that incentivize new renewable build over time, even if the marginal-impact mechanism is weaker than direct procurement.
+
+The greenhouse gas Protocol is currently revising the Scope 2 Guidance, a public consultation ran from October 2025 through January 2026. Proposed changes include moving from annual to hourly matching (24/7 carbon-free energy), tightening geographic boundaries on R.E.C.s to match physical grid realities, and creating a hierarchy of emission factors that prefers more granular data. If adopted, this would substantially raise the bar for "100 percent renewable" claims. Final revised Scope 2 Guidance is expected in 2027.
+
+The Emissions First Partnership (a group including Amazon and Meta) has separately proposed an alternative framework that would emphasize the carbon impact of electricity procurement rather than the megawatt-hour matching framework. This is in active tension with the 24/7 matching approach, and the greenhouse gas Protocol revisions will resolve which framework dominates for the next decade.
+
+What goes in Scope 3.
+
+Scope 3 is divided into 15 categories under the 2011 Standard:
+
+Upstream Scope 3 (emissions in the supply chain before the company touches the product):
+Purchased goods and services, the embodied emissions of everything the company buys.
+Capital goods, embodied emissions of long-lived assets (factories, vehicles, IT infrastructure).
+Fuel- and energy-related activities, upstream emissions of the fuels and electricity the company buys (extraction, transport, refining, but excluding the actual combustion, which is in the company's Scope 1 or 2).
+Upstream transportation and distribution, third-party logistics moving goods into the company.
+Waste generated in operations, disposal of company waste.
+Business travel, employee business travel on third-party transport.
+Employee commuting, employees going to and from work.
+Upstream leased assets, emissions from leased assets not counted in Scope 1 or 2.
+
+Downstream Scope 3 (emissions after the company sells the product):
+Downstream transportation and distribution, third-party logistics moving goods to customers.
+Processing of sold products, emissions when customers further process intermediate goods.
+Use of sold products, emissions from customers using the product (the big one for fuel producers, automakers, appliance makers).
+End-of-life treatment of sold products, disposal or recycling of products at end of life.
+Downstream leased assets, emissions from assets the company leases to others.
+Franchises, emissions of franchisees not counted in Scope 1 or 2.
+Investments, emissions of the company's equity, debt, and project investments (the big one for financial institutions).
+
+A 16th category is being added in the current revision (Phase 1 progress update, March 2026): Other value chain activities not captured in categories 1-15. This is meant to capture things like facilitated emissions (capital-markets underwriting by banks), licensing of intellectual property, and other emissions sources that don't cleanly fit the original 15. P-CAF Parts A, B, and C are the calculation methodology referenced by Category 16 for the financial-sector activities.
+
+For most non-financial companies, Categories 1 (purchased goods) and 11 (use of sold products) dominate Scope 3, often together representing 60-80 percent of total Scope 3. For a software company, business travel and purchased services might be larger. For an oil major, Category 11 (when customers burn the fuel) is typically 80 percent+ of total emissions. For a bank, Category 15 (financed emissions) is over 99 percent of total.
+
+Stop-and-check 5.A.
+
+A company owns a refinery that burns natural gas to produce gasoline. The gasoline is sold to motorists who burn it in cars. Categorize each of these emissions sources by scope:
+The natural gas burned at the refinery
+The electricity the refinery buys from the grid
+The methane released from the refinery's faulty valves
+The emissions when motorists burn the gasoline
+The emissions from the trucks that delivered the crude oil to the refinery
+Why does the greenhouse gas Protocol require dual reporting (location- and market-based) for Scope 2? What questions do the two methods answer?
+A company shows large reductions in Scope 2 emissions year-over-year because they bought unbundled R.E.C.s from a wind farm that was already operating. What's the integrity issue here, and what would a more rigorous accounting approach require?
+Socratic prompt: ExxonMobil's Scope 1+2 emissions are approximately 99 megatonnes of CO2-equivalent/yr (2024 data; earlier figures near 120 megatonnes of CO2-equivalent reflect pre-Pioneer acquisition years). Its Scope 3 Category 11 emissions are approximately 730 megatonnes of CO2-equivalent/yr (2024). If ExxonMobil commits to "net zero by 2050" but only specifies Scope 1+2, what fraction of its actual climate impact is the commitment addressing? What should you ask the company before treating its commitment as credible?
+
+Answers
+
+The natural gas burned at the refinery is Scope 1 (stationary combustion in a facility the company controls). The grid electricity is Scope 2 (purchased energy). The methane from faulty valves is Scope 1 (fugitive emissions). The emissions when motorists burn the gasoline are Scope 3, Category 11 (use of sold products), the dominant category for a fuel producer. The trucks delivering crude are Scope 3, Category 4 (upstream transportation and distribution), since they are third-party logistics moving goods into the company rather than company-owned vehicles.
+
+Dual reporting exists because the two methods answer different questions and neither alone is complete. The location-based method uses grid-average emission factors for where electricity is consumed, capturing the physical reality of what emissions actually resulted. The market-based method uses contractual instruments (R.E.C.s, P.P.A.s, green tariffs) to reflect what the company is doing to drive clean electricity through procurement. Requiring both prevents a company from hiding behind contracts while ignoring its physical grid footprint, and prevents undervaluing genuine procurement effort. Location-based answers "what physically happened"; market-based answers "what is the company doing about it."
+
+The integrity issue is that the wind farm was already operating, so the unbundled R.E.C.s represent no additional renewable generation, they shift a paper claim without changing physical electricity flows. This is the "R.E.C. washing" critique: the reduction is contractual, not real. A more rigorous approach would prefer additionality (procurement that drives new build, such as P.P.A.s or on-site generation), tighter geographic matching to the actual grid, and ultimately hourly (24/7) matching rather than annual. The proposed Scope 2 Guidance revisions move in exactly this direction, raising the bar for "100 percent renewable" claims.
+
+The commitment addresses only about 99 of roughly 829 megatonnes of CO2-equivalent (2024 basis), roughly 12 percent of ExxonMobil's actual climate impact, since Scope 3 Category 11 (customers burning the fuel) is the overwhelming majority. For an oil major, excluding Scope 3 omits the core of the problem. Before treating the pledge as credible, you should ask: does it cover Scope 3 Category 11, and if not why; is the target absolute or intensity-based; what is the base year; does it rely on offsets or removals and of what quality; and is it validated against a recognized framework. The decisive question is whether the boundary of the commitment matches the boundary of the emissions.
+
+Part 2: Organizational boundaries, who owns what.
+
+Before you can count any of a company's emissions, you have to define which entities count as part of the company. A corporation with subsidiaries, joint ventures, leased facilities, and minority equity stakes faces a real boundary question. The greenhouse gas Protocol offers three approaches:
+
+Equity share approach. Account for emissions in proportion to the company's ownership interest in each entity. A 60 percent stake in a joint venture gets 60 percent of the JV's emissions. This approach aligns with how financial accounting often treats partial ownership. Used in some sectors (especially oil and gas) where joint ventures are common.
+
+Financial control approach. Account for 100 percent of emissions from any entity where the company has financial control, the power to direct financial and operational policies. This typically matches financial consolidation: if the entity rolls up in your audited financials, you take 100 percent of its emissions.
+
+Operational control approach. Account for 100 percent of emissions from any entity where the company has operational control, the power to introduce and implement operating policies. The most common choice in practice, because it aligns with the practical question of "what can the company actually influence?"
+
+These three approaches give different answers for the same set of facts. Consider an oil major with a 30 percent stake in a refinery joint venture where it has operational control. Under equity share: 30 percent of the refinery's emissions. Under financial control: 0 percent (the company doesn't financially consolidate it). Under operational control: 100 percent (the company operates the facility).
+
+Companies must declare which approach they use and apply it consistently. Changes in approach require restatement of base-year inventories. The greenhouse gas Protocol's current revision is considering whether to limit options for organizational boundary setting to improve comparability across companies. The expected direction: greater standardization on a subset of approaches (likely operational control plus, for some sectors, equity share), with stricter documentation requirements for whichever is chosen.
+
+Why this is genuinely contested.
+
+The boundary choice has substantive emissions implications. Consider a private-equity sponsor that holds majority stakes in 50 portfolio companies. Under operational control: probably zero Scope 1 emissions (the sponsor doesn't operate any portfolio company day-to-day). Under equity share: substantial emissions reflecting the sponsor's ownership stake in each portfolio company. Under financial control: probably zero again (most PE structures don't financially consolidate portfolio companies in the sponsor's accounts).
+
+Critics argue that "operational control" lets financial-control-only owners escape responsibility for emissions they could in principle influence as owners. Defenders argue that emissions accounting is meant to capture what an entity can actually change, and financial owners typically have less direct influence on day-to-day operations than operators.
+
+Either way, the choice of boundary approach is the single biggest leverage point in a corporate emissions inventory, and it should be one of the first things you check when reading a disclosure.
+
+Stop-and-check 5.B.
+
+An oil major holds a 30 percent stake in a refinery joint venture but operates the facility. Under each of the three boundary approaches, equity share, financial control, operational control, what share of the refinery's emissions does it report?
+Why is the boundary choice "the single biggest leverage point" in an inventory, bigger than, say, the choice of emission factors?
+A private-equity sponsor owns majority stakes in 50 portfolio companies but operates none of them. Which boundary approach lets it report near-zero Scope 1, and is that a feature or a bug?
+Socratic prompt: You're writing the boundary rule for a new disclosure regime. Operational control matches "what a company can change day-to-day"; equity share matches "what a company owns and profits from." Which do you mandate, and what gets hidden under each?
+
+Answers
+
+Equity share: 30 percent, proportional to ownership. Financial control: 0 percent, because a 30 percent stake isn't financially consolidated. Operational control: 100 percent, because it runs the facility. Same facts, three reported numbers, 0 percent, 30 percent, or 100 percent, which is exactly why the boundary choice is the inventory's biggest single lever.
+
+Because emission factors move a number by a few percent, but the boundary choice can move whole facilities in or out of the inventory, from 0 percent to 100 percent of a major asset, as the refinery shows. It determines what counts as the company at all, before any measurement happens. A company can restructure its reported footprint without changing one physical emission, just by which entities it consolidates and under which approach. Get the boundary wrong, or game it, and every downstream number inherits the distortion.
+
+Operational control (and usually financial control) lets the sponsor report near-zero Scope 1, because it doesn't run the portfolio companies day-to-day and often doesn't consolidate them financially. Whether that's a feature or a bug is the contested question: defenders say accounting should capture what an entity can actually change, and a financial owner has less operational influence than an operator; critics say it lets owners profit from emitting assets while reporting clean inventories, the emissions are real, they've just fallen into a boundary gap. Honestly, it's a feature for measuring operational influence and a bug for measuring ownership responsibility, and one framework can't be both at once.
+
+There's no clean winner; each hides a different thing. Mandate operational control and you capture what management can directly act on, but financial owners, PE sponsors, holding companies, minority investors, escape responsibility for emitting assets they own and profit from; the emissions fall into a gap. Mandate equity share and you capture ownership and economic benefit, but you assign emissions to entities (a 5 percent shareholder) with little power to change them, and you can spread the same influence thinly across many partial owners. The decisive variable is what you want the disclosure to do, drive operational decarbonization (favor operational control) or assign financial/capital-allocation responsibility (favor equity share), which is why stricter regimes increasingly require disclosing under a specified approach and flagging material emissions that fall outside it.
+
+Part 3: Inventories versus targets versus claims.
+
+A common source of confusion: emissions accounting produces three distinct artifacts, which serve different purposes and have different rules.
+
+The inventory.
+
+A corporate emissions inventory is a backward-looking measurement of emissions during a reporting period (typically a calendar year). It says: during 2024, this company emitted X megatonnes of CO2-equivalent across these scopes and categories. An inventory is meant to be a faithful reflection of what happened.
+
+The greenhouse gas Protocol Corporate Standard sets five principles for inventory preparation: relevance, completeness, consistency, transparency, accuracy, with relevance and completeness being the most contested in practice. Relevance asks whether the inventory captures emissions that genuinely reflect the company's activities; completeness asks whether the inventory excludes material sources that should have been included.
+
+Inventories are subject to assurance, independent third-party verification. The level of assurance varies: limited assurance is a moderate-confidence opinion based on review procedures; reasonable assurance is a high-confidence opinion based on more rigorous audit-style procedures. Most jurisdictions that mandate climate disclosure require limited assurance initially, often transitioning to reasonable assurance over a phased timeline (typically 3-5 years).
+
+The target.
+
+A target is a forward-looking commitment to achieve a certain emissions outcome by a certain date. Targets can be:
+
+Absolute (reduce total emissions by X% from a base year), the cleanest and most demanding form.
+Intensity (reduce emissions per unit of output or revenue), allows total emissions to grow if output grows faster. S.B.T.i. requires intensity targets to be supplemented by absolute alignment.
+Carbon-neutral or net-zero by a specified date, implies residual emissions are offset or removed.
+Aligned to a specific temperature pathway (1.5 degrees Celsius, well-below-2 degrees Celsius), under S.B.T.i. or similar frameworks.
+
+A common slip: companies report inventories and set targets, but the two don't always use the same accounting basis. A company might report its 2024 inventory using operational control, then set a target using equity share, or vice versa. The 2025 greenhouse gas Protocol revisions are pushing toward requiring consistency between inventory and target accounting bases, with explicit justification when they differ.
+
+The claim.
+
+A claim is a public communication about emissions or climate action. "We are carbon neutral." "Our products have a 30 percent lower carbon footprint." "We've cut emissions in half." Claims can be based on inventories and targets, but the relationship is often loose, and this is where greenwashing concerns concentrate.
+
+The S.B.T.i. V2 draft (November 2025) takes a markedly different approach to claims than V1: it specifies categories of claims that companies can make based on different types of validated targets, with standardized language required for each. The goal is to prevent the gap between what a company has technically achieved and what its marketing implies.
+
+Why this matters.
+
+The inventory tells you what happened. The target tells you what the company plans. The claim tells you what the company says. These three should be tightly coupled, but in practice they're often loose, and the looseness is where misleading-but-technically-true communication lives. When you read a climate disclosure:
+
+What is the inventory? (Scopes, methodology, assurance level)
+What is the target? (Absolute or intensity, base year, scope coverage, alignment claim)
+What is the claim? (And does it accurately reflect what the inventory and target show?)
+
+Inconsistency among these three is the single most common pattern of corporate greenwashing.
+
+Stop-and-check 5.C.
+
+Distinguish an inventory, a target, and a claim. Which is backward-looking, which forward-looking, and which is a communication?
+A company reports its inventory on an operational-control basis but sets its reduction target on an equity-share basis. Why is that a problem even if each choice is individually defensible?
+Why is "inconsistency among inventory, target, and claim" the single most common greenwashing pattern, what does the looseness let a company do?
+Socratic prompt: A company's inventory is rigorous and its target is S.B.T.i.-validated, but its marketing claim ("climate leader," "net zero") outruns both. Where should accountability for the gap sit, the accounting standard, the target-setter, the securities regulator, or the advertising regulator?
+
+Answers
+
+An inventory is a backward-looking measurement, what the company actually emitted in a reporting period. A target is a forward-looking commitment, what it intends to achieve by a future date. A claim is a public communication, what it says about its emissions or progress. The three should be tightly coupled (claim grounded in target, target measured against inventory), but they're produced by different processes under different rules, which is precisely why they drift apart.
+
+Because the two artifacts are then measured on incompatible bases, so progress against the target can't be honestly read off the inventory. The company could show its operational-control inventory rising while claiming progress against an equity-share target that excludes the growing assets, or the reverse. Each choice may be defensible alone, but the mismatch breaks the chain of accountability: you can no longer tell whether the company is actually moving toward its commitment. That's why the greenhouse gas Protocol revision pushes for a consistent basis across inventory and target.
+
+Because the looseness between the three is where misleading-but-technically-true communication lives. If inventory, target, and claim don't have to align, a company can build a rigorous-looking inventory (covering only the convenient scopes), set a target on a different basis, and then make a claim broader than either supports, each artifact individually defensible, the combination misleading. The inconsistency lets the company harvest the credibility of "we measure" and "we have a science-based target" while the public claim quietly covers more than the underlying work does.
+
+Accountability has no single home here, and the strongest answer is layered across four bodies. Accounting standards (greenhouse gas Protocol) can only ensure the inventory is sound; they don't police marketing. The target-setter validates the target but disclaims the company's public language. The securities regulator (the S.E.C./ISSB channel) catches claims material to investors but not consumer-facing puffery. The advertising/consumer regulator (E.U. Green Claims, FTC, ASA) is the body explicitly charged with the gap between claim and substance. The case for concentrating accountability there: the harm is a communications harm, the distance between what's achieved and what's implied, so the body that governs claims is the natural enforcer, with the others supplying the evidentiary base. This is why S.B.T.i. V2's standardized claim language and the E.U. greenwashing directives are converging on the same problem from opposite ends (Chapter 8, Chapter 13).
+
+Part 4: Financed emissions, the bank problem.
+
+For financial institutions, Scope 3 Category 15 (Investments) isn't just a category, it's essentially the entire emissions footprint. A bank's Scope 1 (its branches, its corporate jets) and Scope 2 (the electricity in its branches) are typically less than 1 percent of its total emissions. The other 99 percent+ comes from financed emissions: the emissions of the companies and projects the bank lends to, invests in, or insures.
+
+This is the famous "99 percent rule" for financial institutions. Wherever a bank's emissions go, up, down, sideways, what's actually happening is driven by changes in its portfolio composition, not by its own operations. The narrative shift in climate finance over the past five years has been the recognition that banks' real emissions are in their balance sheets, not their buildings.
+
+P-CAF, the methodology.
+
+The Partnership for Carbon Accounting Financials is an industry-led initiative founded in 2015 in the Netherlands that has become the global standard-setter for financial-sector emissions accounting. P-CAF's Global greenhouse gas Accounting and Reporting Standard for the Financial Industry is now in its 3rd edition (December 2025) and is the reference methodology cited by greenhouse gas Protocol Scope 3 Category 15.
+
+The standard divides financial-sector emissions into three parts:
+
+Part A, Financed Emissions. Emissions associated with lending and investment activities. The original P-CAF standard; methodologies for ten asset classes.
+Part B, Facilitated Emissions. Emissions associated with capital-markets activities (underwriting bond and equity issuances). Introduced in 2023.
+Part C, Insurance-Associated Emissions. Emissions associated with re/insurance underwriting. Methodologies expanded in December 2025 to cover treaty reinsurance and project insurance.
+
+P-CAF uses an attribution factor: for each financial relationship, what fraction of the borrower/investee's emissions belongs to the financial institution? Typical formulas:
+
+For lending and equity: attribution = outstanding loan or equity / total enterprise value (or in some cases total debt + equity)
+For project finance: attribution = financial institution's share of the project financing
+For mortgages: attribution based on outstanding loan / property value
+For motor vehicle loans: attribution based on loan share of vehicle value
+
+The result: a financial institution can report, for each financial product, its portion of the financed entity's emissions. Summing across the portfolio gives the institution's financed emissions inventory.
+
+The 33 percent facilitated emissions weighting.
+
+Banks' capital-markets activities (underwriting bond issues, IPOs, secondary offerings) create exposure to the same emissions as direct lending, but the bank doesn't hold the asset on its balance sheet. P-CAF treats these as a separate category, facilitated emissions, and applies a 33 percent weighting to acknowledge that capital-markets activities involve less ongoing exposure than direct financing.
+
+This 33 percent number is a compromise that nobody is fully happy with. Critics argue it understates the climate impact of underwriting fossil-fuel bond issuances (the bank facilitated the financing that enabled emissions). The industry argues that even 33 percent overstates a bank's responsibility for emissions it didn't hold on balance sheet. The number reflects political negotiation more than science, and it will probably be revisited in future P-CAF revisions.
+
+The December 2025 P-CAF update.
+
+P-CAF released its 3rd edition in December 2025 with several substantive changes:
+
+Four new asset class methodologies: use-of-proceeds structures (green bonds and similar), securitizations and structured products, sub-sovereign debt, and optional reporting for undrawn loan commitments under IFRS S1/S2.
+Two new insurance methodologies: treaty reinsurance and project insurance (all-risk policies for construction).
+Inventory fluctuation guidance, new reporting recommendations to address year-over-year volatility from market price movements, since P-CAF attribution factors are denominated in enterprise value.
+Supplemental guidance on avoided and forward-looking emissions, for separate (not netted) reporting of financed avoided emissions.
+
+This is now the operational reference for any financial institution's Scope 3 Category 15 reporting. The forthcoming greenhouse gas Protocol Scope 3 revision explicitly references P-CAF for the new Category 16 (other value chain activities), the first time the greenhouse gas Protocol has named-checked a third-party standard in its own standard text.
+
+The volatility problem.
+
+A subtle issue with P-CAF: because the attribution factor uses enterprise value as a denominator, a bank's financed emissions can swing dramatically based on changes in equity prices, not just changes in underlying physical emissions. A bank holding equity in an oil company will see its attributed emissions rise if the oil company's share price falls (smaller denominator), even though the physical emissions of the oil company didn't change.
+
+This inventory fluctuation issue is mathematically annoying and politically inconvenient, banks reporting rising financed emissions in a down-market year look bad without having done anything wrong. The December 2025 P-CAF update introduced new reporting recommendations (fluctuation analysis, inflation adjustment) to address this, but doesn't solve the underlying issue. The deeper question, whether enterprise-value attribution is the right approach at all, or whether it should be replaced with a different denominator, is unresolved.
+
+Stop-and-check 5.D.
+
+A U.S. bank has 100B dollars in loans to oil and gas companies. Under P-CAF, what determines the bank's financed emissions from these loans, and what data does the bank need from the oil/gas companies?
+The 33 percent weighting on facilitated emissions is described as "a compromise nobody is fully happy with." What's the substantive question this is trying to answer, and what are the arguments for a higher or lower weighting?
+If a bank's stock-financed emissions go up because equity prices fell (without any change in underlying physical emissions), is the bank's climate performance worse, better, or unchanged? What does this say about whether P-CAF is measuring the right thing?
+Socratic prompt: A bank announces it will reduce financed emissions by 50 percent by 2030. List four different ways it could achieve this on paper without actually reducing the climate impact of its lending.
+
+Answers
+
+Under P-CAF, the bank's financed emissions from these loans equal each borrower's emissions multiplied by an attribution factor, for lending, the outstanding loan amount divided by the borrower's enterprise value (or total debt plus equity). Summed across the 100B dollars portfolio, that gives the bank's financed-emissions inventory. To calculate it, the bank needs each oil and gas borrower's own emissions (ideally Scope 1, 2, and the material Scope 3, especially Category 11 for fuel producers) and each borrower's enterprise value or financing structure to compute the attribution factor. Where borrower data is missing, P-CAF allows estimation with a data-quality score.
+
+The substantive question is how much responsibility a bank bears for emissions it enabled through capital-markets underwriting but does not hold on its balance sheet, unlike direct lending. Arguments for a higher weighting: the bank facilitated the financing that enabled the emissions, and a low weight lets banks shift fossil financing into underwriting to dodge accountability. Arguments for a lower weighting: underwriting is a one-time service with no ongoing exposure, so even 33 percent may overstate responsibility relative to a loan held for years. The 33 percent figure is a negotiated compromise reflecting politics more than science, and is likely to be revisited.
+
+Its climate performance is unchanged, the oil company's physical emissions did not move; only its share price (and therefore the enterprise-value denominator in the attribution factor) fell, mechanically raising attributed emissions. This exposes a real weakness: P-CAF's enterprise-value attribution measures something that fluctuates with markets rather than with real-world decarbonization, so a bank can look worse in a down market having done nothing wrong (and better in a bull market). It suggests P-CAF is partly measuring market valuation rather than climate impact, which is why the 3rd edition added fluctuation guidance.
+
+On paper, without changing real-world impact, a bank could: (1) sell or run off loans to high-emitting borrowers so they appear on someone else's books while the same projects keep operating; (2) shift fossil financing from direct lending into capital-markets underwriting, which is weighted at only 33 percent as facilitated emissions; (3) benefit from rising borrower equity prices, which enlarges enterprise-value denominators and shrinks attributed emissions with no physical change; or (4) reweight the portfolio toward low-emitting sectors or use favorable data-quality estimates and base-year choices, lowering the reported number without reducing financed real-economy emissions.
+
+Part 5: Avoided, reduced, and removed, the three things that aren't the same.
+
+One of the most common sources of misleading climate claims is the conflation of three different concepts: avoided emissions, reduced emissions, and removed emissions. Each is real, each has a legitimate use case, but they answer different questions and cannot substitute for each other in net-zero accounting.
+
+Reduced emissions.
+
+Reduced emissions = the difference between what the company's emissions are now and what they were in a previous period.
+
+A factory that emitted 100 kilotonnes of CO2 in 2020 and emits 80 kilotonnes of CO2 in 2024 has reduced emissions by 20 kilotonnes of CO2/yr. The reduction is measured against a base year, typically a year the company designates as the baseline for tracking progress.
+
+Reduced emissions are the most rigorous form of climate progress. The company is genuinely emitting less. The atmospheric stock is genuinely growing more slowly than it otherwise would. This is what climate policy is actually trying to achieve.
+
+The integrity question: was the base year well-chosen? If a company picks a base year that happened to be a peak emissions year (post-COVID recovery, for example), it can show big reductions without much underlying improvement. S.B.T.i. and the greenhouse gas Protocol both require base-year selection to be representative and stable, with rebaselining when structural changes occur. The current greenhouse gas Protocol revisions are tightening rules around base-year recalculation.
+
+Avoided emissions.
+
+Avoided emissions = the difference between actual emissions and what emissions would have been under some counterfactual scenario.
+
+A wind farm that generates 1 TWh of electricity "avoids" the CO2 that would have been emitted if that 1 TWh had come from a fossil fuel source. The avoidance is counterfactual, it depends on what you compare against. Different baselines give different avoided-emissions numbers. The "natural gas comparison" gives a smaller number than the "coal comparison."
+
+Avoided emissions are useful for project-level climate impact assessment: "this project, compared to a credible counterfactual, displaces X tonnes of CO2 of emissions." They're how carbon credit projects (Chapter 8) measure their climate benefit. They're how green investments are evaluated.
+
+But avoided emissions cannot be subtracted from a company's emissions inventory. The greenhouse gas Protocol is unambiguous about this: avoided emissions are reported separately from inventory emissions, never netted. A company that sells wind turbines can report large avoided emissions from its products (downstream Scope 3, in some sense), but those avoidance numbers don't reduce its own Scope 1, 2, or 3 inventory.
+
+P-CAF's December 2025 update added explicit guidance on this: financial institutions can report "financed avoided emissions" as a forward-looking metric, but only separately from financed emissions. Never netted. Never substituted.
+
+This rule is broken constantly in corporate marketing. "Our products avoided 100 megatonnes of CO2" is not the same as "We emitted 100 megatonnes of CO2 less." The first is a counterfactual comparison; the second is an actual change. Many companies present the first as if it were the second, which is misleading.
+
+Removed emissions.
+
+Removed emissions = emissions that were physically taken out of the atmosphere through a removal action.
+
+A direct air capture facility removes CO2 from the atmosphere and stores it geologically. A reforestation project pulls CO2 from the atmosphere into biomass and (sometimes) soil. A BEX facility captures combustion CO2 from biomass and stores it geologically. These are all removals.
+
+Removals can legitimately be netted against gross emissions to compute net emissions. A company emitting 1,000 kilotonnes of CO2/yr and purchasing 200 kilotonnes of CO2/yr of permanent removals has net emissions of 800 kilotonnes of CO2/yr. The math works because removal is the physical inverse of emission, same molecule, opposite direction.
+
+But there are three subtleties:
+
+1. Permanence matters. Removing CO2 from the atmosphere and storing it for 100 years (a forest that might burn) is not the same as storing it for 10,000+ years (geological sequestration). S.B.T.i.'s V2 draft is increasingly pushing for durable removals to match the durability of the emissions being neutralized. Fossil emissions release CO2 that will affect the atmosphere for thousands of years; only similarly-durable removals should be used to neutralize them.
+
+2. Quality matters. Some removal projects (especially nature-based projects) have had integrity problems, overstating baseline emissions, double-counting credits, claims that didn't reflect physical reality. The voluntary carbon market scandals of 2022-2023 (Chapter 8) hit removal credits especially hard.
+
+3. Order of operations matters. S.B.T.i. V2 (and most rigorous net-zero frameworks) require companies to first reduce gross emissions through direct action, then use removals only to neutralize residuals. Buying lots of removal credits while continuing to emit at high levels is the textbook greenwashing pattern.
+
+The hierarchy.
+
+The cleanest way to think about these three:
+
+When you read a corporate climate claim, ask: which of these is the company actually doing? "Carbon neutral" claims often mix the three. "Net zero" claims should be using reduced + removed, never avoided. Net-zero credibility hinges on the order: deep reductions first, then removals for residuals, with no avoidance-substitution in the inventory math.
+
+Stop-and-check 5.E.
+
+Define avoided, reduced, and removed emissions in one sentence each. Which two can affect a company's net inventory, and which cannot?
+Why can a removal be netted against gross emissions while an avoided emission cannot, what's the physical difference?
+This distinction isn't just accounting hygiene, it bifurcates the entire voluntary carbon market. Explain how.
+Socratic prompt: You run a 1B dollars reforestation-plus-direct air capture credit portfolio and want to sell into the net-zero market. S.B.T.i. V2 increasingly requires durable removals to neutralize residual fossil emissions. How does that requirement reprice your portfolio, and which assets win or lose?
+
+Answers
+
+Avoided: emissions that didn't occur relative to a counterfactual baseline (a wind farm versus the fossil plant it displaced). Reduced: the fall in a company's own actual emissions versus a base year. Removed: CO2 physically taken out of the atmosphere and stored. Reduced and removed can affect a company's net inventory, reductions directly, removals netted against gross emissions. Avoided cannot: it's a counterfactual comparison, reported separately and never subtracted from the inventory.
+
+Because removal is the physical inverse of emission, the same molecule taken back out of the atmosphere that the emission put in, so gross emissions minus removals is a real net atmospheric quantity. An avoided emission is a comparison to a hypothetical: the wind farm took no CO2 out of the air; it merely meant a fossil plant emitted less than it otherwise might have. Subtracting a counterfactual from a measured inventory mixes a "what happened" number with a "what didn't happen" number, different kinds of quantity, so netting them is a category error.
+
+The distinction splits the voluntary carbon market into two markets that barely belong together. Avoidance credits (avoided deforestation, renewables, methane capture) are counterfactual, cheap, abundant, and integrity-fraught, their value rests on an unprovable "would have happened." Removal credits (direct air capture, BEX, durable mineralization, some reforestation) physically extract CO2 and command far higher prices, because they're the only kind that can legitimately neutralize residual emissions in a net-zero claim. As S.B.T.i. V2 and other rigorous frameworks push removals-only for neutralization, demand and price diverge sharply between the buckets, the single accounting distinction in this Part is what makes a removal credit worth multiples of an avoidance credit (Chapter 8).
+
+The requirement reprices the portfolio along the durability axis. Durable removals, direct air capture with geological storage measured in millennia, become the premium product eligible to neutralize fossil residuals, so their value rises. Reforestation is removal but non-durable (a forest can burn; its storage is reversible on a decades-to-century horizon), so it's discounted or disqualified for neutralizing long-lived fossil emissions even though it's far cheaper to produce, pushed toward weaker "contribution" or avoidance framing instead. The decisive variable is durability-matching: the moment a standard requires removals as permanent as the emissions they offset, your cheap nature-based tonnes and your expensive engineered tonnes stop being substitutes. That repricing is the financial expression of the avoided/reduced/removed discipline, and the reason a 1B dollars portfolio's value depends on a definitional line in an accounting standard.
+
+Part 6: The current state of the standards, who runs what, who's revising what.
+
+This is the live status of the major standards as of mid-2026, because corporate emissions accounting is in a period of unusually active revision.
+
+greenhouse gas Protocol.
+
+The Greenhouse Gas Protocol is the foundational reference: the Corporate Accounting and Reporting Standard (2004), the Corporate Value Chain (Scope 3) Standard (2011), the Scope 2 Guidance (2015), and the Project Accounting Protocol (2005). It is co-owned by WRI and WBCSD and managed by a Steering Committee, Independent Standards Board, and Technical Working Groups.
+
+The Protocol has not been substantively updated since 2011 (Scope 3) and 2015 (Scope 2). A comprehensive revision is underway:
+
+Public consultation period: completed 2022-2023.
+Technical Working Groups: began work September 2024; 42 meetings on Scope 3, 37 on Corporate Standard through end of 2025.
+ISO partnership: announced September 2025. ISO will harmonize its 14064 series with greenhouse gas Protocol revisions; ISO technical staff joined greenhouse gas Protocol TWGs in Q1 2026.
+Phase 1 Progress Updates: Corporate Standard published December 2025; Scope 3 published March 2026.
+Public consultation on draft standards: expected mid-2026.
+Final revised standards: expected late 2027.
+Transition period: likely a 2-3 year phase-in after final publication.
+
+Substantive proposed changes:
+Scope 3 95 percent coverage rule. Required Scope 3 emissions must cover at least 95 percent of categories 1-15; exclusions must be quantified, disclosed, and justified.
+New Category 16, other value chain activities. Includes facilitated emissions for banks, licensing, and other previously-uncategorized exposures. References P-CAF for financial-sector methodologies.
+Stricter data quality tiering. Companies must disaggregate reported emissions by data type (for example, supplier-specific versus industry-average) to enable comparison.
+Tightened Scope 2 rules, moving toward hourly matching, geographic granularity, hierarchy of emission factors.
+Boundary setting harmonization, fewer options for organizational boundary choice.
+
+ISSB (IFRS S1 and S2).
+
+The International Sustainability Standards Board was created by the IFRS Foundation in November 2021 to develop a global baseline of sustainability disclosure standards. ISSB issued its first two standards in June 2023:
+
+IFRS S1, General Requirements for Disclosure of Sustainability-related Financial Information. Covers governance, strategy, risk management, and metrics and targets across all material sustainability topics.
+IFRS S2, Climate-related Disclosures. Specific requirements for climate disclosure, including Scope 1, 2, 3 greenhouse gas emissions reporting and scenario analysis.
+
+IFRS S2 effectively replaces the TCFD recommendations as the global framework for climate disclosure. It uses the greenhouse gas Protocol as the basis for emissions accounting requirements.
+
+Adoption status (January 2026):
+21+ jurisdictions have adopted IFRS S1/S2 on a mandatory or voluntary basis. Adopters include Brazil, Canada, Mexico, Chile, Qatar, Singapore, Hong Kong, Japan, Malaysia, Australia, New Zealand, Turkey, Thailand, Nigeria, Kenya, and others.
+An additional 16+ jurisdictions are in process. China issued a climate standard based on IFRS S2 in December 2025 (without a mandatory timeline yet).
+The European Union is following its own ESRS framework (European Sustainability Reporting Standards) but maintaining interoperability with IFRS S2.
+The United States: the S.E.C. voted on March 27, 2025 to end its defense of its climate-disclosure rule, and in May 2026 submitted a formal rescission rulemaking to OIRA (not yet finalized); the rule is stayed and unenforced. There is no operative federal mandate. California's S.B. 253 (Climate Corporate Data Accountability Act) is moving forward, with Carb implementing regulations approved February 26, 2026 and the first Scope 1/2 reporting deadline on August 10, 2026; Scope 3 phases in by 2027. SB 261 (climate financial risk) was enjoined by the Ninth Circuit in November 2025 (pending appeal; oral argument January 9, 2026); enforcement remains on hold. California's framework references the greenhouse gas Protocol and is broadly compatible with IFRS S2.
+
+In December 2025, the ISSB issued targeted amendments to IFRS S2 to address implementation challenges, particularly around global warming potential values (jurisdictional relief allowing different I.P.C.C. assessment-cycle values) and reducing duplicative reporting where local frameworks already cover greenhouse gas disclosure.
+
+The ISSB is not itself an emissions-accounting standard, it's a disclosure standard that references the greenhouse gas Protocol for emissions calculation. But its global adoption means that greenhouse gas Protocol changes will increasingly cascade into mandatory disclosure regimes worldwide.
+
+S.B.T.i. (Corporate Net-Zero Standard).
+
+The Science Based Targets initiative is a partnership between CDP, WWF, the UN Global Compact, and the World Resources Institute, founded in 2015. S.B.T.i. develops target-setting standards: how a company aligns its emissions targets with the Paris Agreement.
+
+S.B.T.i.'s flagship is the Corporate Net-Zero Standard, originally published October 2021, currently at Version 1.3.
+
+Version 2 status:
+First consultation draft: March 2025.
+Second consultation draft: November 2025 (more substantive, with technical annexes).
+Public consultation: ran through December 12, 2025.
+Final V2: expected mid-to-late 2026.
+Mandatory adoption for new target submissions: January 1, 2028.
+V1.3 remains valid for existing targets and new targets through December 31, 2027.
+
+Substantive proposed changes in V2:
+Two company categories. "Category A" (large- and medium-sized companies in high-income countries) faces stricter requirements; "Category B" (smaller companies, or in lower-income countries) faces more flexibility.
+Scope-specific target setting. Separate target requirements for Scope 1, 2, and each Scope 3 category, rather than aggregate scope targets.
+Ongoing Emissions Responsibility. Replaces "Beyond Value Chain Mitigation". Companies are encouraged (initially voluntary; mandatory from 2035) to take responsibility for emissions during their net-zero transition through carbon credits, with explicit tiers of recognition.
+Removal requirements. By 2035, an increasing share of long-lived removals required. By net-zero target year, all residual emissions must be neutralized by removals (not avoidance credits).
+Climate Transition Plans mandatory for Category A companies, with publication within 12 months of validation.
+Third-party assurance mandatory for Category A.
+Cyclical target validation every five years (proposed in some drafts).
+
+The OER replacement of BVCM is the biggest substantive shift. Under V1.3, BVCM was voluntary and loosely-defined ("companies should support climate action beyond their value chain"). Under V2, OER is a structured framework with explicit tiers and timelines.
+
+P-CAF.
+
+Covered in Part 4. Current edition: 3rd edition, December 2025. The de facto Scope 3 Category 15 calculation reference, now formally cited by greenhouse gas Protocol in the new Category 16 framework.
+
+ISO 14064 / 14067 / 14068.
+
+The ISO 14060 series is the international standardization body's framework for greenhouse gas accounting and verification. Notable standards:
+
+ISO 14064-1 (organization-level emissions inventories), broadly aligned with greenhouse gas Protocol.
+ISO 14064-2 (project-level emissions reductions), paralleling greenhouse gas Protocol Project Accounting Protocol.
+ISO 14064-3 (verification), defines assurance procedures.
+ISO 14067 (product carbon footprints), for individual products.
+ISO 14068 (carbon neutrality), published November 2023, defines what a "carbon neutrality" claim requires. Stricter than many corporate self-declared carbon neutrality claims.
+
+A new standalone standard designated ISO/CD 14060 (Net Zero Aligned Organizations), distinct from the existing ISO 14060 sub-series (14064, 14067, 14068), is in development. As of COP30 (November 2025) the draft was at Committee Draft stage; publication is expected in 2026, not at COP30. Combined with the ISO-greenhouse gas Protocol harmonization announced September 2025, this should reduce the proliferation of competing net-zero frameworks over the next several years.
+
+The big picture.
+
+The standards landscape is in unusually active flux, but the direction of travel is convergent:
+
+greenhouse gas Protocol revisions tighten methodology and expand scope coverage.
+ISSB IFRS S2 provides the disclosure baseline now adopted in 21+ jurisdictions.
+P-CAF is the operational reference for financial-sector emissions, now formally embedded in greenhouse gas Protocol.
+S.B.T.i. V2 raises the target-setting bar with scope-specific targets, mandatory transition plans, and structured OER.
+ISO 14060 series is being aligned with greenhouse gas Protocol; ISO 14068 codifies stricter "carbon neutrality" requirements.
+
+The 2027-2028 transition will be substantial. Most current corporate net-zero pledges and emissions inventories will need revision to meet the post-revision standards. Companies that built reporting systems on the 2011 Scope 3 Standard or the 2015 Scope 2 Guidance will face significant rework.
+
+Stop-and-check 5.F.
+
+The greenhouse gas Protocol revisions are introducing a 95 percent Scope 3 coverage requirement. What does this rule out, and why is it significant?
+The S.B.T.i. V2 draft replaces "Beyond Value Chain Mitigation" with "Ongoing Emissions Responsibility." What's substantively different about OER, and why does the change matter?
+The U.S. S.E.C. abandoned its defense of its federal climate disclosure rule in 2025 (with repeal-by-rulemaking signaled), but California's S.B. 253 is moving forward with implementing regulations approved February 2026 and SB 261 enjoined pending the Ninth Circuit. What does this say about the durability of climate disclosure regimes in the absence of federal coordination?
+Socratic prompt: A company has invested heavily in building reporting systems aligned to the current (2011/2015) greenhouse gas Protocol standards. With the 2027 revisions coming, should it pause the buildout, accelerate it, or restructure it now in anticipation of the new standards? Which choice carries which risks?
+
+Answers
+
+The 95 percent coverage rule requires that reported Scope 3 emissions cover at least 95 percent of categories 1-15, with any exclusions quantified, disclosed, and justified. It rules out selective Scope 3 truncation, the common pattern of reporting only the convenient categories while quietly omitting large ones (like Category 11 for a fuel producer or Category 1 for a manufacturer). It is significant because Scope 3 is typically 60-90 percent of a company's total emissions, so partial reporting can materially understate impact while technically complying. The rule forces completeness and makes omissions visible rather than silent.
+
+BVCM under V1.3 was voluntary and loosely defined, companies "should support climate action beyond their value chain," with little structure. OER replaces it with a structured framework: explicit tiers of recognition, a shift from optional to mandatory from 2035, and a focus on taking responsibility for emissions during the transition through carbon credits. The change matters because it converts a vague, easily-ignored encouragement into a defined obligation with timelines, making it harder to claim climate leadership while doing little beyond the value chain, and giving the concept teeth it previously lacked.
+
+It suggests climate disclosure regimes have become resilient and polycentric rather than dependent on any single government. Even with the S.E.C. having abandoned its rule's defense in 2025 and no U.S. federal mandate in force, California's S.B. 253 reaches large companies doing business in the state (with implementing regulations approved February 2026 and a first reporting deadline of August 10, 2026), and 21+ jurisdictions have adopted IFRS S1/S2. SB 261 is currently enjoined pending the Ninth Circuit, but S.B. 253's emissions-data mandate survived the first injunction round. Because California references the greenhouse gas Protocol and is broadly compatible with IFRS S2, a company operating internationally faces de facto disclosure requirements regardless of federal inaction. The durable trend is convergence on a global baseline that sub-national and foreign jurisdictions enforce even when a national government retreats.
+
+The right move depends on the firm's risk tolerance and capabilities. Pausing risks falling behind on current obligations and losing institutional momentum, and leaves the firm scrambling when final standards land. Accelerating on the 2011/2015 basis risks building infrastructure that needs rework once the revisions (95 percent Scope 3 coverage, stricter Scope 2 matching, data-quality tiering, Category 16) take effect. Restructuring now in anticipation risks betting on draft provisions that may change before 2027. The most defensible path for most firms is to keep building but design for flexibility, modular data systems, granular data capture, and consistent boundaries, so the system can absorb the known direction of travel without committing prematurely to unsettled specifics.
+
+Part 7: Reading a corporate climate disclosure, a worked example.
+
+To pull this all together, let's walk through how to read a corporate climate disclosure with informed skepticism. I'll describe a generic pattern rather than name a specific company, the patterns are widely applicable.
+
+What you typically find.
+
+A typical corporate climate disclosure (in the company's annual report, 10-K, or standalone sustainability report) includes:
+
+Headline narrative, "Our climate strategy is aligned to 1.5 degrees Celsius," "We are committed to net zero by 2050," et cetera
+Scope 1, 2, 3 emissions, usually a table with year-over-year comparison.
+Scope 2 dual reporting, location-based and market-based.
+Scope 3 breakdown, by some subset of the 15 categories.
+Target progress, performance against previously-stated targets.
+Methodology footnotes, accounting choices, boundaries, base year, global warming potential vintage.
+Assurance statement, auditor's opinion, including scope and confidence level.
+
+What to actually look for.
+
+Working through the disclosure:
+
+Step 1: What's the organizational boundary?
+Operational control? Financial control? Equity share? Has it changed? If the company restructured (acquired/divested entities), did it restate prior-year numbers?
+
+Step 2: What's the Scope 3 coverage?
+How many of the 15 categories are reported? For a non-financial company, expect Categories 1 (purchased goods) and 11 (use of sold products) to be the dominant ones. If either is missing or implausibly small, that's a red flag.
+
+Step 3: What's the Scope 2 methodology breakdown?
+Are location- and market-based both reported? Is the "market-based" reduction credible? Look for the renewable-energy procurement mechanism, direct P.P.A.s and on-site generation are stronger than unbundled R.E.C.s.
+
+Step 4: What's the target methodology?
+Absolute or intensity? Base year? Coverage (Scope 1 only? 1+2? 1+2+3?). Aligned to a temperature target via what framework (S.B.T.i.-validated? Self-declared?). How does target accounting relate to inventory accounting?
+
+Step 5: What's the claim language?
+"Net zero" versus "carbon neutral" versus "climate positive" versus "net negative." Each implies different things. "Net zero" implies emissions reduction + removal of residuals. "Carbon neutral" historically includes avoidance offsets, which under newer standards is being constrained. "Climate positive" is largely a marketing term without standardized definition.
+
+Step 6: What's the offset/removal strategy?
+If the company is using carbon credits, what type? Avoidance (renewables, REDD+, methane abatement)? Removal (direct air capture, BEX, reforestation)? Durability? Vintage? Issuance standard (Verra, Gold Standard, Puro.earth)? Quality matters enormously; many credits issued in the 2018-2022 window have integrity problems (Chapter 8).
+
+Step 7: What's the assurance level?
+Limited assurance means the auditor did review-level procedures and didn't find anything wrong. Reasonable assurance means audit-level procedures and a stronger opinion. Many companies start with limited assurance and only Scope 1+2, Scope 3 coverage and reasonable assurance come later, if at all.
+
+The most common misleading patterns.
+
+In corporate climate disclosure, the four patterns to watch for:
+
+1. Scope 3 truncation. Reporting Scope 1+2 in detail, mentioning Scope 3 only briefly or partially. For most companies, Scope 3 is 60-90 percent of total emissions. A disclosure that under-covers Scope 3 may technically comply with current standards but materially understates climate impact.
+
+2. Market-based Scope 2 via unbundled R.E.C.s. Showing dramatic Scope 2 reductions from purchasing low-quality R.E.C.s that don't correspond to additional renewable generation. Defensible under current standards, but the 2025-2026 greenhouse gas Protocol revisions are tightening this.
+
+3. Avoidance credits netted against gross emissions. Treating avoided emissions as if they reduce inventory emissions. Specifically prohibited under greenhouse gas Protocol, but common in carbon-neutral claims.
+
+4. Inconsistent boundaries. Reporting inventory on operational control while setting targets on equity share, or vice versa. Each individually may be defensible, but the combination obscures comparability.
+
+You don't need to be an accountant to spot these. The patterns are predictable, and once you recognize them, you can read any corporate disclosure with much more critical sophistication.
+
+Stop-and-check 5.G.
+
+A company's Scope 1+2 reported emissions are 500 kilotonnes of CO2-equivalent. Its Scope 3 reported emissions are 200 kilotonnes of CO2-equivalent. The company is a consumer products manufacturer. What's likely wrong with this disclosure?
+A company's market-based Scope 2 is 50 kilotonnes of CO2-equivalent while its location-based Scope 2 is 800 kilotonnes of CO2-equivalent. What does this tell you about the company's renewable-energy procurement, and what would you want to ask?
+A company claims "we achieved carbon neutrality in 2024 through a combination of operational improvements and high-quality offsets." What questions would you ask to assess the credibility of this claim?
+Socratic prompt: If you had to design a corporate climate disclosure regime from scratch, knowing the patterns of misleading disclosure that have emerged, what three features would you require? Defend each.
+
+Answers
+
+The Scope 3 figure is implausibly small. For a consumer products manufacturer, Scope 3, especially Category 1 (purchased goods and services) and Category 11 (use of sold products), typically dwarfs Scope 1+2, often representing 60-90 percent of total emissions. Here Scope 3 is reported as less than half of Scope 1+2, which strongly suggests Scope 3 truncation: the company has likely omitted or under-counted major categories such as the embodied emissions of materials it buys or the use and disposal of its products. This is the classic pattern of reporting the easy scopes in detail while materially understating the largest source.
+
+The large gap means the company is claiming a substantial reduction through contractual procurement: its market-based figure (50 kilotonnes of CO2-equivalent) reflects R.E.C.s, P.P.A.s, or green tariffs, while the location-based figure (800 kilotonnes of CO2-equivalent) reflects the physical grid it actually draws on. The question is whether that procurement is high quality and additional. You would want to ask: what instruments produce the reduction, direct P.P.A.s and on-site generation (strong) or unbundled R.E.C.s from existing projects (weak, "R.E.C. washing")? Are the R.E.C.s geographically and temporally matched to consumption? Without additionality, the market-based number overstates real climate progress.
+
+To assess credibility, ask: First, did the company reduce gross emissions through real operational change before offsetting, or is neutrality bought rather than achieved (order of operations)? Second, what is the scope coverage, does "carbon neutral" include Scope 3, or only Scope 1+2? Third, what kind of credits: avoidance or removal, what durability, what vintage, and which issuance standard (given the integrity problems with many 2018-2022 credits)? Fourth, are any avoided emissions being improperly netted against the inventory? "Carbon neutral" often relies on avoidance offsets, which newer standards constrain, so the credit quality and the reduction-first sequence are decisive.
+
+There is no single right design, but three high-leverage features are defensible. First, mandatory near-complete Scope 3 coverage (a 95 percent-style rule with quantified, justified exclusions), because Scope 3 is where most emissions and most truncation live. Second, a strict reduction-first hierarchy with clear separation of reduced, avoided, and removed emissions, avoidance never netted, removals matched to the durability of the emissions, to stop counterfactuals masquerading as real cuts. Third, mandatory consistency between inventory, target, and claim accounting bases plus independent assurance, since inconsistency and unverified claims are where misleading-but-technically-true communication concentrates. Each targets a documented failure pattern rather than adding generic disclosure burden.
+
+Closing exercise.
+
+I want you to attempt three things:
+
+1. Categorize from memory. For each of the following emissions sources, identify the scope:
+A bakery's natural gas oven
+A bakery's grid electricity
+The wheat the bakery buys from a farm
+The disposal of the bakery's used cooking oil
+The emissions from customers driving to the bakery
+The emissions of a bond issuance the bakery's parent company underwrites (if the parent is a bank)
+
+2. Three-paragraph explanation. Without notes, explain (a) why Scope 3 is the largest category for most companies, (b) why the choice of market-based versus location-based Scope 2 matters, and (c) why "avoided emissions" cannot be netted against an inventory.
+
+3. Honest uncertainty. What are the three or four areas where you'd want to dig into the underlying standards rather than trust this summary? My candidates: (1) the proposed Scope 3 95 percent coverage rule and how exclusions are quantified, (2) P-CAF's enterprise-value attribution and the inventory-fluctuation problem, (3) the greenhouse gas Protocol Scope 2 revision and the 24/7 versus annual matching debate, (4) the S.B.T.i. V2 OER framework and how "ongoing emissions" interact with net-zero claims. Pick any of these and read primary sources.
+
+What this chapter simplified.
+
+1. "Scope 1+2+3 covers everything." Not quite. The scopes have boundary disputes, especially around indirect emissions that fall in multiple categories. Category 3 (Fuel- and energy-related activities) overlaps with Category 11 (Use of sold products) for fuel producers. Category 1 (Purchased goods) overlaps with Category 2 (Capital goods) for some procurement patterns. The 95 percent rule helps, but the underlying overlap-and-gap problems are real.
+
+2. "P-CAF is the standard for financial institutions." P-CAF is the most widely-used, but it's not the only one. Some specialized methodologies (NZIA for insurance, for instance) coexist. The P-CAF-greenhouse gas Protocol formal alignment in 2025-2026 should reduce fragmentation, but local variants persist.
+
+3. "Standards are converging." The big-picture story is convergence (greenhouse gas Protocol-ISO partnership, P-CAF as the financial reference, ISSB as the disclosure baseline). But within each standard family, ongoing revisions are creating substantive divergence in the short term: S.B.T.i. V1.3 versus V2, greenhouse gas Protocol 2011 versus 2027, P-CAF 2nd versus 3rd edition. The 2025-2028 period is a discontinuity, not a smooth transition.
+
+4. "global warming potential values are fixed." global warming potential-100 values shift across I.P.C.C. assessment cycles. methane global warming potential was 25 (AR4), 28 (AR5), 30 (AR6, fossil origin). Regulatory regimes use different vintages, the E.U. E.T.S. used AR4 until recently, U.S. E.P.A. uses a mix. The 2025 ISSB amendments to IFRS S2 explicitly allow jurisdictional relief on global warming potential vintages. Numbers can shift by 5-20 percent just from global warming potential vintage choices.
+
+5. "Scope 3 is straightforward in principle." It's nightmarishly complex in practice. Category 1 (purchased goods) requires emissions data from thousands of suppliers, most of whom don't have inventories themselves. Category 11 (use of sold products) requires assumptions about how customers will use products over their lifetime. The proposed 95 percent coverage rule is aggressive given the data infrastructure that currently exists.

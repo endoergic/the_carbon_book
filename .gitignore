@@ -6,3 +6,8 @@
 files.zip
 files/
 .claude/settings.local.json
+
+# Audio pipeline (generated artifacts; recreatable from CH*.md)
+audio/.venv/
+audio/mp3/
+audio/scripts/*.tmp.mp3

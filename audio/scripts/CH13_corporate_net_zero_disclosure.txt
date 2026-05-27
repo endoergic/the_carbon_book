@@ -1,0 +1,344 @@
+Chapter 13, Corporate Net Zero and the Disclosure Regime.
+
+Why this chapter exists.
+
+Everything in the previous eight chapters, the accounting rules, the policy history, the compliance and voluntary markets, comes to a point inside individual companies. A firm decides what to count, what to disclose, what to promise, and what to buy. That decision is where the abstractions of "Scope 3" and "additionality" and "removal credit" turn into a line in an annual report and, increasingly, a legal obligation.
+
+This chapter is about that decision layer: the corporate net-zero claim and the disclosure regime that is rapidly forming around it. It is the chapter where the question "what does it actually mean when a company says 'net zero by 2040'?" finally gets a precise answer, and where you learn that the honest answer is "it depends entirely on which framework, if any, the company is actually following."
+
+Two things have changed the landscape decisively in the 2020s. First, a private standard-setter, the Science Based Targets initiative, became the de facto arbiter of what counts as a credible corporate climate target, validating targets for thousands of companies. Second, climate disclosure shifted from voluntary to mandatory in major jurisdictions, anchored by the new International Sustainability Standards Board and the E.U.'s reporting law. As of 2026 this transition is mid-stream, contested, and politically polarized: the E.U. has just retrenched its own rules under competitiveness pressure, the U.S. federal rule has collapsed, and California is pressing ahead under litigation. The result is not a single global regime but a fractured map that every multinational has to navigate at once.
+
+I'll organize this in seven parts: the net-zero taxonomy; S.B.T.i. as standard-setter; the disclosure architecture and the ISSB baseline; the E.U. stack and its 2025 retrenchment; the U.S. patchwork; transition plans and financed emissions; and the law of green claims.
+
+Part 1: What "net zero" actually means.
+
+A taxonomy of climate claims.
+
+The single most useful thing this chapter can give you is the ability to disambiguate four terms that are routinely used as if they were synonyms. They are not.
+
+Carbon neutral. A balance claim: the entity's gross emissions over some period are matched by an equal quantity of offsets (carbon credits retired). It says nothing about whether the entity reduced its own emissions, what kind of credits it bought, or whether the claim is consistent with any temperature goal. Historically this was the dominant corporate claim, usually achieved cheaply with avoidance credits (Chapter 8). It is the claim most exposed to the 2022-2024 integrity crisis, and the one regulators are now scrutinizing hardest.
+
+Net zero. A state in which an entity's residual emissions are balanced by an equal quantity of carbon removals, not avoidance, typically reached after deep absolute reductions. The crucial difference from carbon-neutral: net zero requires (a) reducing emissions as far as technically possible first, and (b) neutralizing only the genuinely residual remainder, and (c) doing so with removals durable enough to match the atmospheric lifetime of the emission. Net zero is a destination; carbon-neutral is an annual accounting identity.
+
+Science-based. A target whose trajectory is consistent with a defined global carbon budget (typically 1.5 degrees Celsius). "Science-based" describes the steepness and endpoint of the reduction pathway, not the use of offsets. A target validated by S.B.T.i. is "science-based" in this technical sense.
+
+Paris-aligned. The loosest of the four. It usually means "consistent with the goals of the Paris Agreement," but because Paris itself is a bottom-up framework of national pledges (Chapter 6), "Paris-aligned" has no single quantitative definition and is often used as marketing varnish.
+
+The practical skill is reverse-engineering which of these a company actually means. "We are carbon neutral today" almost always means offsets, often low-quality. "We have a net-zero target validated by S.B.T.i. for 2040 with interim 2030 targets" is a far stronger claim. "We are committed to a Paris-aligned future" may mean nothing enforceable at all.
+
+The mitigation hierarchy and the abatement/neutralization split.
+
+Underneath the credible version of net zero sits a sequencing rule inherited from environmental policy generally: the mitigation hierarchy. In order of priority: avoid emissions, reduce the ones you can't avoid, and only then neutralize the genuinely unavoidable residual.
+
+This maps onto a distinction the disclosure world cares about enormously:
+
+Abatement, cuts to the company's own value-chain emissions (Scopes 1, 2, 3). This is the part that actually changes the physical world inside the firm's boundary.
+Neutralization, removing CO2 from the atmosphere and durably storing it, to balance residual emissions at the net-zero target year. Under credible standards this must be removals, not avoidance credits, because only removals physically take carbon back out (Chapter 5, Chapter 8).
+Compensation / "beyond value chain mitigation", paying for climate action outside the company's own footprint during the transition (for example, buying avoidance credits while you decarbonize). This is encouraged as additional, but under credible standards it cannot substitute for either abatement or end-state neutralization.
+
+The whole corporate-climate argument of the 2020s turns on these distinctions. A company can buy a million dollars of cheap avoidance credits and call itself carbon-neutral, but that does not count as abatement, does not count as neutralization, and increasingly does not protect it from a greenwashing claim. Understanding why requires understanding the institution that drew these lines: S.B.T.i..
+
+Stop-and-check 13.A.
+
+A consumer-goods company's packaging says "carbon neutral." A competitor's annual report says "net-zero target for 2045, validated, with a 2030 interim target of 50 percent absolute Scope 1+2 reduction." Which claim tells you more, and what specifically does each leave unspecified?
+Why does credible net zero insist on removals (not avoidance credits) for the residual at the target year? Tie your answer to the permanence argument from Chapter 8.
+"Paris-aligned" has no single quantitative definition. Is that a flaw in the term, a flaw in the Paris Agreement, or neither?
+Socratic prompt: A company genuinely cannot abate the last 10 percent of its emissions with current technology. Is "net zero" even the right goal for it, versus a transparent "90 percent reduction plus durable removal of the rest"? What work is the word "zero" doing?
+
+Answers
+
+The net-zero claim tells you far more. It specifies a target year (2045), an interim milestone (50 percent absolute Scope 1+2 reduction by 2030), and that it was independently validated, so you know the trajectory's steepness and that abatement, not offsetting, is doing the work. The "carbon neutral" packaging is an annual balance claim: it says gross emissions were matched by retired offsets but is silent on whether the company reduced anything, what kind of credits it used (avoidance versus removal), and whether the claim aligns with any temperature goal. Notably, even the stronger claim leaves Scope 3 unstated.
+
+Permanence is the crux. A net-zero state must balance a residual emission with a removal durable enough to match that emission's atmospheric lifetime. Avoidance credits do not physically take carbon back out of the air, they at best prevent a future emission elsewhere, so they cannot offset a tonne already emitted. Chapter 8's permanence argument holds that a short-lived or reversible "avoided" tonne cannot be set against a long-lived emitted one without an integrity gap. Only durable removals genuinely neutralize the residual at the target year.
+
+Neither, really, it reflects what Paris is. Because the Paris Agreement is a bottom-up framework of nationally determined contributions rather than a single quantified global target, "Paris-aligned" has no fixed numerical meaning to inherit. The looseness is a faithful description of an intentionally flexible treaty, not a defect in either the phrase or the agreement. The problem is purely in usage: the term gets deployed as marketing varnish precisely because its vagueness lets a company imply rigor without committing to a measurable pathway.
+
+"Zero" is doing aspirational and rhetorical work that the physics may not support. For a firm with a genuinely unabatable 10 percent, the honest description is "90 percent reduction plus durable removal of the residual", which is exactly what credible net zero means anyway. The word "zero" risks implying the emissions vanished rather than were balanced by removals, and it invites the suspicion that the residual is being neutralized cheaply. The goal is sound; the framing should foreground the abatement percentage and the durability of the removal, so "zero" does not paper over what is actually happening.
+
+Part 2: S.B.T.i., the de facto standard-setter.
+
+What S.B.T.i. is.
+
+The Science Based Targets initiative is a partnership (CDP, the UN Global Compact, World Resources Institute, and WWF) that, since 2015, has developed criteria for corporate emissions targets and validated companies' targets against them. It has no statutory authority. Its power is entirely reputational and market-based: a validated S.B.T.i. target became, over the late 2010s and 2020s, the signal that a corporate climate target was serious. Thousands of companies have set or committed to S.B.T.i. targets, and many procurement and investor frameworks reference S.B.T.i. validation directly.
+
+This is itself a remarkable governance fact: the most consequential definition of "credible corporate net zero" was written not by a regulator but by an NGO coalition, much as the ICVCM and VCMI (Chapter 8) became private quasi-regulators of the voluntary market.
+
+What the Corporate Net-Zero Standard requires.
+
+The Corporate Net-Zero Standard (current published version V1.x; V2 in process, see below) requires, in essence:
+
+Near-term targets, typically a 5-10 year horizon, requiring absolute emissions cuts on a 1.5 degrees Celsius-aligned trajectory (historically ~4.2 percent/year linear, that is, roughly 42 percent by 2030 from a recent base year), across Scopes 1, 2, and material Scope 3.
+Long-term targets, reducing emissions by roughly 90 percent (the deep-decarbonization endpoint) by the net-zero target year, no later than 2050 for the standard pathway.
+Neutralization of residuals, the remaining ~10 percent must be neutralized with carbon removals at the target year.
+The mitigation hierarchy, abatement comes first; offsets cannot be counted toward the required reductions.
+
+Two things that surprise newcomers: S.B.T.i. targets are mostly about absolute reductions inside the value chain, and offsets play almost no role in reaching them. The headline "net zero" is overwhelmingly an abatement commitment, with removals reserved for a small residual.
+
+Scope 3, the hard part.
+
+For most companies, the overwhelming majority of emissions are Scope 3 (value-chain emissions, suppliers upstream, product use downstream; Chapter 5). S.B.T.i. requires material Scope 3 to be covered, and this is where the framework bites and where companies struggle. A bank's financed emissions, an automaker's tailpipe emissions from sold vehicles, an oil major's emissions from combusted product, these dwarf the company's own operations and are only partly within its control. The tractability of Scope 3 target-setting is the central technical battleground of the V2 revision.
+
+The 2024 "offset wars".
+
+In April 2024, S.B.T.i.'s board issued a statement signaling openness to allowing greater use of environmental-attribute certificates (including carbon credits) against Scope 3 targets. The reaction was immediate and internal: S.B.T.i.'s own technical staff and many stakeholders objected that this would weaken the abatement-first principle and effectively re-admit offsets through the back door. The episode exposed a genuine fault line, between those who see offsets as a pragmatic bridge for hard-to-abate Scope 3 and those who see any offset allowance as undermining the standard's integrity. It also exposed governance fragility at the institution that had become the market's referee.
+
+V2 and "Ongoing Emissions Responsibility".
+
+The Corporate Net-Zero Standard V2 has been through two public consultations (the second closing 12 December 2025), with the final standard expected in 2026 and mandatory for new targets from 1 January 2028 (companies may keep using V1.3 until end-2027). Its most consequential proposed changes:
+
+Ongoing Emissions Responsibility, a reframing that encourages (eventually requires, for the largest companies) firms to take responsibility for their emissions during the transition, not only at the net-zero endpoint, through carbon credits / beyond-value-chain action, without letting that substitute for abatement. This is the same concept Chapter 8 flagged as bifurcating voluntary demand.
+Differentiated Scope 3 treatment, more workable rules for the categories companies genuinely struggle to control, including a shift toward target metrics other than pure absolute tonnage where appropriate.
+Tiered company treatment, larger companies and those in higher-income jurisdictions face stricter requirements sooner.
+Rising removal share, an increasing fraction of residual neutralization must come from durable removals as the target year approaches, with no avoidance credits eligible for end-state neutralization.
+
+The net effect, if finalized as drafted, is to strengthen the abatement-first core while creating a structured, optional role for credits during the transition, and to push corporate demand decisively toward durable removals (Chapter 8, Chapter 11). The unresolved tension: the stricter the standard, the more companies quietly decline to set targets at all.
+
+Stop-and-check 13.B.
+
+S.B.T.i. has no legal authority, yet it became the arbiter of credible corporate net zero. What gave it that power, and what could take it away?
+For most companies Scope 3 is the majority of emissions and the least controllable. Why does that make Scope 3 simultaneously the most important and the most gameable part of a target?
+The 2024 "offset wars" pitted "abatement purists" against "pragmatists." Steelman each side in two sentences.
+Socratic prompt: V2's "Ongoing Emissions Responsibility" asks companies to pay for climate action during the transition without counting it toward their reduction target. Is this a meaningful integrity improvement, or does it just re-label the old carbon-neutral purchasing? What would make it credible?
+
+Answers
+
+S.B.T.i.'s power is purely reputational and market-based. With no statutory authority, it became the arbiter because a validated S.B.T.i. target turned into the trusted signal that a corporate climate commitment was serious, and because investors, procurement frameworks, and corporate peers began referencing that validation directly, giving it network effects. The same forces could take it away: a loss of credibility (the 2024 offset-wars governance crisis showed how fragile that trust is), a competing standard that the market prefers, or mandatory disclosure regimes that supersede a voluntary validator. Its authority lasts only as long as the market keeps treating its stamp as meaningful.
+
+Scope 3 is most important because for most firms it is the overwhelming majority of emissions, a bank's financed emissions, an automaker's tailpipe emissions, an oil major's combusted product, so a target excluding it addresses only a sliver of the real footprint. It is most gameable for the same reasons it is hard: the emissions are only partly within the company's control, the data is estimated rather than metered, and boundaries can be drawn to flatter the number. A target that covers everything controllable but omits the uncontrollable majority can look ambitious while leaving the bulk of impact untouched.
+
+The purist case: abatement-first is the entire point of a science-based target; admitting credits against Scope 3 reopens the back door to cheap offsets, lets companies buy their way out of genuine value-chain decarbonization, and erodes the standard that gives S.B.T.i. its credibility. The pragmatist case: some Scope 3 categories are genuinely intractable on a 1.5 degrees Celsius timeline with today's technology, so a rigid abatement-only rule drives companies to either set no target or quietly miss it, a structured credit allowance keeps them engaged and channels finance to real mitigation in the interim.
+
+It is a meaningful improvement only if the structural separation holds in practice. OER differs from old carbon-neutral purchasing in that the spending explicitly does not count toward the reduction target, abatement is still measured and required on its own. That is the integrity feature. The risk is that it collapses back into "pay and claim" if companies foreground the OER spending in their marketing while quietly under-delivering on abatement. Credibility would require: transparent separation of abated tonnes from compensated tonnes, a rising removal share for end-state neutralization, and no permission to advertise OER purchases as progress toward the target.
+
+Part 3: The disclosure architecture and the ISSB baseline.
+
+From voluntary to mandatory.
+
+For most of the 2010s, corporate climate disclosure was voluntary and fragmented: companies reported to CDP (formerly the Carbon Disclosure Project), adopted the TCFD (Task Force on Climate-related Financial Disclosures) recommendations, and chose among a thicket of competing standards (GRI, SASB, et cetera). The result was abundant but inconsistent disclosure, hard to compare, easy to cherry-pick.
+
+The late 2020s consolidation has two moves: convergence of the voluntary alphabet soup into a single global baseline, and mandation of that baseline by individual jurisdictions.
+
+The TCFD framework, the conceptual backbone.
+
+The TCFD (2017) gave the field its durable conceptual structure: disclose climate-related information across four pillars, governance, strategy, risk management, and metrics and targets, and, critically, frame climate as a financial risk to the business (transition risk, physical risk) rather than purely an environmental externality. TCFD did its job so well that it was absorbed into the ISSB in 2023-2024; the task force was disbanded and its monitoring role handed to the IFRS Foundation. When you see "TCFD-aligned," read it as "uses the four-pillar structure now carried forward by the ISSB."
+
+The ISSB and IFRS S1/S2.
+
+The International Sustainability Standards Board was created under the IFRS Foundation (the body behind global accounting standards) in 2021 to build a global baseline for sustainability disclosure, the sustainability analogue of international accounting standards. It published its first two standards in June 2023:
+
+IFRS S1, general requirements for disclosure of sustainability-related financial information.
+IFRS S2, climate-specific disclosures, building directly on the TCFD four pillars and requiring disclosure of Scope 1, 2, and (where material) Scope 3 emissions, plus transition plans and the financial effects of climate risk.
+
+The ISSB's design philosophy is single materiality (sometimes "financial materiality"): it asks what climate information is material to investors, that is, to the enterprise's financial prospects. This is the crucial contrast with the E.U.'s approach (Part 4).
+
+The ISSB itself can't compel anyone; it provides standards that jurisdictions then adopt or reference. By 2025-2026 a substantial and growing list of jurisdictions, across Asia-Pacific, the U.K., Canada, Brazil, and others, had committed to adopting or building on IFRS S1/S2, making it the closest thing to a global disclosure lingua franca. The major exceptions: the E.U. (which built its own, broader regime first) and the U.S. (where the federal effort collapsed).
+
+The three questions every disclosure regime answers differently.
+
+To compare regimes, ask three questions:
+
+Materiality, single (investor-focused) or double (investor and environment/society)?
+Scope 3, required, conditional, or excluded?
+Assurance, must the data be independently audited, and to what level (limited versus reasonable)?
+
+These three axes explain almost all the divergence between the ISSB baseline, the E.U. stack, and the U.S. patchwork.
+
+Stop-and-check 13.C.
+
+TCFD reframed climate from "environmental externality" to "financial risk to the business." Why was that reframing so effective at driving adoption, and what does it leave out?
+The ISSB uses single (financial) materiality. Give an example of a climate impact that is material to society but might not be material to a specific company's investors.
+Why does jurisdictional adoption matter so much for a body (the ISSB) that has no enforcement power of its own?
+Socratic prompt: If you were a finance minister in a mid-sized economy in 2026, would you adopt IFRS S1/S2 wholesale, adapt it, or wait? What's the cost of fragmentation versus the cost of moving early?
+
+Answers
+
+By framing climate as transition and physical risk to the enterprise's own financial prospects, TCFD moved climate from the CSR/sustainability silo into the language of investors, auditors, and CFOs, people with the authority and incentive to act, and a fiduciary reason to demand the data. That financial framing drove rapid adoption and ultimately absorption into the ISSB. What it leaves out is the other direction of materiality: the company's impact on climate and society, which may be enormous even where it is not financially material to the firm. Single-materiality framing renders those externalities largely invisible.
+
+A company whose operations emit substantial methane or whose product drives downstream deforestation may impose large costs on society and the climate that never register as a financial risk to the firm itself, because the harm falls on third parties, is diffuse, or is unlikely to rebound onto the company's cash flows within the horizon investors price. Under single (financial) materiality such an impact can be legitimately omitted; under the E.U.'s double materiality it must be disclosed as impact-material even if it is not financially material.
+
+The ISSB writes standards but cannot compel anyone, so its reach depends entirely on jurisdictions choosing to adopt or reference IFRS S1/S2 in their own law. Its value comes from convergence: the more jurisdictions mandate the same baseline, the more comparable global disclosure becomes and the more it functions as a lingua franca. Without adoption it is just a well-designed template. This is why the growing list of adopting jurisdictions across Asia-Pacific, the U.K., Canada, and Brazil matters more for the ISSB's influence than the quality of the standards alone.
+
+The decisive trade-off is comparability and credibility versus cost and optionality. Adopting wholesale gives instant access to the emerging global baseline, lowers reporting friction for multinationals operating in your market, and signals seriousness to investors, at the cost of flexibility to tailor rules to local capacity. Waiting avoids early compliance costs and lets you watch the E.U./U.S. fragmentation settle, but risks being a non-comparable outlier and importing whatever standard your largest trading partners later impose anyway. For a mid-sized economy, adapting IFRS S1/S2, adopting the core, phasing in Scope 3 and assurance, usually dominates, capturing comparability while managing capacity.
+
+Part 4: The E.U. stack, and its 2025 retrenchment.
+
+CSRD and ESRS.
+
+The E.U. went furthest, earliest, and broadest. The Corporate Sustainability Reporting Directive, adopted 2022, vastly expanded both who must report and what they must report, replacing the earlier Non-Financial Reporting Directive. Reporting is done against the European Sustainability Reporting Standards, of which ESRS E1 is the climate standard, the most detailed mandatory climate-disclosure standard in the world, covering transition plans, Scope 1/2/3, targets, and the financial effects of climate.
+
+Two features distinguish the E.U. regime:
+
+Double materiality. Companies must report both how climate affects the business (financial materiality, the ISSB question) and how the business affects climate and society (impact materiality). This is a fundamentally broader remit than the ISSB baseline.
+Breadth and extraterritoriality. As originally designed, the CSRD would have pulled in tens of thousands of E.U. companies and many large non-E.U. companies with significant E.U. operations.
+
+The Omnibus retrenchment (2025-2026).
+
+Then the politics turned. Under intense competitiveness pressure, the argument that the reporting burden was hobbling European firms relative to U.S. and Chinese competitors, the European Commission launched a simplification ("Omnibus") package in early 2025. The sequence matters and is current as of writing:
+
+A "stop-the-clock" directive (2025) delayed reporting obligations for companies not yet in the first wave.
+A political deal between the Council and Parliament was struck on 9 December 2025, and the resulting Amendment Directive 2026/470 was published 26 February 2026, entering into force 18 March 2026.
+The package sharply raised the scope thresholds: broadly, E.U. companies are now in scope at >1,000 employees and >450 euros million net turnover, dramatically fewer companies than the original CSRD. Non-E.U. groups come into scope on an E.U.-turnover test (~450 eurosm) from FY2028 (reporting 2029).
+Mandatory reporting under the revised regime applies for financial years starting on or after 1 January 2027; the largest "wave 1" companies continue reporting under the existing framework for FY2024-2026.
+ESRS simplification is underway: EFRAG delivered revised draft standards in late 2025, with the Commission committed to adopting the revised Set 1 ESRS within six months of the Amendment Directive's entry into force (around September 2026).
+
+The Omnibus is the single most important corporate-disclosure development of the period, and its lesson is structural: mandatory climate disclosure is politically reversible. The E.U. did not abandon the project, double materiality and ESRS E1 survive, but it materially narrowed it under competitiveness and cost-of-compliance pressure. Anyone modeling the future of disclosure has to price in that the ratchet can loosen, not only tighten.
+
+Stop-and-check 13.D.
+
+Explain double materiality with a concrete example where the "impact" direction and the "financial" direction give different answers.
+The 2025 Omnibus raised CSRD thresholds so that far fewer companies report. Is this a defensible simplification or a substantive weakening? Argue both sides.
+The E.U. built its own regime rather than adopting the ISSB baseline. What did it gain, and what did global comparability lose?
+Socratic prompt: "Mandatory disclosure is politically reversible." Given the Omnibus, how should an investor who relies on CSRD data adjust their expectations for the next decade?
+
+Answers
+
+Consider a fertilizer plant near a watercourse. The "impact" direction (impact materiality) asks how the plant's emissions and effluent affect climate and the surrounding ecosystem, potentially large, and reportable under the E.U.'s double-materiality regime regardless of the financial hit to the firm. The "financial" direction asks how climate affects the plant's prospects, perhaps modestly, if regulation is lax and physical risk is distant. The two diverge: a significant societal/environmental impact can coincide with a small financial materiality, so single-materiality reporting would omit what double-materiality requires.
+
+Both sides are arguable. Defensible simplification: the original CSRD would have pulled in tens of thousands of firms, many too small to bear over a thousand ESRS data points; raising thresholds to >1,000 employees and >450 eurosm turnover concentrates the burden on companies with the resources to report well and the emissions worth tracking, improving signal-to-noise. Substantive weakening: it removes a large swath of mid-sized companies, and much aggregate emissions and supply-chain coverage, from mandatory disclosure entirely, and the precedent that the regime bends under competitiveness pressure invites further erosion.
+
+By building ESRS the E.U. gained double materiality, disclosure of the company's impact on climate and society, not just climate's financial effect on the company, plus the most detailed mandatory climate standard in the world, tailored to its policy goals and adopted first. What global comparability lost is a common baseline: ESRS diverges from IFRS S1/S2 in materiality concept, breadth, and data points, so a multinational must reconcile two regimes and investors cannot cleanly compare E.U. filers against ISSB-baseline filers. The E.U. traded interoperability for ambition and first-mover control.
+
+An investor should treat CSRD data as durable in substance but variable in coverage and scope. The Omnibus showed the regime can narrow, fewer reporting companies, simplified data points, so the dataset may thin out, lose comparability across waves, and shift definitions mid-stream. The prudent adjustment: do not assume a fixed reporting universe or stable data fields year over year, build in the possibility of further loosening, lean on the surviving core (double materiality and ESRS E1 persist), and supplement with other sources (ISSB-baseline filings, California data) rather than treating any single mandate as a permanent fixture.
+
+Part 5: The U.S. patchwork.
+
+The S.E.C. climate rule: rise and collapse.
+
+The U.S. federal effort is a cautionary tale. The S.E.C. adopted a climate-disclosure rule on 6 March 2024, requiring registrants to disclose material climate risks, certain Scope 1 and 2 emissions (for larger filers, where material), and governance, a scaled-back version of its more ambitious 2022 proposal, which had included broad Scope 3 requirements that were dropped after fierce pushback.
+
+The rule was immediately challenged in court and stayed. Then the 2024 election changed the agency's posture entirely. On 27 March 2025, the S.E.C. voted to end its defense of the rule; through 2025 it told the Eighth Circuit it would not defend it. The rescission then moved from signal to formal process: the S.E.C. submitted a proposed "Rescission of Climate-Related Disclosure Rules" to OIRA on 4 May 2026 and confirmed to the Eighth Circuit (7 May 2026) that it is pursuing repeal by notice-and-comment rulemaking. As of writing the rule has not been formally rescinded, OIRA review and a comment period must still complete, but it has been voluntarily stayed since 2024 and is unenforced. The practical upshot: there is no operative federal climate-disclosure mandate in the U.S..
+
+This sits inside a broader federal climate retreat: the U.S. again withdrew from the Paris Agreement (executive action January 2025; withdrawal became effective 27 January 2026), and the One Big Beautiful Bill Act (OBBBA, signed 4 July 2025) accelerated the repeal or sunset of most IRA clean-energy tax credits, terminating the residential solar credit (placed-in-service after end-2025), terminating the 45V hydrogen credit for facilities that do not begin construction before 1 January 2028, and curtailing the wind/solar 45Y/48E credits (eliminated for facilities placed in service after end-2027, with a construction-start safe harbor through mid-2026), among others. The disclosure-rule collapse is one facet of this larger reversal (developed in Chapter 14).
+
+California fills the vacuum.
+
+With the federal rule gone, California became the most consequential U.S. climate-disclosure regulator, exactly the same subnational-resilience pattern seen in compliance markets (Chapter 7). Two 2023 laws:
+
+S.B. 253 (Climate Corporate Data Accountability Act), requires large companies (revenue over ~1B dollars) doing business in California to disclose Scope 1, 2, and 3 emissions per the greenhouse gas Protocol.
+SB 261 (Climate-Related Financial Risk Act), requires companies (revenue over ~500M dollars) to disclose climate-related financial risk, TCFD-aligned.
+
+The implementation status as of writing is genuinely live and worth stating precisely: Carb approved implementing regulations on 26 February 2026. S.B. 253's first reporting deadline is 10 August 2026 (Scope 1 and 2 first; Scope 3 phasing in later). Litigation (a First Amendment challenge, among other grounds) is ongoing: a court enjoined enforcement of SB 261 in November 2025 while declining to enjoin S.B. 253, and the Ninth Circuit heard oral argument on 9 January 2026 without yet ruling. So as of writing, S.B. 253 is moving forward for 2026-27 while SB 261 is on hold pending the courts, companies are preparing under uncertainty.
+
+Because so many large U.S. companies "do business in California," S.B. 253 effectively imposes Scope 1/2/3 disclosure on much of corporate America despite the federal rule's collapse, a striking demonstration of how a single large subnational market can set a de facto national standard.
+
+Stop-and-check 13.E.
+
+The S.E.C. dropped Scope 3 from its 2024 rule and then abandoned the rule entirely by 2025. Trace the political logic: why was Scope 3 the first casualty, and why did the whole rule then fall?
+California's S.B. 253 covers Scope 3; the (dead) federal rule did not. How can a state regulator impose a requirement the federal regulator couldn't sustain?
+S.B. 253 is proceeding while SB 261 is enjoined. What does it tell you that the emissions-data law survived the first injunction round but the risk-disclosure law did not?
+Socratic prompt: A U.S. multinational faces no federal mandate, a California mandate (partly enjoined), and the E.U.'s ESRS. How should it decide what to actually report, to the strictest applicable standard, or jurisdiction-by-jurisdiction? What are the costs of each?
+
+Answers
+
+Scope 3 was the first casualty because it is the most burdensome, least controllable, and most legally exposed part of the rule, covering value-chain emissions a registrant only estimates, which invited the fiercest pushback from issuers and the strongest litigation-risk concerns, so the S.E.C. dropped it from the 2022 proposal to salvage the rest. The whole rule then fell to a change in political control: after the 2024 election the agency's posture reversed, it stopped defending the rule in court in March 2025, and moved toward repeal-by-rulemaking. The logic is that disclosure mandates rest on shifting executive priorities, so the most contested element goes first and a hostile administration can abandon the remainder entirely.
+
+California uses its market-access leverage rather than securities authority. S.B. 253 applies to large companies "doing business in California", and because so many large U.S. firms do, so it reaches much of corporate America without needing a federal hook. A state can sustain a Scope 3 requirement the S.E.C. could not partly because it rests on different legal authority (in-state commerce, not federal securities law), faces a different (though still active) litigation posture, and is insulated from the federal political reversal that killed the S.E.C. rule. It is the same subnational-resilience pattern seen when state compliance markets survived federal absence.
+
+It suggests the courts found the emissions-data mandate more defensible than the risk-disclosure mandate on the grounds litigated, notably the First Amendment compelled-speech challenge. Reporting measured/estimated emissions per a recognized protocol reads more like objective, factual disclosure, which is harder to attack as compelled opinion; requiring a company to characterize its climate-related financial risks involves more judgment and arguably more compelled expression, making SB 261 the softer target for an injunction. The split is provisional, the Ninth Circuit has not ruled, but it signals that factual data mandates may prove more durable than narrative-risk mandates.
+
+The choice is between a single high-water-mark and tailored compliance. Reporting to the strictest applicable standard (effectively ESRS plus S.B. 253 Scope 3) yields one consistent global dataset, simplifies internal systems, future-proofs against tightening, and avoids the embarrassment of disclosing more in one jurisdiction than another, at the cost of doing expensive, broad reporting even where not legally required, and exposing data that creates litigation and competitive risk. Jurisdiction-by-jurisdiction minimizes cost and exposure but multiplies internal complexity, invites inconsistency that critics can exploit, and must be re-engineered every time a rule shifts. Most large multinationals converge toward the strictest core with jurisdictional add-ons, because the marginal cost of consistency is usually less than the cost of managing divergence.
+
+Part 6: Transition plans and financed emissions.
+
+A target without a plan is not credible.
+
+The frontier of credibility has moved from targets to transition plans, the concrete, costed, year-by-year account of how a company will actually hit its target: which capital expenditures, which technology switches, which assumptions about policy and offsets. A 2050 net-zero target with no transition plan is, increasingly, treated as a marketing statement.
+
+The Transition Plan Taskforce in the U.K. developed a widely referenced disclosure framework for transition plans (its outputs, like TCFD's, are being folded into the ISSB's work). ESRS E1 requires transition-plan disclosure in the E.U.. The common thread: a credible plan must show consistency between the climate target and the business strategy and capital allocation, not a sustainability report bolted onto an unchanged business model.
+
+Financed emissions and the net-zero alliances.
+
+For financial institutions, the entire game is financed emissions, the Scope 3 (Category 15) emissions of the companies and projects they lend to, invest in, or insure. These dwarf a bank's operational footprint by orders of magnitude. The P-CAF (Partnership for Carbon Accounting Financials) standard (Chapter 5) provides the methodology.
+
+Around 2021, finance organized into net-zero "alliances" under the Glasgow Financial Alliance for Net Zero umbrella, the Net-Zero Banking Alliance, Net-Zero Asset Managers initiative, and others, committing trillions in assets to net-zero alignment. By 2024-2025 these alliances unraveled significantly: major U.S. banks and asset managers exited amid antitrust concerns, political pressure (especially anti-ESG campaigns in U.S. states), and the difficulty of reconciling fossil-fuel financing with alliance commitments. GFANZ restructured into a looser advisory body.
+
+The lesson parallels the disclosure story: voluntary collective commitments are fragile under political and commercial pressure. Financed-emissions accounting survives as a technical practice; the high-profile alliances built on top of it proved much more reversible than they looked in 2021.
+
+Stop-and-check 13.F.
+
+Why is a transition plan a stronger signal than a target? What can a plan reveal that a target hides?
+For a bank, financed emissions are ~99 percent+ of its footprint and largely outside its direct control. Does that make a bank's net-zero target meaningless, or just hard? What would make it meaningful?
+The GFANZ alliances unraveled under antitrust and political pressure. Was the alliance model flawed, or just ahead of the politics?
+Socratic prompt: An asset manager says it is "net zero aligned" but continues to hold large fossil-fuel positions, arguing engagement beats divestment. Is that defensible? What evidence would distinguish genuine engagement from a fig leaf?
+
+Answers
+
+A target states an endpoint; a transition plan shows the costed, year-by-year route, which capex, which technology switches, which assumptions about policy and offsets. A plan can reveal what a bare target hides: whether the climate goal is actually consistent with the company's capital allocation and business strategy, or merely a sustainability statement bolted onto an unchanged business model. A 2050 target with no plan tells you nothing about whether anyone has budgeted the asset retirements and replacements required, so the plan is the stronger signal precisely because it exposes the gap between aspiration and committed spending.
+
+It makes a bank's target hard, not meaningless. Financed emissions are real emissions the bank enables through its lending, investing, and insuring, and the P-CAF methodology lets them be measured, so the target is about the right thing even if the bank does not directly emit them. What makes it meaningful is influence over the portfolio's trajectory: setting financed-emissions reduction targets, shifting capital toward decarbonizing counterparties, conditioning financing on credible client transition plans, and disclosing progress against an absolute or intensity baseline. Without those levers the target is just an accounting figure; with them it can steer real-world capital.
+
+Both readings hold. The model was flawed in that it relied on voluntary collective commitments with weak enforcement, exposing members to antitrust scrutiny for coordinating and to political attack with no legal shield, and it asked institutions to reconcile net-zero pledges with continued fossil financing they were unwilling to abandon. But it was also ahead of the politics: the 2021 enthusiasm assumed a stable pro-climate consensus that the anti-ESG backlash and the broader federal retreat dissolved. The technical practice (P-CAF financed-emissions accounting) survived; the high-profile alliances built atop it proved far more reversible, which is the recurring lesson about voluntary collective commitments.
+
+It can be defensible, but only with evidence, and the bar is high. Engagement genuinely can beat divestment because selling shares to a less scrupulous owner changes nothing in the real world, whereas an active owner can push management. The distinguishing evidence: specific, time-bound engagement asks tied to the investee's transition plan and capex; a documented escalation ladder (votes against directors, public statements, ultimately divestment) with a track record of using it; and measurable changes in the investee's behavior. A fig leaf looks like vague "constructive dialogue," near-unanimous support for management, no escalation, and fossil positions held with no trajectory or exit condition.
+
+Part 7: The law of green claims.
+
+From reputational risk to legal risk.
+
+The final force reshaping corporate climate behavior is greenwashing law, the migration of climate claims from the domain of reputation into the domain of enforceable consumer-protection and securities law. This is the mechanism that connects the voluntary-market integrity crisis (Chapter 8) to real corporate consequences.
+
+The E.U.. Two instruments matter. The Empowering Consumers for the Green Transition Directive (adopted 2024, applying from 27 September 2026) bans generic environmental claims ("climate neutral," "eco-friendly") unless substantiated, and specifically targets offset-based neutrality claims, and it is now the durable piece. The proposed Green Claims Directive, which would have required pre-substantiation and third-party verification of explicit environmental claims, ran into the same competitiveness backlash that drove the CSRD Omnibus: the Commission announced its intention to withdraw the proposal in June 2025, the final trilogue was cancelled, and as of writing it is effectively abandoned (not yet formally struck from the agenda). So the near-term reality is the Empowering Consumers Directive doing the work, already enough to make "carbon neutral via offsets" marketing legally hazardous in the E.U., with the more ambitious pre-substantiation regime shelved. (This is itself another instance of the reversibility theme of Stop-and-check 13.H.)
+
+The U.S.. The FTC Green Guides, guidance on environmental marketing claims, have been under revision, with carbon-offset and "net zero/carbon neutral" claims a focus of the review. Even absent a finalized revision, the FTC and state attorneys general can pursue deceptive-marketing actions, and private greenwashing class actions have proliferated.
+
+Other jurisdictions. The U.K.'s Advertising Standards Authority and Competition and Markets Authority, and Australia's ACCC, have all taken high-profile actions against carbon-neutral and offset-based claims by airlines, energy companies, and consumer brands.
+
+The feedback loop into the voluntary market.
+
+This legal pressure is, in effect, a demand-side integrity mechanism distinct from ICVCM/VCMI/S.B.T.i. (Chapter 8). It changes corporate behavior directly: faced with litigation and regulatory risk, many companies have dropped "carbon neutral" product claims entirely ("greenhushing", going quiet rather than risk a claim), shifted from avoidance credits toward removals, and tied any retained claims to validated frameworks. The cheap-offset, loose-claim model that built the legacy voluntary market is being squeezed from two directions at once: integrity bodies on the supply side and consumer-protection law on the demand side.
+
+Stop-and-check 13.G.
+
+How does greenwashing law function as a "demand-side integrity mechanism" for the voluntary carbon market? Trace the causal chain from an FTC action to a project developer's revenue.
+"Greenhushing", companies going silent rather than risk a claim, is a documented response to greenwashing enforcement. Is that a good outcome, a bad one, or both?
+The same competitiveness backlash that narrowed the CSRD also stalled the E.U. Green Claims Directive. What does this tell you about the durability of the green-claims crackdown?
+Socratic prompt: Is the right legal target the claim (what a company says) or the conduct (what it does)? A company could decarbonize aggressively and say nothing, or do little and claim a lot. Which should the law police, and can it do both?
+
+Answers
+
+The chain runs through demand. Greenwashing law (an FTC deceptive-marketing action, an ASA/ACCC ruling, the E.U. Empowering Consumers Directive) makes "carbon neutral via offsets" claims legally hazardous. Facing litigation and regulatory risk, companies stop making cheap offset-based neutrality claims and either drop them entirely or shift toward removals and validated frameworks. That reduces demand for the low-quality avoidance credits that built the legacy market, and falling demand cuts the revenue of the project developers who sell them. So a consumer-protection action on the demand side propagates back through corporate purchasing to the supply side, squeezing developers, distinct from the supply-side integrity bodies (ICVCM/VCMI/S.B.T.i.).
+
+Both. It is good insofar as it ends the era of unsubstantiated, low-quality neutrality claims that misled consumers and propped up weak credits, the law successfully deterred the bad behavior. It is bad insofar as silence also hides genuine progress: a company decarbonizing aggressively but afraid to say so deprives investors, consumers, and policymakers of information, weakens peer pressure and reputational reward for real action, and can chill legitimate communication along with the deceptive kind. Greenhushing is the predictable side-effect of policing claims rather than conduct, it suppresses speech, not just false speech.
+
+It signals that the green-claims crackdown rests on the same contested political ground as disclosure and is therefore similarly reversible. The competitiveness backlash that raised CSRD thresholds also stalled the Green Claims Directive, showing that the appetite for new compliance burdens, even consumer-protection ones, recedes under economic pressure. The durable core (the already-adopted Empowering Consumers Directive, existing deceptive-marketing law, private class actions) persists, but the more ambitious pre-substantiation regime is contingent. The lesson mirrors disclosure: the ratchet can loosen, so the crackdown's reach should not be assumed permanent.
+
+The law can and arguably should do both, but they are different tools aimed at different harms. Policing the claim is consumer-protection and securities law's natural home, it targets deception, the gap between what is said and what is true, and it is administrable because the claim is concrete and falsifiable. Policing the conduct is the domain of carbon pricing, mandated reductions, and disclosure mandates, it targets the underlying behavior regardless of speech. Relying only on claim-policing produces greenhushing and lets quiet under-performers escape; relying only on conduct-policing lets liars who happen to also act mislead the market. A coherent regime pairs mandatory disclosure (forcing conduct into the open) with claims law (punishing the lie about it).
+
+Stop-and-check 13.H (whole chapter).
+
+Five times in this chapter an ambitious climate-governance structure proved reversible: S.B.T.i.'s 2024 governance crisis, the CSRD Omnibus narrowing, the S.E.C. rule's collapse, GFANZ's unraveling, and the stalled Green Claims Directive. What do these episodes have structurally in common?
+Across those reversals, sort what proved durable from what proved fragile. Is there a pattern in which layer of the architecture survives?
+The chapter opens by calling the disclosure transition "mid-stream, contested, and politically polarized." Given the reversals, has the secular trend toward more and stricter climate governance actually turned, or just become non-monotonic?
+Socratic prompt: You're building a corporate climate strategy in 2026 that must survive a decade of political volatility. What do you anchor it to, and what do you treat as potentially temporary?
+
+Answers
+
+Each was an ambitious, relatively new superstructure resting on either voluntary commitment or contested political authority, and each bent when the political or competitive wind shifted. S.B.T.i. (a voluntary NGO validator) wobbled under internal governance strain; the CSRD and Green Claims Directive narrowed/stalled under E.U. competitiveness pressure; the S.E.C. rule fell to a change in administration; GFANZ unraveled under antitrust threat and anti-ESG politics. The common structure: they extended faster than the underlying political consensus could durably support, and lacked either statutory entrenchment or self-interested constituencies strong enough to defend them when the cost-of-compliance and competitiveness arguments resurged. They were ratchets that turned out to spin backward.
+
+The durable layer is the factual-measurement substrate and the factual-legal floor; the fragile layer is the voluntary collective commitment and the ambitious narrative/scope mandate. Survived: the greenhouse gas Protocol and P-CAF as technical practices, the emissions-data mandate (S.B. 253 cleared the first injunction round), and ordinary deceptive-marketing law. Reversed or narrowed: GFANZ's voluntary alliances, the CSRD's expansive scope, the S.E.C. rule entirely, SB 261's narrative risk-disclosure (enjoined), and the Green Claims pre-substantiation regime. The pattern: measuring and not-lying prove robust; coordinating voluntarily and mandating broad or judgment-laden disclosure prove reversible. Factual floors hold; aspirational ceilings fall.
+
+It has become non-monotonic rather than reversed. The secular direction is still toward more measurement and more accountability, IFRS S1/S2 keeps being adopted across jurisdictions, S.B. 253 advances, P-CAF and the greenhouse gas Protocol entrench, deceptive-marketing enforcement persists, but the path is no longer a smooth one-way ratchet. The 2025-2026 episodes show the trend can loosen as well as tighten, with the loosening concentrated in the voluntary and the politically exposed. So the honest read is a rising-but-jagged trend: the floor keeps rising while the ambitious ceilings are episodically knocked down, and you can no longer assume any specific rule only gets stricter.
+
+Anchor the strategy to the durable layer and treat the fragile layer as optional scaffolding. Durable anchors: genuine abatement (real capex and emissions cuts that pay off under any policy because they're physically real and increasingly cost-competitive), rigorous measurement on the surviving substrate (greenhouse gas Protocol/P-CAF, audit-ready data), and factual, defensible disclosure plus truthful claims that survive both securities and consumer-protection law. Treat as potentially temporary: membership in voluntary alliances, reliance on any single jurisdiction's expansive mandate persisting unchanged, and marketing claims that depend on a particular framework or offset category staying in favor. The throughline of the whole chapter: build on what is real and measurable and legally factual, because that's what survives the politics, and don't bet the strategy on voluntary commitments or ambitious mandates that the last two years showed can be unwound.
+
+Closing exercise.
+
+Three things to take away:
+
+1. "Net zero" is not one thing, it is a spectrum from rigorous to meaningless, and the words signal which. A removal-backed, S.B.T.i.-validated, transition-planned net-zero target is a serious commitment; an offset-backed "carbon neutral" sticker is, increasingly, a legal liability. The skill is reading the claim precisely: what's abated, what's neutralized, with what kind of credit, validated by whom.
+
+2. The disclosure regime is real, mandatory, and fractured. The ISSB baseline (IFRS S1/S2) is becoming a global lingua franca; the E.U. built a broader double-materiality regime and then narrowed it under the 2025 Omnibus; the U.S. federal rule collapsed and California stepped into the gap. A multinational in 2026 navigates all of these at once, and must assume the rules can loosen as well as tighten.
+
+3. Credibility has moved from targets to plans to law. The frontier is the transition plan (can you show the capex?) and the courtroom (can you defend the claim?). The voluntary market's integrity crisis now has teeth through consumer-protection and securities law, which is reshaping corporate behavior more directly than any voluntary standard.
+
+What this chapter simplified.
+
+1. The mechanics of each standard. S.B.T.i.'s sector pathways, the ESRS data points (over a thousand in the original Set 1), and IFRS S2's detailed requirements are each book-length in their own right. I gave the architecture, not the line items.
+
+2. The Scope 3 measurement problem. I treated Scope 3 as "hard." The actual difficulty, spend-based versus activity-based estimation, supplier data quality, double-counting across value chains, the use category for sold products, is the technical heart of corporate accounting and deserves the full Chapter 5 treatment plus more.
+
+3. The assurance/audit dimension. I mentioned limited versus reasonable assurance only in passing. Who audits sustainability data, to what standard, and with what liability is a fast-evolving field (and a major new line of business for the audit firms).
+
+4. The anti-ESG backlash. The U.S. state-level anti-ESG movement, laws restricting state pension funds from considering climate, boycott lists, antitrust threats against alliances, is a substantial political force I treated only through its effects (GFANZ unraveling, the federal retreat). It deserves fuller political-economy analysis.
+
+5. The non-U.S., non-E.U. regimes. The U.K. SDR, Japan, Singapore, Canada, Brazil, China's evolving disclosure expectations, the global adoption map is richer and more varied than the E.U./U.S. contrast I emphasized.

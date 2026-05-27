@@ -1,0 +1,528 @@
+Chapter 1, Carbon the Element, Carbon the Problem.
+
+A note on how this chapter is built.
+
+We're going to move through five layers, each more applied than the last:
+
+The element. What carbon is, why it sits at the center of chemistry.
+The molecule and the basket. CO2, the other greenhouse gases, and the accounting fiction called CO2-equivalent.
+The cycle. Where carbon lives, how it moves, what humans have done to that movement.
+The atmosphere. Why CO2 is a greenhouse gas, how we know, what's actually changing.
+The budget. Translating science into the policy concept that drives every market and every regulation in the rest of this curriculum.
+
+After each layer there's a brief stop-and-check, three to five questions that test whether you've absorbed the material, plus a Socratic prompt I want you to think about before continuing. You can answer them out loud in your head or skip them, but they're calibrated to where a sophisticated misunderstanding tends to set in.
+
+At the end of the chapter there's a glossary delta, every new term that gets added to our running glossary, and a list of the simplifications I made that you should be aware of.
+
+Part 1: Carbon the element.
+
+A brief grounding on atoms (before the carbon-specific stuff).
+
+Before we talk about carbon specifically, a brief grounding on what an atom looks like, because what follows depends on it.
+
+An atom has two parts: a tiny dense nucleus at the center containing positively-charged protons and uncharged neutrons, surrounded by a cloud of negatively-charged electrons arranged in shells (energy levels) around it. The number of protons in the nucleus defines what element you have (carbon has 6 protons; nitrogen has 7; oxygen has 8). The number of neutrons can vary slightly, different neutron counts are called isotopes of the same element. The nucleus determines what element you have, but it does not participate in chemistry, protons and neutrons stay put in the core.
+
+Chemistry, including everything we'll say about carbon's behavior, is done by the electrons, specifically the ones in the outermost occupied shell. Those outer electrons are called valence electrons. The number of valence electrons is what determines how an atom bonds with other atoms. Inner-shell electrons are held tightly by the nucleus and don't reach out to form bonds with neighboring atoms.
+
+This single fact, that bonding is an electron behavior, not a proton behavior, is one of those things that's easy to half-remember and easy to mix up. When we say carbon "has four bonds available," we mean four valence electrons available to share. Not four protons. The protons stay home.
+
+Why carbon is special.
+
+Carbon is element number 6. It has 6 protons + 6 neutrons in its nucleus (for the most common isotope, carbon-12), and 6 electrons arranged in two shells: 2 in the inner shell (filled), 4 in the outer shell (the valence shell, which can hold up to 8). Those four outer-shell electrons are the entire story. Carbon can form four covalent bonds, and it's roughly equally happy forming them with itself, with hydrogen, with oxygen, with nitrogen, with sulfur, and with the halogens. It can form single, double, and triple bonds. It can form chains, rings, branched structures, three-dimensional networks, and isolated molecules. No other element comes close to this combinatorial flexibility at the conditions found on Earth's surface.
+
+That flexibility is why carbon is the backbone of every known living organism, why it's the basis of fossil fuels, why it's the basis of plastics, why it forms both the hardest natural material (diamond) and one of the softest (graphite), and why it's chemically active enough to be in dynamic exchange between the atmosphere, the oceans, the land biosphere, and the geological reservoirs on timescales ranging from days to hundreds of millions of years. This last property, that carbon is mobile across reservoirs on many different timescales, is what creates the carbon cycle, and what makes anthropogenic perturbation of that cycle the climate problem.
+
+Carbon is the 15th most abundant element in Earth's crust by mass (about 0.18 percent) and the 4th most abundant in the universe after hydrogen, helium, and oxygen. The vast majority of Earth's carbon, well over 99.9 percent, sits in the deep crust and mantle and is essentially inert on human timescales. What we'll spend the rest of the chapter on is the much smaller pool that participates in the surface carbon cycle and the even smaller pool that we're actively mobilizing.
+
+Allotropes: same element, different material.
+
+An allotrope is a different structural form of the same element. Carbon has more allotropes than any other element, and the ones that matter commercially are:
+
+Graphite. Carbon atoms in flat hexagonal sheets, with strong bonds within the sheet and weak forces between sheets. Graphite's structure does double duty for understanding why it's both slippery and electrically conductive, and these are two separate phenomena that are easy to conflate.
+
+Within each flat sheet, every carbon atom uses three of its four valence electrons to form strong covalent bonds with three neighbors in the same sheet. The fourth electron, instead of being tied up in a localized bond, goes into a "π orbital" that extends across the entire sheet, meaning that fourth electron isn't really attached to any specific atom, and it's free to move around the sheet plane. This is what makes graphite conduct electricity along the sheet: those delocalized electrons act like the free electrons in a metal, carrying current.
+
+The sheets themselves are held to one another by very weak forces called van der Waals interactions, much weaker than the in-sheet covalent bonds. These weak inter-sheet forces are what let the sheets slide past each other (slippery, which is why pencil "lead" leaves a mark) and what let lithium ions slip between the sheets in a battery (which is the foundation for graphite's role as a battery anode, covered in Chapter 2).
+
+So graphite has two distinct properties from two distinct features of its structure: conductivity from the delocalized π-electrons, and slipperiness/intercalation from the weak inter-sheet bonding. Don't conflate them.
+
+By contrast, in diamond, each carbon uses all four of its valence electrons in localized tetrahedral bonds with four neighbors. No electrons are free to roam, so diamond is an electrical insulator, even though it's the same element as graphite. Diamond is the hardest natural material; industrial uses are dominant in volume (cutting, grinding, drilling), with jewelry being the high-value tail. We'll touch on synthetic diamond in Chapter 2.
+
+Critical commercial uses of graphite: refractory bricks for steelmaking, electrodes for arc furnaces and aluminum smelters, and, the big one for the energy transition, anodes for lithium-ion batteries. Every commercial Li-ion cell has graphite (natural or synthetic) on the anode side. We'll spend serious time on graphite in Chapter 2.
+
+Amorphous carbon. Carbon without long-range crystalline order. Carbon black (combustion soot used for tire reinforcement and pigments), activated carbon (high-surface-area material for filtration), and coke (the carbon residue from heating coal or petroleum) are all forms of amorphous carbon. Coke is the most economically important: it's the reducing agent in primary steelmaking (the blast furnace), and the world makes about a billion tons of it a year. Again, Chapter 2.
+
+Graphene. A single layer of graphite, one atom thick. Extraordinary electrical, thermal, and mechanical properties. Twenty years after its 2004 isolation (Geim and Novoselov, Nobel 2010), commercial applications remain limited to specialty additives and coatings. The "graphene revolution" has been slower than expected.
+
+Carbon nanotubes and fullerenes. Rolled-up sheets and cage structures. Specialty applications. Commercially niche.
+
+Carbon fiber. Not strictly an allotrope, it's a manufactured material made by pyrolyzing polyacrylonitrile or pitch precursors, but it sits in the same family and is increasingly important in aerospace, wind turbine blades, and automotive lightweighting.
+
+I'm flagging these here because when we get to Chapter 2, we'll treat each of these as a market: who makes it, what it sells for, how much of it the world uses, where the supply chain is concentrated. For now, the point is that "carbon" as a material spans an enormous range of products with different value chains, and most of them have essentially nothing to do with the climate problem.
+
+That gap is the book's organizing distinction. Carbon is, at the same time, a material, a commodity to be engineered, priced, and traded (the Track A story, starting in Chapter 2), and a liability, an emission to be measured, regulated, disclosed, and offset (the Track B/C story, from Chapter 5 onward). The same physical carbon is often both at once: the graphite in a battery anode is a strategic commodity and, in its making, a CO2-intensive emission. Almost every confusion in this field comes from collapsing the two senses, and almost every chapter that follows is an exercise in holding them apart. We will return to this material-vs-liability framing explicitly in the final chapter.
+
+Carbon-12, carbon-13, carbon-14: the isotopes.
+
+Carbon has three naturally occurring isotopes:
+
+Carbon-12 (six protons, six neutrons), about 98.9 percent of natural carbon. Stable.
+Carbon-13 (six protons, seven neutrons), about 1.1 percent. Stable.
+Carbon-14 (six protons, eight neutrons), trace amounts. Radioactive, half-life ~5,730 years.
+
+These aren't trivia. The isotopic composition of atmospheric CO2 is one of the cleanest pieces of evidence that the recent CO2 rise is from fossil fuels:
+
+carbon-13/carbon-12 ratio (delta carbon-13). Plants preferentially absorb the lighter carbon-12 during photosynthesis, so plant matter, and the fossil fuels derived from it, is depleted in carbon-13 relative to the atmosphere. When you burn fossil fuels, you add isotopically "light" carbon to the atmosphere, which pushes the atmospheric delta carbon-13 signature down. The observed atmospheric delta carbon-13 trend over the industrial era matches this prediction precisely. This is the Suess effect, named after Hans Suess who identified it in the 1950s.
+
+carbon-14. Carbon-14 has a half-life of about 5,730 years. After about 10 half-lives, roughly 57,000 years, it's decayed to essentially undetectable levels. So if you find a carbon sample with no detectable carbon-14, you know that carbon has been out of the active biosphere/atmosphere for at least ~50,000 years, which puts it firmly in the geological reservoir. In practice, that means it came from fossil fuels (millions of years old, fully carbon-14-depleted). Biological carbon, wood, breath, biofuel, methane from livestock, would still show carbon-14, because the carbon was recently in the atmosphere being cycled through photosynthesis. Adding fossil-fuel CO2 to the atmosphere therefore dilutes the atmospheric carbon-14 fraction. This is observed.
+
+Together, these isotopic fingerprints rule out volcanic sources, ocean outgassing, or biological respiration as the dominant source of the modern CO2 rise. The carbon is, with very high confidence, anthropogenic and fossil. I mention this because every once in a while you'll encounter a contrarian argument that the modern CO2 rise is natural, and the isotope data is the cleanest single-paragraph refutation.
+
+carbon-14 also has a practical commercial use beyond climate science. Because biogenic carbon (recently atmospheric) has detectable carbon-14 and fossil carbon doesn't, you can directly measure whether a fuel or chemical product was made from fossil or biogenic carbon by measuring the carbon-14 content of the carbon in the product. The E.U. Renewable Energy Directive's biofuel sustainability rules and several sustainable aviation fuel certification schemes rely on carbon-14 measurement to verify "renewable carbon" content claims. ASTM D6866 is the U.S. standard test method. We'll come back to this in Chapter 12 when we discuss saff and biogenic feedstock accounting in hard-to-abate sectors.
+
+Stop-and-check 1.A.
+
+Why does carbon form four bonds? (Hint: the outer-shell electron configuration.)
+Why does graphite conduct electricity and diamond not? (Both are pure carbon; what's different?)
+If you found a sample of CO2 in the atmosphere with no detectable carbon-14, what would you infer about its origin?
+Socratic prompt: "Carbon is just an element, it's neither good nor bad." How would you respond to that framing in a policy conversation?
+
+Answers
+
+Carbon has 4 electrons in its outer shell (2s22p2). After hybridization, this gives 4 unpaired electrons available for bonding. Forming 4 covalent bonds completes the octet and reaches the lowest-energy configuration, hence carbon's universal tetravalency.
+
+Both are pure carbon, but the bonding geometry differs. In graphite, each atom is sp2-hybridized: 3 bonds form flat hexagonal layers, and the fourth electron sits in a delocalized π orbital that can move freely across the plane, this is electrical conduction. In diamond, each atom is sp3-hybridized: all 4 outer electrons are locked in directed σ bonds in a three-dimensional lattice with no free electrons, hence no conductivity.
+
+carbon-14 is continuously produced in the upper atmosphere and has a half-life of ~5,730 years. All carbon-14 in fossil carbon has long since decayed, coal, oil, and gas are millions of years old. A CO2 sample with no detectable carbon-14 almost certainly originated from combustion of fossil carbon, not from biological or modern atmospheric sources.
+
+The framing is physically accurate, the element is neutral, but strategically misleading. The policy concern isn't carbon's moral status; it's the rate and direction of carbon movement between reservoirs. Humans are mobilizing ~38 gigatonnes of CO2/yr from geological reservoirs into the atmosphere at 100 times the background rate. That flow rate, not the element itself, is what policy addresses.
+
+Part 2: From carbon to CO2 to CO2-equivalent to greenhouse gas.
+
+This is the layer where most policy and market confusion gets seeded. We're going to be slow here.
+
+Carbon the element versus CO2 the molecule.
+
+In a regulatory or market document, when someone says "tons of carbon," they usually mean one of two things, and you cannot tell which without context:
+
+Tons of elemental carbon (tC). The mass of carbon atoms themselves.
+Tons of carbon dioxide (tonnes of CO2). The mass of CO2 molecules.
+
+The conversion between tC and tonnes of CO2 comes from the simple fact that a CO2 molecule weighs more than the carbon atom inside it alone, because each CO2 has two oxygens attached. To make this concrete, let's count atoms.
+
+Chemistry tracks substances in units called moles (Avogadro's number = 6.022 times 1023 molecules per mole). The reason this is useful: one mole of anything contains the same number of particles, so molar masses (grams per mole) are determined just by the atoms in each molecule. Carbon has atomic mass ~12 (12 g/mol). Oxygen has atomic mass ~16 (16 g/mol). A CO2 molecule contains 1 C + 2 O, so its molecular weight is 12 + 16 + 16 = 44 g/mol.
+
+When you burn one ton of pure carbon, say, anthracite coal, every C atom captures two O atoms from the air to form CO2. The mass leaving as CO2 is 44/12 = 3.67 times the mass of the original carbon. The extra mass came from atmospheric oxygen, not from the coal, but the carbon-accounting convention is to attribute the full 3.67 tons of CO2 to the original 1 ton of carbon, because the carbon is the part that matters for tracking long-term atmospheric loading.
+
+So the conversion is:
+
+1 ton of carbon (tC), fully oxidized leads to 3.67 tons of CO2 (tonnes of CO2)
+1 tonnes of CO2 contains 12/44 = 0.273 tC of elemental carbon
+
+One important clarification: this is about molecular weights, not densities. Density (mass per volume) and molecular weight (mass per mole of molecules) are different concepts. The density of CO2 gas at room temperature is ~1.8 kg/m3; the density of solid carbon as graphite is ~2.3 kg/m3, actually graphite is denser than CO2 gas. Densities depend on what physical state you're comparing. The 3.67 ratio is purely about how many atoms and how much atomic mass are in each molecule, regardless of state.
+
+This conversion shows up everywhere. The IEA usually reports in tonnes of CO2. Academic atmospheric science often reports in PgC (petagrams of carbon, equivalent to GtC). The Global Carbon Budget paper itself reports headline numbers in GtC in the technical paper and in gigatonnes of CO2 in the press release. When you see a number that seems off by a factor of ~3.67 from another source, this is usually why.
+
+A concrete example. The 2025 Global Carbon Budget reports fossil emissions of approximately 10.4 GtC/yr in the underlying paper and 38.1 gigatonnes of CO2/yr in the press release. Same number. Same emissions. Different units. 10.4 times 3.67 approximately 38.1.
+
+I'll standardize on CO2 units throughout this curriculum unless I'm quoting a source that uses C, because the policy and market world has standardized on CO2. But you should be able to convert in your head.
+
+CO2-equivalent: the accounting fiction that makes the system work.
+
+Carbon dioxide isn't the only greenhouse gas. The major non-CO2 greenhouse gases are:
+
+Methane (methane), from livestock, rice paddies, landfills, fossil-fuel production (especially natural gas systems), wetlands.
+Nitrous oxide (nitrous oxide), from agricultural soils (fertilizer application), industrial processes, fossil-fuel combustion.
+Hydrofluorocarbons, refrigerants, replaced the ozone-depleting CFCs after the Montreal Protocol; now being phased down under the Kigali Amendment.
+Perfluorocarbons, sulfur hexafluoride (sulfur hexafluoride), nitrogen trifluoride (nitrogen trifluoride), industrial gases used in aluminum smelting, electrical switchgear, semiconductor manufacturing.
+
+These gases differ from CO2 in two key ways: they're emitted in much smaller quantities (CO2 is ~75 percent of global greenhouse gas emissions on a CO2-equivalent basis), and they have very different physical properties, most importantly, they trap heat more effectively per molecule than CO2 does, and they have different atmospheric lifetimes.
+
+The accounting world needs a single unit so that policies, markets, and corporate disclosures can aggregate emissions across gases. That unit is CO2-equivalent (CO2-equivalent), and it's constructed using Global Warming Potential.
+
+global warming potential is a ratio: how much warming does a kilogram of gas X cause relative to a kilogram of CO2, integrated over a specified time horizon? The standard horizon is 100 years, giving global warming potential-100. The values used in most current regulatory contexts come from the I.P.C.C. AR6 (2021):
+
+CO2: 1 (by definition)
+methane (fossil origin): ~30
+methane (biogenic origin): ~27 (slightly lower because methane's atmospheric oxidation produces CO2, but biogenic methane's carbon was recently in the atmosphere anyway, so it isn't double-counted)
+nitrous oxide: ~273
+HFcarbon-134a (a common refrigerant): ~1,530
+sulfur hexafluoride: ~25,200
+
+So one ton of methane emitted today is reported as ~30 tonnes of CO2-equivalent (assuming fossil origin, global warming potential-100, AR6). One ton of sulfur hexafluoride is reported as ~25,200 tonnes of CO2-equivalent.
+
+Three things you should understand about CO2-equivalent that aren't obvious:
+
+1. The choice of time horizon is a policy choice, not a scientific one. global warming potential-100 is the standard, but methane has an atmospheric lifetime of only about 12 years, so most of its warming impact happens in the first two decades. If you use global warming potential-20, methane's value jumps to ~82. The 100-year choice systematically de-emphasizes short-lived gases like methane. There's an active debate about whether global warming potential-100 is the right metric, and several proposed alternatives (global warming potential*, CO2-warming-equivalent) try to handle short-lived gases differently. For our purposes: when you see a methane emissions number reported in CO2-equivalent, ask which global warming potential was used. It can change the number by a factor of three.
+
+2. CO2-equivalent is an aggregation convenience, not a physical reality. A ton of CO2-equivalent from methane and a ton of CO2-equivalent from CO2 are not climatically equivalent in any rigorous sense. The methane will be largely gone in 30 years; the CO2 will be doing damage for centuries. CO2-equivalent papers over this. For most policy purposes, that's fine. For some questions, long-term temperature commitments, net-zero accounting, it matters a lot, and we'll come back to it.
+
+3. global warming potential values are updated. AR5 had different values than AR6. Some regulatory regimes still use AR5 GWPs because they haven't updated their rules. The E.U. E.T.S., for instance, was using AR4 values for a long time. When you see a CO2-equivalent number, the right question is: which global warming potential vintage, AR5 or AR6? It matters a few percent.
+
+greenhouse gas: the regulated basket.
+
+In international climate law, "greenhouse gas" is a defined term. The U.N.F.C.C.C. and Kyoto Protocol cover six (Kyoto basket): CO2, methane, nitrous oxide, HFCs, PFCs, sulfur hexafluoride. nitrogen trifluoride was added by the Doha Amendment.
+
+Water vapor is the dominant greenhouse gas in absolute terms, it's responsible for roughly half of the natural greenhouse effect, but it isn't on the regulated list because human emissions don't meaningfully change its atmospheric concentration. Water vapor concentration is governed by temperature (the Clausius-Clapeyron relation), so it acts as a feedback on warming caused by other gases rather than as an independent forcing. This is a critical conceptual point: water vapor amplifies CO2-driven warming (warming leads to more evaporation leads to more vapor leads to more warming), which is part of why the climate sensitivity to CO2 doubling is higher than CO2's direct radiative effect alone would suggest.
+
+Ozone (O3) is also a greenhouse gas in the troposphere, but it's a secondary pollutant formed from NOx and VOCs and isn't directly emitted in significant quantities. It shows up in air-quality regulation rather than climate regulation.
+
+So when you read a corporate disclosure that says "Scope 1 emissions of 2.5 megatonnes of CO2-equivalent," it's reporting the company's direct emissions of the Kyoto-basket gases, weighted by global warming potential-100, summed.
+
+The four meanings of "carbon", a cheat sheet.
+
+When you encounter the word "carbon" in a climate context, it's usually one of:
+
+When I'm being precise, I'll use the specific term. When I lapse into "carbon" colloquially, I'll mean either CO2 or CO2-equivalent depending on context, and I'll try to flag it.
+
+Stop-and-check 1.B.
+
+A press release says a company emitted "1 million tons of carbon" last year. Without more information, can you tell whether that's tC or tonnes of CO2?
+If a methane-focused project claims it avoided 100,000 tonnes of CO2-equivalent of emissions, what's the first question you should ask?
+Why is water vapor not a regulated greenhouse gas, even though it's quantitatively the most important one?
+Socratic prompt: The 2021 IRA contains a provision that pays 85 dollars/ton for sequestered CO2. Is that 85 dollars per ton of carbon or per ton of CO2? Why does it matter, and how would the project economics differ?
+
+Answers
+
+No. "Tons of carbon" is genuinely ambiguous, it could be tC (elemental carbon) or tonnes of CO2 depending on the reporting convention. The two differ by a factor of 3.67 (the CO2/C molecular weight ratio). Without context or a methodology note, you cannot tell. This ambiguity appears constantly in press releases, financial filings, and policy documents.
+
+Which global warming potential factor was used, and over what time horizon? At global warming potential-100 (AR6), methane is ~30 tonnes of CO2-equivalent per ton. At global warming potential-20, it's ~82. The choice can change the reported impact by ~2.7 times . This question is not pedantry, it changes whether the project looks like a small or a large climate intervention.
+
+Water vapor is a feedback, not a forcing. Human activities don't meaningfully change atmospheric water vapor concentration directly, it's governed by temperature via the Clausius-Clapeyron relation (warmer air holds more water vapor). Regulating water vapor would be like regulating a thermometer reading. What climate policy regulates are the gases (CO2, methane, nitrous oxide) that change the temperature that then drives water vapor concentration.
+
+It's 85 dollars per tonnes of CO2, the 45Q credit is denominated in CO2, not elemental carbon. Per tC, that would be 85 dollars times 3.67 = 312 dollars. The project economics differ by a factor of 3.67, which would substantially change NPV calculations. Always read the unit on any carbon price.
+
+Part 3: The carbon cycle.
+
+Now we can talk about where the carbon is, where it goes, and what we've changed.
+
+Reservoirs and fluxes.
+
+The global carbon cycle is the set of stocks (reservoirs) and flows (fluxes) of carbon among the major Earth-system compartments. The reservoirs that matter on policy-relevant timescales:
+
+Atmosphere. As of 2024-2025, atmospheric CO2 is about 425 ppm, corresponding to roughly 900 GtC (~3,300 gigatonnes of CO2) of carbon in the atmosphere. This is up from about 590 GtC at preindustrial concentrations (~280 ppm), an increase of roughly 310 GtC since 1750.
+
+Ocean. About 38,000 GtC in total, by far the largest fast-cycle reservoir. Most of this is in the deep ocean (~37,000 GtC) as dissolved inorganic carbon (bicarbonate, carbonate, dissolved CO2). The surface ocean (the top ~100 m that exchanges actively with the atmosphere) holds about 900 GtC. The deep ocean exchanges with the surface on timescales of hundreds to ~1,000 years.
+
+Terrestrial biosphere, living vegetation. About 450 GtC in plants, primarily forests.
+
+Soils. About 1,500-2,400 GtC, depending on the inventory method and how deeply you count. Soil carbon is the most uncertain major reservoir. Permafrost soils alone contain perhaps 1,300-1,500 GtC, much of it vulnerable to thaw.
+
+Fossil fuel reserves and resources. Estimated economically recoverable fossil fuel carbon is 800-2,000 GtC depending on how you define "recoverable" (proved reserves versus resources, prices). Total fossil fuel resources in place, including stuff that's not economic, are much larger, perhaps 4,000-10,000 GtC. The key number for climate is not how much fossil carbon exists but how much we can collectively decide not to extract.
+
+Geological (rocks). Carbon in carbonate rocks (limestone, dolomite) and dispersed in sediments is roughly 60,000,000 GtC. This pool exchanges with the surface system only over geological time (millions of years) via weathering, volcanism, and subduction. For policy purposes, treat as inert.
+
+Note the asymmetry: the atmosphere holds ~900 GtC, but the deep ocean holds ~37,000 GtC, about 40 times more. The deep ocean is the destination for most anthropogenic CO2 on long timescales, but only slowly. We'll come back to this.
+
+The natural fluxes.
+
+The major gross fluxes (in GtC/yr, approximate):
+
+Atmosphere ↔ ocean. Gross exchange is enormous, roughly 80 GtC/yr in each direction. Net flux currently into the ocean is ~3 GtC/yr (revised upward in the 2025 GCB).
+Atmosphere ↔ land biosphere. Gross photosynthesis takes up roughly 120 GtC/yr (gross primary productivity, GPP), while respiration and decomposition return roughly 120 GtC/yr. Net land sink currently absorbing ~2 GtC/yr (revised downward in the 2025 GCB).
+Volcanic outgassing. Roughly 0.1 GtC/yr, small. (You'll occasionally see claims that volcanoes emit more CO2 than humans. They don't. Not even close. Humans emit ~100 times more.)
+Weathering. Silicate rock weathering consumes atmospheric CO2 at roughly 0.3 GtC/yr over geological time. This is the long-term thermostat, but irrelevant on human timescales.
+
+Notice that the natural gross fluxes between atmosphere-ocean and atmosphere-land are each roughly 80-120 GtC/yr, while anthropogenic fossil emissions are about 10.4 GtC/yr in 2025. Anthropogenic emissions are roughly 10-15 percent of natural gross fluxes. This is the basis for the most common naive contrarian argument: "human emissions are a tiny fraction of natural ones, how could they matter?" The answer is that the natural fluxes are roughly balanced over short timescales, biosphere respiration approximately equals photosynthesis, ocean outgassing approximately equals uptake, so they don't change atmospheric stocks much. The anthropogenic flux is small but one-directional, and it accumulates. Imagine a bathtub where 100 gallons per minute is going in and 100 gallons per minute is going out, the tub stays full. If you turn on an additional 10-gallon-per-minute trickle, you don't notice it for an hour, but eventually you flood the bathroom.
+
+The anthropogenic perturbation.
+
+Annual anthropogenic CO2 emissions, 2025 projection (from the 2025 Global Carbon Budget):
+
+Fossil fuel and industry: 38.1 gigatonnes of CO2 (10.4 GtC). +1.1 percent over 2024. Driven by all fuel types: coal +0.8 percent, oil +1.0 percent, gas +1.3 percent.
+Land-use change (deforestation, primarily tropical): 4.1 gigatonnes of CO2 (1.1 GtC). Down ~10 percent from 2024.
+Total CO2: ~42.2 gigatonnes of CO2 (~11.5 GtC).
+Total all greenhouse gases (CO2-equivalent): ~53 gigatonnes of CO2-equivalent (CO2 + methane + nitrous oxide + F-gases).
+
+Of those 11.5 GtC of emissions, the atmosphere retains only about 5-6 GtC (the rest is absorbed by ocean and land sinks). This airborne fraction has been roughly stable at about 45 percent for decades, which is one of the more remarkable empirical facts about the carbon cycle, but the 2025 GCB notes signs that climate change is weakening both sinks, which would mean the airborne fraction rises over time even at constant emissions.
+
+The 2025 GCB also recalculated the sink partitioning: over the past decade, the ocean has been absorbing about 29 percent of total emissions (revised up from 26 percent) and the land about 21 percent (revised down from 29 percent). This is a substantive revision, it means the land sink is weaker than previously thought, which matters for projections that assume continued strong terrestrial uptake.
+
+Cumulative emissions and the atmospheric increment.
+
+Since 1750, humans have emitted approximately 2,500 gigatonnes of CO2 (about 680 GtC) from fossil fuels and cement, plus about another 740 gigatonnes of CO2 (200 GtC) from land-use change. Cumulative anthropogenic emissions are roughly 3,200 gigatonnes of CO2 (870 GtC).
+
+Of that, about 310 GtC has accumulated in the atmosphere (the difference between current and preindustrial atmospheric stocks). The rest, about 560 GtC, has been taken up by oceans and land. The cumulative airborne fraction has been roughly 45 percent since the mid-20th century.
+
+This is the central physical fact of the climate problem: we have moved approximately 310 GtC from geologically stable reservoirs (fossil pools, mature forests) into the atmosphere over about 270 years, the great majority of it in the last 70 years, and we are continuing to do so at over 10 GtC per year.
+
+Living, dead, and burned biomass: when does carbon accounting treat them differently?.
+
+Before we get to the fast/slow cycle framing, there's a question that's worth grounding here because it underlies a great deal of confusion in later chapters on forest credits, bioenergy, REDD+, and corporate net zero. The question is: a tree contains a certain amount of carbon. Whether that tree (a) keeps growing, (b) dies and decays naturally, or (c) is harvested and burned for energy, the carbon eventually ends up somewhere. How does the accounting differ, and why?
+
+A living tree. A growing tree pulls CO2 from the atmosphere through photosynthesis and incorporates the carbon into biomass (roots, trunk, branches, leaves) plus carbon allocated to soil through root exudates and litter fall. The carbon in the tree was recently atmospheric. While the tree is growing, it's a net carbon sink: photosynthesis exceeds respiration and litter decay. A mature forest in equilibrium has photosynthesis approximately respiration + decay, with carbon going in and coming out at roughly equal rates, the stock of standing biomass and soil carbon is constant, but each ton of carbon is in dynamic exchange with the atmosphere on years-to-decades timescales.
+
+A dead tree decomposing. The tree dies, falls, and is decomposed by fungi, bacteria, and invertebrates over years to decades depending on climate and wood type. Each carbon atom in the tree ends up in roughly one of three places: (a) the great majority, ~80-90 percent, returns to the atmosphere as CO2 via microbial respiration; (b) some, ~10-20 percent, becomes soil organic carbon, mixed into the mineral soil where it can persist for centuries to millennia; (c) a small fraction becomes recalcitrant organic compounds (charcoal-like residues, lignin remnants) with very long residence times.
+
+A dead tree burned. Same tree, same carbon content. Combustion releases essentially all of the carbon as CO2 within minutes or hours, instead of decades. The atmospheric stock of CO2 rises by the same amount as in the decay case, but the timing is different.
+
+Here's the question that should bother you: on a 100-year horizon, the atmospheric outcome of decay and burning are similar, both release roughly the tree's carbon content into the atmosphere over a period much shorter than a century. So why does the carbon-accounting world treat them so differently? Burning biomass is conventionally treated as "carbon neutral" in many frameworks, while deforestation (which leads to either burning or decay) is treated as a CO2 emission. What's the principle?
+
+The principle isn't decay versus burning per se. It's three things underneath:
+
+1. Counterfactual reasoning. Burning biomass for energy is climatically meaningful only insofar as it displaces something else, typically fossil fuel. If burning the tree for electricity means burning less coal, the right comparison isn't "tree-burn versus tree-decay" but "tree-burn + less-coal versus tree-decay + more-coal." The tree's carbon ends up in the atmosphere either way; the coal-or-not-coal is the climate-relevant choice. This is the foundation for treating sustainable bioenergy as "zero-emissions at combustion" under I.P.C.C. accounting, the carbon was recently atmospheric and will be reabsorbed by next forest growth, and it displaces fossil emissions. The framework fails if bioenergy doesn't actually displace fossil, or if the forest doesn't regrow at the rate you're harvesting.
+
+2. Time-weighted atmospheric burden. The climate doesn't care just about endpoints; it cares about how long CO2 spends in the atmosphere. Burning a tree releases all its carbon in year 0. Decay spreads the same release across years 0-80. Each "ton-year" of extra atmospheric CO2 produces some warming; burning concentrates that ton-year burden much earlier than decay does. So even for the same total carbon released, burning produces more time-integrated warming over the first few decades. The same logic applies to forest regrowth: even when a new forest replaces a deforested one, the regrowth-period transient warming is real and only partially recovers over decades.
+
+3. Forest stock versus flow. A mature forest is a stock of accumulated carbon plus a flow of annual turnover. Harvesting selectively from a forest that's regrowing at the same rate (in equilibrium) just moves you along the turnover flow, neutral. Harvesting an old-growth forest, where the standing stock took centuries to accumulate, and replacing it with a young plantation that takes 30-60 years to mature, depletes the stock. The new forest may eventually return to old-growth conditions, but it takes a long time, and the carbon emitted in the meantime spent decades in the atmosphere.
+
+Where this gets contested in practice:
+REDD+ and avoided deforestation credits. A project claims that protecting a hectare of forest prevented deforestation that would otherwise have occurred. The integrity question is whether the deforestation really would have happened (the counterfactual) and whether the protection is permanent (no later loss to wildfire, illegal logging, or policy change).
+Bioenergy with carbon capture and storage. Burning biomass and capturing the CO2 for permanent storage is treated as net-negative, the carbon was recently atmospheric, the combustion captured it, and now it's geologically stored. Treated as net-negative only if the biomass source genuinely regrows and isn't depleting a stock.
+Wood products as carbon storage. Lumber, furniture, and structural wood store carbon for decades-to-centuries while in service. "Harvested Wood Products" credits in some forest carbon accounting frameworks recognize this stored carbon as a net-positive flow into long-term storage, distinct from burning or decay.
+
+The cleanest version of your intuition: decay and burning produce similar atmospheric outcomes on long horizons, but they differ in (a) what fossil emissions they displace, (b) the speed of the atmospheric release, and (c) whether they're part of an equilibrium turnover or a depletion of stock. The accounting frameworks treat them differently because of these three factors, not because decay is "natural" and burning is "human-caused." When any of those distinctions break down, no real fossil displacement, harvest faster than regrowth, old-growth depletion, burning becomes climatically worse than decay.
+
+This will recur throughout the curriculum, especially in Chapter 8 (voluntary carbon markets, where many REDD+ projects have had their counterfactuals challenged), Chapter 11 (C.D.R., including BEX), and Chapter 12 (hard-to-abate sectors including saff, where biogenic carbon counterfactuals are central).
+
+Fast cycle, slow cycle.
+
+The carbon cycle operates on radically different timescales depending on which reservoirs are involved:
+
+Fast cycle (years to centuries): atmosphere ↔ surface ocean, atmosphere ↔ land biosphere. CO2 emitted today partially equilibrates with these reservoirs over years to decades.
+
+Intermediate cycle (centuries to millennia): atmosphere ↔ deep ocean. The deep ocean is the eventual destination for most anthropogenic CO2. Surface-to-deep mixing takes hundreds to ~1,000 years.
+
+The deep ocean is the biggest carbon reservoir in this intermediate cycle (38,000 GtC versus 900 GtC in the atmosphere, about 40 times larger), but two distinct factors limit how quickly and how much it can absorb anthropogenic CO2:
+
+Kinetics. Surface-to-deep mixing happens through the meridional overturning circulation (often called the "ocean conveyor belt"), which has a turnover time of hundreds-to-thousands of years. So anthropogenic CO2 added today mostly stays in the surface ocean for centuries before reaching deep water. The deep ocean's vast storage capacity is real but slow to access.
+
+Thermodynamics. When CO2 dissolves in seawater, it reacts: CO2 + water ⇌ H2CO3 (carbonic acid) ⇌ H⁺ + HCO3⁻ (bicarbonate). This acidifies the ocean. Ocean pH has dropped from ~8.2 in preindustrial times to ~8.1 today, about a 30 percent increase in hydrogen-ion concentration (since pH is a logarithmic scale). As pH drops, the chemistry shifts: the carbonate ↔ bicarbonate equilibrium becomes less favorable for absorbing additional CO2. The ocean's buffer capacity declines. So even the surface ocean isn't a bottomless sink: each successive ton of CO2 added is slightly harder to absorb than the previous one, and the difference compounds.
+
+Together, kinetics and thermodynamics mean we can't think of the deep ocean as "available storage" in any practical sense. The 40 times size advantage is real over millennia, but on policy timescales (decades), most of the CO2 we're emitting stays in the atmosphere or surface ocean.
+
+Slow cycle (tens of thousands of years and beyond): atmosphere/ocean ↔ rocks. The ultimate cleanup mechanism is silicate weathering, in which CO2 reacts with calcium and magnesium silicates to form carbonate minerals. This is too slow to matter for any human-relevant policy question, but it's the reason atmospheric CO2 doesn't rise indefinitely on geological timescales.
+
+The practical implication: even if we stopped all CO2 emissions today, atmospheric CO2 would decline slowly. About half of the perturbation would equilibrate within a few decades, but a substantial fraction, perhaps 15-30 percent, would remain in the atmosphere for thousands of years. This is the "long tail" of the CO2 response, and it's why CO2 is sometimes called effectively irreversible on policy timescales.
+
+Stop-and-check 1.C.
+
+The deep ocean holds ~40x more carbon than the atmosphere. Why doesn't that mean we can dump CO2 in it indefinitely without consequence?
+The "airborne fraction" is about 45 percent. What would have to change for that to rise to 60 percent?
+If human emissions are ~10 percent of natural gross fluxes, why does the atmospheric concentration rise?
+Socratic prompt: Imagine a paper that says "global net zero CO2 emissions would stabilize atmospheric CO2." Is that statement true? Is "net zero" enough to reduce atmospheric CO2?
+
+Answers
+
+Adding CO2 acidifies seawater through the reaction CO2 + water leads to carbonic acid leads to H⁺ + HCO3⁻. Ocean acidification threatens shell-forming organisms, coral reefs, and marine food chains. Additionally, near-term CO2 loading concentrates in surface water (deep ocean turnover takes ~1,000 years), so acidification at the surface is acute well before the deep ocean can buffer it.
+
+The airborne fraction rises when natural sinks weaken. Land sinks weaken as warming increases soil respiration, fires increase, and droughts suppress photosynthesis. Ocean sinks weaken as warmer water holds less dissolved CO2 (Henry's Law) and as stratification reduces deep-water mixing. Both effects are already observed and are projected to strengthen under continued warming, a positive feedback that increases the airborne fraction.
+
+Natural gross emissions (~220 gigatonnes of CO2/yr) are closely balanced by natural gross removals (~230 gigatonnes of CO2/yr). Humans add ~38 gigatonnes of CO2/yr as a net input with no corresponding removal loop. Small net additions to a balanced system change the stock steadily. If you add 1 percent to a stable reservoir indefinitely, the stock grows indefinitely, even if the additions look small relative to gross flows.
+
+The statement is approximately true: net zero CO2 emissions stabilizes atmospheric concentration in the near term, though slow ocean outgassing means a gradual long-term decline over centuries. But to meaningfully reduce atmospheric CO2 on policy timescales, to reverse warming overshoot, you need net negative emissions: gross removals exceed gross emissions. This is why 1.5 degrees Celsius-compatible I.P.C.C. scenarios require global net-negative emissions in the second half of the century.
+
+Part 4: The atmosphere, the greenhouse effect, and how we know.
+
+We now have the carbon. Why does it matter for temperature?
+
+Radiative balance: the energy bookkeeping.
+
+The Earth is, on long-term average, in approximate energy balance: solar energy absorbed equals thermal energy radiated to space. The sun delivers shortwave radiation peaked in the visible band; the Earth, being much cooler, radiates longwave (infrared) back to space.
+
+The greenhouse effect is what happens because the atmosphere is partially opaque to outgoing longwave radiation. Certain gases, molecules with three or more atoms, generally, have vibrational and rotational modes that absorb infrared at specific wavelengths. CO2, water vapor, methane, nitrous oxide, and the synthetic F-gases are all infrared-active. Nitrogen (nitrogen) and oxygen (oxygen), which together make up 99 percent of the dry atmosphere, are not, they're diatomic and symmetric, and don't have the right vibrational modes.
+
+When a greenhouse gas absorbs an outgoing infrared photon, it re-radiates in random directions, including back toward the surface. The net effect is that more energy stays in the lower atmosphere and surface system. The Earth's average surface temperature is about 33 degrees Celsius warmer than it would be without the natural greenhouse effect, about 15 degrees Celsius with, -18 degrees Celsius without. We owe our existence to greenhouse gases. The climate problem is that we're adding more of them than the system equilibrated under.
+
+A natural question: if the natural greenhouse effect produces 33 degrees Celsius of warming, why is the additional anthropogenic effect, a few more degrees, catastrophic? The answer is rate of change, not magnitude.
+
+The 33 degrees Celsius of natural greenhouse warming developed over hundreds of millions of years as Earth's climate system, ecosystems, ice sheets, ocean circulation, and (eventually) human civilization co-evolved with that warmth. Forests, coral reefs, agricultural patterns, coastlines, and human settlements are adapted to a narrow temperature range within that warmer-than-no-greenhouse baseline.
+
+Current warming is happening about 10-100 times faster than the post-ice-age warming that ended the last glacial period. Coral reefs that evolved in a 0.5-1 degrees Celsius temperature range bleach at ~1 degrees Celsius above their adapted maximum; they can adapt to slow warming over millennia but not to 2-3 degrees Celsius in a century. Wheat yields drop sharply above ~30 degrees Celsius during the grain-filling stage; major wheat-growing regions are already approaching that threshold. Sea level rise of one meter by 2100, plausible in higher-emission scenarios, displaces hundreds of millions of coastal residents. Major ocean circulation patterns (the Atlantic Meridional Overturning Circulation, in particular) depend on density gradients that warming and freshwater input from melting ice could disrupt.
+
+The danger of anthropogenic climate change isn't that Earth has never been this warm. Earth has been warmer in the deep past, the Eocene was several degrees warmer than today, and life thrived. The danger is that Earth has never warmed this fast while supporting 8 billion people whose food, water, settlements, and infrastructure are built around the climate they currently have. Adaptation rates of ecosystems and human systems are the binding constraint, not the absolute temperature.
+
+Radiative forcing.
+
+The standard quantitative measure of how much a gas affects the climate is radiative forcing, the change in net downward radiative flux at the tropopause due to a change in the gas concentration, measured in watts per square meter (W/m2). The I.P.C.C.'s central estimate is that CO2 alone has caused about +2.1 W/m2 of radiative forcing since 1750, methane about +0.5 W/m2, nitrous oxide about +0.2 W/m2, halocarbons together about +0.4 W/m2. Total anthropogenic RF from well-mixed greenhouse gases is about +3.2 W/m2, partially offset by aerosols (about -1.0 W/m2, with substantial uncertainty).
+
+The CO2 RF response to concentration is roughly logarithmic: each doubling of CO2 produces approximately the same additional forcing (about +3.7 W/m2). So going from 280 ppm to 560 ppm adds about the same forcing as 560 to 1,120 ppm.
+
+Why is the relationship logarithmic, not linear? It comes down to a mechanism called absorption band saturation. CO2 doesn't absorb infrared radiation across all wavelengths, it absorbs in specific narrow bands, most importantly a strong band centered near 15 μm wavelength, with smaller bands at 4.3 and 2.7 μm. At low CO2 concentrations, photons in these bands have lots of empty space to be absorbed in, every additional CO2 molecule captures a meaningful share of the outgoing infrared. As concentration rises, the center of the strong absorption band becomes nearly saturated, there are essentially no more 15-μm photons left to absorb at the band center, because the existing CO2 already captures them all. What does still happen as concentration rises: the wings of the band (wavelengths slightly off-center) start absorbing photons that the original CO2 wasn't catching. The wings have less material to work with than the center, so they contribute less forcing per ppm.
+
+The net result of all this band-and-wing dynamics is the logarithmic shape: roughly equal forcing per doubling of concentration, even though each successive ppm matters slightly less than the last. This is well-established physics; it's been understood since the 1960s.
+
+The policy implication is non-obvious. "Each ppm today is weaker than the last" is true, and easy to misread as "we have less to worry about." That misreading misses two things: (a) climate sensitivity, the temperature response per W/m2 of forcing, doesn't decline with concentration; in fact, feedbacks (water vapor, ice albedo, clouds) amplify any forcing applied, so the surface temperature response per added ppm is largely determined by feedback magnitude, not by direct CO2 absorption physics; (b) even logarithmically-diminishing per-ppm warming still accumulates dangerously fast if total emissions continue. The right framing is that the marginal physical effect of the next ppm is modest, but the cumulative impact of continued emissions remains catastrophic. The diminishing-per-ppm physics doesn't dissolve the problem; it just shapes the response curve.
+
+This is why headline statements like "we've already used most of our 1.5 degrees Celsius budget" can coexist with "doubling CO2 would mean roughly 3 degrees Celsius of warming", concentrations rise, but each ppm matters less than the last for forcing, while the climate-sensitivity-amplified temperature response depends on the full cumulative concentration. The actual surface temperature response depends on climate sensitivity (the temperature change per unit forcing), which has its own large uncertainty range.
+
+Climate sensitivity.
+
+Equilibrium climate sensitivity is the long-term global mean surface temperature change for a doubling of atmospheric CO2. The I.P.C.C. AR6 "likely" range (66 percent probability) is 2.5-4.0 degrees Celsius, with a central estimate of about 3 degrees Celsius. The "very likely" (90 percent) range is 2.0-5.0 degrees Celsius. The lower bound has been raised over successive I.P.C.C. assessments; the upper tail remains stubbornly wide.
+
+For policy purposes: ECS uncertainty is the dominant source of uncertainty in long-term temperature projections. If ECS is 2 degrees Celsius, the climate problem is hard but tractable. If ECS is 4.5 degrees Celsius, it's much worse than even pessimistic scenarios assume.
+
+The reason ECS is uncertain is that the climate has feedbacks. The direct radiative effect of doubled CO2 is only about 1.1 degrees Celsius of warming. The remaining 1-4 degrees Celsius comes from feedbacks: water vapor (positive), ice-albedo (positive), clouds (the big uncertainty, net positive in most models but the magnitude varies), lapse rate (negative). Cloud feedback is where most of the ECS uncertainty lives.
+
+You don't need to remember these feedback magnitudes. The takeaway: when someone tells you "X ppm corresponds to Y degrees of warming," they're combining radiative-forcing physics (well known) with climate sensitivity (uncertain). The temperature number always has more uncertainty than the concentration number.
+
+What we know from the record.
+
+The case that anthropogenic greenhouse gases are causing the observed warming rests on a chain of independent evidence:
+
+CO2 concentration is rising (Mauna Loa, ice cores). Rate of rise is unprecedented in the last 800,000 years of ice-core record.
+The rise is anthropogenic (Suess effect on delta carbon-13, declining atmospheric carbon-14 fraction, oxygen depletion consistent with combustion).
+Surface temperature is rising (NOAA, NASA GISS, Berkeley Earth, Hadley Centre all show ~1.2 degrees Celsius of warming since 1850-1900).
+The pattern of warming matches greenhouse gas fingerprint (stratospheric cooling, nights warming faster than days, Arctic amplification). Solar-driven warming would not produce stratospheric cooling.
+Ocean heat content is rising (the planet is gaining energy, not just redistributing it).
+Climate models initialized with observed forcings reproduce the observed warming; without anthropogenic forcings, they don't.
+
+This is a rare scientific situation where multiple independent lines of evidence converge. The I.P.C.C. describes anthropogenic causation of post-1850 warming as "unequivocal" in AR6.
+
+"But the climate has always changed".
+
+"Climate has always changed" is a common framing in public debate, and it's true. Earth has been much warmer in the deep past, much colder, and has cycled between glacial and interglacial states many times. So why is the current change a problem rather than just another cycle?
+
+The relevant question isn't whether climate is changing; it's what's causing it and how fast. Past climate changes were driven by identifiable mechanisms, each of which is measurable:
+
+Milankovitch orbital cycles, slow changes in Earth's orbital eccentricity, axial tilt, and precession, operating over tens of thousands of years. These drove the ice-age cycles. Currently slightly favoring slow cooling.
+Volcanic events, episodic, can produce decades-to-centuries of cooling (sulfate aerosols) or warming (CO2 over geological time). Currently no major sustained volcanic forcing.
+Solar variation, small (<1 W/m2 over the satellite era), currently flat to slightly decreasing.
+Tectonic shifts, continental positions change over millions of years. Irrelevant on human timescales.
+
+We can measure all of these and ask whether they're currently doing the warming. They aren't. The only mechanism whose magnitude does match the observed warming, and whose timing does match the observed temperature rise, is anthropogenic greenhouse gas concentration rise. We have direct measurements of that (Mauna Loa, ice cores), isotopic confirmation that the CO2 is fossil (Suess effect, declining 14C fraction), and the spatial fingerprint of greenhouse gas warming (stratospheric cooling, Arctic amplification, nights warming faster than days) that solar-driven or orbital warming wouldn't produce.
+
+So yes, climate has always changed. We can identify the causes of past changes. The current change is different because (a) we can measure that the mechanism is anthropogenic greenhouse gases, (b) the rate is 10-100 times faster than past natural changes at comparable magnitudes, and (c) no other plausible mechanism, orbital, solar, volcanic, tectonic, explains the observations.
+
+The "climate has always changed" framing is true but irrelevant to the question of whether the current change is anthropogenic, dangerous, or worth doing anything about. A more useful version of the conversation starts with "yes, and we know why each past change happened, let's look at what's causing the current one."
+
+Current state, in numbers.
+
+For your reference, the key 2024-2025 numbers (Global Carbon Budget 2025, NOAA, I.P.C.C. AR6):
+
+Atmospheric CO2 (annual mean, 2025 projected): 425.7 ppm (up from 278 ppm preindustrial)
+Annual rate of CO2 rise (recent decade): ~2.4 ppm/yr
+Other greenhouse gases: methane ~1,930 ppb (up from ~720 ppb preindustrial, ~2.7 times ), nitrous oxide ~336 ppb (up from ~270 ppb, ~1.25 times )
+Global mean surface temperature warming since 1850-1900: ~1.3 degrees Celsius (decadal mean; single years have crossed 1.5 degrees Celsius)
+Global mean sea level rise since 1880: ~22 cm, with current rate ~4 mm/yr and accelerating
+Ocean heat content: rising; recent rate ~0.9 W/m2 averaged over Earth's surface
+Arctic sea ice (September minimum): declining ~13 percent per decade since 1979
+
+These numbers update annually. When I write subsequent chapters that reference them, I'll search rather than recall.
+
+Stop-and-check 1.D.
+
+Why is the CO2 radiative forcing relationship logarithmic rather than linear in concentration?
+The greenhouse effect is "natural" and the natural one is about 33 degrees Celsius of warming. So why is the additional anthropogenic effect (a few degrees) catastrophic? (Hint: the answer isn't just magnitude.)
+Climate sensitivity is uncertain by a factor of ~2. Does that uncertainty argue for more aggressive emissions reductions or less? Make the case both ways.
+Socratic prompt: "The climate has always changed." How would you respond to that in a way that's accurate, not condescending, and engages with what's actually different about the current change?
+
+Answers
+
+The forcing-concentration relationship is logarithmic because CO2 absorbs infrared at specific wavelength bands, and these saturate as concentration rises. At the band center (~15 μm), existing CO2 already captures essentially all outgoing photons at that wavelength. Additional CO2 can only extend absorption into the band wings, wavelengths near but not at the center. The wings have less available absorption per ppm added, so each successive doubling yields roughly equal additional forcing rather than proportional increase.
+
+The danger isn't temperature magnitude but rate. Earth has been warmer in the Eocene, and life thrived, but those conditions took millions of years to develop, and ecosystems co-evolved with them. Current warming is 10-100 times faster than post-ice-age warming. Agriculture, coastlines, water systems, and biodiversity depend on the narrow Holocene climate range. The binding constraint is the adaptation rate of human and natural systems, not the absolute temperature.
+
+The uncertainty cuts toward more action, not less. The key asymmetry: if sensitivity is high (4.5 degrees Celsius/doubling) and we don't act, outcomes are catastrophic and irreversible. If sensitivity is low (1.5 degrees Celsius) and we do act aggressively, the cost is unnecessary abatement spending. Under standard expected-value and risk frameworks (insurance logic, real-options pricing), the high-consequence tail argues for precaution. Most decision-theorists who have examined this conclude the uncertainty justifies more aggressive targets.
+
+"Yes, the climate has always changed. Those changes caused mass extinctions, collapsed civilizations, and made vast regions uninhabitable for millennia. The question isn't whether climate can change, it clearly can, disastrously. The question is whether we want to cause rapid change, and whether 8 billion people whose food, water, cities, and infrastructure are built around the current climate can adapt to 2-3 degrees Celsius in a century. Past climate changes weren't threats because there weren't agricultural civilizations to disrupt."
+
+Part 5: The carbon budget and the policy frontier.
+
+We can now connect physical science to policy.
+
+What a carbon budget is.
+
+A carbon budget is the cumulative amount of additional CO2 emissions consistent with limiting warming to a chosen temperature target with a chosen probability. It's a derived quantity that combines several ingredients:
+
+The relationship between cumulative CO2 emissions and peak warming (the TCRE, transient climate response to cumulative emissions, which is approximately linear, roughly 0.45 degrees Celsius per 1,000 gigatonnes of CO2 for the central estimate).
+The temperature target (for example, 1.5 degrees Celsius above preindustrial).
+The probability of meeting that target (50 percent, 67 percent, 83 percent).
+Assumptions about non-CO2 emissions (since methane, nitrous oxide, aerosols all contribute too).
+
+Per the 2025 Global Carbon Budget, the remaining budgets from 2025 onward:
+
+1.5 degrees Celsius (50 percent probability): ~170 gigatonnes of CO2, about 4 years at the 2025 emissions rate.
+1.7 degrees Celsius (50 percent): ~525 gigatonnes of CO2, about 12 years.
+2 degrees Celsius (50 percent): ~1,055 gigatonnes of CO2, about 25 years.
+
+The 1.5 degrees Celsius budget is, in the GCB's words, "virtually exhausted." Most analysts now treat 1.5 degrees Celsius as a temperature that will be exceeded ("overshot") and the question is whether overshoot can be temporary (peaks above 1.5 degrees Celsius, then declines back via net-negative emissions in the second half of the century) or permanent.
+
+The carbon budget concept is the spine of climate policy. It translates "limit warming to 1.5 degrees Celsius", a temperature target, into "do not emit more than X gigatonnes of CO2", a quantity target. From the quantity target, you can derive emission pathways, sectoral allocations, and ultimately national targets. Every I.P.C.C. pathway, every IEA scenario, every NDC, every corporate net-zero target traces back, however indirectly, to a carbon budget calculation.
+
+Stranded assets and unburnable carbon.
+
+The carbon budget framing has a dramatic implication for fossil fuel reserves. If proved fossil fuel reserves contain perhaps 800 GtC (~2,900 gigatonnes of CO2) and the remaining 2 degrees Celsius budget is ~1,000 gigatonnes of CO2, then roughly two-thirds of proved reserves cannot be burned and have CO2 emissions captured if we want to meet 2 degrees Celsius, and a higher fraction for 1.5 degrees Celsius.
+
+This is the "unburnable carbon" thesis, articulated most influentially by Carbon Tracker in 2011. The economic implication is that some fossil fuel assets, reserves, refineries, pipelines, coal plants, may become stranded assets, losing their economic value as climate policy and competition from cleaner alternatives erode demand.
+
+This thesis has been partially borne out (coal in OECD economies, some upstream oil/gas projects that have been cancelled or impaired) and partially not (oil majors' upstream assets have been remarkably resilient, China has continued to build coal). It's one of the central themes of climate finance and will recur in Chapter 4 (fossil fuels), Chapter 13 (corporate net zero), and Chapter 14 (geopolitics).
+
+Net zero, residual emissions, and removals.
+
+If the goal is to stabilize temperature, the goal is to stop adding CO2 to the atmosphere. That means net zero CO2 emissions, anthropogenic CO2 emissions balanced by anthropogenic CO2 removals.
+
+Two important nuances:
+
+1. Net zero ≠ zero. Net zero allows residual gross emissions to be offset by removals. The I.P.C.C.'s 1.5 degrees Celsius-compatible pathways typically have residual gross emissions of 5-10 gigatonnes of CO2/yr at mid-century, balanced by removals of similar magnitude. The size of the "residuals" assumed in a scenario is highly consequential, bigger residuals mean more required removals, which means more reliance on technologies (BEX, direct air capture) that may not scale as assumed.
+
+2. Net zero CO2 ≠ net zero greenhouse gas. Some net-zero targets cover only CO2; some cover all greenhouse gases. The science says: temperature stabilizes at net zero CO2, but other greenhouse gases (especially methane) keep affecting the climate. The cleanest framing is to talk about net zero CO2 and separate, more aggressive treatment of short-lived gases.
+
+Most country and corporate net-zero pledges are some hybrid of these, usually "net zero greenhouse gas" but with very different definitions of what counts as a "removal," whether avoided emissions count, what time horizon, and whether residuals are bounded. The credibility of any net-zero claim depends almost entirely on these details, which we'll dissect in Chapter 13.
+
+The "net negative" gap nobody has signed up for.
+
+There's a subtle but important problem buried in the I.P.C.C. scenarios. Most 1.5 degrees Celsius-compatible pathways require global net-negative emissions in the second half of the century, meaning the world removes more CO2 from the atmosphere than it emits. The math: even with aggressive mitigation, residual emissions don't fall to zero, so to bring atmospheric concentration down (or even stabilize it at a lower level than the overshoot peak), large-scale CO2 removal is required.
+
+But virtually every country's and every corporation's pledge stops at net zero. The math doesn't add up. If everyone on Earth hits net zero exactly on schedule, the world hits net zero, not net negative. Who is implicitly assumed to be doing the heavy lifting beyond net zero?
+
+In most I.P.C.C. 1.5 degrees Celsius-compatible scenarios, the net-negative work is done by a combination of large-scale BEX (bioenergy with carbon capture and storage), direct air capture (direct air capture) scaling to multi-gigaton-per-year levels, large-scale afforestation/reforestation, and other C.D.R. pathways, built primarily in (and paid for by) rich countries with land and capital, plus some forest-based net negative in tropical regions. The scenarios don't specify which country does how much; the assumption is mostly that someone, implicitly the U.S., E.U., and other high-income economies, will build the negative-emissions infrastructure.
+
+Almost no specific entity has actually committed to this. Microsoft is one of the very few large corporations to commit explicitly to net negative, its pledge is to be "carbon negative by 2030" and "remove all the carbon the company has emitted since its founding by 2050." A handful of other companies (Stripe, some of the Frontier coalition buyers) have made smaller net-negative commitments. Almost nobody else has. Most national net-zero pledges (including the E.U.'s "net-zero greenhouse gas by 2050") commit to balancing emissions and removals at the zero line, not crossing below it.
+
+This is one of the largest unresolved gaps between scenario logic and committed policy. We'll return to it in Chapter 11, Chapter 13 (corporate net zero), and Chapter 15 (the speculative frontier). For now, the key takeaway: when you hear "net zero by 2050," the question to ask isn't just "is the pledge credible?" but also "what about everything beyond net zero?"
+
+Stop-and-check 1.E.
+
+The remaining 1.5 degrees Celsius budget is ~170 gigatonnes of CO2 at 50 percent probability. Why does the probability matter so much, and what's the budget at 67 percent? (Hint: it's much smaller.)
+If proved fossil reserves contain ~2,900 gigatonnes of CO2 and the 2 degrees Celsius budget is ~1,000 gigatonnes of CO2, what fraction of reserves can be burned? Now factor in that some of those emissions can be captured by C.C.S.. How much does that change the answer? (We'll come back to this in Chapter 10, for now, think order of magnitude.)
+A company commits to "net zero by 2040, achieved primarily through offsetting." A different company commits to "75 percent absolute Scope 1+2 reduction by 2035 plus removal of residual emissions." Which is more credible, and why?
+Socratic prompt: Why is "net negative" emissions required globally for some 1.5 degrees Celsius pathways, but most country and corporate pledges only go to "net zero"? Who's supposed to do the net negative part?
+
+Answers
+
+Probability matters enormously because the remaining budget roughly halves between 50 percent and 67 percent probability. At 67 percent, the 1.5 degrees Celsius budget is roughly 100 gigatonnes of CO2, less than 3 years at current rates. The 50 percent framing is often used in summaries, but it implies a coin-flip chance of missing the target, a deeply uncomfortable risk level for a generational decision. Most insurance-style risk reasoning would demand the 83 percent probability budget, which is smaller still.
+
+Proved reserves represent ~3,400 gigatonnes of CO2. The 2 degrees Celsius budget is ~1,055 gigatonnes of CO2, about 31 percent of reserves. C.C.S. at plausible scale (perhaps 3-6 gigatonnes of CO2/yr by 2050) would capture perhaps 5-10 percent additional budget space by 2050, shifting usable reserves from ~31 percent to perhaps 35-40 percent. Under 1.5 degrees Celsius (budget ~170 gigatonnes of CO2), even aggressive C.C.S. doesn't meaningfully change the picture, roughly 95 percent of reserves remain unburnable.
+
+The more credible company is the second one, 75 percent absolute reduction plus removal of residuals. The first company's strategy ("primarily through offsetting") has near-zero operational change and relies on an offset market with severe integrity problems (Chapter 8). "Net zero by 2040 through offsetting" is the archetypal greenwashing structure: the company doesn't change its business and buys credits to make a claim. The second company has a concrete, time-bound operational commitment with removal credits only for true residuals.
+
+Net negative is required in some pathways because of overshoot: if emissions exceed the 1.5 degrees Celsius budget (as appears likely), getting back to 1.5 degrees Celsius requires removing the excess CO2 already emitted. Most country and corporate pledges stop at net zero because (a) net negative requires technologies (direct air capture, BEX) that don't yet exist at scale; (b) the NDC architecture asks for "contributions" toward Paris goals, not obligations to go negative; and (c) no major country has claimed the political responsibility for the net-negative work. The I.P.C.C. scenarios embed an implicit assumption that some party, probably advanced economies with the most capital, will do it, but the obligation is unassigned.
+
+Putting it together: the picture of the problem.
+
+Let me summarize the entire chapter in seven sentences, then we'll do the closing exercise.
+
+Carbon is an element whose chemistry makes it the backbone of life, of materials, and of fossil fuels, and whose mobility across reservoirs creates the carbon cycle.
+Humans have moved approximately 310 GtC of carbon from geological reservoirs (fossil fuels) and biospheric reservoirs (forests) into the atmosphere over ~270 years, primarily by burning fossil fuels.
+CO2 and other greenhouse gases trap outgoing infrared radiation; the increase in their concentration has caused approximately 1.3 degrees Celsius of warming so far.
+Anthropogenic emissions are small compared to natural gross fluxes but are one-directional and accumulate; the atmospheric pool is small enough that small one-directional inputs change it materially.
+About 45 percent of each year's emissions stay in the atmosphere; the rest is absorbed by oceans (~29 percent of cumulative) and land (~21 percent), but these sinks are weakening with warming.
+Stabilizing temperature requires net zero CO2; declining temperature requires net negative emissions; both are policy regimes we have not yet entered.
+The remaining carbon budget for 1.5 degrees Celsius is approximately 170 gigatonnes of CO2, four years at current rates, and even staying under 2 degrees Celsius requires sustained, deep reductions starting now.
+
+Everything we cover for the rest of this curriculum, the markets, the policies, the technologies, the geopolitics, the corporate disclosures, is downstream of these seven sentences. The carbon problem is a stock problem driven by a flow problem.
+
+And there is one discipline I'll ask you to carry through every chapter that follows. Whenever you meet a carbon claim, a tonne abated, a credit sold, an intensity score, a "net-zero" pledge, a "carbon-negative" fuel, interrogate it with five questions: which carbon, measured how, against what baseline, by whom, and how durable? Which carbon (elemental, CO2, CO2-equivalent, a greenhouse gas basket, the ambiguity from Part 2)? Measured how (direct measurement, default factor, model)? Against what baseline (versus a real prior state, or a hypothetical counterfactual)? By whom (with what incentive and what standard)? How durable (storage that lasts decades, or millennia)? Almost every overstatement in this field survives only until someone asks one of these five questions. They are the through-line of the book, and the final chapter will hand them back to you as the one thing worth keeping when every number here has changed.
+
+Closing exercise.
+
+I want you to attempt three things before we move on:
+
+1. Draw the carbon cycle from memory. Atmosphere, ocean (surface and deep), land biosphere, soils, fossil pool. Label each with an approximate stock in GtC. Draw the major fluxes between them, labeling natural and anthropogenic separately. Compare your drawing to the numbers in Part 3.
+
+2. Three-minute explanation. Without notes, explain to an intelligent non-expert: (a) why CO2 is climatically significant despite being a trace gas, (b) why anthropogenic emissions matter despite being a small fraction of natural fluxes, and (c) why "net zero" is the policy target rather than "zero." If you can do this clearly in three minutes, the chapter has done its job.
+
+3. The honest-uncertainty exercise. Of everything in this chapter, what are the three or four things where you'd want to dig into the underlying literature rather than trust my summary? My candidates: (1) the AR6 ECS range and where the upper tail comes from, (2) the GCB's revised sink partitioning and how it changes future projections, (3) the global warming potential-100 choice and the literature on alternatives like global warming potential*, (4) the carbon-budget probability calculation and what 50 percent versus 67 percent really mean operationally. Pick any of these for follow-up.
+
+What this chapter simplified.
+
+Three places I oversimplified that you should know about:
+
+1. "Airborne fraction is stable at 45 percent." This is a useful rule of thumb but is genuinely debated in the literature. There are statistical arguments that it has been rising slowly; there are arguments it's been stable; the 2025 GCB's revised sink partitioning has new implications. The I.P.C.C. AR6 treats it as approximately stable historically but projects it will rise under continued warming as sinks weaken.
+
+2. "Climate sensitivity is 2.5-4.0 degrees Celsius." I gave you the AR6 "likely" range, but this hides a complex story. The lower bound was raised in AR6 based partly on paleoclimate evidence; the upper bound remains uncertain because of cloud feedback. There's also a distinction between ECS (equilibrium response to doubled CO2) and TCR (transient response to a 1 percent/yr increase), which are different numbers and used for different purposes.
+
+3. "Pre-industrial baseline is 280 ppm." It's actually about 278 ppm averaged over 1750-1800 per I.P.C.C. convention, and some sources use 260-270 ppm for slightly earlier baselines. The choice of baseline affects "percent increase" claims (the "we're 50 percent above preindustrial" framing depends on this). Not a big deal scientifically; sometimes weaponized rhetorically.
+
+If we end up needing more depth on any of these, flag it and we'll do a side excursion.

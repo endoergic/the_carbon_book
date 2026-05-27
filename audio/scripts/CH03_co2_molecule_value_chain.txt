@@ -1,0 +1,407 @@
+Chapter 3, The CO2 Molecule Value Chain.
+
+Why this chapter exists, separately from Chapter 10.
+
+Most carbon curricula collapse "what we do with CO2" into a single C.C.U.S. chapter. That obscures two distinct things.
+
+The first is the physical value chain of the CO2 molecule, how it moves through space and over time, from wherever it's generated to wherever it ends up. That's an infrastructure story (pipelines, pumps, ships, tanks, wells) with mostly engineering and permitting questions, and it has existed for decades because CO2 has industrial uses long predating any climate motivation.
+
+The second is the technology and policy of capturing CO2 for climate purposes, the actual capture step at a source or from ambient air, the policy frameworks (45Q, E.U. funding, U.K. Track-1/2 clusters) that make capture economic, and the regulatory regime for permanent storage (Class VI wells, MMV requirements). That's a climate-policy story.
+
+Chapter 3 covers the first; Chapter 10 covers the second. They overlap, most of the actually-built C.C.S. projects use the same kind of midstream infrastructure as the legacy CO2-EOR network, but treating them separately lets us see something important: the molecule value chain is mature, while the climate-motivated capture-and-store value chain is still nascent and being built on top of (and sometimes in tension with) the legacy infrastructure.
+
+You'll also see in this chapter why one of the things you specifically asked about, the Baytown-type project, sits at the interface. ExxonMobil's Baytown low-carbon hydrogen project (paused in November 2025) was simultaneously a hydrogen play, a C.C.S. play, an industrial-gas play, and a Gulf Coast pipeline-network play. None of those framings alone captures what was being built.
+
+Part 1: Where CO2 comes from, sources, ranked by what matters.
+
+Whether you're capturing CO2 for storage, capturing it for sale, or just trying to understand industrial gas flows, sources matter, but not in the way emissions inventories rank them. A power plant emitting 5 Mt of CO2 per year and an ammonia plant emitting 0.5 Mt are both "sources" in a greenhouse gas inventory. But from the perspective of capturing the CO2, they're radically different problems with radically different costs.
+
+Three things determine how attractive a source is for CO2 capture:
+
+1. Concentration. Power plant flue gas is ~4-15 percent CO2 by volume; the rest is mostly nitrogen plus water vapor, oxygen, NOx, SOx. Ammonia plant tail gas is ~99 percent CO2. The thermodynamic minimum work to separate CO2 from a mixture scales steeply with how dilute it is, and the real engineering costs scale even more steeply. So concentrated streams are much cheaper to capture from than dilute ones.
+
+2. Pressure. A stream already at elevated pressure (a gas-processing plant separating CO2 out at 30 bar) doesn't need to spend much extra energy on compression. Atmospheric-pressure flue gas needs to be compressed to ~100+ bar for transport in supercritical phase, which is a major operating cost.
+
+3. Purity. CO2 for food and beverage use needs to be very pure, typically <50 ppm of various contaminants. CO2 for EOR can tolerate more impurities. CO2 for permanent storage is somewhere in between, depending on the operator's specs. A source whose CO2 stream is already nearly pure (ethanol fermentation: pure CO2 + trace ethanol vapor) is structurally cheaper to clean up than a source with lots of impurities (power plant flue gas: SO2, NOx, mercury, particulates).
+
+These three factors are why the "cost per ton captured" varies by an order of magnitude across sources. Here's the rough cost stack (LCOA, levelized cost of avoided or captured, figures are approximate, in 2024 dollars):
+
+Natural gas processing (15-25 dollars per tonne of CO2): CO2 is already being separated to meet pipeline gas spec. The capture cost is just adding compression. Almost trivial.
+Ammonia production (25-50 dollars per tonne of CO2): The Haber-Bosch front-end produces a nearly-pure CO2 stream from steam methane reforming. Easy capture.
+Ethanol fermentation (25-50 dollars per tonne of CO2): Fermentation produces a nearly-pure CO2 stream as fermentation byproduct. Most ethanol plants vent it today, but capturing it is mechanically simple. This is what most of the proposed Midwest C.C.S. pipelines are built around.
+Hydrogen production (SMR with capture) (50-80 dollars per tonne of CO2): Steam methane reforming produces a CO2 stream that's easier to separate if captured at the shift converter, harder if captured at the boiler exhaust. "Blue hydrogen" is built on this.
+Cement (60-120 dollars per tonne of CO2): Cement is a hard case. Roughly 60 percent of cement's CO2 comes from process emissions (calcium carbonate decomposition, calcium carbonate leads to calcium oxide + CO2), which is unavoidable by switching fuels. The flue gas has a moderate CO2 concentration (~20-25 percent) but contains dust, sulfur, and other impurities. Northern Lights' first customer (Heidelberg Materials' Brevik cement plant) was the world's first cement C.C.S. at scale.
+Steel (BF-BOF) (60-110 dollars per tonne of CO2): Multiple gas streams (coke oven gas, blast furnace top gas, BOF gas) with different concentrations and contaminants. Capture economically only at full-system scale.
+Power generation (post-combustion) (60-100 dollars per tonne of CO2 for coal, 90 dollars-140 for gas): Dilute streams, large volumes, hard. Boundary Dam (Saskatchewan, coal) and Petra Nova (Texas, coal, shut down 2020) are the demonstration cases.
+Direct Air Capture (400 dollars-1,000+ per tonne of CO2 today): Capturing from atmospheric concentration (~425 ppm = ~0.04 percent) is the hardest because the dilution is extreme. We cover direct air capture in Chapter 11.
+
+This cost ordering, gas processing leads to ammonia/ethanol leads to hydrogen leads to cement leads to steel leads to power leads to direct air capture, is the order in which C.C.S. is being built, in roughly that sequence. The cheap-to-capture sources go first; the dilute-stream applications wait.
+
+Where the CO2 actually comes from today (U.S. example).
+
+Of the ~5,000 miles of U.S. CO2 pipeline currently operating, the source breakdown is approximately:
+
+Natural sources, naturally-occurring CO2 from underground reservoirs like Bravo Dome (New Mexico), McElmo Dome (Colorado), Sheep Mountain (Colorado), Jackson Dome (Mississippi). These domes are CO2 "fields" in the same geological sense as oil fields. The CO2 is mined and piped to oil fields for EOR. This is a substantial fraction of historical U.S. CO2-EOR volume, over half by some estimates, and it's not even arguably climate-positive. Pumping naturally-sequestered CO2 out of the ground to inject it into oil fields adds net atmospheric CO2 regardless of how much oil is produced.
+Gas processing plants, particularly LaBarge, Wyoming (ExxonMobil's Shute Creek), the largest single anthropogenic CO2 source in the world for EOR. ~7 Mt/yr captured.
+Ammonia and methanol plants, Coffeyville Resources (Kansas), various Gulf Coast facilities.
+Ethanol plants, Archer Daniels Midland's Decatur, Illinois plant has been doing this longest.
+Coal gasification, formerly the Great Plains Synfuels Plant (Beulah, ND) supplied CO2 via the largest CO2 pipeline in North America to Weyburn in Saskatchewan; that pipeline shut down in 2021 when the synfuels economics deteriorated.
+
+Outside the U.S., the global merchant CO2 market (food, beverage, industrial) is supplied largely from ammonia plants and ethanol plants, wherever the byproduct CO2 stream is cheap to clean up and there's local demand. This is why merchant CO2 supply tightens whenever ammonia or ethanol plants go offline; we'll see this in Part 4.
+
+Stop-and-check 3.A.
+
+A flue gas stream is 12 percent CO2; an ammonia plant tail gas is 99 percent CO2. The thermodynamic work of separation scales roughly with the negative log of CO2 mole fraction. Approximately how much more thermodynamic minimum work does the 12 percent stream require per ton of CO2 captured? (Real engineering cost is much higher than thermodynamic minimum, but the ratio is indicative.)
+Why is natural CO2 extraction from underground domes (for example, Bravo Dome) for EOR not climate-positive, and arguably net-emitting? What's the right counterfactual, and where does the naïve mass balance go wrong?
+Cement is unusual because most of its CO2 comes from process chemistry rather than fuel combustion. Why does this make cement decarbonization different from, say, decarbonizing a coal power plant?
+Socratic prompt: If you were building a C.C.S. portfolio today and you had to rank sources by economic attractiveness, you'd start with gas processing and ammonia. But these are also the sources that already capture CO2, they're not net-new mitigation, they're getting paid for what they were doing anyway. Is paying 45Q credits for these "additional" or just rent-seeking? How would you tell the difference? (This is the additionality question that will dominate Chapter 8.)
+
+Answers
+
+The thermodynamic minimum work scales as −R T ln(y), where y is the mole fraction of CO2 in the gas. For 12 percent CO2: −ln(0.12) approximately 2.12. For 99 percent CO2: −ln(0.99) approximately 0.01. The ratio is about 200 times . In practice, real engineering costs diverge from thermodynamic minimums due to mass transfer, solvent regeneration, and infrastructure, but the ratio is directionally correct and explains why ammonia/gas processing capture costs (15-25 dollars per tonne of CO2) are roughly 10-20 times lower than point-source combustion capture (60-120 dollars per tonne of CO2).
+
+The answer hinges on the counterfactual, and the naïve mass balance picks the wrong one. The dome CO2 was already permanently and safely sequestered underground, so the correct baseline is "leave it there." Mine it and inject it into an oil reservoir and, in the best case where every ton stays put, you've merely moved sequestered carbon from one geological store to another, zero climate benefit, and not a removal. But it's worse than neutral, for two reasons: (a) extraction, processing, and EOR operations vent a fraction, and oil reservoirs aren't engineered for permanence the way dedicated storage is, so some CO2 that would otherwise have stayed buried forever reaches the atmosphere; and (b) the whole purpose is to recover additional oil, which is then burned. So against the proper "leave it sequestered" baseline, mining dome CO2 for EOR is net-emitting, exactly why the body calls it "not even arguably climate-positive." The seductive "-1 extracted + 1 re-injected = 0" balance is the trap: it treats the molecule as if it had been in the atmosphere to begin with, ignoring that it started in permanent storage and that the operation exists to produce more fossil carbon.
+
+Cement's ~60 percent of CO2 comes from calcination, calcium carbonate leads to calcium oxide + CO2, which is a chemical reaction, not combustion. You can't avoid it by switching to renewable energy. Decarbonizing a coal power plant is primarily about the fuel: switch to gas, switch to renewables, add C.C.S. to the flue gas. Cement requires C.C.S. at the calcination step regardless of fuel choice, or a chemical substitute for clinker (SCMs, alternative binders), or a completely different chemistry (Sublime Systems' electrochemical approach, calcium looping). This makes cement structurally harder to decarbonize than power generation.
+
+The additionality test is: would the CO2 separation have happened anyway without the 45Q credit? For gas processing, the answer is yes, operators must remove CO2 to meet pipeline specifications; the capture happens regardless. If 45Q pays for capturing CO2 that would have been captured anyway (just vented rather than stored), the credit is not funding new climate action; it's funding infrastructure for storage. That's not necessarily rent-seeking, dedicated storage is genuinely incremental, but the mitigation (CO2 removal from the atmosphere) only occurs in the storage step, not the capture step. Rent-seeking versus legitimate subsidy depends on whether the storage would have happened at all without the credit (likely not) versus whether the capture would have happened at all without the credit (likely yes, but vented).
+
+Part 2: The midstream, getting CO2 from there to here.
+
+Once you have CO2, the question is how to move it. There are three options: pipeline, truck, and ship. They serve different distance/volume regimes.
+
+Pipelines.
+
+Pipelines are the workhorse of the existing U.S. CO2 economy and the assumed solution for most large-scale future C.C.S.. The U.S. currently operates ~5,000 miles of CO2 pipeline, the densest CO2 pipeline network in the world. By comparison, the U.S. has ~2.6 million miles of natural gas pipeline, so CO2 infrastructure is about 0.2 percent the size of the gas network. PHMSA estimates that the CO2 pipeline mileage could expand by roughly 10 times by 2050 under aggressive C.C.S. scenarios.
+
+Most existing CO2 pipelines are in three regions:
+
+Permian Basin (Texas / New Mexico), Dense network connecting Bravo Dome, Sheep Mountain, and the Shute Creek (LaBarge) sources to Permian oil fields for EOR. Operated primarily by Kinder Morgan, ExxonMobil (formerly Denbury), Occidental, and a handful of others.
+Mississippi / Gulf Coast, Denbury's network (acquired by ExxonMobil for 4.9B dollars in 2023) connecting Jackson Dome and several anthropogenic sources to oilfields and, increasingly, to proposed storage sites along the Gulf. ~925 miles. This is the network through which Satartia's rupture occurred.
+Wyoming / Western Plains, Shute Creek hub, connecting to oil fields and increasingly to ethanol-corridor capture projects.
+
+CO2 in pipelines is usually transported in supercritical phase, above its critical point of 31 degrees Celsius and 74 bar, where it behaves as a dense fluid that's neither liquid nor gas. Supercritical CO2 is denser than gas (so more mass moves per unit volume of pipe) and behaves more like a liquid (so single-phase flow is easier to manage). Operating pressures in CO2 pipelines are typically 100-150 bar, comparable to natural gas pipelines but with very different physics because of supercritical-phase behavior.
+
+Pipeline construction cost for CO2 is comparable to natural gas pipelines, on the order of 1 dollars-4 million per mile for typical onshore terrain, more for difficult terrain or larger diameters. Summit Carbon Solutions' Midwest project was originally estimated at ~5.5 billion dollars for ~2,000 miles, about 2.75M dollars/mile. The new Iowa-to-Wyoming route is reportedly ~200 miles shorter.
+
+CO2 pipeline safety: the Satartia case.
+
+CO2 pipelines have a long safety record, but the Satartia, Mississippi event on February 22, 2020 changed the politics.
+
+A 24-inch Denbury Gulf Coast Pipelines CO2 line ruptured during heavy rains. The line was carrying supercritical-phase CO2. When it failed, the CO2 depressurized and formed a dense, low-lying cloud that flowed downhill toward the small community of Satartia (population ~30). Because CO2 is heavier than air, it displaced oxygen in low-lying areas; because the gas is invisible and largely odorless, residents had no warning.
+
+More than 45 people were hospitalized. Vehicles entering the cloud stalled because internal combustion engines need oxygen to run. Emergency responders arrived without knowing they were entering a CO2 release; some were exposed before they could evacuate. The town was evacuated. There were no fatalities, but several people experienced severe hypoxia and lingering health effects.
+
+The PHMSA failure investigation, completed in 2022, found that the rupture was caused by soil movement (a landslide triggered by heavy rains saturating the soil over the pipeline route), exacerbated by operator failures including inadequate consideration of geohazards in route selection, insufficient leak detection, and slow emergency notification of local responders.
+
+The PHMSA failure-investigation report and Dan Zegart's subsequent longform investigation ("The Gassing of Satartia," HuffPost) brought the incident to national attention and made CO2 pipeline safety a permitting issue everywhere subsequent projects have been proposed. Iowa, South Dakota, North Dakota, Nebraska, Minnesota, Illinois, Louisiana, every state with a pending CO2 pipeline application now treats Satartia as a touchstone for what could go wrong.
+
+The PHMSA rulemaking.
+
+On January 10, 2025, in the closing days of the Biden administration, PHMSA issued a Notice of Proposed Rulemaking to update CO2 pipeline safety regulations under 49 CFR Part 195. Key proposed changes:
+
+Bringing gas-phase and liquid-phase CO2 pipelines under Part 195 for the first time (previously only supercritical-phase CO2 was regulated).
+Mandatory vapor dispersion analysis for CO2 pipelines, considering terrain and weather conditions, or use of a simplified 2-mile "could-affect" distance.
+Leak detection systems for all CO2 pipelines, with additional monitoring for supercritical/liquid lines.
+Fixed vapor detection and alarms at specific facilities.
+Operator training and equipment provided to local emergency responders along pipeline routes.
+Updated reporting requirements, integrity-management programs, and route-selection criteria for geohazards.
+
+The NPRM was a direct response to Satartia. Its status as of writing: the comment period followed publication in the Federal Register, but the Trump administration that took office in January 2025 has not yet finalized the rule, and C.C.S.-industry stakeholders (Carbon Capture Coalition, Global C.C.S. Institute) have lobbied for various modifications. Whether the rule is finalized as proposed, weakened, or shelved is a live question that materially affects the cost and timeline of every proposed CO2 pipeline in the U.S.. If you're reading this and want the current status, search PHMSA-2022-0125 docket.
+
+Trucking and shipping.
+
+For smaller volumes or shorter distances, typically less than ~1,000 km and ~1 Mt/yr, pipelines don't pencil out and CO2 is moved by trucks (cryogenic tanker, carrying liquefied CO2 at about -25 degrees Celsius and 20 bar) or rail (similar tankers). This is how the merchant CO2 market mostly works today: industrial gas companies receive CO2 from a source plant, liquefy it, store it, and truck it to beverage distributors, food processors, welding-supply distributors, et cetera A typical CO2 tanker truck carries ~20 tons.
+
+For longer distances or where pipelines are infeasible, particularly across water, ships are the alternative. CO2 shipping is mature for the small specialty market (food-grade CO2 moves by ship internationally for decades) but is now scaling up for industrial C.C.S. purposes. Northern Lights' Phase 1 operations rely on dedicated CO2 carrier ships that pick up CO2 from coastal capture sites (Heidelberg cement plant in Brevik, Norway; Hafslund Celsio's waste-to-energy plant in Oslo) and deliver it to the Øygarden terminal for pipeline-and-injection.
+
+Northern Lights commissioned two purpose-built 7,500 m3 LCO2 carriers (the Northern Pioneer and Northern Pathfinder) in 2024-2025. These ships transport liquefied CO2 at ~7 bar and ~-50 degrees Celsius, different operating conditions than long-distance pipeline transport. Shipping costs are higher per ton-km than pipeline at full pipeline utilization but lower than building a pipeline for a smaller throughput, especially across water where pipelines are very expensive.
+
+The ship-based model is structurally important for European C.C.S. because Europe lacks the dense onshore CO2 pipeline network of the U.S. Gulf, and many of the best storage sites (depleted North Sea oil and gas reservoirs) are offshore. The Northern Lights architecture, ship-collected CO2 from distributed sources, single offshore storage hub, may become the European template. Similar models are being developed for Porthos (Netherlands), Aramis (Netherlands), and Acorn.
+
+Stop-and-check 3.B.
+
+Supercritical CO2 is denser than gaseous CO2 but less dense than liquid CO2. Why is supercritical phase the preferred state for long-distance pipeline transport, but liquid phase the preferred state for trucking and shipping?
+The Satartia rupture happened because of soil movement, not equipment failure or operator error in the pipeline-operation sense. Why does this make CO2 pipeline siting different from natural gas pipeline siting?
+Compare the European ship-based C.C.S. architecture (Northern Lights) with the U.S. pipeline-based architecture (Gulf Coast). What are the structural advantages and disadvantages of each? Where will each scale better?
+Socratic prompt: PHMSA's NPRM applies to any CO2 pipeline regardless of motivation, climate C.C.S., EOR, merchant supply. Should it? Are there arguments for different safety standards based on what the CO2 is being used for?
+
+Answers
+
+Supercritical CO2 behaves like a dense fluid (high density, single phase), enabling high mass throughput per unit of pipe diameter and avoiding the two-phase flow complications that make liquid pipelines technically demanding at small scales. For trucking and shipping, liquefied CO2 (−25 degrees Celsius, ~20 bar) is preferred because: (a) liquefaction is more practical at small volumes than compressing to supercritical conditions; (b) liquid density is similar to supercritical; and (c) cryogenic tanker technology is well-established and widely available. Pipeline supercritical is cost-optimal at large throughput; trucking/shipping liquid is cost-optimal at small throughput.
+
+Natural gas pipeline ruptures release a flammable/explosive gas that dissipates rapidly. CO2 is heavier than air and hugs the ground; it displaces oxygen silently and invisibly. Satartia showed that geohazards (soil movement, flooding) that trigger rupture can coincide with atmospheric conditions (valley topography, calm wind) that concentrate the plume near populated areas. Natural gas pipeline siting has learned from decades of flammable-gas accidents; CO2 pipeline siting requires its own body of standards specifically for asphyxiation hazard in low-lying terrain. The hazard profile is different enough that it can't simply be copied from gas-pipeline practice.
+
+U.S. pipeline-based architecture advantages: low per-ton-mile cost at large scale; leverages existing Permian EOR infrastructure; connects many inland industrial sources to Gulf Coast storage. Disadvantages: permitting and right-of-way acquisition is politically intense; requires large upfront investment; only viable for high-volume, fixed-route flows. European ship-based architecture advantages: flexible, can collect from any coastal emitter; no onshore pipeline permitting; scalable incrementally. Disadvantages: higher per-ton cost than pipeline at large scale; requires liquefaction at source and regasification at storage terminus; CO2 shipping infrastructure still developing. Pipeline scales better where the industrial landscape is dense and routes are fixed; ships scale better where sources are dispersed, volumes are uncertain, or the geography is archipelagic/coastal.
+
+The substantive argument for same standards is that CO2 physics is the same regardless of motivation: a CO2 pipeline rupture creates the same asphyxiation hazard whether the CO2 was captured for climate C.C.S., EOR, or beverage supply. Safety standards should follow the hazard, not the motivation. The counter-argument, that climate C.C.S. should face lighter standards to avoid slowing deployment, would be ethically indefensible if applied to, say, flammable pipelines. The appropriate policy response is to speed up permitting processes, not to weaken safety standards.
+
+Part 3: The hubs, where the future is being built.
+
+C.C.S. at scale doesn't work as one-project-at-a-time individual capture-pipeline-storage chains. The economics demand hubs: clusters of multiple capture sources sharing midstream and storage infrastructure. This is the model being built simultaneously in five major regions.
+
+The North Sea: Northern Lights (Norway), Porthos and Aramis (Netherlands), Acorn.
+
+Northern Lights (Norway). Operational since August 2025, the world's first open-access (third-party) CO2 transport and storage facility. The joint venture is equally owned by Equinor, Shell, and TotalEnergies. Phase 1 capacity: 1.5 Mt CO2/year. The first injection occurred August 25, 2025, with CO2 shipped from Heidelberg Materials' Brevik cement plant. Storage is in the Aurora reservoir, 2,600 meters below the seabed off Øygarden in western Norway.
+
+Phase 2 reached F.I.D. in March 2025, investing NOK 7.5 billion (~700 million dollars) to expand capacity to at least 5 Mt/year by 2028. Phase 1 capacity is already fully booked by five industrial customers: Heidelberg Materials (Norway), Hafslund Celsio (Oslo waste-to-energy), Yara (Netherlands ammonia), Ørsted (Denmark biomass power), Stockholm Exergi (Sweden biomass power). The Norwegian government is covering ~80 percent of Phase 1 costs through the Longship program, a critical fact, because it makes Northern Lights not a market-rate test of C.C.S. economics but a government-subsidized demonstrator.
+
+Porthos (Netherlands). ~2.5 Mt/year planned, storing CO2 from Rotterdam-area industries in depleted North Sea gas reservoirs. Reached F.I.D. in October 2023, currently in construction, first injection now expected second half 2027 (delayed from original 2026 target due to supply-chain and first-of-kind complexity).
+
+Aramis (Netherlands). Larger and later than Porthos, targeting 22 Mt/year of capacity in the long run, with the first phase ~5 Mt/year. Partners include Shell, TotalEnergies, EBN, Gasunie. F.I.D. was originally targeted for 2024 but slipped; the project remains in late-stage development.
+
+Acorn. Scotland-based, intended to repurpose existing North Sea gas infrastructure for CO2. Approved in October 2023 as part of the U.K.'s Track-1 C.C.U.S. cluster sequencing. First injection planned ~2027.
+
+The North Sea is geologically well-suited to CO2 storage, well-characterized depleted reservoirs, decades of subsurface engineering experience from oil and gas, and existing offshore infrastructure that can be partly repurposed. The political backing is strong (Norwegian and U.K. governments have made C.C.S. a strategic priority). The North Sea cluster may end up storing 30-50 Mt/yr by the early 2030s, a substantial fraction of total global C.C.S. deployment.
+
+The U.S. Gulf Coast: Houston, Baytown, and the Denbury legacy.
+
+The U.S. Gulf Coast is the world's largest concentration of industrial CO2 sources, refineries, petrochemicals, ammonia, hydrogen, cement, gas processing. It's also home to the world's largest existing CO2 pipeline network (the Denbury system, acquired by ExxonMobil in 2023). And it has excellent subsurface storage potential in saline formations along the Gulf.
+
+ExxonMobil and Baytown. ExxonMobil announced in 2022 a major Baytown low-carbon hydrogen project: producing up to 1 billion cubic feet/day of "blue hydrogen" from natural gas with >98 percent CO2 capture (~7 Mt CO2/yr captured) for storage in nearby saline formations and EOR sites. The hydrogen would supply ExxonMobil's own olefins plant (cutting integrated complex emissions ~30 percent) and external customers.
+
+In November 2025, ExxonMobil CEO Darren Woods announced the Baytown blue-hydrogen project was being paused due to weak customer demand and changes to the §45V clean hydrogen tax credit under OBBBA. This was a major signal: the most-resourced energy major's flagship low-carbon hydrogen project, in the most-resourced infrastructure region, with the most generous federal subsidies in history, couldn't find paying customers.
+
+However, the broader Houston Ship Channel C.C.S. Alliance continues. ExxonMobil has separately committed to provide third-party CO2 transport and storage services for ~6.7 Mt/year of CO2 from non-ExxonMobil emitters, independent of the hydrogen project. The carbon capture infrastructure exists (or is being built) regardless of whether the hydrogen plant gets built. Other Houston Ship Channel emitters, refineries, petrochemicals, ammonia plants, are signing offtake agreements with ExxonMobil's C.C.S. services.
+
+Other Gulf Coast hubs:
+Stratos (Occidental), Permian Basin direct air capture facility (1st phase 500,000 t/yr capture from atmosphere, commercial operation 2025), built by Occidental's 1PointFive subsidiary, captured CO2 stored locally.
+Talos Energy and Carbonvert, partnered with Louisiana's Carbon Hub on saline storage.
+Air Products / Eastman Cyclyx / various, multiple Gulf Coast C.C.S. proposals at various F.I.D. stages.
+
+The Gulf Coast model is brownfield development, leveraging existing pipeline networks, existing industrial sources, existing subsurface expertise. Distinct from Northern Lights (greenfield, ship-based) and from Midwest (greenfield, pipeline-based, ethanol-focused).
+
+Alberta: Pathways and ACTL.
+
+Alberta has been doing CO2-EOR for decades and currently operates the Alberta Carbon Trunk Line, a ~240 km pipeline taking CO2 from a fertilizer plant (Nutrien) and a refinery (Sturgeon/North West) to Enhance Energy's EOR operations. ~1.6 Mt/yr capacity, operational since 2020.
+
+The big proposed project is the Pathways Alliance, a consortium of six oil sands operators (Suncor, Cenovus, Imperial, ConocoPhillips, MEG Energy, Canadian Natural) targeting C.C.S. for oil sands emissions. Headline number: ~10 Mt CO2/yr captured from oil sands facilities, transported via a new ~400 km pipeline to a planned saline storage hub in northeastern Alberta. Total project cost estimated at ~16 billion dollars.
+
+Pathways has been slow. The consortium had been waiting on federal and provincial regulatory and financial commitments through 2023-2024, with the project in a "ready when policy allows" holding pattern. The change of Canadian federal government in 2025 has shifted the policy framework; the project's F.I.D. timing remains uncertain.
+
+The Pathways project is also politically loaded in a way Northern Lights isn't, it's C.C.S. on oil sands extraction, which critics argue is using carbon capture to extend the life of one of the most carbon-intensive oil production processes in the world. The Pathways defenders argue that oil sands operate regardless of C.C.S. and capturing their emissions is strictly additional to the baseline. Both arguments have merit. This is a Chapter 10 debate.
+
+The U.S. Midwest: Summit and the ethanol corridor.
+
+The Midwest U.S. story is unusual because it's not anchored to fossil fuels. It's anchored to corn-ethanol fermentation CO2, a stream that's nearly pure CO2 as a fermentation byproduct, currently vented at every U.S. ethanol plant. The economics: capturing this CO2 is mechanically simple and earns 45Q credits; the catch is that you have to transport it to a storage site, and the Midwest doesn't have one nearby.
+
+Summit Carbon Solutions, the largest proposed Midwest C.C.S. project, originally planned as a 5-state, ~2,000 mile pipeline collecting CO2 from ~57 ethanol plants in Iowa, Minnesota, South Dakota, North Dakota, and Nebraska, delivering it to a saline storage site in North Dakota.
+
+Summit's story has been a master class in how C.C.S. projects can fall apart even with strong economics:
+
+June 2024. Iowa Utilities Commission issues a conditional permit, contingent on Summit obtaining permits in North and South Dakota.
+2024-2025. South Dakota's Public Utilities Commission denies Summit's permit application twice, after intense landowner opposition.
+March 2025. South Dakota enacts a state law (HB 1052) prohibiting the use of eminent domain for CO2 pipelines. This breaks Summit's ability to assemble contiguous rights-of-way through the state.
+2025. A North Dakota judge revokes Summit's underground storage permit, citing inadequate review.
+September 2025. Summit files a petition with the IUC to amend its Iowa permit to remove the requirement for Dakota approvals.
+July 4, 2025. The OBBBA is signed into law, enacting 45Q parity between sequestration and EOR, meaning Summit can earn the same credit value piping CO2 to oil-recovery sites as to dedicated storage.
+May 2026. Summit announces a fundamental project pivot: a new westward route from Iowa through Nebraska to a sequestration site in Wyoming, plus stated interest in EOR uses. The original North Dakota storage destination is no longer the primary plan. The pipeline shrinks by ~200 miles and ~400 landowners are removed from the affected route. Summit also scrubs "climate change" references from its website and reframes the project as supporting "America's long-term goal of energy dominance."
+
+The Summit story is the canonical case study of C.C.S. pipeline politics: strong economics, weak property-rights coalition, regulatory cascade failures, and a project that survives by transforming its identity in response to political signals. Whether the new Nebraska-to-Wyoming route survives the next round of property-rights pushback is the question of the next 12-18 months.
+
+Navigator CO2 Ventures, a competing Midwest CO2 pipeline proposal targeting ethanol plants in five states, cancelled its project in October 2023 after similar regulatory and landowner resistance. Navigator's cancellation was the first major casualty of the post-IRA C.C.S. rush. Summit's transformation may be the second.
+
+Comparison.
+
+The honest read on this table: of all the projects listed, only Northern Lights Phase 1 is actually operating, and Northern Lights is a heavily subsidized demonstrator rather than a market-rate solution. The rest are in various states of construction, regulatory limbo, or political restructuring. The 2025-2027 period will be when the others either come online (or don't), and when we'll learn whether the IRA/OBBBA-era C.C.S. push translates to physical infrastructure.
+
+How a C.C.S. project actually gets financed.
+
+To see why most of that table is stuck pre-F.I.D. or on government life support, you have to look at how a C.C.S. project assembles its revenue, because the problem is the same one the non-Chinese graphite plants faced in Chapter 2: a high-capital-cost asset that cannot reach a final investment decision without a contracted, bankable revenue floor. A capture plant and its storage well are billion-dollar commitments with decades of operating life, the same irreversible-capital-under-demand-uncertainty bet as the steel reline in Chapter 2, and a lender will not fund them against a hoped-for spot price.
+
+A C.C.S. project has up to three revenue streams, and the financing turns on how bankable each one is:
+
+The 45Q tax credit, 85 dollars/t for point-source storage, 180 dollars/t for direct air capture, paid for 12 years after start-up. But a tax credit is only worth its face value to someone with enough tax liability to absorb it, and most project developers (or the single-purpose entities that own the asset) don't have it. The IRA's decisive move was to make 45Q transferable, the developer can sell the credit for cash to a third party with tax appetite, and available as direct pay for some entities. That is what turned 45Q from a tax attribute into something a lender can underwrite against. Two features still haunt it: the credit runs 12 years while the storage liability runs decades, and it carries recapture risk, if the stored CO2 leaks back out within the recapture window, the IRS can claw the credit back, which lenders price as a hazard.
+A carbon price or compliance value, the E.U. E.T.S. for European emitters, a voluntary-market buyer elsewhere. But as Northern Lights shows, an E.T.S. price around 75 euros/t doesn't cover a ~150 dollars-300/t all-in C.C.S. cost, so this rarely closes the gap on its own.
+The molecule's own value, EOR payments or a merchant CO2 sale (Part 4). This is exactly why OBBBA's parity provision matters so much: by raising EOR's 45Q value to full parity, it lets a project stack EOR revenue on top of the 85 dollars credit, often the increment that finally tips a project to F.I.D., and the reason the destination tilts toward oil.
+
+For the cheap-to-capture sources (gas processing, ammonia, ethanol) near existing pipelines, stacking 45Q + EOR can pencil, which is why the Gulf/Permian projects are the ones moving. For the dilute, expensive sources that matter most for climate (cement, steel, power), none of the three streams is bankable at today's prices. So those projects only happen where a government manufactures the missing revenue floor: Norway's Longship program covering ~80 percent of Northern Lights, the U.K.'s C.C.S. contracts-for-difference (the state pays the difference between a fixed strike price and the prevailing E.T.S.), the E.U. Innovation Fund. This is the identical pattern to the graphite bankability problem in Chapter 2, policy manufacturing a price floor so private capital will finance the build-out, and you will meet it a third time in C.D.R. procurement (Chapter 11) and a fourth in saff mandates (Chapter 12, Appendix A). Hold the pattern; it is one of the load-bearing ideas of this book. For the dilute-capture projects to follow without subsidy, either the cost curve bends or the floor stays.
+
+Stop-and-check 3.C.
+
+Why is the Gulf Coast a structurally favored C.C.S. region compared to, say, the Midwest? List three reasons that aren't just "more emissions."
+Northern Lights is heavily subsidized (~80 percent of Phase 1 cost paid by Norwegian government). Does this make it a successful demonstration of C.C.S., or a successful demonstration of subsidized C.C.S.? What's the difference, and why does it matter?
+Summit pivoted from "climate solution" framing to "energy dominance" framing in 2025. Was this just opportunistic marketing, or does it reflect a real change in what the project will do? (Hint: think about what 45Q parity for EOR actually means for Summit's business.)
+Socratic prompt: If you were a policymaker trying to maximize the climate benefit of U.S. C.C.S. deployment in 2026-2030, where would you focus federal support? Defend a specific allocation across (a) gas processing / ammonia retrofits, (b) cement and steel point sources, (c) ethanol corridor capture, (d) direct air capture, (e) midstream infrastructure (pipelines and storage hubs). What's your reasoning?
+
+Answers
+
+Gulf Coast structural advantages (beyond raw emissions volume): (1) Existing 5,000-mile CO2 pipeline network and EOR infrastructure, marginal cost of connecting new sources to storage is low; (2) Deep saline aquifer storage capacity, well-characterized from decades of oil and gas subsurface work; (3) Deepwater and offshore storage potential, the Gulf of Mexico offers enormous storage capacity without onshore permitting complications; (4) Industrial port access enabling CO2 export or import for cross-border C.C.S..
+
+Northern Lights demonstrates technical and operational viability at 1.5 Mt/yr. The 80 percent subsidy tells you it doesn't work at current market prices, the 150-300 dollars per tonne of CO2 all-in cost isn't justified by E.U. E.T.S. prices of 75 euros per tonne of CO2-equivalent plus any voluntary market revenue. The difference matters for policy conclusions: it suggests C.C.S. infrastructure requires government investment at initial scale (like other infrastructure, not unlike roads), not that the technology is mature enough to be self-sustaining. The useful question is whether the next generation of projects can achieve 40-50 percent subsidy, and then 20 percent, as costs decline.
+
+Summit's framing shift reflects a real business shift. OBBBA equalized 45Q values for EOR and dedicated storage at 85 dollars per tonne of CO2. That means Summit can route CO2 to EOR operators and earn the same credit as dedicated storage, while receiving EOR operator payments on top of 45Q. The business case has actually improved, but the climate case is weaker because EOR CO2 helps produce more oil. The framing change isn't just political opportunism; it accurately reflects that the project's economics now partially depend on oil production.
+
+The climate-optimal allocation: heaviest weight on (e) midstream infrastructure, because it's the rate-limiting constraint for all C.C.S. types, without hubs, no individual source can connect to storage economically. Second priority: (b) cement and steel, because these face no cost-competitive renewable alternative and C.B.A.M. creates urgency for E.U.-facing producers. Third: (c) ethanol corridor, as CO2 is already separated and Midwest hub density provides future optionality. Lower priority for (a) gas processing, where additionality of federal support is lower because capture often occurs anyway. Minimal marginal federal dollars to (d) direct air capture, which already receives 180 dollars per tonne of CO2 under 45Q and has concentrated corporate demand.
+
+Part 4: The merchant CO2 market, the part nobody in climate talks about.
+
+We've spent most of this chapter on the climate-motivated CO2 value chain. But there's a much older, much more mature CO2 economy that climate people generally don't know exists: the merchant CO2 market.
+
+What it is.
+
+Merchant CO2 is industrial-grade CO2 sold as a commodity for productive uses. The market is approximately 13 billion dollars globally in 2024, projected to grow to ~21 billion dollars by 2029, moving on the order of ~230 Mt of CO2 per year worldwide, a throughput that, by raw volume, dwarfs both U.S. CO2-EOR (~70 Mt/yr) and global geological storage (~50 Mt/yr). Hold that comparison lightly, though: as Stop-and-check 3.D presses, almost none of this CO2 is stored, it is used and re-released, so the volume measures market size, not climate mitigation. Industrial gas companies (the same firms that sell oxygen and nitrogen) source CO2 from byproduct streams at industrial plants, purify it to food/beverage/industrial spec, liquefy it, and distribute it to thousands of end customers.
+
+Three companies, Air Liquide, Linde, Air Products, collectively hold ~82 percent of the global merchant CO2 market. Below them are regional players: Messer, Nippon Sanso (Taiyo Nippon), Yara (large CO2 producer in Europe via ammonia), Praxair (now part of Linde), Gulf Cryo, BOC, and many smaller distributors.
+
+Where the CO2 comes from.
+
+For merchant CO2, the source matters because of purity requirements. The economically attractive sources are:
+
+Ammonia plants, Largest single source globally. Ammonia synthesis produces CO2 as a near-pure stream from the SMR/shift section. Most large ammonia plants in the U.S., Trinidad, Saudi Arabia, Russia, and elsewhere have CO2-recovery units selling to industrial gas companies.
+Ethanol fermentation, Major U.S. merchant CO2 source, especially in the Midwest. The 2022 U.S. merchant CO2 shortage was driven partly by ethanol plant maintenance turnarounds reducing CO2 supply.
+Hydrogen production, Increasingly relevant as the hydrogen economy scales; SMR hydrogen plants are major CO2 co-producers.
+Natural gas processing, Where the gas stream has high CO2 content, the separated CO2 can be sold.
+Captured CO2 from C.C.S., A new and growing source; Linde's Freeport, Texas plant captures CO2 from MEGlobal's ethylene glycol facility and sells it as merchant CO2 with ISCC PLUS sustainability certification.
+
+Where the CO2 goes.
+
+End uses are diverse but concentrated:
+
+Food and beverage carbonation (~25-30 percent of merchant volume, the single largest application): Beer, soda, carbonated water. Beverages are the visible end use that everyone has interacted with.
+Food preservation and processing: Modified-atmosphere packaging of meat, dairy, and produce extends shelf life. CO2 is used to chill and freeze (dry ice, snow). Coffee decaffeination uses supercritical CO2 as a solvent.
+Welding shield gas: CO2 or CO2-blend shield gases protect arc welding from atmospheric oxygen contamination. Industrial application.
+Greenhouse CO2 enrichment: Greenhouses (especially Dutch tomato and cucumber operations) inject CO2 to accelerate plant growth, often using captured CO2 from local cogeneration or ethanol plants. A surprisingly large application, single Dutch greenhouses consume hundreds of tons per year.
+Water treatment (pH adjustment for municipal and industrial water): Replaces sulfuric acid in many applications.
+EOR (the giant one in the U.S.): ~70 Mt/yr in the U.S. alone. Mostly supplied by pipeline from natural CO2 domes and a few large anthropogenic sources, not by the industrial-gas merchant system.
+Firefighting: CO2-based extinguishers for specific fire classes (electrical, flammable liquid).
+Other industrial: Pulp and paper, casting and foundry, chemicals manufacturing, supercritical fluid extraction.
+
+The 2022 shortage and structural fragility.
+
+In summer 2022, the U.S. experienced a significant merchant CO2 shortage. The cause was a confluence: maintenance turnarounds at major ammonia and ethanol plants, plus a contamination event at the Jackson Dome (Mississippi) natural CO2 source. Beverage producers, breweries, dry-ice suppliers, and food packagers experienced supply disruptions. Some breweries reportedly had to cut production.
+
+This event exposed something structural: the U.S. merchant CO2 market is highly dependent on a small number of large sources, with limited geographic diversification. When one or two go offline simultaneously, the whole system tightens. The fragility was unfamiliar to most beverage and food companies, who had treated CO2 as a reliable utility commodity.
+
+Lessons from 2022:
+CO2 supply contracts now matter strategically to anyone who consumes serious volumes. Several major beverage companies have signed long-term offtake agreements with new CO2 sources, including some from C.C.S. projects.
+Some breweries have invested in fermentation CO2 recovery on-site, capturing the CO2 they produce themselves rather than buying it from the merchant market. This is a small but growing trend.
+The merchant CO2 market is now a meaningful potential buyer for C.C.S.-captured CO2, particularly for projects in the right location and with the right purity. This is one of the convergence points between the merchant value chain and the climate-C.C.S. value chain.
+
+The convergence.
+
+The legacy merchant CO2 market and the new climate-C.C.S. value chain are colliding in ways most market participants didn't anticipate three years ago:
+
+Merchant-grade C.C.S. supply. C.C.S. projects that produce food-grade pure CO2 (for example, Linde's Freeport facility, ethanol-corridor capture projects with appropriate purification) can sell to the merchant market for 80 dollars-150/ton, comparable to or higher than the 85 dollars/ton 45Q credit. Some projects can stack revenues: claim 45Q for sequestration or sell as merchant CO2. (You can't do both for the same molecule under current rules, but project economics may favor one or the other depending on local market.)
+direct air capture for premium markets. Direct air capture produces extremely pure CO2 that can command premium prices in specialty industrial markets (semiconductor processing, supercritical CO2 extraction, niche food applications). 1PointFive has signaled interest in direct air capture CO2 sales as a near-term revenue source while the storage-credit market matures.
+CO2-to-products. Several companies are using merchant-grade CO2 as feedstock for chemicals, polymers, e-fuels, and building materials, with the climate value depending on whether the source CO2 is biogenic, atmospheric, or fossil. We'll come back to this in Part 5.
+
+The honest framing: the merchant CO2 market is the most mature destination for captured CO2 that exists, and it's drawing in C.C.S. supply as the latter becomes available. Whether that's a climate-positive use or just shuffling CO2 atoms around for industrial purposes depends on the whole-system accounting, and the accounting frameworks are still catching up.
+
+Stop-and-check 3.D.
+
+The merchant CO2 market moves ~230 Mt/yr, far more than EOR or geological storage by volume. Why is volume a misleading way to think about its climate relevance?
+The 2022 U.S. shortage showed merchant supply leans on a handful of large ammonia and ethanol sources. As those sources add C.C.S. capture, does that make the merchant market more or less fragile?
+A brewery buys captured CO2 from a C.C.S. project to carbonate its beer. Is that "carbon storage"? Trace the molecule.
+Socratic prompt: A project sells its captured CO2 to a brewery instead of storing it, but still wants to claim a climate benefit. What's the honest accounting, and who, if anyone, gets to claim the "avoided" or "removed" ton?
+
+Answers
+
+Because almost none of merchant CO2 is stored, it is used and then re-released. The CO2 in a soda is vented the moment you open and drink it; welding gas, greenhouse enrichment, and dry ice nearly all return to the atmosphere within days to months. So 230 Mt/yr of throughput is a flow, not a sink. Its climate relevance isn't the volume it moves but (a) where the CO2 originates (fossil byproduct versus biogenic versus atmospheric) and (b) whether using captured CO2 displaces a fossil-sourced molecule. Volume measures the size of the market, not the size of any mitigation.
+
+It cuts both ways, but the net is probably more resilient. Adding capture and purification at the big ammonia and ethanol sources gives them a second revenue stream (45Q or merchant sales) that makes the recovery unit worth running and maintaining rather than venting, which stabilizes supply, and the C.C.S. push is bringing new purified sources online (Linde's Freeport plant, ethanol-corridor projects). But the concentration risk remains: if supply is still anchored to a few mega-sources, a coincident outage still tightens the market. What reduces fragility is geographic diversification, not capture per se.
+
+No, it is the opposite of storage. Trace it: the project captures a ton that would otherwise be vented or stored, sells it to the brewery, the brewery dissolves it in beer, and within weeks a customer opens the can and the CO2 returns to the atmosphere. The net atmospheric effect is roughly zero relative to venting (you delayed the release by the supply-chain time) and worse than storage (which would have kept it underground). The only climate case is a substitution one, if this CO2 displaces CO2 the brewery would otherwise have bought from a fossil source, you have avoided that fossil molecule. But you have not removed or stored anything. Merchant use is not sequestration.
+
+The honest accounting splits the molecule's journey into capture and fate, and only the fate determines the climate claim. Selling to a brewery is a use, not storage, so no removal or durable-storage credit is warranted; at most there is an avoided-emissions claim, and only if the captured CO2 genuinely displaces a fossil-sourced merchant molecule. Even then, that avoided ton belongs to whoever's emissions would otherwise have risen (the displaced fossil supplier's customer), not to the C.C.S. project, which merely changed where its own molecule went. The trap is double-counting: the project can't book a storage benefit (there is none) and the buyer can't book a removal. This is exactly the avoided/reduced/removed discipline of Chapter 5 applied to one molecule, and it's why 45Q pays for storage, not for a merchant sale.
+
+Part 5: CO2 as feedstock, turning the molecule into products.
+
+The frontier of the CO2 molecule value chain is converting CO2 into something other than storage, EOR, or merchant gas. This is "CCU", Carbon Capture and Utilization, distinguished from C.C.S. (storage) by what happens to the captured CO2.
+
+The thermodynamics are unkind. CO2 is a low-energy molecule; turning it back into anything useful (fuels, chemicals, materials) requires substantial energy input, typically from electricity or hydrogen. The carbon footprint of the product depends entirely on whether that input energy is itself low-carbon. CCU with fossil-electricity input is climatically worse than not doing it. CCU with renewable-electricity or green-hydrogen input might be climate-positive depending on the alternatives.
+
+The categories of CCU, ranked by current scale:
+
+Mineralization (concrete and aggregates).
+
+The most mature CCU application, scaling fastest. CO2 is reacted with calcium-containing materials to form calcium carbonate (calcium carbonate), which is a stable solid that locks the CO2 in mineral form essentially indefinitely.
+
+Two business models exist:
+
+CO2-cured concrete (CarbonCure). Inject CO2 into wet concrete during mixing; the CO2 reacts with calcium hydroxide in the cement paste to form calcium carbonate inside the concrete matrix. Modest CO2 utilization per ton of concrete (~10-20 kg CO2/m3) but applied at concrete-industry scale, which is enormous. CarbonCure is in thousands of concrete plants globally.
+Mineralized aggregates (Solidia, Heirloom-Carbonbuilt partnerships, Mineral Carbonation International). Use CO2 to mineralize industrial wastes (steel slag, mining tailings, fly ash) or natural materials (peridotite, basalt) into building aggregate or supplementary cementitious materials. Higher CO2 uptake per ton of product (50-200+ kg CO2/ton), niche commercial-scale today.
+
+Mineralization is permanent (>1000-year storage) and counts as both CCU and C.C.S. in most frameworks. It scales bounded by the construction industry's appetite for these materials.
+
+E-fuels and methanol.
+
+Combining CO2 with hydrogen produces methanol (CH3OH), which can then be upgraded to gasoline, jet, or diesel via established processes (Fischer-Tropsch, methanol-to-olefins, methanol-to-gasoline). The whole pathway requires substantial hydrogen input, about 0.19 tons of hydrogen per ton of methanol (CO2 + 3H2 leads to CH3OH + water), which at current electrolyzer efficiency takes on the order of 10-11 MWh of electricity per ton of methanol.
+
+E-fuels are climatically meaningful only if the hydrogen is green (renewable-powered electrolysis) and the CO2 is biogenic or atmospheric (not fossil). Even with both inputs green, e-fuels are typically 3-10 times the cost of fossil-fuel alternatives. Their realistic near-term market is sustainable aviation fuel and shipping fuel, where electrification isn't viable.
+
+Major players: HIF Global (Chile, Texas), Infinium, Sunfire (Germany), Twelve (U.S., focused on chemicals rather than fuels but similar technology).
+
+Polymers and chemicals.
+
+CO2 can be used as a feedstock for polyols (used in polyurethane foams), polycarbonates, and various organic chemicals. Covestro and Econic have commercial polyurethane products with ~20 percent CO2 feedstock content. Aramco/Saudi Basic has CO2-based polyols. Twelve makes various petrochemical molecules from CO2.
+
+The CO2-feedstock chemicals market is small (a few hundred kt/yr globally) but high-value and growing. The climate value depends on counterfactuals, if the alternative feedstock is petroleum, CO2 substitution displaces some fossil carbon.
+
+Carbon-to-products (the speculative frontier).
+
+The longer reach: producing synthetic graphite from CO2 (early R and D), carbon black from CO2 (early commercial, see methane pyrolysis in Chapter 2), even diamond from CO2 (academic only). These are the most exotic applications but, if they work, link the climate-CO2 value chain back to the commodity-carbon markets of Chapter 2 in a way that closes the loop.
+
+LanzaTech (NASDAQ: LNZA after 2023 SPAC IPO) is the most-developed player using CO2 and CO from industrial off-gases as fermentation feedstock for ethanol and chemicals. Its commercial operations are mostly steel-mill off-gas based rather than pure CO2, but it's the closest thing to scaled biological CO2 utilization.
+
+The honest assessment.
+
+Of total global CO2 emissions (~38 gigatonnes of CO2/yr), the total theoretical market for CCU at all current and reasonably-projected applications is somewhere in the range of 0.5-2 Gt/yr by 2050, that is, a few percent of emissions. CCU is not a primary climate solution. It's a secondary contributor that helps decarbonize specific products (aviation fuel, chemicals, concrete) where direct electrification or alternatives don't work.
+
+The reason climate people sometimes oversell CCU is that it sounds attractive, "turn the problem into the solution!", but the thermodynamics and the scale don't match the rhetoric. Most captured CO2 is going to need to go into geological storage for permanent isolation. CCU helps at the margin in specific applications. It does not replace the need for C.C.S..
+
+Stop-and-check 3.E.
+
+CCU products range from mineralized concrete (locks CO2 for >1,000 years) to e-fuels (re-released on combustion within weeks). Why does that durability spread make "CCU" almost useless as a single category for climate accounting?
+Turning CO2 back into a fuel or chemical costs energy. Under what condition is CCU climate-positive, and under what condition is it climate-negative?
+E-fuels cost 3-10 times fossil fuels even with green inputs. Why might they be the right answer for aviation and shipping but the wrong answer for ground transport?
+Socratic prompt: Should CCU earn carbon-removal credits? Make the case that mineralized concrete should and e-fuels shouldn't, then name the exact variable that separates them.
+
+Answers
+
+Because the climate value of "using" CO2 depends entirely on how long the carbon stays out of the atmosphere, and CCU products span the whole permanence spectrum. Mineralization (calcium carbonate in concrete or aggregate) is geologically stable, effectively permanent, indistinguishable in outcome from C.C.S.. An e-fuel re-releases its CO2 the instant it's burned, days to months later, not storage at all, only (possibly) a fossil-fuel substitution. Lumping these under one acronym invites the error of treating an e-fuel as if it sequesters carbon. For accounting you must ask the durability question (Chapter 11's permanence tiers) of each product, never of "CCU" as a class.
+
+CCU is climate-positive only when (a) the energy input, electricity or hydrogen, is genuinely low-carbon, and (b) the product displaces a more carbon-intensive incumbent (and, for any storage claim, the carbon stays locked up). Because CO2 is a low-energy molecule, converting it always costs energy; if that energy is fossil-fired, the conversion releases more CO2 than it consumes and CCU is climate-negative, you'd have done better not to bother. The decisive variable is the carbon intensity of the energy, which is why a CCU claim is only ever as clean as the grid or hydrogen behind it.
+
+Aviation and shipping have no near-term electrification path, batteries are too heavy for long-haul flight and ships need energy-dense liquid fuel, so a drop-in e-fuel (or saff) may be the only decarbonization option, and a 3-10 times premium is tolerable on a small slice of total energy. Ground transport has a cheaper, more efficient alternative: direct electrification, which uses the clean electricity straight rather than eating the round-trip losses of electricity leads to hydrogen leads to e-fuel leads to combustion. Spending scarce green electrons on e-fuels for cars when a battery would do is thermodynamically wasteful. Match the expensive molecule to the use that has no substitute.
+
+Mineralized concrete should: the carbon is fixed as a stable carbonate for >1,000 years, so if the source CO2 is atmospheric or biogenic it's a genuine removal with durable storage, the same outcome as C.C.S.. E-fuels shouldn't: the carbon is re-released on combustion within weeks, so there is no storage and at most an avoided-emissions (substitution) claim, not a removal. The variable that separates them is durability/permanence, how long the carbon is isolated from the atmosphere, which is exactly the axis Chapter 11 uses to tier removals. A credit system blind to durability would pay the same for both and reward the one that does nothing for the atmosphere.
+
+Stop-and-check 3.F (whole chapter).
+
+The CO2 molecule value chain has four primary destinations: storage, EOR, merchant sale, and product conversion. Rank these by current scale (Mt/yr). Now rank them by expected scale in 2040. What changes between the rankings?
+A captured CO2 molecule going to storage earns 85 dollars/ton 45Q (post-OBBBA). A captured CO2 molecule sold to the merchant market earns ~80 dollars-150/ton at current prices. Why would any project pursue storage rather than sale? What's the project-economic difference?
+The 2022 U.S. merchant CO2 shortage exposed structural fragility in a market most climate analysts didn't know existed. What does this say about how well-integrated the "carbon as molecule" framing is into climate analysis?
+Socratic prompt: Imagine you're CEO of a major industrial gas company in 2026. The merchant CO2 market is your bread and butter. C.C.S. projects are starting to come online that will produce CO2 at competitive prices to your existing supply chain. Are these new sources a threat (eating your margins) or an opportunity (expanding the market), and how should you respond strategically?
+
+Answers
+
+By current scale (global, by volume): Merchant CO2 (~230 Mt/yr) > EOR (~70 Mt/yr, mostly U.S.) > Geological storage (~50 Mt/yr) ≫ Product conversion (<10 Mt/yr, mostly niche). But note the scale ranking inverts the mitigation ranking, most merchant CO2 and all EOR-extracted oil re-enter the atmosphere, while only geological storage (and durable mineralization within product conversion) actually isolates carbon. By 2040 expected scale: Geological storage likely dominates (IEA NZE: 1,000+ Mt/yr by 2030, 6,000 Mt/yr by 2050); Merchant CO2 grows only moderately (food/industrial demand is slow-growing); EOR potentially constrained by the oil transition; Product conversion grows if e-fuels and mineralization scale. The key change between rankings: storage goes from smallest to largest, because it's the only destination policy is actively trying to scale for climate reasons.
+
+A captured CO2 molecule going to storage earns 85 dollars/ton 45Q (OBBBA parity). A molecule sold to merchant market earns 80 dollars-150/ton at current prices, comparable to 45Q on revenue. The project-economic difference: merchant sales require co-location with purification, liquefaction, and distribution infrastructure, plus ongoing buyer relationships. Storage requires long-term geological liability management and Class VI well permitting, which is slow and costly. The merchant sale earns similar revenue without the liability burden, which is why companies with merchant market access often prefer it. But merchant market volume is limited (~230 Mt/yr globally); once that's supplied, additional captured CO2 must go to storage.
+
+The merchant CO2 market's near-total invisibility in climate analysis reflects the broader problem: "carbon" in climate discourse means CO2 as an emission or as a policy abstraction, while CO2 as an industrial molecule with a mature value chain is treated as a separate subject entirely. The 2022 U.S. shortage (triggered by disruptions at ammonia plants that were the main CO2 source) harmed food-and-beverage supply chains and hospitals, systems that most climate analysts had no awareness were CO2-dependent. Better integration of "CO2 as molecule" and "CO2 as emission" framing is an analytical gap with real-world consequences.
+
+C.C.S.-derived CO2 is both threat and opportunity. Threat: new large-volume, low-cost point-source CO2 could undercut existing supply margins if it enters the merchant market. Opportunity: (1) You can acquire or contract C.C.S.-source CO2 as cheaper feedstock, reducing your production costs; (2) As the industrial gas company with purification, liquefaction, and distribution infrastructure, you're the logical operator for merchant CO2 from C.C.S. projects, positioning yourself as the midstream intermediary. The strategic response: partner with or acquire C.C.S. project operators to integrate C.C.S.-sourced CO2 into your existing network; don't fight the new supply, own it.
+
+Closing exercise.
+
+Three things to take away:
+
+1. The molecule value chain is older and bigger than climate people realize. The U.S. has had 5,000 miles of CO2 pipeline and a 70 Mt/yr EOR industry for decades. The global merchant CO2 market is 13 billion dollars. None of this was originally about climate. The C.C.S. push of 2022 onward is building on top of this existing infrastructure and politics, not from scratch. Understanding the legacy is essential to understanding the dynamics.
+
+2. Storage versus EOR versus utilization is now a single policy choice. OBBBA's July 2025 parity provision made EOR and sequestration earn the same 45Q credit. From a project-economic perspective, that means C.C.S. developers can route CO2 wherever's most economically attractive, and EOR will often win on the basis of nearby pipeline and existing infrastructure. Whether that's a good climate policy is contested. Summit's 2025-2026 pivot from "climate" framing to "energy dominance" framing is in part a response to this policy change.
+
+3. The next 24 months are decisive. Northern Lights Phase 2 (F.I.D. March 2025, online 2028), Porthos first injection (~hydrogen 2027, slipped from 2026), Acorn first injection (~2027), Pathways F.I.D. decision, Summit reroute approval, Baytown C.C.S. without hydrogen, PHMSA final rule, all of these will resolve in the 2025-2028 window. By the end of 2027 we'll know whether the C.C.S. hub model is becoming reality at meaningful scale or whether it's stuck in permitting-and-financing limbo. The current snapshot (May 2026) is genuinely an in-between moment.
+
+What this chapter simplified.
+
+1. The cost-of-capture stack is more nuanced than presented. I gave you $ per tonne of CO2 ranges by source type. In reality, capture cost depends on plant size, location, electricity prices, capture technology choice, and whether you're calculating LCOC (cost per ton captured) versus LCOA (cost per ton avoided, which accounts for the parasitic energy of the capture system itself). For any specific project, the actual cost is project-specific.
+
+2. Pipeline phase behavior was treated lightly. Supercritical CO2 transport has rich engineering questions, what happens at the pseudo-critical point, how to manage two-phase regions during depressurization, what impurities (especially water, leads to carbonic acid corrosion, and hydrogen sulfide, accelerates stress corrosion cracking) do to pipeline integrity. Any actual pipeline engineer reading this chapter would find Part 2 superficial. That's intentional for a curriculum overview, but it's a real gap if you ever need to assess a specific pipeline project.
+
+3. The PHMSA NPRM is current as of May 2026 but the politics may have shifted. What I described is the proposed rule as of January 2025. The Trump administration's PHMSA may modify, weaken, or shelve it. Check the docket (PHMSA-2022-0125) before relying on the current status.
+
+4. Capacity numbers for proposed hubs are operator-stated. Northern Lights Phase 2's "5+ Mt/yr by 2028" is the company's number. Aramis's "up to 22 Mt/yr" is the project sponsor's number. In C.C.S. especially, between project announcements, F.I.D., and actual operation, capacity numbers tend to drift downward. The actually-delivered capacities of these projects in 2030 may be substantially below the announced figures.
+
+5. The merchant CO2 market sizes I cited are mostly from market-research firms. Like the Chapter 2 commodity numbers, these have the methodology-disagreement problem. The 13 billion dollars figure is in the middle of the cited range; serious users should triangulate against industrial gas company financial reports.

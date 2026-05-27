@@ -1,0 +1,694 @@
+Chapter 12, Hard-to-Abate Sectors.
+
+Why this chapter exists.
+
+The previous five chapters have covered carbon pricing, markets, and removal technologies. This chapter asks a different question: where are the emissions that have to be addressed, and why are they hard?
+
+The hard-to-abate sectors collectively produce roughly 35-40 percent of global CO2 emissions, steel and cement together about 14 percent, chemicals about 5 percent, aviation about 2.5 percent, shipping about 2 percent, plus other industrial processes. These sectors share several features:
+
+Process emissions that don't go away when you switch energy sources.
+High-temperature heat requirements that resist easy electrification.
+Long-lived capital stock (steel mills built today operate for 40-60 years).
+Globally traded products that face carbon leakage risk under unilateral policy.
+Limited substitution options in many cases (you can't replace cement with renewable electricity).
+
+These sectors are also where the policy and market instruments from earlier chapters meet physical reality. Carbon pricing is necessary but insufficient. Subsidies and mandates are necessary but insufficient. C.D.R. is necessary for the truly intractable residuals. The integrated decarbonization of these sectors is the most important practical climate-policy challenge of the next 25 years.
+
+I'll organize this in seven parts plus a shorter note: what makes a sector hard-to-abate; steel in depth (the largest single industrial emitter); cement in depth (the most chemically intractable); chemicals and refining; aviation; shipping; a brief treatment of long-haul road freight (the most tractable of the transport modes); and the policy architecture for hard-to-abate decarbonization (green premiums, sectoral standards, C.B.A.M., demand-side levers).
+
+Part 1: What makes a sector hard-to-abate.
+
+The phrase "hard-to-abate" is doing more work than it appears. Several distinct features can make decarbonization difficult:
+
+Process emissions.
+
+Some emissions come from chemical reactions inherent to the production process, not from burning fuel. The classic example: cement manufacture.
+
+Cement is produced primarily from limestone (calcium carbonate, calcium carbonate). The chemistry of cement production requires heating limestone to decompose it into lime (calcium oxide) plus CO2:
+
+(See the chapter text for the chemical equation.)
+
+This reaction releases ~525 kg of CO2 per ton of cement clinker produced (equivalently, ~786 kg per ton of calcium oxide, or ~440 kg per ton of limestone). About 60 percent of cement's CO2 emissions come from this calcination reaction; only 40 percent come from the fuel burned to heat the kiln.
+
+You cannot decarbonize cement by switching to clean energy alone. Even with 100 percent renewable electricity heating the kiln, the 60 percent process emissions remain. The only options for these emissions are: (a) capture them with C.C.S., (b) use alternative chemistries that don't release CO2, or (c) reduce demand for cement.
+
+Other process-emissions sectors include: ammonia (CO2 released when natural gas is reformed to make hydrogen), steel (carbon from coke reacts with iron oxide), lime (the same calcination as cement), soda ash, glass, refining, and others.
+
+High-temperature heat.
+
+Many industrial processes require temperatures above 1,000 degrees Celsius that are difficult to achieve with electricity:
+
+Cement kilns: ~1,450 degrees Celsius
+Steel blast furnaces: ~2,000 degrees Celsius
+Glass furnaces: ~1,500 degrees Celsius
+Aluminum smelting: ~960 degrees Celsius (electrolysis, not heating per se)
+Petrochemical crackers: ~800-900 degrees Celsius
+
+Electric heating at these temperatures is technologically possible but typically far more expensive than fuel combustion, and requires extensive grid upgrades to handle the load. The transition from fuel-fired to electric high-temperature heat is one of the slowest aspects of industrial decarbonization.
+
+Long-lived capital stock.
+
+Industrial assets typically have 30-60 year useful lifetimes:
+Steel mills: 40-60 years
+Cement plants: 40-60 years
+Refineries: 40-60 years
+Aircraft: 20-30 years
+Ships: 20-25 years
+
+Retiring these assets before their useful life ends represents stranded value. Decarbonization strategies either accelerate retirement (politically and financially costly) or replace assets at the end of their natural lives (much slower).
+
+This is why many decarbonization pathways are explicit about "vintage" effects: new capacity built post-2030 should be low-carbon; existing capacity will continue operating for decades.
+
+Trade exposure and carbon leakage.
+
+Steel, cement, aluminum, fertilizers, these are commodity goods traded globally. If one jurisdiction imposes carbon costs but others don't, production shifts to the unrestricted jurisdiction. The carbon doesn't get reduced; it just relocates.
+
+This is the carbon leakage problem (Chapter 7). Solutions include:
+Free allocation (covers the cost, but undermines the price signal)
+C.B.A.M. (extends the price to imports)
+International agreements (rare, examples include the Steel Climate Standard initiatives)
+Subsidies for domestic clean production (the IRA approach)
+
+The trade-exposure dimension makes unilateral policy especially difficult and is a major reason these sectors are slow to decarbonize.
+
+Limited substitution.
+
+For many hard-to-abate sectors, substitutes don't exist or are inadequate:
+
+Cement: alternatives (geopolymer cement, blended cements) exist but cover only fraction of total demand.
+Steel: scrap recycling is the lowest-carbon path but is limited by scrap availability.
+Long-haul aviation: battery aircraft work for short ranges; not for transatlantic.
+Long-haul shipping: similar fundamental energy-density problem.
+Ammonia: green hydrogen ammonia is feasible but expensive.
+
+The "decarbonize by replacing the activity with something else" approach has limits. These sectors must decarbonize the activity itself.
+
+Why these sectors matter.
+
+Together, hard-to-abate sectors account for roughly 35-40 percent of global CO2 emissions. Their share of total emissions has grown as power sector emissions have fallen, the relative importance of the hard sectors increases as the easier sectors decarbonize.
+
+If the easy parts of the economy reach net-zero by 2050 but the hard sectors remain at current emissions levels, total emissions still won't fall below 30 percent of current levels. The hard sectors are where the post-2030 climate fight largely lives.
+
+Stop-and-check 12.A.
+
+The chemistry of cement makes ~60 percent of its emissions chemically unavoidable absent C.C.S.. Could you electrify the remaining 40 percent (fuel) emissions? What does this imply about the role of carbon capture in cement?
+Industrial capital stock turnover is slow (30-60 years). For a steel mill built in 2020, retiring it in 2030 represents a substantial value loss. How does this shape decarbonization policy?
+C.B.A.M. addresses carbon leakage for E.U.-bound goods but does nothing about leakage from E.U.-imposed costs on the rest of the world's trade. Is this a meaningful limit on C.B.A.M.?
+Socratic prompt: If you were designing decarbonization policy for India's steel and cement industries in 2026, what would you prioritize given the sector's growth trajectory and C.B.A.M. exposure?
+
+Answers
+
+Yes, the ~40 percent fuel-derived emissions can in principle be electrified or fuel-switched (the kiln heat is replaceable, even at ~1,450 degrees Celsius), but the ~60 percent process emissions from calcination, calcium carbonate leads to calcium oxide + CO2, are released by the chemistry itself and remain regardless of energy source. This implies C.C.S. is essentially unavoidable for deep cement decarbonization: short of alternative chemistries that don't calcine limestone, or reducing cement demand, capturing the process CO2 is the only way to address the majority of cement's emissions. Clean energy alone caps out at roughly a 40 percent cut.
+
+Slow capital turnover (30-60 years) means forcing early retirement of a 2020-vintage mill strands large amounts of capital, which is politically and financially costly. This pushes policy toward "vintage" strategies: require new-build capacity post-2030 to be low-carbon while letting existing assets run out their lives, and favor retrofit options (like BF-BOF + C.C.S.) that decarbonize existing plants rather than scrapping them. It also means the decarbonization timeline is paced by the natural replacement cycle, fast results require either subsidized early retirement or retrofits.
+
+It is a real but partial limit. C.B.A.M. only equalizes the carbon cost of goods entering the E.U.; it does nothing about carbon-intensive steel or cement traded among non-E.U. countries, which is the large majority of global trade. So C.B.A.M. cannot by itself drive global decarbonization, it mainly protects E.U. producers from leakage and creates a low-carbon export incentive for C.B.A.M.-exposed sellers. Its broader climate leverage depends on whether it nudges exporters to clean up production wholesale and whether other jurisdictions adopt analogous border measures.
+
+The decisive variables are India's growth trajectory (rising steel and cement demand means most relevant capacity is not yet built) and C.B.A.M. exposure (only the E.U.-bound export slice faces the border price). A sensible priority is therefore to ensure new capacity is built low-carbon, leveraging India's solar resources for clinker substitution, SCMs, and eventually hydrogen-DRI and C.C.S., rather than retrofitting young plants, while using C.B.A.M.-driven export demand to anchor first low-carbon lines. The trade-off is cost and electricity availability against the long-run penalty of locking in high-carbon assets for 40-plus years.
+
+Part 2: Steel, the largest industrial emitter.
+
+Steel production produces approximately 3.6-3.7 gigatonnes of CO2-equivalent annually, over 7 percent of global CO2 emissions. The path to decarbonization is technologically complex but conceptually clear.
+
+Why steel is high-carbon.
+
+Two main production routes dominate:
+
+1. Blast Furnace + Basic Oxygen Furnace (BF-BOF), produces about 70 percent of global steel. Uses coal (specifically metallurgical coke) as both an energy source and a chemical reductant. The chemistry: iron oxide + carbon leads to iron + CO2. The reaction is direct, carbon physically extracts oxygen from iron ore, producing CO2 as a byproduct.
+
+Coal serves both as the fuel (providing heat) and as the reductant (removing oxygen from iron oxide). Without a substitute for the reduction reaction, you can't decarbonize a blast furnace by switching to clean energy.
+
+Emissions intensity: ~1.8-2.0 tonnes of CO2 per ton of crude steel from BF-BOF.
+
+2. Electric Arc Furnace, produces about 30 percent of global steel. Uses electricity to melt steel scrap (or direct-reduced iron, DRI). When the electricity is clean, EAF emissions are very low.
+
+Emissions intensity: ~0.2-0.5 tonnes of CO2 per ton of steel from EAF using mostly scrap; substantially higher if using carbon-intensive DRI.
+
+The disparity is large: BF-BOF is roughly 4-8 times more carbon-intensive than scrap-based EAF.
+
+Decarbonization pathways.
+
+Four major pathways:
+
+Pathway 1: Scrap recycling.
+
+Scrap-based EAF using clean electricity is the lowest-carbon production route, emissions can be near zero with renewable power.
+
+Constraints: Scrap availability is finite (currently ~700 Mt/yr globally versus ~1,900 Mt/yr total steel production). Recycling rates are already high in developed economies; growth potential is limited. New steel demand from growing economies cannot be met solely from scrap.
+
+Realistic share: 30-45 percent of total steel production by 2050 depending on scrap collection improvements.
+
+Pathway 2: Hydrogen-DRI + EAF.
+
+The leading "green steel" technology. Hydrogen replaces coal as the reductant:
+
+Iron oxide + hydrogen leads to Iron + water
+
+The reduced iron (called DRI, Direct Reduced Iron, or sponge iron) is then melted in an EAF to produce steel. When the hydrogen is green (made from renewable electrolysis) and the EAF runs on clean electricity, total emissions can be 0.05-0.2 tonnes of CO2 per ton of steel, roughly 95 percent lower than BF-BOF.
+
+Key projects:
+Stegra (formerly hydrogen Green Steel), Boden, Sweden: 2.5 Mt/yr design capacity (targeting 2.4 Mt/yr initially, 5 Mt/yr by 2030). 100 percent green hydrogen-based DRI-EAF, powered by 740 MW of electrolyzers (all 37 modules installed by late 2025). First steel expected 2027, delayed from original 2025-26 target; 1.4 euros billion financing round announced April 2026.
+HYBRIT (Sweden, joint venture of SSAB, LKAB, Vattenfall): Pilot operational since 2020; demonstration scale-up to 2026; commercial scale-up planned 2030.
+Thyssenkrupp Steel (Germany): 2.5 Mt/yr hydrogen-DRI plant under construction at Duisburg. Operational target now 2027; green hydrogen tender suspended March 2025 due to high prices, plant designed to also run on natural gas as fallback.
+ArcelorMittal: Multiple hydrogen-DRI projects across Europe; November 2024 decision put several European green-project investments on hold; company acknowledged in April 2025 it is "increasingly unlikely" to meet 2030 CO2 reduction targets. Select EAF builds (Gijón, Sestao, Dunkirk) continuing.
+Salzgitter (Germany): SALCOS program, first-stage DRI-EAF startup (2+ Mt/yr) now expected H1 2027 (delayed from end-2025); stages 2 and 3 postponed ~3 years, investment decisions pushed to 2028-2029; 100 MW electrolysis plant targeting 9,000 t/yr green hydrogen from 2026.
+
+Key challenge, the 2025-2026 retrenchment: Multiple major European green-steel projects have been delayed or paused in 2024-2025. The economic logic has shifted unfavorably:
+Green hydrogen production costs remained higher than projected.
+The "green premium" for low-carbon steel, the price gap that makes green steel commercially viable, has been smaller than expected, with green-steel premiums of only 20-30 percent in 2024 falling toward zero in early 2026 as some low-carbon steel price indices declined.
+Energy costs in Europe (industrial electricity prices ~80 euros-150/MWh) make hydrogen production expensive.
+C.B.A.M. revenue redistribution (the proceeds go to the E.U. budget, not to domestic decarbonization investment) has been politically contested.
+
+The retrenchment is significant. It doesn't mean green steel won't happen, it means the transition timeline is shifting from "2026-2030 substantial deployment" to "2028-2035 substantial deployment."
+
+Pathway 3: BF-BOF + C.C.S..
+
+Capture CO2 from existing blast furnace operations.
+
+Concept: Keep the BF-BOF infrastructure but add post-combustion capture to handle the CO2 output. Less disruptive than complete process replacement.
+
+Costs: 60-130 dollars per tonne of CO2 for capture. Plus transport and storage.
+
+Major projects: Limited so far. Tata Steel Netherlands has explored C.C.S.; ArcelorMittal in some configurations. Various Chinese steel-C.C.S. pilots.
+
+Critique: Treats C.C.S. as a permanent solution rather than a transition technology. If you're going to invest in major capital changes, why not move to hydrogen-DRI instead?
+
+Defense: For existing assets with remaining useful life, C.C.S. is faster and cheaper than replacing with new hydrogen-DRI. Particularly relevant in regions without abundant clean electricity.
+
+Pathway 4: Emerging alternative chemistries.
+
+Several pre-commercial approaches:
+
+Molten Oxide Electrolysis, Boston Metal's approach. Direct electrolytic reduction of iron oxide using electricity, no hydrogen needed. Very low theoretical emissions.
+Aqueous electrolysis, ElectraSteel and others. Lower-temperature electrochemical reduction.
+Hydrogen plasma smelting, uses hydrogen plasma instead of conventional fluxes.
+
+These are pre-commercial in 2025. They may become important after 2030 but are not part of near-term deployment.
+
+The 2025-2030 outlook.
+
+The steel sector's near-term trajectory is more uncertain than C.D.R.'s. Two paths:
+
+The accelerated transition path: hydrogen-DRI + EAF deployments succeed in Europe; C.B.A.M. creates demand for low-carbon steel; China's steel industry begins serious hydrogen-DRI experimentation; Stegra, Thyssenkrupp, ArcelorMittal projects ramp up; by 2030, perhaps 10-15 percent of global steel is produced via hydrogen-DRI.
+
+The retrenchment path: European green-steel projects continue to slip; the green premium fails to materialize; hydrogen-DRI deployment is delayed to 2030+; existing BF-BOF capacity continues to operate; perhaps 3-5 percent of global steel from hydrogen-DRI by 2030.
+
+The retrenchment path looks more probable based on 2025-2026 evidence. Steel decarbonization is shifting from "leading sector for hard-to-abate decarbonization" to "lagging behind the timeline."
+
+This has implications beyond steel: the relative success or failure of green steel will affect whether other hydrogen-using sectors (chemicals, ammonia, shipping fuels) deploy hydrogen at scale.
+
+Stop-and-check 12.B.
+
+Scrap-EAF is the lowest-carbon steel route, yet it can't simply take over from BF-BOF. Why is scrap a ceiling, not a solution, and what does that force the rest of the sector to do?
+The 2025-2026 "green premium collapse" pushed the green-steel transition from ~2026-2030 to ~2028-2035. Walk through why the premium shrank and why that specifically delays hydrogen-DRI rather than just lowering profits.
+This chapter and Chapter 2's "reline clock" describe the same decision from two angles. Restate the steel CapEx choice as a reline decision: what is the operator actually deciding, and which variables decide it?
+Socratic prompt: Thyssenkrupp and Salzgitter are building hydrogen-DRI plants designed to also run on natural gas. Is "hydrogen-ready, gas-first" a pragmatic bridge or a way to build a fossil asset under a green label? What determines which it is?
+
+Answers
+
+Scrap is a ceiling because it is a stock recovered from end-of-life steel, currently ~700 Mt/yr against ~1,900 Mt/yr of demand, and you cannot recycle steel that hasn't been built and retired yet. Developed economies already recycle at high rates, so growth is limited, and fast-growing economies adding new steel demand simply have no scrap to melt. So scrap-EAF can supply perhaps 30-45 percent of 2050 production but not the primary steel that growing demand requires. That forces the sector to decarbonize primary iron-making itself, via hydrogen-DRI, BF-BOF+C.C.S., or alternative chemistries, rather than recycling its way out. Scrap is the cheap part of the answer; the expensive part is unavoidable.
+
+The green premium is the price gap that has to be covered for green steel to pencil, and it shrank from two sides: low-carbon steel price indices fell toward conventional levels (weak premium demand) while green-hydrogen and European industrial-electricity costs stayed high (the green cost didn't fall to meet it). It delays hydrogen-DRI specifically, rather than just trimming margins, because hydrogen-DRI projects require billion-scale FIDs that only clear if the expected premium plus carbon price covers the hydrogen cost over the asset's life. When the premium collapses, the F.I.D. math breaks and projects are paused or pushed out (Stegra to 2027, ArcelorMittal's holds), whereas the incumbent BF-BOF keeps running because its capital is already sunk. A vanished premium doesn't make existing steel unprofitable; it makes the new green investment unbankable.
+
+It's the same decision: a steelmaker facing a blast-furnace reline (every ~15-20 years, a ~100M dollars-1B dollars+ event, Chapter 2) chooses whether to reline the BF (locking in ~20 more years of coke and ~1.8-2 tonnes of CO2/t), reline plus add C.C.S., or abandon BF-BOF and build DRI-EAF. Stated as a CapEx choice, the operator is deciding whether to commit primary-iron capital to fossil or low-carbon metallurgy for the next two decades. The deciding variables are the same three: remaining asset life / reline timing, the credibly contractable green-hydrogen price (toward 2 dollars/kg or not), and the realized carbon-cost exposure (own E.T.S. bill plus customers' C.B.A.M.). The green-premium collapse is just the demand-side expression of that third variable weakening.
+
+It can be either, and what determines which is whether the gas mode is a genuine transition with a committed hydrogen ramp or a permanent fallback with no real switching plan. "hydrogen-ready, gas-first" is a pragmatic bridge if the plant is engineered to switch (the shaft furnace runs reformed gas now and blends in rising hydrogen as it gets cheap, the NG-DRI leads to hydrogen-DRI continuity from Chapter 2), and if there's a credible, dated commitment and policy support to actually make the switch. It's a fossil asset in green clothing if "hydrogen-ready" is a paper option with no contracted hydrogen, no switching timeline, and economics that only ever work on gas, in which case the green label justified a build that locks in decades of (lower-but-real) gas emissions. The tell is whether anyone has committed the capital and offtake to the hydrogen ramp, or whether the plant simply runs on gas indefinitely while the green option stays theoretical.
+
+Part 3: Cement, the most chemically intractable.
+
+Cement production releases approximately 2.4 gigatonnes of CO2-equivalent annually, about 5 percent of global emissions. The chemistry makes it harder to decarbonize than steel.
+
+The cement carbon problem.
+
+As discussed in Part 1, cement has two emissions sources:
+Process emissions (from limestone calcination): ~60 percent of total. Chemically required.
+Fuel emissions (from heating the kiln to ~1,450 degrees Celsius): ~40 percent of total. Replaceable.
+
+The chemistry: limestone (calcium carbonate) becomes lime (calcium oxide) in the kiln, releasing CO2. The lime is then mixed with other materials (silica, alumina, iron) to form clinker, which is ground into Portland cement.
+
+You can replace the kiln fuel (gas, coal, alternative fuels) with cleaner alternatives, but you can't eliminate the calcination CO2 without either:
+Using alternative materials that don't release CO2 during processing
+Capturing the CO2 at the cement plant
+
+Decarbonization pathways.
+
+Four main approaches:
+
+Pathway 1: Clinker substitution and supplementary cementitious materials.
+
+Reducing the clinker-to-cement ratio, using more SCMs (fly ash, slag, calcined clays, natural pozzolans) and less clinker.
+
+Current global clinker-to-cement ratio: ~0.72. Lowering this to 0.55-0.60 reduces emissions proportionally.
+
+Constraints: SCM availability. Fly ash (from coal power plants) is in declining supply as coal phases out. Slag (from blast furnaces) is similarly declining. Calcined clays are more abundant but require process modifications.
+
+Realistic share of total reductions: 15-30 percent of cement emissions reductions achievable this way.
+
+Pathway 2: Alternative cement chemistries.
+
+New cement formulations that use less or no limestone:
+
+Calcium sulfoaluminate cement, uses bauxite and calcium sulfate, lower CO2.
+Magnesium-based cements (MgO cements), different chemistry, lower CO2 but limited commercial deployment.
+Geopolymer cement, uses industrial byproducts; very low CO2 but performance limitations.
+Bio-cement, emerging area using bacterial precipitation.
+
+Constraints: Performance limitations, regulatory acceptance, slow market adoption. Conventional Portland cement standards are well-established; alternative cements face structural-engineering qualification challenges.
+
+Realistic share: 5-15 percent of reductions over the next decade.
+
+Pathway 3: C.C.S. on cement plants.
+
+Capture the CO2 at the kiln exhaust. The technology is mature; deployment is just beginning.
+
+Major project: Brevik Cement (Heidelberg Materials, Norway), opened June 2025. World's first commercial C.C.S. at a cement plant. Captures ~400 kilotonnes of CO2/yr (about 50 percent of plant emissions). CO2 ships to Northern Lights for storage. Costs in the 80-100 dollars per tonne of CO2 range. First deliveries of evoZero (C.C.S.-certified near-zero cement) began October 2025.
+
+Other C.C.S.-cement projects in pipeline: HeidelbergCement Lengfurt (Germany), CEMEX Hidalgo (Mexico), Holcim Lake Erie (Canada), various Chinese cement-C.C.S. pilots.
+
+Realistic potential: C.C.S. could address 40-60 percent of cement emissions reductions. The biggest of the three pathways quantitatively.
+
+Pathway 4: Demand reduction.
+
+Use less cement: better building design, alternative materials (cross-laminated timber, et cetera), longer-lived buildings.
+
+Realistic share: 10-20 percent of cement emissions reductions through demand-side measures.
+
+The cement decarbonization roadmap.
+
+Aggregating these pathways: by 2050, cement emissions could plausibly be reduced 50-80 percent below current levels through a combination of clinker substitution, alternative chemistries, C.C.S., and demand reduction. The remaining emissions would require C.D.R. neutralization.
+
+The Global Cement and Concrete Association Net Zero Roadmap (2023, updated) targets net-zero concrete by 2050 with substantial reliance on C.C.S. (~36 percent of cumulative reductions, per GCCA's own figures; often rounded to ~40 percent in secondary sources) plus the other pathways.
+
+The 2025-2030 cement outlook.
+
+Cement's near-term trajectory is more positive than steel's, partly because:
+Brevik is operational, demonstrating C.C.S. feasibility.
+C.B.A.M. coverage of cement (definitive period from 1 January 2026) creates direct economic incentive.
+The technology pathways are more mature than green steel's hydrogen dependence.
+Major producers (Heidelberg Materials, Holcim, CEMEX) have committed to C.C.S.-led decarbonization.
+
+The cement sector is plausibly the first major hard-to-abate sector to begin meaningful decarbonization at commercial scale.
+
+Stop-and-check 12.C.
+
+Cement's process emissions are chemically unavoidable. If the global cement industry decided to abandon C.C.S. as a pathway, what would the implications be for total cement decarbonization?
+Brevik's 80-100 dollars per tonne of CO2 capture cost is competitive with current E.U. E.T.S. prices. Why hasn't every European cement plant moved to C.C.S. in 2025-2026?
+Cement is largely a regional product (high transport costs limit international trade), so C.B.A.M. has more limited leverage than for steel. Does this matter for European cement decarbonization?
+Socratic prompt: A cement plant in India in 2026 faces the choice of (a) investing in C.C.S. at 80 dollars per tonne of CO2, (b) shifting toward SCMs and clinker substitution at lower cost but slower decarbonization, (c) doing nothing and paying C.B.A.M. costs on E.U.-bound exports. What would you advise?
+
+Answers
+
+Abandoning C.C.S. would put deep cement decarbonization largely out of reach. C.C.S. is the quantitatively largest pathway, capable of addressing roughly 40-60 percent of cement emissions reductions and counted on for about 40 percent of cumulative reductions in the GCCA roadmap. The remaining levers (clinker substitution at 15-30 percent, alternative chemistries at 5-15 percent, demand reduction at 10-20 percent) are individually constrained by SCM supply, performance/regulatory acceptance, and demand limits, and even combined cannot close the gap created by chemically unavoidable calcination emissions. Without C.C.S., a large residual would be left for costly C.D.R. neutralization.
+
+Because the headline capture cost understates the full economics and the barriers are structural, not just price. Brevik's 80-100 dollars per tonne of CO2 excludes transport and permanent storage, which require CO2 pipelines or shipping and accessible geological sites that most cement plants lack, cement is regional and plants are not sited near storage. Add 20-30 year payback periods needing policy certainty, capital intensity, the bankability problem, and the fact that C.B.A.M. only bites on E.U.-bound volumes, and most plants face a coordination and infrastructure gap rather than a simple cost comparison against the E.T.S. price.
+
+It matters considerably. Because cement is heavy and low-value relative to transport cost, little is traded internationally, so C.B.A.M., which only prices imports into the E.U., has weak leverage over European cement decarbonization compared with steel, where trade is global. E.U. cement producers face little import competition, so leakage risk is lower but so is the C.B.A.M.-driven demand pull. This means European cement decarbonization must be driven primarily by the domestic E.T.S. price, free-allocation phase-out, subsidies, and procurement standards rather than by the border mechanism.
+
+The decisive variables are the plant's exposure to E.U. exports, its cost of capital, and access to CO2 storage. For most Indian cement (largely domestic, no nearby storage), a defensible sequence starts with (b), SCMs and clinker substitution are cheaper, need no transport-and-storage infrastructure, and deliver immediate partial cuts, while building toward (a) C.C.S. for the unavoidable calcination emissions as storage and finance mature. Pure (c) is shortsighted: it forfeits the low-cost reductions and the export incentive. The answer tilts toward (a) sooner only if E.U. export share and C.B.A.M. costs are large.
+
+Part 4: Chemicals and refining.
+
+The chemicals sector, particularly ammonia, ethylene, methanol, and refining, produces approximately 2.5-3 gigatonnes of CO2-equivalent annually, about 5-6 percent of global emissions.
+
+The chemicals problem.
+
+Chemical manufacturing emits CO2 in three ways:
+Energy emissions from process heat (often high-temperature)
+Process emissions from chemical reactions (similar to cement/steel)
+Lifecycle emissions from the end-use of products (many chemicals end up as CO2 when their products decompose or burn)
+
+The major chemical commodities by emissions:
+
+Ammonia (NH3): ~500 megatonnes of CO2-equivalent/yr. Used primarily for nitrogen fertilizers. Currently produced almost entirely via the Haber-Bosch process using natural gas as both feedstock and energy source. Roughly 2 tonnes of CO2 per ton of ammonia.
+
+Ethylene (C2H4): ~280 megatonnes of CO2-equivalent/yr. Building block for plastics, antifreeze, many other products. Produced by cracking naphtha or ethane. Energy-intensive; ~1.5-2 tonnes of CO2 per ton of ethylene.
+
+Methanol (CH3OH): ~150 megatonnes of CO2-equivalent/yr. Used for chemicals, fuels, increasingly as a maritime fuel (Part 6). Currently produced from natural gas; ~0.5-1 tonnes of CO2 per ton of methanol.
+
+Refining: ~1 gigatonnes of CO2-equivalent/yr from refinery operations (separate from end-use of fuels). Process heat, hydrogen production, various refinery functions.
+
+Decarbonization pathways.
+
+Green ammonia.
+
+Replace natural-gas-based hydrogen with green hydrogen from electrolysis:
+Green hydrogen (electrolytic, from renewables) + Haber-Bosch nitrogen fixation = green ammonia.
+Emissions: near zero if hydrogen is green.
+Cost: ~700 dollars-1,500/ton green ammonia versus ~400 dollars-600/ton conventional. Premium ~60-250 percent.
+
+Major projects: Yara's Pilbara green ammonia (Australia); Saudi NEOM green ammonia; multiple Indian projects; CF Industries' U.S. deployments.
+
+Outlook: Green ammonia is one of the more deployable hydrogen applications because the chemistry is well-established (Haber-Bosch has been operating since 1909). The cost gap is the main barrier; declining electrolyzer costs and C.B.A.M.-driven demand for low-carbon ammonia exports could narrow it.
+
+Blue ammonia (C.C.S.-coupled).
+
+Conventional natural-gas ammonia + C.C.S. to capture and store process CO2.
+Emissions: 70-90 percent reduction from conventional.
+Cost: ~500 dollars-700/ton, closer to conventional than green.
+Advantage: Uses existing infrastructure plus C.C.S. retrofit.
+
+Major projects: Multiple Saudi, UAE, U.S. blue ammonia projects in development. The Japan-Korea LNG import infrastructure has explored converting to blue ammonia imports as marine fuel.
+
+Green and blue methanol.
+
+Similar logic, replace natural gas as feedstock with green hydrogen + biogenic or captured CO2 (green methanol), or use natural gas + C.C.S. (blue methanol).
+
+Major projects: Various Nordic and German green methanol projects; A.P. Moller-Maersk methanol-fueled container ships demanding green methanol supply.
+
+Ethylene electrification.
+
+Electric crackers: using electric heat instead of fuel combustion to crack naphtha/ethane into ethylene.
+BASF, Linde, SABIC, Dow have announced electric cracker projects.
+BASF/Linde/SABIC Ludwigshafen e-cracker started up April 2024, the world's first large-scale electrically heated steam cracking furnace; 6 MW pilot, processing ~4 t/hr hydrocarbon feedstock (not an F.I.D.; plant was already under construction since 2021).
+
+Outlook: Substantial promise but small commercial scale today. Full deployment requires both technology maturation and very cheap, abundant renewable electricity.
+
+Bio-based chemicals.
+
+Replace petrochemical feedstocks with biomass-derived alternatives. Mature for some products (bioethanol, biodiesel) but limited for most major commodities. Likely contributes 10-20 percent of long-term decarbonization.
+
+The chemicals 2025-2030 outlook.
+
+Chemicals decarbonization is at an earlier stage than cement or steel. Pilot and demonstration projects are deploying; commercial-scale deployment is mostly post-2027. The sector is highly capital-intensive and globally traded, the same trade-leakage concerns apply.
+
+C.B.A.M. coverage of hydrogen products (definitive period from 1 January 2026) and fertilizers creates direct demand for low-carbon ammonia exports to Europe. This is a meaningful demand pull.
+
+Stop-and-check 12.D.
+
+In ammonia production, natural gas is both feedstock and fuel. Why does that dual role mean you can't decarbonize ammonia just by switching the energy source, and how is this similar to, yet different from, cement's process emissions?
+Green ammonia (electrolytic hydrogen) carries a 60-250 percent premium; blue ammonia (gas + C.C.S.) is much closer to conventional cost. What's the case for blue as a bridge, and what's the risk of locking into it?
+Ammonia is well-established chemistry (Haber-Bosch since 1909) while electric crackers for ethylene are barely commercial. Why is green ammonia considered one of the more deployable hydrogen applications despite its cost premium?
+Socratic prompt: C.B.A.M. covers fertilizers and hydrogen products from January 2026. For a Gulf or North African ammonia exporter, does that change the green-vs-blue calculation, and who ultimately pays the premium?
+
+Answers
+
+Because the natural gas isn't just heating the reactor, it is the source of the hydrogen (via steam methane reforming) that the Haber-Bosch process combines with nitrogen, and the reforming step itself releases CO2 as a process emission. So even with a zero-carbon heat source, you'd still be stripping hydrogen out of methane and venting the carbon. To decarbonize you must change the hydrogen source (green electrolytic hydrogen, or capture the reforming CO2, blue), not the heat. It's like cement in that the CO2 comes from the chemistry rather than combustion; it's different in that ammonia has a clean substitute pathway (electrolytic hydrogen entirely avoids the carbon), whereas cement's calcination CO2 has no analogous "swap the input" escape short of alternative chemistries.
+
+The case for blue as a bridge: it reuses existing ammonia infrastructure plus a C.C.S. retrofit, cuts emissions 70-90 percent, and lands near conventional cost, so it can decarbonize at scale now while green hydrogen is still expensive, and the Gulf/U.S. producers with cheap gas and storage can deploy it fast. The risk of lock-in: blue ammonia keeps a fossil-gas value chain alive (with upstream methane-leakage exposure, Chapter 4), depends on C.C.S. capture rates and durable storage actually performing, and a 20-year blue investment can crowd out or delay the green transition, a bridge that becomes a destination. Whether it's a genuine bridge depends on methane integrity, real capture performance, and whether it's paired with a green ramp rather than substituting for one.
+
+Because the hard part of green ammonia is only the hydrogen source, the synthesis chemistry (Haber-Bosch) is a century old, globally deployed, and unchanged whether the hydrogen is grey or green. So green ammonia is "bolt a green-hydrogen front-end onto proven downstream chemistry," a far smaller technical leap than electric steam cracking, which requires re-engineering the core reactor at ~800-900 degrees Celsius. The barrier for green ammonia is purely cost (the electrolytic hydrogen premium), which falls with cheaper electrolyzers and renewable power, whereas electric crackers face an unresolved technology-maturation barrier. A cost barrier that scale and learning can erode is more tractable than an immature core process.
+
+Yes, C.B.A.M. puts a carbon price on the embedded emissions of fertilizer and hydrogen products entering the E.U., so for an exporter selling into Europe it raises the relative cost of high-carbon (grey) ammonia and narrows the gap between conventional and low-carbon, improving the case for blue or green on E.U.-bound volumes. The exporter weighs the C.B.A.M. charge avoided against the green/blue premium incurred; cheap-gas producers may favor blue as the lower-premium compliance route. Who pays: in the first instance the importer/producer, but the cost passes downstream to E.U. fertilizer buyers and ultimately farmers and food prices, unless the exporter's own jurisdiction prices the carbon first (capturing the revenue at home, the C.B.A.M.-recruitment logic of Chapter 7/9). The premium doesn't vanish; C.B.A.M. just decides where in the chain, and in which treasury, it lands.
+
+Part 5: Aviation.
+
+Aviation produces approximately 942 megatonnes of CO2 in 2024 (per IATA), essentially recovering to pre-pandemic levels. That's about 2.5 percent of global CO2 but ~12 percent of transportation-sector emissions and ~2.5 percent of all anthropogenic radiative forcing (including non-CO2 effects from contrails and NOₓ at altitude).
+
+The 2024 emissions reached approximately 2019 pre-COVID levels; 2025 emissions are expected to surpass 2019 levels as travel demand continues to grow. The trajectory is upward, not down.
+
+Why aviation is hard.
+
+Two fundamental constraints:
+Energy density requirement: Jet fuel has very high energy density (~43 MJ/kg). Batteries have ~0.5 MJ/kg (~85 times lower); compressed hydrogen ~7 MJ/kg in usable form (~6 times lower). Long-haul aviation requires fuels that store enough energy per unit weight to fly.
+Asset turnover: Aircraft lifetimes are 20-30 years. The current fleet largely cannot be substantially modified for alternative fuels. Decarbonization happens primarily as new aircraft are built.
+
+The result: aviation is among the hardest sectors to decarbonize, and the easiest decarbonization pathway is to keep using jet-fuel-like fuels, but make them low-carbon.
+
+Decarbonization pathways.
+
+Pathway 1: Sustainable aviation fuel.
+
+saff is chemically similar to conventional jet fuel but produced from non-fossil feedstocks. It can be blended with conventional jet fuel up to 50 percent (with some pathways limited to 10 percent) and works in existing aircraft without modification.
+
+Production pathways:
+HEFA (Hydroprocessed Esters and Fatty Acids), from used cooking oils, animal fats, plant oils. The dominant current production method.
+FT (Fischer-Tropsch), from biomass via gasification.
+ATJ (Alcohol-to-jet), from ethanol/butanol fermentation.
+Power-to-Liquid (PtL) e-fuels, synthesized from green hydrogen + captured CO2. Very low carbon when both inputs are clean. The most scalable long-term pathway.
+
+Current state:
+Global saff production in 2025: approximately 1.9 Mt (~630 million gallons) per IATA's December 2025 estimate, about 0.6-0.7 percent of total jet fuel consumption, and a downward revision from IATA's earlier ~2 Mt projection. (The "2-3 billion gallon" figure sometimes cited refers to projected 2028+ capacity, not 2025 actuals.)
+U.S.: ~240 million gallons domestic saff registered for RFS in 2025.
+U.S. 45Z Clean Fuel Production Credit: up to 1 dollars/gallon for saff (post-OBBBA, down from 1.75 dollars previously). OBBBA (July 2025) extended the credit's sunset from its original end-2027 date to December 31, 2029, while restricting eligibility to North American feedstocks and excluding indirect land-use-change emissions from the CI calculation.
+E.U. ReFuelEU Aviation mandate: 2 percent saff in 2025, escalating to 6 percent in 2030, 20 percent in 2035, 70 percent in 2050 (with sub-targets for e-fuels).
+U.K. saff Mandate: 2 percent in 2025, 10 percent in 2030, 22 percent in 2040.
+Singapore: announced mandatory saff levy 2027 with 1 percent blend target, scaling to 5 percent by 2030.
+Norway, Sweden, France: existing national mandates.
+
+Costs: saff is currently 2-5 times more expensive than conventional jet fuel. The "green premium" is substantial. Power-to-liquid e-fuels are even more expensive (3 dollars-8/liter equivalent).
+
+The compliance economics of saff, how the RFS, California L.C.F.S., 45Z, REDIII, and ReFuelEU stack on a single gallon, how feedstock and process-energy choices move a fuel's carbon-intensity score (and therefore its credit revenue), and how a producer routes product to the most lucrative market, are treated in Appendix A (Fuel-Standard Compliance Operations and the Fuel-voluntary carbon market Boundary), building on the markets framework of Chapter 7-8. The short version: a U.S. HEFA gallon sold into California can stack RIN + L.C.F.S. + 45Z for some of the most favorable fuel-project economics anywhere, which is also precisely why such a gallon cannot support a voluntary carbon credit on top (Chapter 8 Part 8).
+
+Pathway 2: Hydrogen aircraft.
+
+Hydrogen-fueled aircraft (Airbus' ZEROe concept, others), pre-commercial. The energy-density problem makes hydrogen aviation challenging for long-haul; potentially feasible for short and medium routes.
+
+Outlook: Commercial deployment unlikely before 2035+. The technology and infrastructure (hydrogen production, distribution to airports, fueling) are pre-mature.
+
+Pathway 3: Electric aircraft.
+
+Battery-electric aircraft for short routes (regional, sub-300 km). Commercial deployment beginning with small aircraft (Heart Aerospace ES-30, Eviation Alice). Larger aircraft will require battery breakthroughs.
+
+Outlook: 5-10 percent of aviation emissions plausibly addressable by 2050 via electrification.
+
+Pathway 4: Demand management.
+
+Carbon pricing on aviation, frequent-flyer levies, regulations on short-haul flights (France banned domestic flights where train alternatives exist <2.5 hours), shift to rail for short trips, reduced corporate travel.
+
+Realistic contribution: 10-20 percent of aviation emissions reductions through demand-side measures over 30 years.
+
+Pathway 5: Operational efficiency.
+
+Better routing, fuel-efficient flying, more efficient aircraft (ongoing efficiency gains of ~1-2 percent/yr historically).
+
+Contribution: ~30 percent cumulative improvement by 2050 through technology and operations.
+
+The aviation puzzle.
+
+The reality: aviation decarbonization is substantially harder than other sectors. Even with aggressive saff deployment, hydrogen aviation development, and operational improvements, aviation will likely still produce 400-600 megatonnes of CO2/yr in 2050 in optimistic scenarios, a substantial residual. C.D.R. (Chapter 11) is the inevitable companion.
+
+Aviation in carbon markets.
+
+Corsia (Carbon Offsetting and Reduction Scheme for International Aviation): ICAO scheme covering international flights (about 60 percent of aviation emissions). Phase 1 (pilot) 2021-2023; Phase 2 (mandatory for participants) 2024-2026; Phase 3 (full mandatory) 2027 onward. Airlines purchase eligible Corsia credits to offset emissions above 2019 baseline.
+
+E.U. E.T.S. aviation: Intra-EEA flights covered (~20 percent of aviation emissions). Free allowances phased out 2024; full auctioning by 2026. saff use can reduce E.T.S. obligations.
+
+Singapore saff levy: 2027 implementation; charge on tickets calibrated to cover saff blend mandate cost.
+
+The Corsia-E.U. E.T.S. tension: Corsia uses lower-quality credits (15-25 dollars per tonne of CO2) than what is required under E.U. E.T.S. or S.B.T.i. standards. Airlines complain about cost; environmental groups complain about quality. The 2026-2027 implementation will test whether Corsia achieves meaningful emission reductions or operates more as a token compliance scheme.
+
+Stop-and-check 12.E.
+
+Batteries store ~85 times less energy per kilogram than jet fuel. Explain why that single ratio makes long-haul aviation the hardest transport mode to decarbonize, and why it pushes the answer toward drop-in fuels rather than new propulsion.
+Even in optimistic scenarios, aviation still emits 400-600 megatonnes of CO2/yr in 2050. What does that residual imply about the pairing of aviation with the rest of the book, specifically Chapter 11?
+saff is chemically near-identical to jet fuel and works in existing aircraft, while hydrogen and electric aircraft need new airframes and infrastructure. Why does that "drop-in" property make saff the dominant near-term pathway despite its 200-400 percent premium?
+Socratic prompt: Of aviation's pathways, saff, hydrogen aircraft, electric aircraft, demand management, operational efficiency, which deserves the most policy weight to 2040, and which is most overrated? Defend your ranking.
+
+Answers
+
+Aircraft must carry their entire energy supply aloft, so energy per unit weight is the binding constraint, and at ~85 times lower energy density than jet fuel, batteries heavy enough to fly a transatlantic route would leave no capacity for passengers or cargo (hydrogen is ~6 times lower and adds bulky cryogenic storage). Short hops can tolerate the weight penalty; long-haul cannot, and long-haul is where most aviation emissions are. That physics forces the pragmatic answer to be a fuel with jet-fuel-like energy density that the existing fleet can burn, that is, a low-carbon drop-in (saff/e-fuel), rather than a new propulsion system the energy density rules out for the routes that matter.
+
+It implies aviation cannot reach net zero on its own even optimistically, so its irreducible residual must be neutralized by carbon removal (Chapter 11), making aviation one of the clearest real-world customers for durable C.D.R.. The 400-600 Mt residual is exactly the "genuinely residual emissions" C.D.R. exists to address, and it's why aviation and direct air capture are natural partners (an airline buying durable removals to neutralize the tonnes saff can't eliminate). It also sharpens the moral-hazard line from Chapter 11: removals for aviation's true residual are legitimate; removals used to avoid deploying saff at all would be the abuse. The sector demonstrates why deep mitigation and C.D.R. are both required, not either/or.
+
+Because the drop-in property eliminates the two things that make the other pathways slow: it needs no new aircraft (so it decarbonizes the existing 20-30-year fleet immediately, not just new deliveries) and no new airport/distribution infrastructure (it blends into the existing fuel supply). Hydrogen and electric aircraft require redesigned airframes, new fueling systems, and fleet turnover measured in decades, so even if they mature, they can't bend the curve before ~2035+. saff's 200-400 percent premium is a cost problem, which mandates (ReFuelEU) and production credits (45Z) can attack now; the alternatives have a time-and-technology problem that money alone can't shortcut. For near-term abatement, a deployable-but-expensive option beats a cheap-someday-but-not-yet one.
+
+A defensible ranking to 2040: saff deserves the most weight, it's the only pathway that can decarbonize the existing long-haul fleet at scale in the window, so mandates plus production credits to drive supply and cost down are the highest-leverage policy. Operational efficiency and demand management deserve real but secondary weight (genuine, cheap, but capped at ~30 percent and ~10-20 percent respectively). Hydrogen aircraft is the most overrated for this horizon, much-hyped (Airbus ZEROe) but pre-commercial, energy-density-limited to short/medium routes, and unable to touch the long-haul majority before 2035+, so heavy near-term policy bets on it are misplaced. Electric is genuinely useful but only for the small short-haul slice. The decisive criterion is what can abate the long-haul tonnes within the asset-turnover window, which is saff, with everything else supporting or longer-dated.
+
+Part 6: Shipping.
+
+International shipping produces approximately 1 gigatonnes of CO2/yr, about 2.5 percent of global CO2. The sector emits primarily from heavy fuel oil used in ship engines.
+
+Why shipping is hard.
+
+Similar to aviation, but with even longer asset lives:
+Energy density: Long-distance ships need high-energy-density fuel.
+Asset lives: 20-25 years for ships.
+Bunker fuel infrastructure: Globally distributed; switching fuels requires worldwide infrastructure changes.
+
+But shipping also has features that make decarbonization more tractable than aviation:
+Weight tolerance: Ships can carry heavier fuels (battery-electric short-haul is feasible).
+Slower speed potential: Reducing speed reduces fuel use substantially.
+Larger fuel storage: Can use hydrogen carriers (ammonia, methanol) more easily than aircraft.
+
+Decarbonization pathways.
+
+Pathway 1: Alternative marine fuels.
+
+Several candidates:
+
+Methanol: Drop-in capability in modified engines. Maersk has ordered ~18 methanol-fueled container ships; first commercial methanol-powered transoceanic vessel began operation 2024. Green methanol or e-methanol provides low-carbon outcomes.
+
+Ammonia: Energy-dense, hydrogen carrier, no carbon in fuel. Strong candidate for long-haul. Several pilot vessels; multiple major shipowner orders. Concerns about toxicity and ammonia slip (nitrous oxide emissions).
+
+Hydrogen: Limited by storage challenges on ships. Better suited for short routes.
+
+LNG (transitional): Lower carbon than HFO but methane slip undermines benefits. LNG is increasingly viewed as transitional, not destination.
+
+Wind-assist: Rotor sails, kite sails (for example, Cargill's WindWings, Berge Bulk projects), provides 10-30 percent fuel reduction. Complementary to alternative fuels, not a complete solution.
+
+Biofuels: Direct substitution feasible; constrained by feedstock availability.
+
+Pathway 2: Operational improvements.
+
+Slow steaming: Reducing speeds reduces fuel use exponentially. Substantial uptake already; further potential.
+Hull design: Optimization, hull coatings, et cetera
+Just-in-time port arrivals: Avoids unnecessary fuel use waiting outside ports.
+
+Pathway 3: Demand management.
+
+Modal shift from sea freight to other modes (limited possibilities for international shipping). Reduced shipping intensity of goods.
+
+The IMO framework.
+
+The International Maritime Organization is the global regulatory body for international shipping.
+
+The 2025 IMO Net-Zero Framework: In April 2025, at MEPC 83, IMO member states approved a landmark framework on shipping decarbonization. Key provisions:
+30 percent reduction in greenhouse gas intensity (gCO2eq/MJ, well-to-wake) by 2035, 65 percent by 2040 versus the 2008 fleet baseline of 93.3 gCO2eq/MJ, for vessels above 5,000 gross tonnage (covering ~85 percent of global fleet CO2). Note: this is an intensity standard, not an absolute emissions cap.
+Tiered emissions penalty system: Vessels exceeding caps pay 100 dollars per tonne of CO2 if mitigation measures are in place; 380 dollars per tonne of CO2 with no decarbonization efforts.
+U.S. withdrew from negotiations, but the framework was approved over its objection.
+
+But formal adoption stalled. The extraordinary session convened to formally adopt the MARPOL Annex VI amendments, MEPC/ES.2 in October 2025, adjourned without adopting them: a majority of member states (Saudi Arabia leading the procedural opposition) voted to delay for a year. The next adoption opportunity is October 2026 (MEPC/ES.3), which means the originally-targeted 2027 entry into force is now in doubt, with effective compliance unlikely before 2028. As of writing (May 2026) the framework is approved but not adopted, and its fate is genuinely uncertain, a sharp illustration of how even a near-consensus global mechanism can stall on the formal-adoption step.
+
+If adopted, the framework would be significant, the first global carbon-pricing mechanism for international shipping, with a 100-380 dollars per tonne of CO2 range comparable to current E.U. E.T.S. levels and a strong economic incentive for fuel switching. That "if" is now doing real work.
+
+Industry response: Major shipowners (Maersk, MSC, COSCO, others) accelerated alternative-fuel commitments through 2025. Order books for methanol-, ammonia-, and LNG-fueled ships rose substantially.
+
+The shipping outlook 2026-2030.
+
+If the IMO framework clears its delayed adoption (now no earlier than October 2026) and enters force, it would create the strongest near-term decarbonization driver any hard-to-abate sector has, but the October 2025 postponement has pushed that timeline back and injected real uncertainty. Combined with:
+E.U. E.T.S. coverage of maritime (in force from 2024)
+Major shipowner fuel-switching commitments
+Methanol-fueled fleet expansion
+
+Shipping is positioned for meaningful 2027-2035 decarbonization, potentially faster than aviation despite similar physical challenges, due to better policy framework.
+
+Stop-and-check 12.F.
+
+saff is currently ~0.5-1 percent of global jet fuel. The E.U. mandate requires 6 percent by 2030. What does this scaling challenge imply about the feasibility of the E.U. mandate?
+The 2025 IMO framework creates a 100 dollars per tonne of CO2 "with mitigation" and 380 dollars per tonne of CO2 "without mitigation" tiered penalty. The U.S. withdrew, yet the framework was approved at MEPC 83 (April 2025) over that objection, only for its formal adoption to stall at the October 2025 session. What does that split outcome say about the political economy of climate negotiations?
+Shipping is electrifying short routes, switching to methanol/ammonia for longer routes, and adding wind-assist where useful. Aviation has fewer pathways. Why is shipping decarbonization moving faster than aviation despite similar fundamental constraints?
+Socratic prompt: If you were a shipping company in 2026, considering whether to invest in 20-year methanol-fueled ships versus 20-year conventional ships, what would shift your calculation toward methanol? What toward conventional?
+
+Answers
+
+The gap is large, moving from ~0.5-1 percent of jet fuel to a 6 percent mandate by 2030 is roughly a six- to twelvefold scale-up in five years, and it implies the E.U. target is aggressive against current supply. Feasibility hinges on feedstock: HEFA, the dominant pathway, is limited by used cooking oil and fats, so meeting the mandate requires rapid expansion of FT, alcohol-to-jet, and especially power-to-liquid e-fuels, which are costlier and earlier-stage. The mandate is plausible only with heavy investment and a tolerated 2-5 times green premium; otherwise it risks supply shortfalls or reliance on constrained feedstocks.
+
+The split is the lesson. Because IMO operates by member-state majority rather than unanimity, the broad coalition (covering vessels above 5,000 GT, ~85 percent of fleet CO2) could approve the framework over U.S. withdrawal, majority rule let progress past the single largest holdout, which a consensus forum could not have done. But approval is not adoption: at the October 2025 extraordinary session a different blocking coalition (Saudi Arabia leading) marshalled a majority to delay formal adoption by a year. So the same majoritarian machinery that overrode the U.S. also proved vulnerable to a later procedural counter-mobilization. The political-economy reading: a majority-rule global body can move past one powerful objector when a critical mass sees shared advantage (shipping is global and competitive, so most flag/port states prefer one rulebook), but the multi-step path from approval to binding adoption leaves room for opponents to regroup, durable multilateral action is possible without the largest emitter, yet remains fragile at every formal gate.
+
+Shipping moves faster mainly because it has both a stronger policy framework in prospect and more tractable physics. The 2025 IMO framework would create the first global shipping carbon price (100-380 dollars per tonne of CO2) once adopted and in force, though its October 2025 adoption stall has pushed that past the original 2027 target, and it layers on E.U. E.T.S. maritime coverage, giving a clearer economic signal than aviation's weaker instruments (Corsia's low-quality 15 dollars-25 credits). Physically, ships tolerate heavier, lower-energy-density fuels, can slow-steam, and can store ammonia or methanol more easily than aircraft, opening multiple near-ready pathways. Aviation's severe energy-density constraint leaves saff as the only drop-in option, scaling slowly against rising demand.
+
+Toward methanol: the IMO penalty regime (100 dollars per tonne of CO2 with mitigation, 380 dollars without), if and when it is adopted and enters force (now delayed past its 2027 target by the October 2025 adoption stall), plus E.U. E.T.S. maritime coverage raises the lifetime carbon cost of a conventional ship over its 20-year life; add First Movers / cargo-owner demand for zero-emission shipping and securing green-methanol supply early (as Maersk has). Toward conventional: lower upfront capital, mature global bunkering infrastructure, uncertainty about green-methanol availability and price, and, newly relevant, the IMO framework's own adoption uncertainty, which weakens the carbon-cost signal a 20-year investment would otherwise price in. The decisive variables are the expected (and now less certain) carbon-cost trajectory, fuel-supply security, and how much of the fleet's life would fall under the 2035/2040 intensity targets if they take effect.
+
+Part 6½: Long-haul road freight (a shorter note).
+
+Trucking belongs on the hard-to-abate list, but it earns the asterisk this section's brevity implies: of the three big transport modes, it is the least hard. Heavy road freight is roughly 5-7 percent of global energy-related CO2, and the long-haul segment, the over-the-road tractor-trailer hauling ~40 tonnes 800+ km a day, is the contested part, since urban and regional trucking is already electrifying.
+
+Why trucking is more tractable than aviation or shipping comes straight back to the energy-density argument of Part 5: a truck does not have to carry its entire trip's energy aloft against gravity. It can stop to recharge or refuel, it can carry a heavier battery without an airframe penalty, and the weight it surrenders to a battery trades against payload rather than against the ability to move at all. The constraint that makes aviation a saff-only problem is soft for trucks. The pathways, in rough order of readiness:
+
+Battery-electric, already winning short-haul and regional (Tesla Semi, BYD, Daimler/Volvo). The open question is long-haul, where megawatt charging, battery weight-vs-payload, and depot/corridor charging infrastructure are the binding constraints, and all are narrowing fast as battery density improves.
+Hydrogen fuel cell, the leading bet for the heaviest, longest routes where battery weight bites hardest; held back by the same green-hydrogen cost and refueling-network problems as everywhere else.
+Catenary / eHighway (overhead-wire trucks) and drop-in e-fuels/renewable diesel as niche or bridge options.
+
+Policy is converging on standards more than carbon price: the E.U.'s CO2 standards for heavy-duty vehicles (45 percent by 2030, 90 percent by 2040 versus 2019), California's Advanced Clean Fleets rule, and purchase incentives. The honest read: long-haul trucking is on a more credible near-term electrification path than any other "hard-to-abate" transport mode, which is precisely why it warrants the shortest treatment here. (It is numbered "6½" rather than as a full Part for the same reason: it is the lightest lift of the sectors covered, and unlike them does not need its own deep-dive.)
+
+Part 7: Policy architecture.
+
+The hard-to-abate sectors require integrated policy, not just carbon pricing, not just subsidies, not just standards, but combinations tailored to each sector.
+
+Green premiums.
+
+The "green premium" is the cost difference between low-carbon and conventional production. Current premiums:
+
+Green steel: ~20-30 percent premium currently in Europe (Fastmarkets tracked a 100 euros-170/t differential for flat products, Jan 2026), and trending lower as low-carbon steel price indices soften. (Early-decade estimates of 50 percent+ reflected theoretical cost models rather than observed market premiums, which have generally tracked 20-40 percent where green steel has actually traded.)
+Green ammonia: 60-150 percent premium
+saff: 200-400 percent premium
+Green methanol: 100-300 percent premium
+Green cement (alternative chemistry or C.C.S.-coupled): 50-100 percent premium
+
+Closing the green premium is the central economic challenge for hard-to-abate decarbonization. Several mechanisms:
+
+1. Carbon pricing on conventional production. E.U. E.T.S. prices at 75 euros per tonne of CO2 make conventional steel ~100 euros-150/ton more expensive, partially closing the green-steel premium. C.B.A.M. extends this to imports.
+
+2. Subsidies for clean production. The IRA provides ~10 dollars-20 billion of hydrogen and C.C.S. subsidies; the E.U. Innovation Fund and Hydrogen Bank provide significant support; U.K. C.C.S.-CfD provides revenue stability.
+
+3. Mandates and procurement. ReFuelEU Aviation, the U.K. saff Mandate, public procurement requirements (Buy Clean California, E.U. Green Public Procurement).
+
+4. Market makers. Frontier-type advance market commitments for C.D.R.; analogous initiatives for green steel (SteelZero), green concrete (ConcreteZero), green ammonia (First Movers Coalition).
+
+The First Movers Coalition.
+
+A particularly important demand-side mechanism for hard-to-abate sectors. Launched at COP26 (2021), the First Movers Coalition consists of major industrial buyers (Volvo, Mercedes, Apple, Microsoft, others) committing to procure low-carbon versions of specific commodities:
+
+Green steel purchase commitments
+Low-carbon aluminum purchase commitments
+Sustainable aviation fuel purchase commitments
+Zero-emission trucking commitments
+Zero-emission shipping commitments
+Low-carbon cement and concrete commitments
+
+The FMC aggregates demand across major buyers, providing visibility to producers about future market for low-carbon products. As of 2025, FMC includes 100+ companies with ~16 billion dollars in committed demand across covered sectors by 2030 (representing ~31 Mt CO2-equivalent in annual reductions once fulfilled).
+
+C.B.A.M. as sectoral lever.
+
+C.B.A.M. applies specifically to hard-to-abate sectors, steel, cement, aluminum, fertilizers, hydrogen, electricity. This is not coincidental: these are the sectors most exposed to carbon leakage, and the sectors where decarbonization is hardest. C.B.A.M. provides a sectoral price signal that:
+Equalizes carbon costs across E.U. and non-E.U. producers
+Creates direct demand for low-carbon production in C.B.A.M.-exposed jurisdictions
+Generates revenue (small but growing) that can fund decarbonization
+
+C.B.A.M. is the most ambitious sectoral climate policy instrument in the world today. Its success or failure over 2026-2030 will substantially shape global hard-to-abate decarbonization.
+
+Hub-based deployment.
+
+Many hard-to-abate decarbonization strategies are explicitly hub-based, clusters of industrial facilities sharing infrastructure for C.C.S., hydrogen, or clean electricity:
+
+Northern Lights cluster (Norway): cement (Brevik), C.C.S. storage, multiple emitters
+East Coast Cluster: industrial C.C.S. network
+Humber Industrial Cluster: hydrogen + C.C.S.
+Porthos/Aramis (Netherlands): industrial C.C.S.
+HyNet North West: hydrogen production + storage + C.C.S.
+Various U.S. hub awards under DOE programs
+
+The hub-based approach reduces per-ton costs through shared infrastructure and aligns hard-to-abate sectors around common infrastructure investments.
+
+The 2026-2030 sectoral outlook.
+
+Aggregating across sectors:
+
+Cement: Most positive near-term outlook. Brevik operational, C.B.A.M. creating demand, technology pathway clearer. Plausible 15-30 percent emissions reduction by 2030.
+Steel: More uncertain. 2025-2026 retrenchment is real. 5-15 percent emissions reduction by 2030 likely.
+Chemicals: Just beginning. Pilot-scale deployment. Modest impact by 2030, larger 2030-2040.
+Aviation: saff scaling slowly. Emissions growth (from demand) likely outpaces decarbonization in absolute terms. Net emissions still rising in 2030.
+Shipping: the IMO framework would create a strong incentive if adopted (its Oct-2025 adoption stalled, pushing the timeline past 2027). Methanol-fueled fleet expansion underway regardless. 10-20 percent reduction by 2035 plausible if the framework takes effect.
+
+The hard-to-abate sectors' aggregate contribution to global emissions in 2030 will likely be similar to 2025 levels, with growth in some sectors offset by reductions in others. The substantive decarbonization happens 2030-2050, but the policy frameworks, infrastructure investments, and demand signals that enable that decarbonization are being established now.
+
+Stop-and-check 12.G.
+
+Green premiums are typically 20-400 percent across hard-to-abate sectors. What mix of mechanisms, carbon pricing, subsidies, mandates, procurement, is most effective for each sector?
+C.B.A.M. covers the E.U.'s imports of C.B.A.M.-listed goods but doesn't address the rest of the world's trade in the same goods. Is this a meaningful limit on C.B.A.M.'s climate impact?
+The First Movers Coalition is a voluntary buyer commitment. SteelZero and ConcreteZero are sector-specific commitments. How do these compare to mandatory procurement standards (Buy Clean California, E.U. Green Public Procurement)?
+Socratic prompt: If you were a U.S. policymaker in 2027 with the political room to enact one major hard-to-abate policy, would you push for (a) a Foreign Pollution Fee (C.B.A.M. analog), (b) Buy Clean for federal procurement, (c) tighter Section 45Q with sectoral specifications, or (d) sectoral standards (for example, low-carbon cement requirements)? Defend a single choice.
+
+Answers
+
+No single mechanism fits all sectors; the right mix tracks each sector's premium, trade exposure, and maturity. Cement (regional, ~50-100 percent premium) responds best to procurement and sectoral standards plus C.C.S. subsidy, since trade measures have little leverage. Steel (globally traded, ~20-30 percent premium) suits carbon pricing plus C.B.A.M. to neutralize leakage, reinforced by buyer commitments like SteelZero. saff (200-400 percent premium) needs mandates such as ReFuelEU plus production credits. Green ammonia leans on subsidies and C.B.A.M.-driven export demand. The general rule: pricing where trade exposure is high, mandates/procurement where products are domestic, subsidies where premiums are largest.
+
+It is a real but partial limit. C.B.A.M. only equalizes carbon costs on goods imported into the E.U., so it does nothing about carbon-intensive steel, cement, or fertilizer traded among the rest of the world, the bulk of global volume. Its direct climate impact is therefore bounded: it protects E.U. producers from leakage and creates a low-carbon export incentive for sellers into Europe, but cannot decarbonize global production by itself. Its larger significance is as a demonstration and as a template, its climate weight grows only if it pushes exporters to clean up broadly and if other jurisdictions adopt analogous border measures.
+
+They are complementary but operate differently. Voluntary buyer coalitions (FMC, SteelZero, ConcreteZero) aggregate demand and signal a future market to producers, de-risking first low-carbon lines, fast to launch and flexible, but non-binding and dependent on members honoring commitments, so volumes can fall short. Mandatory procurement standards (Buy Clean California, E.U. GPP) compel public buyers to purchase low-carbon products, creating durable, enforceable demand backed by government purchasing power, but are slower to enact and limited to the public-procurement share. In practice voluntary commitments seed early demand while mandatory standards lock in and scale it.
+
+A defensible single choice is (a) a Foreign Pollution Fee. It simultaneously protects domestic producers from leakage, prices the carbon content of the most trade-exposed hard-to-abate imports (steel, aluminum, cement, fertilizers), and, unlike pure subsidy, generates revenue rather than spending it, which broadens its political coalition to include domestic industry. The decisive variables are political durability and trade exposure: a border fee aligns climate and competitiveness interests, whereas Buy Clean reaches only federal purchasing and sectoral standards face industry resistance. The trade-off is administrative complexity and trade-law friction, plus weaker leverage over largely domestic products like cement.
+
+Closing exercise.
+
+Three things to take away:
+
+1. The hard-to-abate sectors collectively produce roughly 35-40 percent of global emissions and are growing in relative importance as power-sector emissions decline. The post-2030 climate fight largely lives here.
+
+2. Each sector requires a distinct policy mix. Cement is most amenable to C.C.S.-led approaches. Steel needs hydrogen-DRI + scrap recycling + C.C.S. interim solutions. Aviation needs saff + demand management. Shipping has the strongest framework after the 2025 IMO agreement. There is no single "decarbonize hard-to-abate" policy that works across all sectors.
+
+3. The 2025-2026 evidence is mixed. Cement is moving (Brevik operational, others in pipeline). Steel is retrenching (European projects delayed). Aviation is scaling saff but very slowly. Shipping has its framework in place but deployment is just beginning. The pace of hard-to-abate decarbonization will substantially determine whether 1.5-2 degrees Celsius goals remain achievable.
+
+What this chapter simplified.
+
+1. The chemistry detail of each sector. I gave the basic chemistry of steel, cement, and chemicals. The actual production processes involve many sub-steps, intermediates, and variations. Detailed metallurgical or chemical-engineering analysis is its own field.
+
+2. The specific economics of each sector. I gave green premium ranges. The actual project economics depend on inputs (energy prices, feedstock costs, capital costs, financing terms), outputs (commodity prices, green premiums), policy support (subsidies, tax credits, mandates), and risk premiums. Each project has its own detailed financial model.
+
+3. The role of demand-side intervention. I touched on this in aviation (modal shift, demand management) and shipping (slow steaming). The substantive role of demand reduction, using less cement, less steel, less aviation, less freight, is potentially significant and deserves more attention than I gave it.
+
+4. The labor and equity dimensions. Hard-to-abate transitions involve workers, communities, and regions whose livelihoods depend on current industries. Just-transition planning, retraining, and regional economic development are essential components of climate policy. I gave brief mention; the full treatment is substantial.
+
+5. The specific national policy variations. Different jurisdictions have different policy mixes for hard-to-abate sectors. I gave E.U., U.S., U.K., and a few others. The full landscape (China's industrial policy, India's PLI schemes, Japan's GX strategy, Brazil's various initiatives, Indonesia's industrial decarbonization plans, et cetera) is far richer than I covered.
+
+6. The relationship to net-zero accounting. Hard-to-abate sectors are where S.B.T.i. V2's "Ongoing Emissions Responsibility" framework matters most, these are the sectors that need to be retained (under net-zero) but addressed via removal credits. Chapter 13 picks this up.

@@ -1,0 +1,159 @@
+Appendix A, Fuel-Standard Compliance Operations and the Fuel-voluntary carbon market Boundary.
+
+A.1 Carbon intensity as a continuous lever.
+
+L.C.F.S.-style systems reward every increment of CI improvement, not just threshold crossing. This creates a quantifiable ROI framework for capital and operational decisions, the practical consequence of the "continuous function" design from Chapter 7.
+
+A worked L.C.F.S. value. Take a CI of 20 gCO2e/MJ (roughly what well-optimized U.S. HEFA saff achieves with waste feedstocks and renewable process energy). The gap below California's current saff benchmark (~86.6 gCO2e/MJ as of 2025, per Carb Title 17 §95484) is roughly 66.6 gCO2e/MJ. saff carries roughly 43 GJ of energy per tonne (~0.13 GJ per gallon). The L.C.F.S. credit value is the CI gap times energy times credit price:
+
+Per GJ: 66.6 gCO2e/MJ times 1,000 MJ/GJ ÷ 1,000,000 g/t times 63 dollars per tonne of CO2-equivalent = 4.20 dollars per GJ of fuel. (Credit price: ~63 dollars per tonne of CO2-equivalent Q1 2026; ~66 dollars per tonne of CO2-equivalent week of May 11-17, 2026 per Carb weekly report, use current Carb data.)
+Per tonne of saff: 4.20 dollars/GJ times 43 GJ/t approximately 181 dollars per tonne.
+Per gallon: 4.20 dollars/GJ times 0.13 GJ/gal approximately 0.55 dollars per gallon, purely from L.C.F.S..
+
+The same gallon earns a 45Z credit of ~0.90 dollars-1.00/gal at that CI level. The RIN, if the fuel qualifies under D4 (biomass-based diesel) or D7 (cellulosic diesel), adds another 0.40 dollars-1.50/gal depending on current D-code pricing. (Always convert instruments to a common per-tonne basis before adding them, see Chapter 8 Part 8, "The unit mismatch trap.")
+
+Three variables determine how much L.C.F.S. value a gallon captures:
+
+1. Feedstock CI. Feedstock choice is the largest single CI driver. Approximate lifecycle starting-point CIs for common inputs (before process optimization):
+
+UCO and animal fats sit at the top of the CI hierarchy because they carry no feedstock-production allocation in lifecycle accounting, they are waste streams. The premium attached to low-CI feedstocks reflects this: UCO commands a significant market premium over virgin oils in the saff and biodiesel sectors, and that premium is partly a proxy for L.C.F.S. credit capture.
+
+2. Process energy. Process energy, heat, steam, hydrogen, is the second-largest CI driver and the most tractable through investment. Switching from fossil natural gas to renewable natural gas for process heat can reduce plant CI by 10-20 gCO2e/MJ. Green hydrogen replacing fossil hydrogen in hydroprocessing cuts CI by 15-30 gCO2e/MJ. The question is always cost per incremental CI point: at what credit price does the capital investment pay back?
+
+3. Upstream Scope 3 improvements. Some L.C.F.S. methodologies allow crediting of upstream changes, certified sustainable feedstock supply chains, methane-leak reduction at feedstock production. These are harder to verify and the CI credit is smaller, but they can matter at the margin for producers already near the compliance-grade threshold.
+
+A.2 Actual-value certification: when it pays.
+
+Every major regime, California L.C.F.S., Oregon CFP, Canadian Clean Fuel Regulation, REDIII, publishes default CI values by feedstock-pathway combination. A HEFA producer using UCO has a published default CI it can use without certification. The question is whether investing in plant-specific actual-value certification (CA L.C.F.S. calls this a "Tier 2" or full Lifecycle Analysis registration) is worth the cost.
+
+The calculation is straightforward:
+
+Registration cost: ~50,000 dollars-200,000 one-time, plus 20,000 dollars-50,000/year in ongoing monitoring, data management, and verification fees.
+CI uplift: if the plant's actual CI is 10 gCO2e/MJ below the published default (common for optimized plants), and the plant produces 50,000 tonnes of saff per year:
+
+ 50,000 t times 43,000 MJ/t times 10 gCO2e/MJ ÷ 1,000,000 g/t times 63 dollars per tonne of CO2-equivalent approximately 1.35 million dollars per year in additional L.C.F.S. credit value ( approximately 21,500 tonnes of CO2-equivalent times 63 dollars). (At the May 2026 spot of ~66 dollars per tonne of CO2-equivalent the figure is ~1.42 million dollars; use current Carb weekly price.)
+
+At those numbers, the one-time registration cost is recovered within roughly two to three months of the additional credit revenue even at the top of the cost range; ongoing verification fees are a small fraction of annual uplift. Volume and CI uplift determine whether the investment makes sense; for large producers with meaningfully better-than-default performance, actual-value certification is almost always the right call.
+
+A.3 Market routing: California full stack versus federal versus E.U..
+
+A U.S. producer selling into multiple markets faces a routing decision: which market for which tonne of physical product captures the most compliance revenue?
+
+California dominates for producers that can access it. The binding constraint is physical logistics: the closer a producer is to the California fuel market, the lower the transport differential to route volume there rather than to commodity markets. This is why several Latin American UCO-HEFA projects specifically target California as the first export market, not just because of saff demand but because the L.C.F.S. + 45Z stack provides materially better economics than any other accessible market.
+
+A.4 L.C.F.S. geographic reach: any producer, anywhere.
+
+A widespread misunderstanding, even among carbon-market professionals, is that L.C.F.S. is a California program and therefore only applies to fuel producers operating in or near California. This is incorrect in a way that has material commercial consequences, and it is the operational basis for the "apparent versus true geographic gap" distinction in Chapter 8 Part 8.
+
+Any fuel producer in the world can access California L.C.F.S. credits, provided they register a compliant CI pathway with Carb and the fuel is physically delivered into the California transport fuel supply. The geographic constraint is on delivery, not on production. A Brazilian UCO-HEFA producer, a Canadian canola-biodiesel plant, or a European eSAF facility can all earn L.C.F.S. credits if they export into California.
+
+The Carb pathway registration process.
+
+Registration is a defined administrative process, not an arbitrary barrier:
+
+Identify applicable pathway and methodology. Carb maintains the CA-GREET lifecycle model. Most feedstock-technology combinations have a designated methodology; novel pathways may require a provisional application.
+Compile plant-specific inventory data. Typically 12 months of verified operational data: feedstock sourcing records, energy consumption, process flows, any biogas utilization, transportation distances to the California delivery point.
+Engage a third-party CA-accredited LCA specialist. Carb requires a certified third-party verifier to review the application. This is not a voluntary carbon market verifier, it is a Carb-accredited engineer, typically affiliated with a specialized consultancy.
+Submit application to Carb. Carb reviews for completeness, may issue comment letters, and issues a formal CI score. For well-documented applications on established pathways, approval typically takes 6-18 months.
+Execute Fuel Pathway Registration Agreement. A legal agreement binding the producer to annual re-verification and allowing Carb to audit records.
+Maintain annual verification and reporting. Ongoing verified annual reports; CI is re-confirmed or adjusted annually.
+
+Costs: one-time registration (LCA consultant, legal, application fee) ~50,000 dollars-200,000 depending on pathway complexity and whether data-collection infrastructure already exists; ongoing ~20,000 dollars-50,000/year. At California credit prices, a producer shipping as little as 5,000-10,000 tonnes/year of saff typically recovers registration costs within the first credit cycle.
+
+Cascade to other programs.
+
+Registration cascades. Oregon's Clean Fuels Program and Washington's Clean Fuel Standard both accept Carb-registered pathways with simplified re-registration. New Mexico's pilot follows similar logic. Canada's Clean Fuel Regulation has a separate registration requirement but follows substantially similar (CA-GREET-compatible) LCA methodology, so plants that have assembled the Carb data package face reduced marginal effort. A single investment in Carb pathway registration can unlock access to four or five distinct North American compliance programs.
+
+Who has done it.
+
+The international producer base in the Carb registry is substantial:
+
+Brazilian ethanol producers (sugarcane), the sugarcane lifecycle score in CA-GREET is materially lower than the corn-ethanol default, giving Brazilian exporters an L.C.F.S. advantage on volume imported into California. Several large mills have held registrations for over a decade.
+Canadian canola-biodiesel producers, canola-based FAME biodiesel scores well below the diesel benchmark; Canadian producers registered to access California credits and have been a consistent supply source.
+European and Australian tallow/UCO-HEFA saff producers, as the saff supply chain matured, low-CI European producers registered California pathways to access the L.C.F.S. premium on top of E.U. mandate compliance value; some hold simultaneous Carb and REDIII actual-value certifications.
+Singapore and South Korean refiners producing HEFA from waste feedstocks have begun Carb registration as part of California saff supply agreements.
+
+Apparent versus true geographic gap.
+
+This is the operational core of the Chapter 8 white-space analysis. Producers must distinguish:
+
+Apparent geographic gap: the producer could register a Carb pathway (6-18 months, ~50 dollars-200k one-time) and access L.C.F.S., but hasn't yet, because of information barriers, upfront cost, or lack of California commercial relationships. This gap can be closed by the producer and should not be underwritten as permanent voluntary carbon market white space.
+True geographic gap: the producer genuinely cannot access any compliance regime because (a) the fuel type has no applicable Carb or equivalent methodology, (b) volume is too small to justify registration economics (typically under ~2,000 tonnes/year of saff), or (c) physical delivery into any compliance jurisdiction is not commercially viable given logistics.
+
+Category (a) is shrinking as CA-GREET expands coverage. Category (b) affects small producers. Category (c) is a real constraint for landlocked or remote projects. The practical takeaway: before declaring a project voluntary carbon market-eligible on geographic-gap grounds, verify the producer cannot access L.C.F.S., not just that they haven't yet.
+
+A.5 The L.C.F.S. family beyond California.
+
+California's L.C.F.S. is not a one-off. It has become the template for a growing family of CI-based fuel standards. Understanding where the family reaches and where it is expanding is essential for multi-year compliance-revenue strategy.
+
+North American state expansion.
+
+Oregon Clean Fuels Program (CFP, 2016): modeled closely on California's; initially gasoline/diesel substitutes, now includes saff. Accepts Carb-registered pathways with simplified re-registration.
+Washington Clean Fuel Standard (CFS, 2023): CI-benchmark-plus-ratchet structure under HB 1091; Carb pathway cascade applies. A smaller fuel market than California's, but an industrial and maritime fuel base that is particularly relevant for RNG and potentially marine-fuel credits.
+New Mexico (2023 pilot): in rulemaking; if finalized, likely to follow the Oregon/Washington model of Carb pathway acceptance.
+British Columbia (2010, expanded): the Renewable and Low Carbon Fuel Requirements Regulation predates California's L.C.F.S. in some respects; CI-based, revised multiple times. Canadian producers often hold both Carb and RLCFR registrations.
+
+The expansion pattern is consistent: states with strong climate-policy infrastructure and significant ground-transport fuel markets adopt L.C.F.S.-type instruments as complements to cap-and-trade or carbon taxes, not substitutes.
+
+Canada: a national-scale CI fuel standard.
+
+Canada's Clean Fuel Regulation came into force July 1, 2023, the first national-scale fuel standard with a CI-based credit-generation mechanism in North America. It requires annual per-unit reductions in lifecycle CI for liquid fossil fuels, with credits generated by producers of qualifying low-CI fuels. Credits are denominated in tonnes of CO2-equivalent (like L.C.F.S., unlike RINs). The methodology tracks CA-GREET structure closely, and Carb data packages are substantially transferable. The CFR market is earlier and smaller than California's, but at national scale (Canada's liquid-fuel market is roughly 15 percent of the U.S. market) it is a meaningful incremental revenue stream.
+
+The E.U.: step-function mandates with an actual-value CI layer.
+
+The E.U. has not adopted an L.C.F.S. equivalent, REDIII, ReFuelEU Aviation, and FuelEU Maritime are volume-mandate (step-function) structures. But REDIII contains an actual-value certification mechanism that creates a partial CI-based reward layer within the mandate system. Actual-value certification demonstrating greenhouse gas savings against the fossil comparator unlocks eligibility: REDIII Article 29 sets minimum thresholds of at least 50 percent for installations operational before October 2015, at least 60 percent for those starting from October 2015, and at least 65 percent for installations starting from January 1, 2021, these apply to transport biofuels and bioliquids. (The 70 percent/80 percent thresholds cited in some secondary sources apply to electricity and heat from solid biomass, not to transport fuels.) Producers certifying savings substantially above the applicable floor, in the 80 percent+ range, distinguish themselves in tenders and offtake negotiations even within the volume-mandate structure; this premium is commercially meaningful but should not be cited as a statutory REDIII threshold. The practical effect: the actual-value premium manifests as offtake pricing power rather than a continuous per-gram credit stream, airlines and saff buyers subject to ReFuelEU pay a premium for well-documented low-CI saff because it provides compliance buffer and reputational credibility. (This is the "boundary gap" of Chapter 8 Part 8: the room left between default values and what the methodology can actually score.)
+
+Beyond North America and Europe.
+
+Singapore saff Framework (2026): the Civil Aviation Authority of Singapore enacted a saff levy effective April 1, 2026, for flights departing from October 1, 2026, targeting a 1 percent saff blend at Changi and Seletar airports, scaling to 3-5 percent by 2030. Given Singapore's position as Asia-Pacific's largest jet-fuel hub, this is the first significant Asia-Pacific blending mandate; CI-intensity thresholds rewarding actual-value certification are expected in subsequent rulemaking.
+Japan saff ambitions: Japan has set a 10 percent-by-2030 saff target and is engaging with lifecycle CI frameworks; METI's saff supply-chain work overlaps with ICAO/Corsia methodology.
+
+What makes L.C.F.S. logic portable.
+
+Not every jurisdiction can implement an L.C.F.S.. The enabling conditions:
+
+A liquid-fuel market large enough to sustain credit trading. California's ~18-20 billion gallons/year of liquid transport fuel (approximately 13.4 Bgal gasoline in 2024 plus diesel and other fuels, per CEC/Carb data) provides the depth for a two-sided market; small jurisdictions face thin markets and price volatility.
+Regulatory capacity to administer lifecycle assessment. Carb's CA-GREET infrastructure, enforcement apparatus, and LCA staff are not trivial institutional investments.
+A pre-existing low-carbon fuel supply capable of generating credits immediately. Without early credit supply, the market has no price signal. California benefited from an existing ethanol and biodiesel sector.
+Political economy that tolerates per-unit price signals on transport fuels. L.C.F.S. costs pass through to fuel marketers and ultimately consumers, politically sensitive where fuel prices are managed.
+
+Where these conditions hold, L.C.F.S. logic is portable; where they don't, volume mandates (step-function) are more politically tractable even if less efficient. The trajectory for the family is upward: Canada's national CFR, Washington's adoption in 2023, and Singapore's 2026 saff levy suggest the CI-based continuous-improvement model is gradually winning the design competition where political conditions permit.
+
+A.6 A producer's compliance-capture decision matrix.
+
+For a given operational improvement, which compliance regimes can claim the resulting CI reduction, and where does voluntary-credit white space remain? "✓" means the regime's methodology can score and reward the improvement; "✗" means it cannot; "△" means partial credit.
+
+Reading this table: the L.C.F.S. is the most comprehensive CI-capture instrument, it can score renewable electricity, green hydrogen, and process-efficiency changes that other regimes miss. This is why L.C.F.S. maximizes compliance revenue and minimizes voluntary carbon market white space simultaneously. REDIII's actual-value pathway is second-broadest but operationally harder to access. RFS and 45Z are narrowest: volume-and-threshold instruments that don't score most plant-level CI improvements at all.
+
+The genuine voluntary carbon market white spaces reduce to three: novel fuel pathways with no established methodology yet (for example, green methanol at non-E.U. ports, agricultural-residue fuels in developing markets, certain pyrolysis-oil HEFA); upstream Scope 3 where no methodology covers the improvement; and the true geographic gap. Everything else is either captured by compliance already or is an apparent gap that can be closed by registration.
+
+A.7 VCMs as a bridge toward regulation.
+
+The chapter analysis frames voluntary markets as operating within the gaps left by compliance regimes. There is a stronger version: voluntary markets can actively create the conditions for compliance regimes to form. The bridge works in both directions, not only across a regulatory gap, but toward a regulatory future the project itself helps bring about. This is not hypothetical; there are documented mechanisms and concrete cases.
+
+Five mechanisms by which VCMs catalyze compliance markets.
+
+Proof of concept. voluntary carbon market projects generate evidence that an abatement is technically feasible and economically achievable at scale, reducing the policy risk of building a future standard around it. A biochar project producing 5,000 t of credits/year demonstrates to an agriculture ministry that the abatement is measurable, verifiable, and real.
+MRV infrastructure. Building a Verra or Gold Standard project requires monitoring, reporting, and verification systems, sensor networks, data protocols, third-party auditors. These are the exact prerequisites for a future compliance market and are transferable.
+Industry constituency. voluntary carbon market projects create producers and buyers with a commercial interest in a future compliance market (better pricing, lower buyer uncertainty, longer-duration revenue). A cluster of LATAM HEFA producers earning voluntary carbon market revenue has an incentive to lobby for domestic fuel standards.
+Supply base. Compliance markets need supply on Day 1. voluntary carbon market-funded projects build supply before the mandate exists. ReFuelEU's escalating saff mandate would have almost no credible supply base if the voluntary carbon market-and-early-procurement market hadn't funded the first generation of saff plants between 2018 and 2024.
+Price discovery. Voluntary markets generate observable price data, what buyers actually pay for verified reductions, which feeds the economic modeling regulators use to set benchmarks, credit prices, and penalty levels.
+
+Concrete bridge-toward-regulation cases.
+
+Chile HEFA leads to saff mandate. LATAM HEFA projects serving voluntary carbon market buyers and spot exports, funded partly through voluntary airline offtake, create the operating capacity and documented supply chain that make a Chilean saff mandate politically plausible.
+U.S. Midwest RNG leads to state L.C.F.S. programs. California L.C.F.S. created a deep dairy-RNG credit market in the early 2010s; the operational experience and MRV infrastructure built for Carb reporting became the template Oregon, Washington, and Canada used. Expansion didn't require building new MRV from scratch.
+U.K. saff mandate supply base. When the U.K. saff mandate was announced, industry and government advisors pointed to voluntary procurement deals and airline saff programs as evidence of demand depth that made the mandate viable.
+Canada CFR, transition from Carb pathways. Many Canadian producers registered Carb pathways in 2015-2020 for California revenue; when the CFR launched in 2023, they had already done the LCA registration and CI documentation the CFR required.
+Brazil/Colombia biomethane informing domestic fuel standards. Early Verra/Gold Standard methane-avoidance projects built continuous methane-flow measurement and biogas-composition tracking that now underpin Brazil's RenovaBio/Renovacombustíveis pathways and Colombia's biomethane/hydrogen pathway development.
+
+Requirements and limits.
+
+For the bridge-toward-regulation frame to be a sound strategy rather than a rationalization:
+
+Credible regulatory trajectory. Genuine evidence of political momentum, NDC commitments requiring sector action, active consultations, peer-jurisdiction precedent. "Regulation is possible someday" is not sufficient.
+MRV infrastructure that transfers. The project must be built to standards likely compatible with the eventual compliance regime. A bespoke methodology that can't convert is a dead end, not a bridge. Carb-compatible LCA methodology is explicitly a transferable MRV investment.
+Transparent stranding-risk disclosure. The voluntary revenue stream will terminate when compliance arrives, possibly at administered rather than market prices. Build the model in two phases: (1) voluntary carbon market-funded construction and early operation; (2) compliance-funded operation at lower per-unit margin but higher volume certainty.
+No double-claiming at the transition. When the compliance regime claims the attribute, the voluntary carbon market stream must be retired. The transition is an attribute-accounting event.
+
+The frame does not rescue projects with weak near-term additionality. A project that isn't additional under voluntary carbon market rules doesn't become additional because there might be a future compliance market. The near-term integrity tests still apply, the bridge argument operates in addition to them, not instead of them.

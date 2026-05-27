@@ -1,0 +1,520 @@
+Chapter 2, Solid Carbon as Commodity.
+
+Why this chapter exists.
+
+When people in climate policy say "carbon," they almost always mean the emissions kind, CO2 in the atmosphere, the credits and allowances and budgets we built around it. But the world has a parallel carbon economy that's been around for far longer than carbon markets, sells carbon by the ton in physical form, and has its own producers, buyers, traders, prices, and geopolitical fights. It's also the biggest carbon market in the world, by mass, by a wide margin.
+
+A first calibration: in 2024, the world made approximately:
+
+~700-800 Mt of metallurgical coke, almost all of it consumed in steelmaking.
+~14-15 Mt of carbon black, almost all of it consumed in tire and rubber manufacturing.
+~2-3 Mt of activated carbon, consumed in water and air treatment, food processing, gold recovery.
+~1.6 Mt of natural graphite, increasingly consumed in lithium-ion battery anodes (and also refractories, lubricants, foundry).
+~1.5-2 Mt of synthetic graphite, also increasingly going to batteries (and electrodes for steel, aluminum smelter anodes).
+~150 kt of carbon fiber, going to aerospace, wind blades, automotive lightweighting, sporting goods.
+
+For perspective: the voluntary carbon credit market trades on the order of ~200-250 Mt CO2-equivalent per year, a market worth roughly 1 dollars-2 billion at current prices. Metallurgical coke alone is 3 to 4 times larger by mass and, valued as coke, worth on the order of 200 billion dollars or more, and far more under broader definitions (we unpack the factor-of-ten methodology range in Part 1). Carbon black is a 15 dollars-21 billion market. The four major industrial gas companies, Linde, Air Liquide, Air Products, Messer, collectively sell more merchant CO2 than the entire voluntary carbon market traffics in credits.
+
+The physical carbon economy is not a sidebar to the climate carbon economy. It is in many ways the dog; climate is the tail. Decarbonizing steel, the largest single source of industrial CO2 emissions globally, is a project in restructuring the metallurgical coke value chain. The Chinese export restrictions on graphite, a critical material for lithium-ion batteries, is the front line of the energy transition's supply-chain politics. The two carbon economies are colliding.
+
+This chapter walks through the major commodity carbon materials, who makes them, who buys them, where the supply chains are concentrated, and where they intersect with the emissions and energy-transition stories that dominate the rest of the curriculum.
+
+A note on data quality before we start. The market-size figures I'll cite are aggregations from a mix of USGS (good for production tonnage), industry-association data (good but often not directly verifiable), private market research firms (Mordor, Persistence, Grand View, Future Market Insights, et cetera, substantially divergent), and company filings (good but only covering the listed majors). You'll see citations of "37 billion dollars" and "358 billion dollars" for the same metallurgical coke market in the same year from different reports. This is not because anyone is lying, the methodologies differ on what they include (just coke? coke plus the coking coal feedstock? whole BF-BOF cost stack?). When I cite a number, I'll try to indicate which methodology I'm relying on. When the divergence is wide, I'll flag it. Treat market-research firm numbers as directional, not precise.
+
+Part 1: Coke, the largest carbon commodity in the world.
+
+Metallurgical coke and the blast furnace.
+
+The world's largest single use of carbon as a material is metallurgical coke ("met coke") in primary steelmaking. To understand why, you need to understand the chemistry of the blast furnace.
+
+Iron ore is iron oxide (mostly Fe2O3, hematite, and Fe3O4, magnetite). To get usable iron, you have to strip the oxygen off. The classical method, perfected over centuries, is to react the iron oxide with carbon at high temperatures. The simplified overall reaction is:
+
+2 Fe2O3 + 3 C leads to 4 Fe + 3 CO2
+
+In a real blast furnace, the reaction proceeds through carbon monoxide as an intermediate, and the actual chemistry is more complex, but the essential point is that carbon, in the specific form of coke, is doing two jobs simultaneously:
+
+Chemical role: reducing agent. Carbon (or CO derived from it) strips oxygen off the iron oxide, producing CO2 as the inevitable waste.
+Physical role: structural support. A blast furnace is a 30+ meter tall column packed with ore, flux (limestone), and coke. The mixture must remain permeable to the hot gas blast rising from below. Coke is uniquely suited to this, it's mechanically strong enough not to crush under the column weight, porous enough to allow gas flow, and resistant to the alkali attack that would degrade other materials.
+
+This double role is why coke is essentially irreplaceable in the conventional blast furnace. You can swap some coke for pulverized coal injection at the bottom, that's a way to use cheaper coal as fuel and save on coke costs, but you cannot eliminate coke from a blast furnace and have it still function as a blast furnace. The structural role binds you to a coal-derived carbon source.
+
+This is the fundamental reason steel decarbonization is so hard, and why it dominates Chapter 12 (Hard-to-Abate Sectors). The alternative pathways, direct reduced iron with hydrogen, molten oxide electrolysis, biochar-substituted blast furnaces, all aim to eliminate or replace the coke entirely, which means reinventing the metallurgy, not just retrofitting the equipment.
+
+The numbers.
+
+In 2022, global steelmaking consumed approximately 755 million tons of coking coal (Global Efficiency Intelligence), which converts at roughly 1.4 tons of coal per ton of coke into about 540-550 Mt of metallurgical coke. Different sources give somewhat different production figures, call it 700-800 Mt/yr with reasonable error bars, the variance largely depending on whether the figure includes captive coke produced by integrated steel mills.
+
+Geographic distribution (approximate, 2024):
+China: ~470 Mt, about 60-65 percent of global production. China both produces and consumes the most.
+India: ~50 Mt, the fastest-growing major producer.
+Japan: ~30 Mt, declining slowly.
+Russia, E.U., Korea, U.S., Brazil: mid-single-digit-to-twenties Mt each.
+
+China is also the major net exporter of met coke (~5 Mt of exports in 2023 per market research sources, though export volumes are volatile because of domestic policy interventions). India is a net importer to feed its growing steel industry.
+
+Pricing is notoriously volatile. Metallurgical coke is closely tied to the coking-coal market (the upstream feedstock) and the steel market (the downstream demand). In 2021-2022, coking coal prices spiked to over 600 dollars/ton on supply disruptions; they then settled toward 200 dollars-250/ton for premium hard coking coal, dipped below 200 dollars in late 2024, and had recovered to roughly 238 dollars-240/ton by May 2026 on tight supply. Met coke itself prices at roughly 1.3-1.5 times the underlying coking coal cost, so call it 300 dollars-400/ton for blast furnace coke in normal market conditions, with wide swings.
+
+The market-research firms cite vastly different total market values:
+One source: 37 billion dollars in 2024 (Market Research Future).
+Another: 99.7 billion dollars in 2024 (Intel Market Research).
+A third: 358 billion dollars in 2024 (Research and Markets, Grand View).
+A fourth: 218 billion dollars in 2024 (FactMR).
+
+The factor-of-ten range is not a measurement error. It's a definitional disagreement: some are pricing the coke alone, some are including the coking coal feedstock, some are including the full coke-and-blast-furnace cost stack. Use these numbers directionally. A defensible "narrow" market value (coke only) is on the order of 200 dollars-250 billion at 700 Mt times 300 dollars-350/ton. A "broad" market value including upstream and integrated steel impacts is whatever you want to argue.
+
+The producers.
+
+The structure of met coke production is unusual: most of it is produced captively by integrated steel mills, not sold on the merchant market. ArcelorMittal, Nippon Steel, POSCO, JSW, Tata Steel, Baowu (the world's largest steel company by output), HBIS, Ansteel, these companies all run their own coke ovens adjacent to their blast furnaces. The merchant market, coke sold to third parties, is a much smaller slice, dominated by:
+
+SunCoke Energy, the largest independent merchant coke producer in North America.
+Various Chinese producers, Shanxi Coking, Mei Jin Energy, et cetera, with consolidation accelerating under environmental regulation.
+JFE Steel, Nippon Steel sell some merchant coke.
+
+Top-five global concentration is only about 15 percent of the market because so much is captive. This contrasts sharply with carbon black, where the top five command >50 percent.
+
+The merchant coke market is therefore mostly a marginal-pricing mechanism between captive producers and a few buyers without their own coke ovens, Electric Arc Furnace mills using DRI feed, foundries, ferroalloy producers, calcium carbide producers. For the average policy-curious reader, the merchant market is less interesting than the captive ovens inside the integrated steel mills, which are where most of the carbon and most of the CO2 actually flow.
+
+Where the emissions come in.
+
+Coke production itself emits CO2, coke ovens drive off the volatile fraction of coking coal as coke oven gas (which is itself often combusted for energy), and a fraction of the carbon is lost in the process. But the dominant emissions come later: when the coke meets the iron ore in the blast furnace and the carbon is converted to CO2. Primary steelmaking via the integrated blast furnace + basic oxygen furnace (BF-BOF) route emits roughly 1.8-2.3 tonnes of CO2 per ton of crude steel, and global crude steel production is about 1.9 billion tons per year. That's about 3.5 gigatonnes of CO2/yr, close to 10 percent of global fossil CO2 emissions, and the coke is the biggest single source within the steel-making process.
+
+This is the thread that connects Chapter 2 to nearly every later chapter. Steel decarbonization (Chapter 12) means restructuring this carbon flow. C.C.S. on blast furnaces (Chapter 10) means capturing the CO2 rather than abating the carbon. Climate policy on imports (C.B.A.M., Chapter 7 and Chapter 14) is fundamentally about pricing the carbon embedded in steel exports.
+
+The reline clock: when the coke decision actually gets made.
+
+A blast furnace is not something you decide about continuously. It's a campaign. Once lit, a modern blast furnace runs for 15-20 years before its refractory lining degrades to the point that the furnace must be rebuilt, a "reline," a capital event costing on the order of 100 million dollars to over 1 billion dollars for a large furnace and taking the unit offline for months. Between relines, the operating economics are dominated by feedstock (coke, ore, PCI coal) and the furnace simply runs. The decarbonization decision, keep buying coke or not, is therefore made at a small number of discrete moments: the reline, or the decision to abandon the asset before its reline comes due.
+
+This is the capital-stock lock-in that makes steel decarbonization a timing problem as much as a technology problem. When a reline falls due, the operator faces three broad options:
+
+Reline the blast furnace. Cheapest up front; commits another ~20 years of coke consumption and ~1.8-2.3 tonnes of CO2/t of steel. The carbon is locked in the day the furnace is relit.
+Reline and plan a C.C.S. retrofit. Keep the BF-BOF route but capture the CO2 (Chapter 10). The difficulty is that blast-furnace CO2 isn't one concentrated stack, it's spread across several dilute streams (top gas, hot stoves, on-site power, lime kiln), which makes capture more expensive per tonne than on a cement kiln or a gas-processing plant. The economics lean on 45Q in the U.S. and on the E.U. Innovation Fund plus the E.T.S. price in Europe.
+Abandon the BF-BOF route and build DRI-EAF. Direct reduced iron, iron ore reduced in a shaft furnace by a reducing gas, then melted in an electric arc furnace. Be precise here, because "DRI" is not a synonym for "hydrogen," and conflating the two is the simplification a steel practitioner will catch first. The dominant existing DRI route runs on natural gas (Midrex and Energiron shaft furnaces, ~120+ Mt/yr today across the Middle East, India, and the U.S.), reforming the gas to a CO/hydrogen mixture that strips the oxygen off the ore. Decarbonizing DRI keeps the same shaft furnace and progressively swaps reformed natural gas for hydrogen: NG-DRI leads to rising hydrogen blend leads to near-pure hydrogen-DRI. So the transition is a continuity, not a leap, a mill can build an "hydrogen-ready" gas-DRI plant now and green it as hydrogen gets cheap. Either way this is not a retrofit of the blast furnace; it's a different metallurgy and a multi-billion-dollar, greenfield-scale program (Chapter 12).
+
+Here is the question that should bother you: the operator making a reline decision in, say, 2027 is committing capital for a campaign that runs to roughly 2047, but the input-cost and regulatory environment over that window is exactly what's least knowable. Two variables dominate the calculation:
+
+The delivered cost of low-carbon hydrogen. This sets where the path ends, not where it starts. Fully green hydrogen-DRI consumes roughly 50-65 kg of hydrogen per tonne of iron. At 5 dollars/kg green hydrogen, that's on the order of 250 dollars-325/t of iron for the reductant alone, a crushing premium over both coke and natural gas. At 2 dollars/kg it falls to ~100 dollars-130/t, which starts to compete once a carbon price enters the picture. NG-DRI bridges the gap, it already cuts emissions roughly 40-60 percent versus BF-BOF without any hydrogen, but the fully zero-carbon steel thesis still rides on low-carbon hydrogen falling toward 2 dollars/kg, which has not happened at scale.
+The realized carbon price on the output. This is where regulation does the work. The E.U. E.T.S. prices the domestic producer's emissions today; C.B.A.M. (Chapter 7, Chapter 14) extends a carbon price to imported steel. But C.B.A.M.'s bite in 2026 is small, it covers only a few percent of embedded emissions in its first year (a single-digit €/t obligation) and ramps to full coverage only around 2034. So the 2027 reline decision is made underneath a carbon-cost curve that is shallow now and steep later, precisely over the campaign life of the furnace being relit.
+
+Put those together and the Socratic prompt below answers itself: whether you defend the blast furnace or build DRI-EAF turns on your remaining campaign life, the hydrogen price you can credibly contract for, and your exposure to a carbon price (your own E.T.S. bill plus your customers' C.B.A.M.). It's why the early-2020s wave of green-steel announcements ran into a wave of 2025-2026 postponements (Chapter 12): at today's hydrogen and carbon prices the numbers mostly don't pencil, and a reline buys 20 years of optionality to wait. And it's why this belongs in a chapter on carbon as a material, what's decided at the reline is whether to keep buying coke. Every tonne of green steel that displaces BF-BOF is a tonne of metallurgical coke never made: the world's largest carbon-commodity market contracts one billion-dollar reline decision at a time.
+
+Petroleum coke ("petcoke").
+
+Petroleum coke is a related but distinct product, the heavy carbon residue left behind when crude oil is refined in a delayed coker. It comes in two main grades:
+
+Anode-grade (calcined) petcoke, low sulfur, low metals, used as a precursor for carbon anodes in aluminum smelting (the Hall-Héroult process consumes about 0.4 tons of carbon anode per ton of aluminum). Also used as a precursor for some synthetic graphite. Premium product; tight supply.
+Fuel-grade petcoke, higher sulfur and metals content. Used as a cheap fuel substitute for coal in cement kilns, power plants, and as a blast-furnace injectant. The largest single fuel-grade petcoke importers are India (cement industry) and Turkey.
+
+Total global petcoke production is roughly 150 Mt/yr, with the U.S. (refineries on the Gulf Coast running heavy crudes) being the largest producer and exporter. The petcoke market is downstream of refinery configurations, heavier crudes produce more coke, lighter crudes produce less. The product is essentially a coproduct of gasoline and diesel, sold at a steep discount to coal in many markets because its high sulfur and metals content make it environmentally problematic.
+
+Petcoke is a striking case of the embedded-carbon problem. It's effectively pure carbon (>85 percent C, often >90 percent) and burning it releases nearly all of that carbon as CO2. India's cement industry is one of the world's largest petcoke consumers, and the resulting emissions are not generally accounted for as "petroleum emissions", they're cement emissions or industrial emissions, downstream of the original refining decision. The carbon attribution is muddy.
+
+A note for readers from the refining world.
+
+If you come at this chapter from oil products rather than climate, here is your on-ramp: several of these commodities are, quite literally, the bottom of the refinery barrel. Fuel- and anode-grade petcoke is the solid residue from the delayed coker; carbon black oil, the dominant carbon-black feedstock (Part 2), is a heavy aromatic refinery stream; needle coke, the premium precursor for synthetic graphite and EAF electrodes (Part 4), is made from the cleanest slurry/decant oils and coal-tar pitch; PAN and pitch feed carbon fiber (Part 5). What governs the supply of all of them is the same thing that governs the rest of the heavy end, the crude slate (heavier, more sour crude yields more bottoms), coker capacity (the swing unit that turns residue into coke plus lighter products), and residual-fuel demand. The biggest recent shock to that heavy end was IMO 2020, the 0.5 percent marine sulfur cap, which gutted high-sulfur fuel-oil demand and pushed refiners to either upgrade residue (more coking leads to more petcoke) or discount it steeply, reshaping fuel-grade petcoke and CBO economics directly. So the translation is clean: these are byproduct markets whose supply you already understand from the crude slate and coker economics (Chapter 4), now being pulled by a completely different set of demand drivers, steel, tires, batteries, aerospace, than the transport-fuel demand you're used to forecasting.
+
+Stop-and-check 2.A.
+
+Why is coke uniquely well-suited to the blast furnace, and why doesn't the same thing work with raw coal or charcoal?
+The merchant coke market is small relative to captive coke production. What does this imply about price discovery and transparency in the global coke market?
+India is the fastest-growing met coke producer. Why is that strategically significant in the next decade, given what you know about steel demand and decarbonization?
+Socratic prompt: If you were running a major integrated steel mill and you saw C.B.A.M. coming (Chapter 14), would you defend your coke-fueled blast furnaces or start building DRI-EAF capacity? What does the answer depend on?
+
+Answers
+
+Raw coal lacks coking coal's structural properties, it doesn't form a stable, porous mass that allows hot air to flow through the blast furnace charge. Coke's mechanical strength and porosity are essential: it must support the weight of iron ore above it, allow reducing gases to percolate upward, and simultaneously combust to produce the CO and heat needed for the reaction. Charcoal is structurally weaker and energy-poor by comparison. Only metallurgical-grade coking coal, after coking, produces a coke strong enough to bear blast furnace conditions.
+
+Because most coke is produced and consumed captively, the steelmaker owns or contracts the coking coal directly from mines and does not sell coke on the open market. Merchant market prices are set by a thin, residual float. This makes price discovery harder and more volatile: a few large transactions can swing benchmark prices. It also means pricing relationships (spot versus contract, quarterly versus annual) are opaque relative to commodities like oil or LME metals.
+
+India's fast-growing met coke capacity combined with rapid steel demand growth means India becomes both a major buyer and increasingly a major seller of coke globally in the next decade. As Indian steel mills scale, they need coke; as Indian coke capacity grows, India competes with China for export markets. At the same time, India's steelmakers are facing European C.B.A.M. pressure, creating an economic incentive to adopt DRI-EAF earlier. The tension between India's coal-heavy industrial base and C.B.A.M.-driven trade incentives makes India a pivotal player in coke market trajectory.
+
+The answer depends on the asset's remaining useful life, the cost of green hydrogen in your region, and your C.B.A.M. exposure. If your blast furnaces have 20+ years left and you're selling primarily to non-E.U. markets, defending them and adding C.C.S. may be NPV-positive. If you're heavily E.U.-exposed, C.B.A.M. costs (~100 euros-150/ton of steel by 2026+) start competing with the green premium for DRI-EAF. The decisive variable is the cost of green hydrogen: if you can access it at under ~2 dollars-3/kg, hydrogen-DRI pencils against C.B.A.M. costs; above 5 dollars/kg, BF-BOF+C.C.S. may be cheaper even at current E.U. E.T.S. prices.
+
+Part 2: Carbon black, the carbon you ride on.
+
+What it is, where it comes from.
+
+Carbon black is a fine particulate amorphous carbon, produced by the partial combustion of heavy petroleum oils (the dominant route, "furnace black") or natural gas ("thermal black," "acetylene black"). It's not the same as soot, although chemically related, carbon black is engineered to controlled particle size, structure, and surface chemistry, while soot is whatever combustion happens to produce.
+
+Two-thirds of global carbon black goes to tire manufacturing. The remainder is distributed across rubber goods (hoses, conveyor belts, seals), plastics and polymers (UV stabilization, conductivity), pigments and inks, paints and coatings, and a small but rapidly growing slice in battery applications (conductive additives in lithium-ion electrodes).
+
+The reason tires are 66 percent of the market is mechanical: carbon black reinforces the rubber matrix, dramatically improving wear resistance, tear strength, and tensile properties. A modern passenger tire is roughly 25-30 percent carbon black by weight; a heavy-truck tire is even higher. Without carbon black, tires would wear out in a few thousand miles and lose grip rapidly. The next-most-mature reinforcing alternative, precipitated silica with a silane coupling agent, is used in "green" low-rolling-resistance tires but doesn't fully replace carbon black; it's typically blended.
+
+The numbers.
+
+Global carbon black production in 2024 was approximately 14 million tons, with a market value of roughly 15 dollars-21 billion depending on which market research firm you trust (smaller divergence than for met coke because more of carbon black is sold on the merchant market, with discoverable pricing).
+
+Geographic concentration:
+China: ~45 percent of global output (roughly 6.3 Mt/yr).
+India: ~12 percent, fast-growing.
+Europe + Russia/CIS: ~15 percent.
+North America: ~10 percent.
+Rest of Asia (Japan, Korea, Thailand): ~12 percent.
+
+Top five producers account for over half the market, a far more consolidated structure than coke:
+Birla Carbon (Aditya Birla Group, India-headquartered, global), the largest by capacity.
+Cabot Corporation (U.S., NYSE: CBT).
+Orion Engineered Carbons (Germany/Luxembourg, NYSE: OEC).
+Tokai Carbon (Japan).
+Jiangxi Black Cat Carbon Black (China).
+
+Plus regional players: PCBL (India), Omsk Carbon Group (Russia), Continental Carbon, Mitsubishi Chemical. Specialty grades, used in conductive plastics, EV battery applications, high-end coatings, command premium prices and are concentrated in Cabot, Orion, and a handful of others.
+
+Pricing depends heavily on the feedstock (carbon black oil, CBO, itself a refinery byproduct) and on grade. Standard tire-grade prices typically run 1,000 dollars-1,500/ton. Specialty grades, high-purity, narrow particle size distribution, surface-modified, can run 3,000 dollars-10,000/ton, with the conductive grades for lithium-ion batteries at the high end. EV battery applications are a structural tailwind for the specialty segment.
+
+The decarbonization angle.
+
+Carbon black manufacturing emits substantial CO2, roughly 2-3 tonnes of CO2 per ton of carbon black produced, both from the petroleum feedstock and from process fuels. Global carbon black emissions are therefore on the order of 30-40 megatonnes of CO2/yr, not a huge number on the global scale, but material for the producing companies.
+
+The emerging story is recovered carbon black (rCB), pyrolyzing end-of-life tires to recover the carbon black that was originally compounded into them. rCB has been a niche for years but is scaling up with E.U. and U.S. regulatory pressure on tire-derived waste. Capacity is projected to exceed 1 Mt/yr by 2030, growing roughly 7 percent CAGR versus furnace black's 4 percent. rCB doesn't fully match virgin carbon black on performance for the most demanding applications (high-end passenger tires) but is good enough for many industrial and lower-end uses. Black Bear Carbon (Netherlands), Bolder Industries, Pyrum Innovations (Germany), and others are competing in this space.
+
+A second emerging vector: carbon black from methane pyrolysis, splitting natural gas into hydrogen and solid carbon at high temperatures, producing carbon black as a coproduct of hydrogen. Companies like Monolith (Nebraska, NEXT supported) and Hazer Group (Australia) are building plants. The economics depend on getting paid for both products, hydrogen for fuel/feedstock value and carbon black for industrial value, and the carbon black quality has to meet tire-industry specifications, which is non-trivial. Watch this space; it has the potential to materially shift hydrogen production economics, but commercial scale-up has been slower than the press releases suggested.
+
+There's an accounting question lurking here that the rest of the curriculum will sharpen, and it's worth naming now because it recurs. Methane pyrolysis takes carbon that would otherwise have been burned and locks it into a solid that may sit in a tire or an electrode for years to decades. Is that carbon storage? Could it earn a credit? The honest answer is: only sometimes, and the framework decides. The feedstock carbon is fossil, not atmospheric, so pyrolysis is not carbon removal in the C.D.R. sense (Chapter 11), at best it is avoided emissions, measured against the conventional counterfactual of making the same hydrogen by steam methane reforming (which vents CO2) and the same carbon black by furnace black (which burns oil). And whether even that holds depends entirely on the product's fate: carbon bound into a long-lived composite stays put; carbon in something that gets incinerated at end of life comes back. So a single materials process forces you to confront the avoided-versus-removed distinction (Chapter 5) and the durability/permanence question (Chapter 8, Chapter 11) at once, a preview of how the physical-carbon and emissions-carbon economies collide the moment anyone tries to monetize the overlap.
+
+Stop-and-check 2.B.
+
+Why is tire performance so dependent on carbon black, when so much of the rest of the tire is the elastomer? What does carbon black actually do mechanically?
+The carbon black market is far more consolidated (top 5 = >50 percent) than the coke market (top 5 = ~15 percent). Why?
+If recovered carbon black scales up faster than expected, what does that do to virgin carbon black margins? What does it do to virgin carbon black feedstock demand (and therefore refinery economics)?
+Socratic prompt: Methane pyrolysis produces hydrogen and solid carbon black. If you're decarbonizing the gas industry, is this a desirable pathway? What does the answer depend on, including what happens to the carbon black?
+
+Answers
+
+Carbon black mechanically reinforces the rubber matrix by forming strong polymer-filler bonds that constrain chain slippage under stress. The effect is dramatic: tensile strength, tear resistance, and abrasion resistance all increase roughly 2-10 times compared to unfilled rubber. Without this reinforcement, tire tread would wear away in thousands rather than tens of thousands of miles. The mechanism is surface-chemistry-mediated adhesion between the carbon black particle surface and the elastomer chains, not just physical mixing.
+
+Carbon black is largely a merchant commodity sold on visible spot markets; tires are manufactured globally and carbon black producers serve many buyers with relatively standardized grades. This creates enough buyer and seller competition for price discovery. Coke is mostly captive, steelmakers and cokemakers are often vertically integrated, and when trades occur, they're bilateral between large counterparties who negotiate confidentially. The thinner merchant float produces opaque pricing.
+
+If rCB scales rapidly, virgin carbon black producers face margin compression on standard tire grades (the largest volume segment). They would likely retreat toward specialty grades (conductive, battery-application, narrow-particle-size) where rCB doesn't yet match virgin quality. On the feedstock side, reduced virgin CB demand means lower demand for carbon black oil, a refinery byproduct, which is actually a problem for refiners who already struggle to find markets for heavy residuals.
+
+Desirable depends critically on what happens to the carbon black (solid carbon byproduct). If it's used in long-lived industrial applications, tire reinforcement, battery electrodes, industrial composites, the carbon stays out of the atmosphere and the pathway is net-negative relative to conventional hydrogen production (which produces CO2). If the carbon black is burned for energy, the sequestration is temporary. The other variable is energy: methane pyrolysis is endothermic; if you run it on renewable electricity, it's green; if you run it on natural gas heat, you've partly undone the climate benefit.
+
+Part 3: Activated carbon, the surface area trade.
+
+What it is.
+
+Activated carbon is amorphous carbon that has been processed to maximize its internal surface area, typically 500-1,500 m2/gram, by creating a network of pores at multiple length scales. Think of it as carbon with a controlled honeycomb of holes at the molecular level. The pores adsorb molecules from the surrounding fluid (gas or liquid), making activated carbon a workhorse of separation and purification across the chemical industry.
+
+It's produced by two main routes:
+
+Steam activation, Carbonize a feedstock (coconut shell, wood, peat, lignite, coal), then partially oxidize the resulting char with steam at ~800-900 degrees Celsius. Burns off some of the carbon, creating porosity.
+Chemical activation, Impregnate the feedstock with a chemical activating agent (phosphoric acid, zinc chloride, potassium hydroxide), then carbonize. Different pore structure than steam activation.
+
+The feedstock matters enormously. Coconut shell activated carbon has small, uniform micropores and is preferred for gold recovery, gas-phase applications, and high-end water filtration. Coal-based activated carbon has a broader pore distribution and is cheaper, used in bulk water treatment. Wood-based products are mostly chemically activated and used for liquid-phase decolorization (sugar refining, edible oils, pharma).
+
+The numbers.
+
+Global activated carbon production is roughly 2.5-3 Mt/yr with a market value around 5 dollars-7 billion (more consistent across sources than for coke). The largest end-use segments:
+
+Water treatment (drinking water, wastewater, industrial process water), the largest application, growing steadily.
+Air and gas treatment (mercury control in power plant flue gas, VOC capture, industrial off-gas).
+Food and beverage (sugar decolorization, edible oil purification, decaffeinated coffee).
+Pharmaceutical and chemical (purification, catalysis).
+Gold recovery ("carbon-in-pulp" gold mining).
+Automotive evaporative emissions (the canister that captures gasoline vapors from your fuel tank, a hidden but mass-market application).
+
+Major producers: Cabot (acquired Norit, the historic global leader; now under Cabot's specialty chemicals business after a 2018 spin), Kuraray (Japan, includes Calgon Carbon, a major U.S. brand), Donau Carbon (Germany), Haycarb (Sri Lanka, coconut-shell specialist), Jacobi Carbons (Sweden/Sri Lanka).
+
+China is a substantial producer but less internationally dominant in this commodity than in graphite or carbon black, partly because feedstock geography matters (coconut shell, certain coals) and partly because activated carbon quality requirements are demanding enough that mature producers retain advantages.
+
+Where carbon meets climate, indirectly.
+
+Activated carbon shows up in the climate story in three places:
+
+1. Coal-plant mercury control. U.S. E.P.A. Mercury and Air Toxics Standards drove a major expansion of powdered activated carbon demand for flue-gas injection at coal power plants in the 2010s. As coal plants retire, this demand declines, creating an interesting wrinkle: activated carbon producers built capacity for a market that is now contracting.
+
+2. Direct air capture. Some direct air capture technologies (Heirloom's mineralization-based approach being a different mechanism, but Climeworks' early sorbents and various others) use modified activated carbon or related porous carbon materials. The volumes are tiny relative to other direct air capture sorbent classes (amine-functionalized polymers, metal-organic frameworks, alkaline solutions), but it's a connection point.
+
+3. Battery and supercapacitor markets. Specialized activated carbon, particularly with very high surface area (>2,000 m2/g) and controlled porosity, is the dominant electrode material in supercapacitors. Sodium-ion batteries, an emerging alternative to lithium-ion, particularly for stationary storage, also use hard carbon (a related material) on the anode side. These are small markets today but potentially growing.
+
+The activated carbon industry is less geopolitically charged than graphite, but it sits at the boundary between commodity carbon and emerging energy-transition demand in interesting ways.
+
+Stop-and-check 2.C.
+
+Activated carbon works by surface area, but two products with the same surface area can behave completely differently. Why does the feedstock (coconut shell versus coal versus wood) matter so much for the final product, rather than just the activation process?
+U.S. Mercury and Air Toxics Standards drove a powdered-activated-carbon capacity boom for flue-gas mercury control; coal-plant retirements are now shrinking that demand. What does this tell you about building commodity capacity on the back of a single regulation?
+China dominates coke, carbon black, and graphite, but is less dominant in activated carbon. What's different about this commodity's inputs and cost structure?
+Socratic prompt: Sodium-ion batteries use hard carbon, not graphite, on the anode. If sodium-ion scales for stationary storage, how does that interact with the graphite supply-chain risk you'll meet in Part 4, is hard carbon a hedge, and what would have to be true for it to matter?
+
+Answers
+
+Activation (steam or chemical) creates the porosity, but the pore-size distribution, which sets what molecules the carbon can actually trap, is inherited largely from the precursor's native structure. Coconut shell yields small, uniform micropores ideal for gas-phase capture and gold recovery; coal gives a broader distribution suited to bulk water treatment; wood, chemically activated, gives larger pores for liquid-phase decolorization. So feedstock isn't primarily a cost choice, it's a performance choice: you pick the raw material to match the target application's molecular geometry. That's why the market segments by feedstock rather than by producer.
+
+It's a cautionary tale about regulation-driven demand. MATS conjured a large, sudden PAC market; producers built capacity to serve it; coal retirements driven by other policy and economics are now stranding that capacity. The lesson, and it recurs throughout this book, is that a regulation is itself an asset with a duration and a reversal risk. The same logic governs whether you'd finance a graphite plant against F.E.O.C. rules (Part 4) or a direct air capture offtake against a procurement program (Chapter 11): the policy's durability is part of the bankability, not a given.
+
+Two things. First, feedstock geography: premium activated carbon depends on coconut shell (Sri Lanka, Philippines, Indonesia) and specific coals, which aren't concentrated in China the way graphite ore and coking coal are. Second, the quality requirements, engineered pore structure, batch consistency, are demanding enough that incumbent specialists (Cabot/Norit, Kuraray/Calgon, Haycarb, Jacobi) retain real advantages. Where the moat is process know-how and feedstock access rather than cheap coal-fired electricity and scale, China's structural advantages (Part 7) bite less.
+
+Hard carbon is a partial hedge, not a substitute. Sodium-ion sidesteps both lithium and graphite, so scaling it in stationary storage, where energy density matters less, would relieve some graphite-anode demand and dilute China's leverage. But the conditions are stringent: sodium-ion's lower energy density confines it to stationary and short-range uses; hard-carbon supply chains are themselves immature; and EVs, the bulk of graphite demand, stay on lithium/graphite for the foreseeable future. So hard carbon caps the upside of graphite demand at the margin rather than displacing the core. The decisive variables are how fast stationary storage grows and whether hard-carbon production scales outside China.
+
+Part 4: Graphite, the battery anode, the geopolitical front.
+
+This is where Chapter 2 most directly intersects with the energy transition. Graphite is the carbon material whose supply chain has become a national security issue in the past three years. We're going to spend serious time here.
+
+Why graphite is the battery anode material.
+
+Lithium-ion batteries have two electrodes: a cathode (usually a lithium-containing metal oxide, NMC, NCA, LFP) and an anode (usually graphite). During charging, lithium ions move from cathode to anode and intercalate, slide between the layers of graphite. During discharge, they move back.
+
+Graphite works as a battery anode because of the layered structure I described in Chapter 1: each layer is a sheet of hexagonal carbon (graphene), held to adjacent layers by weak van der Waals forces. The gap between sheets is just wide enough for lithium ions to slip in and out. The structure also conducts electrons well along the planes, so charge can flow.
+
+Approximately 95 percent of commercial lithium-ion battery anodes are graphite, either natural, synthetic, or (increasingly) a blend. Silicon anodes, which can store much more lithium per gram than graphite, are an active R and D and early-commercial area (Sila Nanotechnologies, Group14, Enovix), but silicon anodes typically use silicon as a coating or blend on a graphite substrate rather than replacing it entirely, because pure silicon swells too much during charging. So even silicon-anode batteries are largely graphite anodes with silicon enhancements. Lithium-metal anodes (pure lithium foil) are the long-promised replacement for graphite that hasn't materialized at commercial scale.
+
+For practical purposes, for the next 10+ years, every commercial lithium-ion cell will have a graphite anode. The question is what kind of graphite, made where, by whom.
+
+Natural versus synthetic graphite.
+
+This is the fork in the road that you need to understand to follow the rest of this section.
+
+Natural graphite is mined. It comes in three main forms:
+Flake graphite, large crystals, the form preferred for batteries after processing.
+Vein graphite, high-purity, found in Sri Lanka almost exclusively. Niche.
+Amorphous graphite, Lower purity, used in lubricants, foundries, refractories. Lower value.
+
+Natural flake graphite to be used in batteries must be processed into spherical graphite (also called CSPG, coated spherical purified graphite). This involves:
+Micronization, Grinding the flakes into smaller particles.
+Spheronization, Mechanical rounding to produce 10-25 micron spherical particles (poor man's image: tumbling rocks in a stream until they're round).
+Purification, Acid leaching (typically hydrofluoric acid) to remove mineral impurities and bring purity to >99.95 percent carbon.
+Coating, A thin layer of pyrolytic carbon (or pitch-derived carbon) deposited on each spherical particle to control the surface chemistry that interfaces with the electrolyte.
+
+The mining-to-flake step is relatively distributed globally; the spheronization, purification, and coating steps are heavily concentrated in China. This is the choke point.
+
+Synthetic graphite is manufactured. It starts with carbon-rich feedstocks, typically needle coke (a premium petroleum coke or coal-tar pitch product), and processes them through graphitization, which involves heating to 2,500-3,000 degrees Celsius for extended periods to convert the disordered carbon into ordered graphite structure. The workhorse for this is the century-old Acheson furnace: the packed carbon is heated resistively, a very large electric current is passed directly through the charge, held near 3,000 degrees Celsius for days, then cooled over more days. Newer lengthwise-graphitization furnaces improve throughput, but the fundamental constraint is unchanged: you must hold a large mass of carbon near 3,000 degrees Celsius for an extended batch cycle. Note what this means, graphitization is already electric. The energy isn't combustion heat to be replaced; it's resistive heating drawn from the grid. So the carbon footprint of synthetic graphite is governed almost entirely by the carbon intensity of the electricity feeding the furnace, which is why Chinese synthetic graphite, made largely on a coal-heavy grid, carries such high embodied emissions. This is extremely energy-intensive: synthetic graphite production consumes roughly 15,000-20,000 kWh per ton. At a U.S. industrial electricity price of 0.08 dollars/kWh, that's 1,200 dollars-1,600/ton just in electricity. In China, with industrial electricity around 0.05 dollars-0.07/kWh and lower labor and capital costs, synthetic graphite can be produced for 5,000 dollars-7,000/ton.
+
+Synthetic graphite offers better performance on some metrics (faster charging, longer cycle life) but at higher cost and much higher embodied energy (and therefore CO2 if the electricity is fossil-fired, which it largely is in China). Natural graphite is cheaper, lower-energy, but harder to qualify for high-end battery applications because of variability in raw material properties.
+
+In practice, modern battery anodes increasingly use blends, typically 70-80 percent natural, 20-30 percent synthetic, optimized for the specific cell application. EVs requiring fast charging tend toward higher synthetic content; energy-storage cells for grid applications can tolerate higher natural content.
+
+The numbers.
+
+Global natural graphite production in 2024 (USGS Mineral Commodity Summaries 2025):
+Total: ~1.63 Mt
+China: 1.27 Mt (78 percent)
+Madagascar: 89 kt (5.5 percent), up 41 percent YoY, surpassed Mozambique
+Mozambique: ~75 kt (Balama mine, owned by Syrah Resources)
+Brazil: ~60 kt
+South Korea, Russia, Tanzania, Norway, others: smaller producers
+
+China also controls roughly **90 percent of the world's graphite refining capacity**, the spheronization-purification-coating steps that are required to turn mined flake into battery-ready anode material. This is even more concentrated than the mining picture suggests. A non-Chinese flake graphite mine can be developed, but if its output has to be shipped to China for refining and then re-imported as finished anode material, the supply chain remains Chinese-controlled.
+
+Synthetic graphite production is concentrated similarly: China produces an estimated 65-75 percent of global synthetic graphite, with the rest split among Japan, the U.S., and Europe (Tokai Carbon, Showa Denko, GrafTech, SGL Carbon, Imerys Graphite and Carbon).
+
+December 2023: China's export licensing.
+
+On October 20, 2023, China's Ministry of Commerce announced that as of December 1, 2023, exports of high-purity natural graphite (>99.9 percent carbon) and certain synthetic graphite materials would require export licenses. This was framed as a national security measure but landed in the middle of the EV transition and was widely read as a response to U.S. chip export controls.
+
+The immediate effect was a sharp drop in Chinese exports while licenses were processed. USGS reports that China's spherical graphite exports in the first two months of 2024 were 65 percent below the same period in 2023; the next six months saw a more modest 19 percent decline as the licensing system processed approvals. Prices for non-Chinese flake graphite outside the Chinese system spiked. Western anode manufacturers and battery cell makers scrambled.
+
+The deeper implications:
+
+1. Demonstrated leverage. China can effectively throttle Western battery production by adjusting graphite export approvals. It hasn't (so far) done so on a large scale, but the option is established.
+
+2. Acceleration of non-Chinese capacity. U.S. Treasury, the IRA's foreign entity of concern rules, and the E.U. Critical Raw Materials Act have explicitly identified graphite as a focus. In 2024:
+U.S. graphite supply-chain funding in 2024 came through two programs. Under the Bipartisan Infrastructure Law, Urbix was selected for up to 125M dollars to build a coated spherical graphite processing facility in Arizona, and Ascend Elements received up to 125M dollars for battery-grade graphite recycling capacity in Kentucky/Louisiana. Separately, the Defense Production Act Title III program awarded 8.3M dollars to Lomiko Metals for pre-feasibility work at the La Loutre flake graphite project in Québec, Canada.
+Westwater Resources, Novonix, and Anovion are building synthetic graphite capacity in the U.S..
+Syrah Resources operates a spherical graphite facility in Vidalia, Louisiana, the only major non-Chinese operation at scale.
+The Inflation Reduction Act's §30D EV tax credit rules require battery critical materials (including graphite) to be increasingly sourced from the U.S. or free-trade-agreement partners (with a temporary exception for graphite that has been extended multiple times because compliance is essentially impossible at current production scales).
+
+3. Tariff escalation. The U.S. announced in May 2024 a Section 301 tariff increase on Chinese natural graphite from 0 percent to 25 percent, effective January 1, 2026. As of early 2026, cumulative U.S. duties on Chinese graphite anode material are substantially higher, approximately 220 percent, after Commerce issued final antidumping (93.5 percent) and countervailing (66.68 percent) duty determinations in February 2026, stacked on top of Section 301 (25 percent), Section 232 (25 percent), and IEEPA (10 percent) tariffs. (See Sources and currency note below.)
+
+4. Industry response. The major battery cell makers, CATL, BYD, LG Energy Solution, SK On, Panasonic, Samsung SDI, are diversifying. CATL has invested in Indonesian and Mexican facilities; Korean and Japanese manufacturers are building synthetic graphite capacity in North America to meet IRA-eligible content rules.
+
+The graphite story is the canonical example of what happens when an industrial commodity that almost nobody outside the industry tracks suddenly becomes critical to a major energy-transition technology. It's likely to repeat across other critical minerals (lithium hydroxide, cobalt refining, rare earth permanent magnets) and will recur in Chapter 14, where we'll treat the geopolitics in depth.
+
+The bankability problem: why the non-Chinese supply chain is so slow.
+
+Notice what all of this, F.E.O.C. rules, A.D. C.V.D. duties, BIL and DPA grants, is really doing: it's trying to solve a financing problem, not a geology problem. Graphite is minable in many places, and the processing chemistry is known. The binding constraint is that no lender will finance a non-Chinese spheronization-purification-coating plant without a credible, long-term offtake contract at a price that covers the plant's higher cost, and that price is hostage to the incumbent. China holds ~90 percent of refining capacity and can, if entrants threaten, let prices fall to levels that strand a newcomer (the same leverage the export licenses demonstrated, run in reverse). So a Western anode project faces a classic chicken-and-egg: cell makers won't sign premium offtake while cheaper Chinese material is freely available, and lenders won't fund the plant without the offtake. The result is a pipeline of announced projects that struggle to reach a final investment decision.
+
+Policy is the attempt to break that deadlock from both sides at once. On the supply side, grants (BIL, DPA) de-risk the capital cost of the first plants. On the demand side, and this is the part worth internalizing, the A.D. C.V.D. duties (raising the landed cost of Chinese anode material to ~220 percent as of early 2026) and the F.E.O.C. eligibility rules (denying the 7,500 dollars consumer EV credit to China-sourced graphite) function as price-floor and demand-creation mechanisms. They don't make Western material cheaper; they make the incumbent more expensive, which is what an offtake counterparty needs before it will sign. This is why the F.E.O.C.-deadline question in the Stop-and-check below is not a trade-compliance footnote, to a project-finance lender, a deadline that keeps slipping is no deadline at all, and a plant underwritten against a phantom price floor doesn't reach F.I.D.. The whole non-Chinese supply chain is, in effect, waiting to find out whether the regulatory demand signal is real. Hold this pattern, policy manufacturing a price floor so that private capital will finance the build-out, because it is the same structure you'll see again in C.C.S. (Chapter 10), C.D.R. procurement (Chapter 11), and saff mandates (Chapter 12, Appendix A).
+
+Other graphite uses (briefly).
+
+While batteries are the growth story, graphite has substantial legacy markets:
+
+Refractories (~30 percent of natural graphite demand historically): Heat-resistant linings for furnaces, especially in steelmaking. Magnesia-carbon and alumina-carbon refractories use flake graphite.
+Foundry (~10 percent): Mold coatings to prevent metal-mold reaction.
+Lubricants (~5 percent): Graphite's layered structure makes it a solid lubricant in high-temperature applications where oils would fail.
+Pencils (yes, still): A few percent. Wrongly assumed to be the main use of graphite by people who haven't thought about it.
+Brake linings, gaskets, conductive coatings: Smaller specialty uses.
+
+Synthetic graphite has different distribution:
+Electrodes for electric arc furnace steelmaking, the largest non-battery use. EAF growth (driven by steel decarbonization, increasing scrap recycling, U.S. Section 232 tariffs, and C.B.A.M.-style pressure on BF-BOF steel) is a structural tailwind for synthetic graphite electrode demand. GrafTech, Showa Denko, SGL Carbon, Tokai Carbon dominate.
+Aluminum smelter anodes: Hall-Héroult cells consume about 0.4 t of carbon anode per ton of aluminum. Anode-grade petcoke is the precursor; the calcined and shaped anodes are themselves a manufactured product.
+
+The intersection point: as the world increases EAF steelmaking (good for emissions) and battery production (good for the energy transition), demand for synthetic graphite rises along two channels simultaneously, while the energy intensity of synthetic graphite production is itself a decarbonization challenge.
+
+Stop-and-check 2.D.
+
+Why must natural graphite be spheroidized before use in a battery anode? What problem does the spherical shape solve?
+China controls ~78 percent of mining and ~90 percent of refining. Which choke is more strategic, and why?
+Synthetic graphite is more energy-intensive to produce than natural. But suppose you can run the synthetic-graphite plant on cheap renewable electricity. Does that change the long-run competitive landscape versus natural graphite? What's the catch?
+Socratic prompt: The IRA's F.E.O.C. rule says that after 2025, EVs with battery materials from "foreign entities of concern" (read: China) lose the 7,500 dollars consumer credit. Graphite is in the rules, but the deadline has been extended because compliance is impossible. Should the deadline be enforced anyway, accepting the short-term price increase to force the non-Chinese supply chain? Make the case both ways.
+
+Answers
+
+Natural graphite flakes are irregular platelet shapes. When lithium ions intercalate and deintercalate during battery cycling, irregular shapes create mechanical stress concentrations that crack the graphite particle. Spheroidization (tumbling flakes until they're rounded) distributes stress more evenly and dramatically improves cycle life, the number of charge-discharge cycles before capacity degrades. Without it, batteries would fail in hundreds rather than thousands of cycles. The process also creates a more predictable packing density, improving volumetric energy density in the anode.
+
+Mining is more strategic for direct supply of raw material; refining is more strategic for control of the value-added steps that determine performance. China dominates both, but the mining choke is easier to challenge, graphite deposits exist globally (Mozambique, Madagascar, Norway, Canada) and mine development is feasible within 5-10 years. The refining choke is harder: spheroidization, purification to 99.95 percent+, and coating require highly specialized equipment and process knowledge concentrated almost entirely in China. A non-Chinese miner shipping to a Chinese refiner solves nothing for supply-chain independence. The refining choke is more strategic.
+
+The framing has a trap in it. Graphitization (Acheson/LWG furnaces, ~2,500-3,000 degrees Celsius) is already electric, resistive heating, not a combustion process waiting to be electrified, so there's no electrification breakthrough required. Cheap clean electricity would cut the dominant operating cost (electricity is ~40-50 percent of production cost) and zero out the embodied emissions, which today are driven almost entirely by the carbon intensity of the (largely coal-fired, in China) grid feeding the furnace. So in principle, renewables make synthetic graphite both cheaper and cleaner, eroding natural graphite's cost-and-emissions edge. The real catches are three: (a) the furnaces run multi-day continuous batches with enormous, steady power draw, so they need firm 24/7 clean power, not intermittent solar/wind, which means firmed renewables, hydro, or nuclear, not just "renewable electricity"; (b) that firm clean power is scarce and expensive where the needle-coke and graphitization supply base actually sits; and (c) decarbonizing it therefore means relocating or rebuilding the supply chain around clean firm power, a years-long capital project, not flipping the existing Chinese capacity onto renewables.
+
+For enforcement: sustained ambiguity about compliance deadlines weakens the policy signal and delays non-Chinese supply-chain investment. Automakers and suppliers won't build the necessary infrastructure unless they believe the deadline is real. A deadline with repeated extensions is no deadline. Against enforcement: no non-Chinese anode graphite supply chain exists at scale in 2025; enforcing the rule would price American consumers out of EV credits, harm domestic EV adoption exactly when it's competing with Chinese EVs, and benefit no one. The pragmatic case is for phased enforcement with hard stop-dates, announce that the 2027 extension is truly final, and accompany it with supply-chain investment incentives that make compliance achievable by then.
+
+Part 5: Carbon fiber, the lightweight composite.
+
+What it is.
+
+Carbon fiber is a manufactured material, not really an allotrope of carbon in the strict sense. Filaments are produced by heating an organic precursor, almost always polyacrylonitrile for high-performance applications, or pitch for some industrial uses, in a controlled atmosphere. The thermal process drives off the non-carbon elements and leaves behind a filament that is roughly 90-95 percent carbon, with the carbon arranged in turbostratic graphitic structures aligned along the fiber axis. This alignment is what gives carbon fiber its remarkable mechanical properties, tensile strength up to 7 GPa, modulus over 900 GPa for the highest-end products, and densities around 1.8 g/cm3, vastly better strength-to-weight than steel or aluminum.
+
+Carbon fiber is almost never used alone. It's woven or laid into fabrics or unidirectional tapes, then impregnated with a polymer resin (typically epoxy) and cured into a carbon fiber reinforced polymer composite. The composite is what gets used in aircraft, wind blades, hydrogen storage tanks, sporting goods, automotive parts, and increasingly in pressure vessels for industrial gas storage.
+
+The numbers.
+
+Global carbon fiber production capacity is roughly 200 kt/yr as of 2024, with actual production around 150 kt/yr (utilization runs in the 70-80 percent range). The market is more concentrated than most carbon commodities:
+
+Toray (Japan), the global leader, roughly 30 percent+ market share.
+Hexcel, major aerospace supplier.
+Mitsubishi Chemical (Japan).
+Teijin (Japan).
+SGL Carbon (Germany).
+Hyosung Advanced Materials (Korea).
+Several Chinese producers (Zhongfu Shenying, Jilin Carbon Valley, et cetera), rapidly growing capacity, mainly for wind, sporting goods, and increasingly industrial.
+
+End-use distribution (approximate):
+Aerospace (~25 percent), Highest-value, low-volume, qualifications-intensive. Modern wide-body aircraft (787, A350) are roughly half composite by weight.
+Wind energy (~25 percent), Carbon fiber in the spar cap of large wind blades. Critical for blades longer than ~70 m, where glass fiber alone is too heavy and flexible.
+Sporting goods (~10 percent), Bikes, golf clubs, tennis rackets, fishing rods. Mature mass-market.
+Automotive (~10 percent), BMW i3/i8 led the high-end attempt; now mostly limited to high-performance and luxury vehicles. Cost has stayed too high for mainstream automotive.
+Pressure vessels (~10 percent), Hydrogen storage tanks, compressed natural gas tanks. Growing rapidly with hydrogen mobility.
+Construction, marine, industrial, the rest.
+
+Prices range from 10 dollars-15/kg for industrial/wind-grade to 30 dollars-80/kg for aerospace-grade to >100 dollars/kg for specialty high-modulus and intermediate-modulus aerospace grades. The "cost reduction" story, getting carbon fiber to a price point that supports mass-market automotive use, has been "five years away" for about thirty years and shows no signs of arriving.
+
+Why this matters for energy transition.
+
+Carbon fiber is a critical enabler for two transition technologies:
+
+1. Wind energy. Modern offshore wind turbines have blades 100+ meters long. Glass fiber alone cannot support these blade lengths because of weight and flex. Carbon fiber spar caps are essentially mandatory for the upper end of blade size. As wind blades get longer (cost per MWh declines roughly as the square of blade diameter), carbon fiber demand grows. Wind already consumes about 25 percent of global carbon fiber output and is the fastest-growing application.
+
+2. Hydrogen storage. Storing hydrogen as a compressed gas (350 or 700 bar) requires tanks that can hold high pressure safely with minimum weight (especially for mobile applications). Carbon fiber composite tanks (Type IV, with a polymer liner and full CFRP overwrap) are the standard for vehicle hydrogen storage. As hydrogen mobility scales, fuel-cell trucks, buses, trains, carbon fiber demand scales with it.
+
+There's an emissions paradox here. Carbon fiber production is energy-intensive, roughly 200-500 MJ/kg (compared to ~30 MJ/kg for steel and ~150 MJ/kg for aluminum). Embodied emissions for carbon fiber are roughly 20-30 kg CO2/kg of fiber, depending on the precursor route and energy mix. This is high in absolute terms but is justified in lifecycle terms because the lightweighting enables huge operational emissions savings (aircraft fuel burn, wind turbine output, hydrogen vehicle range). The full LCA depends on application.
+
+The inverse geopolitics: the one carbon commodity China doesn't dominate.
+
+Carbon fiber deserves more than its tonnage warrants, because it is the exception that tests the rule running through this whole chapter. Everywhere else, coke, carbon black, graphite, industrial diamond, China holds the choke point and the West scrambles to build alternatives. In high-end carbon fiber, the choke point runs the other way.
+
+Aerospace-grade, high-modulus PAN-based fiber is dominated by Japan (Toray, which also owns Zoltek, plus Teijin and Mitsubishi Chemical) and the U.S. (Hexcel), with SGL (Germany) and Hyosung (Korea) in support. Together they hold the great majority of qualified high-strength/high-modulus capacity. The moat is the same kind of moat China holds in graphite, control of the value-added step and the precursor know-how, not the raw material, but pointed in the opposite direction: the PAN precursor chemistry and the carbonization process for aerospace grades are tightly-held trade secrets, and aerospace qualification cycles run for years, so incumbents' certified grades are protected by switching costs as much as by patents.
+
+And here the geopolitics is national-security-first, commercial-second. High-strength/high-modulus carbon fiber, the PAN precursor, and the production equipment are dual-use goods, the same fiber that stiffens a wind-blade spar cap makes missile-motor cases, rocket structures, and centrifuge rotors, so they are export-controlled under the Wassenaar Arrangement and the Missile Technology Control Regime (MTCR, Category II), and there have been criminal prosecutions for illegally diverting aerospace fiber to embargoed buyers. China has spent two decades trying to close the gap (Zhongfu Shenying, Jilin Carbon Valley) and has succeeded in wind and industrial grades, but still lags at the highest-modulus aerospace end, where precursor quality and process consistency are the binding constraints. So when Part 7 says "China dominance is structural," hold this counter-example in mind: the structural lesson is own the processing step, and in carbon fiber it is the West and Japan that own it.
+
+Stop-and-check 2.E.
+
+Carbon fiber is the one solid-carbon commodity in this chapter that China does not dominate. Structurally, what does the West/Japan choke point in carbon fiber have in common with the Chinese choke point in graphite refining, and how is it the mirror image?
+Mass-market automotive carbon fiber has been "five years away" for thirty years. Why has aerospace-grade fiber resisted the cost declines that solar PV and batteries achieved?
+Carbon fiber enables low-carbon technologies (wind, hydrogen storage) yet embeds 20-30 kg CO2/kg. How do you reason about that paradox, when is the lightweighting worth the embodied carbon?
+Socratic prompt: Carbon fiber is dual-use (missile cases, centrifuges) and export-controlled. Suppose you're a Western policymaker who wants both a cheap, abundant domestic wind/hydrogen supply chain and tight controls on aerospace-grade fiber reaching rivals. Are those goals in tension? What does the answer depend on?
+
+Answers
+
+Structurally they're identical: in both, the choke is not the raw input but the value-added process and precursor know-how, spheronization/purification/coating for graphite, PAN-precursor chemistry and aerospace qualification for fiber. The difference is direction. In graphite, China holds ~90 percent of refining and can restrict the West (the export-licensing leverage of Part 4). In carbon fiber, Japan and the U.S. hold the high-modulus process and restrict China (Wassenaar/MTCR controls). Same lesson, own the processing step, not the mine, aimed the opposite way. It's the corrective to a monolithic "China dominates everything" frame.
+
+Three reinforcing reasons, none of which volume alone fixes. Aerospace qualification is brutal: certifying a new fiber into an airframe takes years and large cost, so incumbents' qualified grades are protected by switching costs, not just IP. The PAN precursor is an expensive, tightly-specified petrochemical (it's roughly half the fiber's cost). And carbonization is energy-intensive (200-500 MJ/kg). Unlike silicon PV, where a single learning curve drove costs down orders of magnitude, carbon fiber's cost floor is set by precursor price, qualification, and energy at once. That's why the mass-market automotive grade never arrives on schedule.
+
+With counterfactual, lifecycle reasoning, the logic introduced in Chapter 1 and formalized in Chapter 5. The 20-30 kg CO2/kg is a one-time, up-front cost; the question is whether the operational savings it unlocks over the asset's life exceed it. A wind blade generating carbon-free power for 25 years, or an aircraft burning less fuel for decades, pays the embodied carbon back easily and large. A part that merely makes a luxury car slightly lighter may never pay back. So the paradox resolves into a per-application break-even: lightweighting is worth the embodied carbon only where lifetime operational savings (or enabled clean output) clearly dominate, which is exactly why wind, hydrogen, and aerospace justify it and discretionary consumer uses often don't.
+
+They're in genuine tension, and the dual-use nature is the source of it. The same high-strength fiber that stiffens a spar cap makes a missile-motor case, so a blunt control regime that denies rivals aerospace-grade fiber also adds cost and friction to the civilian supply chain you want cheap and abundant. The resolution turns on whether you can cleanly tier the controls, restricting only the highest-modulus/strength grades and the precursor/equipment know-how while letting commodity wind/industrial-grade fiber flow. The decisive variables: how sharp the technical line is between "civilian" and "weapons-relevant" grades (it's blurry), and whether allied producers (Japan, U.S., Korea, E.U.) coordinate controls or undercut each other, because unilateral controls just move the sale to a less-scrupulous supplier.
+
+Part 6: Other solid carbon commodities (briefly).
+
+A handful of smaller markets that you'll see referenced and should know exist:
+
+Industrial diamond. Synthetic diamond (HPHT and CVD processes) plus natural mined industrial-grade. Used in cutting, grinding, drilling tools. Roughly 15 dollars-20 billion market globally. About 95 percent+ of industrial diamond is synthetic; natural industrial diamond is now niche. China dominates production. The boundary between industrial and gem-quality CVD diamond is becoming a market disruption story for the De Beers/Alrosa natural diamond industry, but that's mostly outside our scope.
+
+Graphene. Two decades after isolation, commercial applications are mostly limited to specialty additives (paints, coatings, composites, conductive inks). The "graphene revolution" did not arrive. Production volumes are in the thousands of tons per year globally, three orders of magnitude smaller than graphite. Watch for emerging applications in batteries (graphene as a conductive additive blended into anodes), thermal management, and electronics, but most of what gets called "graphene" in industry today is more accurately "graphene nanoplatelets" or "few-layer graphene," not single-layer graphene in the academic sense.
+
+Carbon nanotubes. Single-walled and multi-walled. Multi-walled CNTs have a real and growing market as conductive additives in lithium-ion batteries (replacing or supplementing carbon black on this dimension), reaching tens of thousands of tons per year globally. LG Chem, OCSiAl, Cabot, Arkema are players. Single-walled CNTs remain expensive and niche.
+
+Fullerenes (C60 and related). Specialty research and niche electronic applications. Tiny market.
+
+Carbon-derived activated catalysts and specialty carbons. Used in fuel cells (Pt-on-carbon catalysts), supercapacitors (already mentioned), and various petrochemical processes. Catalyst-grade carbon is a high-purity, specialty product.
+
+Anode-grade petcoke and needle coke. Pre-cursor materials for synthetic graphite and aluminum smelter anodes. Strategic upstream products that don't get much attention but are themselves global commodities with their own trade flows. China's tightening of needle coke supply has been an underappreciated factor in synthetic graphite pricing for the past decade.
+
+Part 7: Cross-cutting themes.
+
+China dominance is structural, not accidental.
+
+Across most of the solid carbon commodity space, coke, carbon black, natural graphite, synthetic graphite, industrial diamond, CNTs, China is either the largest producer, the largest exporter, or both. This is not bad luck. It reflects a combination of:
+
+Resource endowment, substantial natural graphite reserves, abundant coal for coke, large refining base for carbon black feedstock.
+Process scaling, China industrialized these materials at scale during the 1990s-2010s while Western producers were either offshoring, environmentally constrained, or commodity-margin-squeezed.
+Industrial policy, Sustained state support for downstream industries (steel, batteries, aluminum) that consumed these carbon commodities.
+Energy economics, Cheap industrial electricity (much of it coal-fired) for energy-intensive processes (synthetic graphite, calcined petcoke, industrial diamond).
+Environmental cost externalization, Historically lax enforcement on coke ovens, carbon black plants, and graphite processing, which involve substantial local air and water pollution. China has been tightening, but the legacy capacity advantage is still there.
+
+The implication for the energy transition is uncomfortable: the materials needed to scale clean energy are concentrated in a country whose energy mix is itself heavily fossil-fueled, and whose environmental and labor standards have historically been weaker than the OECD's. Building non-Chinese supply chains is a years-long project that requires either accepting higher prices or substantially expanding global production capacity outside China, both options carry political costs.
+
+The carbon-fiber exception (Part 5) sharpens this rather than softening it: read against the China cases, the structural principle isn't "China dominates" but "whoever controls the value-added processing step and the precursor know-how controls the commodity." The directionality is contingent, China for most of the solid-carbon space, the West/Japan for high-end fiber, but the lesson about where leverage sits in a supply chain is general, and it's the same one the graphite bankability problem (Part 4) and the steel reline decision (Part 1) both turn on.
+
+We'll come back to this in Chapter 14.
+
+The embodied-carbon question.
+
+Several of the materials in this chapter are themselves carbon (literally) and embed substantial CO2 in their manufacturing. To rank them very approximately (kg CO2 per kg of product, full cradle-to-gate):
+
+Metallurgical coke: 0.4-0.8 (mostly process emissions and feedstock decomposition).
+Carbon black: 2-3.
+Activated carbon: 1-3, depending heavily on feedstock.
+Natural graphite (mined to spherical): 4-10, heavily dependent on the acid-purification step and electricity mix.
+Synthetic graphite: 15-25, dominated by the graphitization energy.
+Carbon fiber: 20-30, dominated by the carbonization energy.
+
+For comparison: aluminum is roughly 12-17 kg CO2/kg (primary, current mix), steel via BF-BOF is roughly 1.8-2.3, EAF steel is 0.4-0.7.
+
+The synthetic graphite number stands out. As battery production scales, the embodied emissions of the graphite anode become a material part of the lifecycle emissions of an EV. This is one reason natural graphite, despite its supply-chain concentration in China, retains a structural cost and emissions advantage if the supply chain can be diversified.
+
+When solid carbon meets the emissions market.
+
+The materials in this chapter are not (yet) major participants in carbon markets, there are no large flows of carbon credits generated by switching from BF-BOF steel to EAF, or from synthetic to natural graphite. But the boundary is blurring:
+
+Cement and steel C.B.A.M.. E.U. C.B.A.M. (Chapter 7, Chapter 14) now prices the embedded carbon in imported cement and steel, including, implicitly, the coke used to make the steel.
+Battery passport regulation. From 2027, all batteries sold in the E.U. above 2 kWh capacity must carry a "battery passport" with cradle-to-gate carbon footprint disclosure. This will spotlight graphite emissions.
+Tire and rubber product carbon footprint regulation. E.U. CSRD (Chapter 13) will pull tire-manufacturer emissions disclosure including carbon black.
+CO2-to-products. The frontier of Chapter 3 (CO2 molecule value chain) includes routes to produce some of these materials from atmospheric or industrial CO2, synthetic graphite from captured CO2 (early R and D), carbon black from methane pyrolysis with carbon byproduct (commercial scale-up underway), even diamond from CO2 (academic only).
+
+The two carbon economies, the physical materials one we've covered here, and the climate-emissions one we'll spend most of the curriculum on, are converging through regulation, through supply-chain accountability, and through new production routes. Understanding both is necessary to understand either.
+
+Stop-and-check 2.F (whole chapter).
+
+Rank the solid carbon commodities we've covered by tonnage. Rank them by revenue. Are the rankings the same?
+Of the materials we've covered, which one's supply chain restructuring will be the most consequential for the energy transition in the next 5 years? Defend your answer.
+The largest carbon commodity by mass (met coke) is also the one most threatened by the energy transition. The smallest mainstream one (graphite, ~1.6 Mt) is the one most likely to grow because of the energy transition. What does this tell you about the trajectory of "carbon as a material" over the next two decades?
+Socratic prompt: Suppose you're advising a sovereign wealth fund on long-term industrial investments. Of the commodity carbon industries in this chapter, which would you long, which would you short, and which would you avoid? Be specific about your reasoning, including time horizons and embedded assumptions.
+
+Answers
+
+By tonnage: met coke (~700 Mt/yr) ≫ carbon black (~14 Mt/yr) > activated carbon (~2.5-3 Mt/yr) > graphite (~1.5-1.6 Mt/yr) > carbon fiber (~150 kt/yr). By revenue the rankings reshuffle, because price per ton varies by ~100 times across these commodities. Met coke still leads (coke-only value on the order of 200B dollars+, per Part 1), but below it the order scrambles: carbon fiber is the smallest by tonnage (~150 kt/yr) yet a ~6 dollars-8B market, while activated carbon and graphite, far larger by mass, are comparable or smaller in total value. Carbon black is a ~15 dollars-21B market on ~14 Mt/yr. So no, tonnage and revenue rankings are not the same; a high price per ton can lift a tiny-tonnage commodity like carbon fiber above much larger-volume ones.
+
+Anode-grade graphite (natural and synthetic) for EV batteries. It's the commodity with the most structural growth driver (EV penetration), an emerging supply-chain reconfiguration underway (F.E.O.C., IRA), and the highest complexity of quality requirements that create durable competitive moats for well-positioned producers and processors. The bet's key assumption: EV adoption continues at roughly current trajectory and lithium-ion chemistry (graphite anode) remains dominant through 2030. Silicon-dominant anodes or sodium-ion chemistries could undermine this.
+
+Carbon as a material is shifting from an industrial byproduct of fossil combustion (met coke as coal derivative) to an engineered, precision material (battery anode graphite, advanced carbon fiber). Over two decades: coke demand peaks and declines as green steel displaces BF-BOF; carbon black faces growth in specialty segments as tire market evolves; graphite demand explodes as batteries scale. The commodity is transitioning from "what comes from burning coal" to "what enables the energy transition." The physical nature of the element is unchanged; the end markets are rotating dramatically.
+
+Long: anode-grade graphite (natural spheroidization capacity outside China, and synthetic capacity on renewable electricity), specialty carbon black (battery-grade, high-performance industrial), carbon fiber (structural composite demand from wind, EVs, aerospace). Short: met coke producers with no DRI/EAF adjacent strategy, especially in OECD jurisdictions with carbon pricing, structurally stranded over a 10-20 year horizon. Avoid: commodity virgin carbon black for standard tire grades, as rCB and synthetic alternatives will compete on cost.
+
+Closing exercise.
+
+Three things to take away and act on:
+
+1. The mass-balance picture. The world makes about a billion tons of solid carbon as commodity material every year (coke, carbon black, graphite, activated carbon, carbon fiber, plus all the smaller markets). Most of that carbon will eventually become CO2, coke is burned in blast furnaces, carbon black goes into tires that eventually wear away or get burned, even graphite anodes get recycled or landfilled with some carbon loss. Sit with that number against the ~38 gigatonnes of CO2/yr of fossil emissions we covered in Chapter 1. The commodity carbon throughput is roughly 1 Gt of carbon per year; that's ~3.7 gigatonnes of CO2 if it all oxidized eventually, or about 10 percent of global fossil emissions. Not the dominant flow, but not nothing.
+
+2. The geopolitical map. China dominates the production of every major solid carbon commodity except aerospace-grade carbon fiber. Most of the energy transition's material requirements (graphite, synthetic graphite for EAF and batteries, carbon black for tires) are downstream of Chinese industrial capacity. The C.B.A.M. and IRA-F.E.O.C. responses are the West's structural response. The next decade will be a slow, expensive un-concentration of these supply chains, partial and contested.
+
+3. The connection points to come. When we get to Chapter 10, one of the candidate uses for captured CO2 is making synthetic graphite or carbon black at lower energy cost than the conventional route. When we get to Chapter 12 (Hard-to-Abate Sectors), nearly every steel decarbonization pathway is a question about how to displace coke. When we get to Chapter 14 (Geopolitics), graphite will be one of three or four materials that defines the China-West fight. The commodity carbon picture you now have is foundational to all of those.
+
+What this chapter simplified.
+
+1. "Market size" disagreements. I gave you market-size ranges and flagged the methodology problem. Different market-research firms include different things and produce numbers that vary by factors of 2-10. The volumes I cited (tonnage) are more reliable than the revenues. For any quantitative use, go back to the underlying tonnage data (USGS for graphite, industry-association data for carbon black) rather than relying on summary numbers.
+
+2. Coke quality grades. I treated "metallurgical coke" as a single product. In reality, there are multiple grades (premium hard coking coal leads to top-grade coke; semi-soft coking coal leads to lower-grade; ferro-coke; foundry coke; technical coke) with different specs, pricing, and applications. For an actual market participant, these distinctions matter a lot.
+
+3. The natural versus synthetic graphite optimization story. I made it sound like a clean binary; in reality, modern battery anode optimization is a multi-dimensional materials science problem involving particle size, coating, blend ratios, electrolyte compatibility, and target cell chemistry. The "70/30 natural/synthetic" number I cited is a rough industry average, but specific cell makers' formulations vary widely and are often closely held trade secrets.
+
+4. China's December 2023 export licensing. I described this as a single event. In reality, China's MOFCOM has been adjusting the list of controlled materials, license processing speeds, and approved destinations on a continuous basis since 2023. The current state may be different from the "as of late 2024" snapshot I gave; this is a regulation-current topic that needs live searching before any consequential analysis.
